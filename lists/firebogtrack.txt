@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-07-20T11:35:04.581Z
+! Last modified: 2023-07-21T00:29:25.806Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -160,6 +160,7 @@
 ||fpcdn.io^
 ||fptls.com^
 ||fptls2.com^
+||fptls3.com^
 ||funnelserv.systems^
 ||fzlnk.com^
 ||g10300385420.co^
@@ -4915,6 +4916,7 @@
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
 ||et.educationdynamics.com^
+||widget.educationdynamics.com^
 ||etl.springbot.com^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.com^
@@ -5077,6 +5079,7 @@
 ||metrics.scribblelive.com^
 ||metrics.userguiding.com^
 ||metrix.emagister.com^
+||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mon.domdog.io^
@@ -6111,6 +6114,7 @@
 ||analytics.getshogun.com^
 ||analytics.global.sky.com^
 ||analytics.hashnode.com^
+||analytics.kooapp.com^
 ||analytics.makeitmeme.com^
 ||analytics.ml.homedepot.ca^
 ||analytics.mouthshut.com^
@@ -6240,6 +6244,7 @@
 ||fathom.tdvm.net^
 ||fdt.kraken.com^
 ||firebaselogging.googleapis.com^
+||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
@@ -6345,6 +6350,7 @@
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
 ||pf.newegg.com^
+||ph.thenextweb.com^
 ||ping.hungama.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
@@ -22873,6 +22879,7 @@ arketing.indianadunes.com^
 ||analytics.okazii.ro^
 ||views.b1tv.ro^
 ||views.romaniatv.net^
+||a.pikabu.ru^
 ||ad7.bigmir.net^
 ||affilate.hh.ru^
 ||analytics.carambatv.ru^
@@ -22936,6 +22943,7 @@ arketing.indianadunes.com^
 ||p.milliyet.com.tr^
 ||stats.birgun.net^
 ||counter.ukr.net^
+||remp.nv.ua^
 ||target.ukr.net^
 ||analytics.aita.gov.vn^
 ||log.ttbc-hcm.gov.vn^
@@ -50361,6 +50369,7 @@ arketing.indianadunes.com^
 ||facemap.foldlife.net^
 ||bdcore-apr-lb.bda.ndmdhs.com^
 ||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com^
+||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -50372,6 +50381,13 @@ arketing.indianadunes.com^
 ||us.rdx2.lgtvsdp.com^
 ||yumenetworks.com^
 ||aic-ngfts.lge.com^
+||us.cdpbeacon.lgtvcommon.com^
+||us.cdpsvc.lgtvcommon.com^
+||us.homeprv.lgtvcommon.com^
+||us.nudge.lgtvcommon.com^
+||us.rdl.lgtvcommon.com^
+||us.recommend.lgtvcommon.com^
+||us.service.lgtvcommon.com^
 ||legacyportal.nettvservices.com^
 ||nettv.corio.com^
 ||ad.nettvservices.com^
@@ -50429,6 +50445,11 @@ arketing.indianadunes.com^
 ||trvdp.com^
 ||tv-static.scdn.co^
 ||xml.opera.com^
+||control-zoo-dai-default.tvinteractive.tv^
+||mcp.tvinteractive.tv^
+||control2.tvinteractive.tv^
+||control.tvinteractive.tv^
+||tvmeta-dynamic.tvinteractive.tv^
 ||ichnaea.netflix.com^
 ||api.distribution.hulu.com^
 ||api-gps-em.hismarttv.com^
@@ -50460,7 +50481,6 @@ arketing.indianadunes.com^
 ||fls-eu.amazon.com^
 ||mads-eu.amazon.com^
 ||mas-sdk.amazon.com^
-||msh.amazon.co.uk^
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||logs1409.xiti.com^
 ||01mspmd5yalky8.com^
@@ -51851,7 +51871,6 @@ arketing.indianadunes.com^
 ||g2crowd.com^
 ||g9qnk89pd5ic.com^
 ||gadsatz.com^
-||gadspmz.com^
 ||gallup.eset.com^
 ||gamegamb.com^
 ||gamned.com^
@@ -52064,7 +52083,6 @@ arketing.indianadunes.com^
 ||infinity-tracking.net^
 ||infirmaryboss.com^
 ||ingest.sentry.io^
-||inhabitsensationdeadline.com^
 ||initiallycompetitionunderwear.com^
 ||injusticeamend.com^
 ||inklinkor.com^
@@ -52291,7 +52309,6 @@ arketing.indianadunes.com^
 ||louchees.net^
 ||loulauzo.com^
 ||loxitdat.com^
-||lpxtqptab.com^
 ||lrcdn.net^
 ||lttxwrvhyzb.com^
 ||luckarea.com^
@@ -63572,7 +63589,6 @@ arketing.indianadunes.com^
 ||physicalblueberry.com^
 ||picanalysis.vivo.com.cn^
 ||pictela.net^
-||pierremarkeraffliction.com^
 ||piksel.com^
 ||pillarvolcano.com^
 ||ping.staticmoly.me^

@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-07-20T11:36:46.095Z
+! Last modified: 2023-07-21T00:31:06.400Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14443,6 +14443,7 @@
 ||facemap.foldlife.net^
 ||bdcore-apr-lb.bda.ndmdhs.com^
 ||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com^
+||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -14454,6 +14455,13 @@
 ||us.rdx2.lgtvsdp.com^
 ||yumenetworks.com^
 ||aic-ngfts.lge.com^
+||us.cdpbeacon.lgtvcommon.com^
+||us.cdpsvc.lgtvcommon.com^
+||us.homeprv.lgtvcommon.com^
+||us.nudge.lgtvcommon.com^
+||us.rdl.lgtvcommon.com^
+||us.recommend.lgtvcommon.com^
+||us.service.lgtvcommon.com^
 ||legacyportal.nettvservices.com^
 ||nettv.corio.com^
 ||ad.nettvservices.com^
@@ -14513,6 +14521,11 @@
 ||trvdp.com^
 ||tv-static.scdn.co^
 ||xml.opera.com^
+||control-zoo-dai-default.tvinteractive.tv^
+||mcp.tvinteractive.tv^
+||control2.tvinteractive.tv^
+||control.tvinteractive.tv^
+||tvmeta-dynamic.tvinteractive.tv^
 ||ichnaea.netflix.com^
 ||api.distribution.hulu.com^
 ||api-gps-em.hismarttv.com^
@@ -14544,7 +14557,6 @@
 ||fls-eu.amazon.com^
 ||mads-eu.amazon.com^
 ||mas-sdk.amazon.com^
-||msh.amazon.co.uk^
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||logs1409.xiti.com^
 ||tracksrv.zdf.de^
@@ -16049,7 +16061,6 @@
 ||g792337343.co^
 ||g9qnk89pd5ic.com^
 ||gadsatz.com^
-||gadspmz.com^
 ||gallup.eset.com^
 ||gamegamb.com^
 ||gamned.com^
@@ -16275,7 +16286,6 @@
 ||infirmaryboss.com^
 ||informer.yandex.ru^
 ||ingest.sentry.io^
-||inhabitsensationdeadline.com^
 ||initiallycompetitionunderwear.com^
 ||injusticeamend.com^
 ||inklinkor.com^
@@ -16516,7 +16526,6 @@
 ||loulauzo.com^
 ||loxitdat.com^
 ||lpsnmedia.net^
-||lpxtqptab.com^
 ||lrcdn.net^
 ||lttxwrvhyzb.com^
 ||lucidmedia.com^
@@ -27835,7 +27844,6 @@
 ||physicalblueberry.com^
 ||picanalysis.vivo.com.cn^
 ||pictela.net^
-||pierremarkeraffliction.com^
 ||piksel.com^
 ||pillarvolcano.com^
 ||ping.staticmoly.me^
@@ -28708,7 +28716,6 @@
 ||smetrics.herbalife.com^
 ||smetrics.heromotocorp.com^
 ||smetrics.hks-power.co.jp^
-||smetrics.hmhco.com^
 ||smetrics.hollandamerica.com^
 ||smetrics.hollisterco.com^
 ||smetrics.home.kpmg^
@@ -28746,7 +28753,6 @@
 ||smetrics.jewson.co.uk^
 ||smetrics.jimmobile.be^
 ||smetrics.jjill.com^
-||smetrics.jobs.ie^
 ||smetrics.joefresh.com^
 ||smetrics.johnfrieda.com^
 ||smetrics.joules.com^
@@ -28763,7 +28769,6 @@
 ||smetrics.kerry.com^
 ||smetrics.keysight.com^
 ||smetrics.kone.com^
-||smetrics.kone.us^
 ||smetrics.kpmg.us^
 ||smetrics.kyndryl.com^
 ||smetrics.labaie.com^
