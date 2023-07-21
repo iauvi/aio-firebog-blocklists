@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-07-21T00:29:25.806Z
+! Last modified: 2023-07-21T11:09:41.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1600,6 +1600,7 @@
 ||rnlabs.com^
 ||rockincontent.net^
 ||roeye.com^
+||roeyecdn.com^
 ||roi-pro.com^
 ||roi-rocket.net^
 ||roiservice.com^
@@ -4916,7 +4917,6 @@
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
 ||et.educationdynamics.com^
-||widget.educationdynamics.com^
 ||etl.springbot.com^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.com^
@@ -5466,6 +5466,7 @@
 ||webtrack.chd01.com^
 ||webtrack.savoysystems.co.uk^
 ||webtracker.apicasystem.com^
+||widget.educationdynamics.com^
 ||win.staticstuff.net^
 ||wl-pixel.index.digital^
 ||wordmonetize.com^
@@ -22844,6 +22845,7 @@ arketing.indianadunes.com^
 ||weblog2.eseoul.go.kr^
 ||stats.tunt.lv^
 ||click.vgnett.no^
+||data.nrk.no^
 ||stats.proff.no^
 ||analytics.gazeta.pl^
 ||collect.state.centrum24.pl^
@@ -38336,6 +38338,7 @@ arketing.indianadunes.com^
 ||ahoritah.com^
 ||ahsahre.com^
 ||ahsmedicare.com^
+||aibsgc.com^
 ||aiertpay.com^
 ||aimbase.com^
 ||airclaimer.com^
@@ -38552,8 +38555,6 @@ arketing.indianadunes.com^
 ||anhonestboy.com^
 ||animalattractionstv.com^
 ||ww1.animalfunsex.com^
-||ww25.animalfunsex.com^
-||ww38.animalfunsex.com^
 ||animporn.com^
 ||aniview.com^
 ||annaiengg.com^
@@ -38821,7 +38822,6 @@ arketing.indianadunes.com^
 ||bankokofamerica.com^
 ||ww1.bannerandlogodesigner.com^
 ||ww5.bannerandlogodesigner.com^
-||www.bannerandlogodesigner.com^
 ||bannerflowmedia.com^
 ||bannersnack.com^
 ||bannkofamerican.com^
@@ -39305,7 +39305,6 @@ arketing.indianadunes.com^
 ||cedexis.com^
 ||ceebritycruises.com^
 ||sitemaps.cefcostore.com^
-||www.cefcostore.com^
 ||cehckdomain.com^
 ||celebrityrehabvh1.com^
 ||celebrus.com^
@@ -40140,6 +40139,7 @@ arketing.indianadunes.com^
 ||em-consult.com^
 ||emailcpc.com^
 ||emailerschoice.com^
+||emailonlinechase.com^
 ||emailprisoner.com^
 ||emailresponderservice.com^
 ||emailtrafficnetwork.com^
@@ -40484,6 +40484,7 @@ arketing.indianadunes.com^
 ||freemotorinsurancequote.com^
 ||freemotorinsurancequotes.com^
 ||freemspacman.com^
+||matomo.freeones.com^
 ||srepdata.freep.com^
 ||freepatternsdonnascrochetdesign.com^
 ||freepokemonbank.com^
@@ -40664,9 +40665,6 @@ arketing.indianadunes.com^
 ||px.gfycat.com^
 ||ghanamotoin.com^
 ||old.ghananations.com^
-||ww16.ghananations.com^
-||ww25.ghananations.com^
-||ww38.ghananations.com^
 ||ghanantion.com^
 ||giagoc.com^
 ||giantgrocerylist.com^
@@ -40774,78 +40772,7 @@ arketing.indianadunes.com^
 ||googleblack.com^
 ||googlebussines.com^
 ||googlecalender.com^
-||aspmx3.googlemaail.com^
-||authsmtp.googlemaail.com^
-||autodiscover.googlemaail.com^
-||barracuda.googlemaail.com^
-||box.googlemaail.com^
-||com.googlemaail.com^
-||comune.googlemaail.com^
-||ww25.correo.googlemaail.com^
-||gateway.googlemaail.com^
-||gw.googlemaail.com^
-||hermes.googlemaail.com^
-||home.googlemaail.com^
-||host.googlemaail.com^
-||info.googlemaail.com^
-||plus.smtp.mail.googlemaail.com^
-||ww25.mail01.googlemaail.com^
-||mail02.googlemaail.com^
-||mail10.googlemaail.com^
-||mail11.googlemaail.com^
-||mail12.googlemaail.com^
-||mail3.googlemaail.com^
-||mail5.googlemaail.com^
-||mail6.googlemaail.com^
-||mail8.googlemaail.com^
-||mail9.googlemaail.com^
-||mailbox.googlemaail.com^
-||mailgw.googlemaail.com^
-||ww25.mailout.googlemaail.com^
-||mailrelay.googlemaail.com^
-||mailsrv.googlemaail.com^
-||mailx.googlemaail.com^
-||ms.googlemaail.com^
-||ms1.googlemaail.com^
-||mta.googlemaail.com^
-||mx.googlemaail.com^
-||mx0.googlemaail.com^
-||mx01.googlemaail.com^
-||mx02.googlemaail.com^
-||mx1.googlemaail.com^
-||mx2.googlemaail.com^
-||mx20.googlemaail.com^
-||mx3.googlemaail.com^
-||mx4.googlemaail.com^
-||mx5.googlemaail.com^
-||mx7.googlemaail.com^
-||mxs.googlemaail.com^
-||newmail.googlemaail.com^
-||out.googlemaail.com^
-||outmail.googlemaail.com^
-||pbrand.googlemaail.com^
-||po.googlemaail.com^
-||ww25.pop3.googlemaail.com^
-||post.googlemaail.com^
-||posta.googlemaail.com^
-||relay2.googlemaail.com^
-||server1.googlemaail.com^
-||smtp01.googlemaail.com^
-||smtpmail.googlemaail.com^
-||smtps.googlemaail.com^
-||smtpseguro.googlemaail.com^
-||sniper.googlemaail.com^
-||srv.googlemaail.com^
-||ssl.googlemaail.com^
-||thor.googlemaail.com^
-||tiger.googlemaail.com^
-||vip.googlemaail.com^
-||vmail.googlemaail.com^
-||vnet.googlemaail.com^
-||ww25.googlemaail.com^
-||ww38.googlemaail.com^
-||zimbra.googlemaail.com^
-||zmail.googlemaail.com^
+||googlemaail.com^
 ||googlemerchant.com^
 ||googlemqil.com^
 ||googlenewssubmit.com^
@@ -41847,6 +41774,7 @@ arketing.indianadunes.com^
 ||maccomestics.com^
 ||maccosmeticspro.com^
 ||maccoubreys.com^
+||machigames.com^
 ||macinstallerinfo.com^
 ||macksites.com^
 ||macmillinmh.com^
@@ -42086,7 +42014,7 @@ arketing.indianadunes.com^
 ||mixedtraffic.com^
 ||mixeringtones.com^
 ||mixpo.com^
-||mixyourtunes.com^
+||ww1.mixyourtunes.com^
 ||miyoutube.com^
 ||mkt8668.com^
 ||mkt932.com^
@@ -44277,7 +44205,6 @@ arketing.indianadunes.com^
 ||tuxbotax.com^
 ||tvadsync.com^
 ||ww11.tvcenliena.com^
-||ww16.tvcenliena.com^
 ||ww25.tvcenliena.com^
 ||ww38.tvcenliena.com^
 ||tvkezy.com^
@@ -45500,7 +45427,6 @@ arketing.indianadunes.com^
 ||com-sign.in^
 ||adjust.net.in^
 ||00221.info^
-||06br.info^
 ||0daypatch.info^
 ||104ez.info^
 ||177piczz.info^
@@ -45978,6 +45904,7 @@ arketing.indianadunes.com^
 ||eyep.info^
 ||eyesurgery.info^
 ||ezmethod.info^
+||ww31.factory-outlet-stores.info^
 ||ww38.factory-outlet-stores.info^
 ||faiznet.info^
 ||fajos.info^
@@ -46198,7 +46125,6 @@ arketing.indianadunes.com^
 ||immortallife.info^
 ||improvehealth.info^
 ||indianarmy.info^
-||indianlaw.info^
 ||ineedmoney.info^
 ||infode.info^
 ||inglesonlinegratis.info^
@@ -46250,7 +46176,6 @@ arketing.indianadunes.com^
 ||josieskitchen.info^
 ||jpub.info^
 ||jumpon.info^
-||junaldpascua.info^
 ||jupiter-directory.info^
 ||kabhebrew.info^
 ||kajak.info^
@@ -46296,6 +46221,7 @@ arketing.indianadunes.com^
 ||kozi.info^
 ||kreativan.info^
 ||kreditvergleicheab.info^
+||krisallendaily.info^
 ||kristijan.info^
 ||kritika.info^
 ||kroatien.info^
@@ -46334,7 +46260,6 @@ arketing.indianadunes.com^
 ||likeriteok.info^
 ||likud.info^
 ||limewire.info^
-||linksrush.info^
 ||linuxscada.info^
 ||lisandru.info^
 ||listbuilderads.info^
@@ -48118,14 +48043,6 @@ arketing.indianadunes.com^
 ||pyramisa.net^
 ||qksrv.net^
 ||siteintercept.qprod2.net^
-||demo1.www.qudsmedia.net^
-||demo2.www.qudsmedia.net^
-||demo3.www.qudsmedia.net^
-||shop.www.qudsmedia.net^
-||test.www.qudsmedia.net^
-||test1.www.qudsmedia.net^
-||test3.www.qudsmedia.net^
-||wordpress.www.qudsmedia.net^
 ||railtouring.net^
 ||rallyad-server.net^
 ||randyorton.net^
@@ -49171,7 +49088,9 @@ arketing.indianadunes.com^
 ||leave-management-system.org^
 ||leettips.org^
 ||leginsy.org^
-||lemonsport.org^
+||ww1.lemonsport.org^
+||ww25.lemonsport.org^
+||www.lemonsport.org^
 ||leppa.org^
 ||lerningapps.org^
 ||lffcu.org^
@@ -49426,7 +49345,6 @@ arketing.indianadunes.com^
 ||staging.operationcavalierrescue.org^
 ||test.operationcavalierrescue.org^
 ||ww16.operationcavalierrescue.org^
-||ww25.operationcavalierrescue.org^
 ||www.operationcavalierrescue.org^
 ||opestreetmap.org^
 ||oraesatta.org^
@@ -49817,6 +49735,7 @@ arketing.indianadunes.com^
 ||textem.org^
 ||tgcaptions.org^
 ||thaiconsulate.org^
+||thaitv.org^
 ||theamazings.org^
 ||theaudiobookbay.org^
 ||thebdc.org^
@@ -49916,7 +49835,6 @@ arketing.indianadunes.com^
 ||unecdc.org^
 ||unemploymentoregon.org^
 ||unicf.org^
-||unief.org^
 ||unionbbs.org^
 ||unionpacific.org^
 ||unvuganda.org^
