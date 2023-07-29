@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://firebog.net/
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-07-28T23:56:09.051Z
+! Last modified: 2023-07-29T11:40:14.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1409,7 +1409,6 @@
 ||acesshollywood.com^
 ||acexedge.com^
 ||acgirls.com^
-||www.acidentesdemoto.com^
 ||acquests.com^
 ||lift.acquia.com^
 ||tracking.acs529.com^
@@ -1857,7 +1856,6 @@
 ||ambroseshoemaker.com^
 ||ambtraders.com^
 ||mms.amc.com^
-||ww25.amcvote.com^
 ||www.amcvote.com^
 ||amdaws.com^
 ||amdgt.com^
@@ -3200,7 +3198,6 @@
 ||daviedmovie.com^
 ||davischevy.com^
 ||sitemap.davisheritage.com^
-||ww4.davisheritage.com^
 ||daylightmotorsinc.com^
 ||daysinnbakersfieldca.com^
 ||commercial.daznservices.com^
@@ -4121,7 +4118,7 @@
 ||metrics.gfycat.com^
 ||px.gfycat.com^
 ||ghanamotoin.com^
-||www.ghananations.com^
+||ghananations.com^
 ||ghanantion.com^
 ||giagoc.com^
 ||giantgrocerylist.com^
@@ -4251,7 +4248,6 @@
 ||googletrad.com^
 ||googlevedio.com^
 ||googlrearth.com^
-||googlyoutube.com^
 ||googm.com^
 ||googolel.com^
 ||gookl.com^
@@ -4546,7 +4542,6 @@
 ||housesforsaleinfortworth.com^
 ||houstonoilers.com^
 ||how-to-copy-and-paste.com^
-||howardjohnsonhotelorlando.com^
 ||howmarketworks.com^
 ||howtolearntarot.com^
 ||howtomeetaguy.com^
@@ -4857,7 +4852,6 @@
 ||ividplayer.com^
 ||americansforprosperity.ivolunteers.com^
 ||ixiaa.com^
-||iyyotube.com^
 ||jabardasti.com^
 ||jacquiwlawson.com^
 ||jadudamobile.com^
@@ -5257,7 +5251,6 @@
 ||lookbookhq.com^
 ||lookfanstastic.com^
 ||lookout2000.com^
-||www.looneylane.com^
 ||loopme.com^
 ||loopmertb.com^
 ||lootsie.com^
@@ -5564,6 +5557,7 @@
 ||mixedtraffic.com^
 ||mixeringtones.com^
 ||mixpo.com^
+||mixyourtunes.com^
 ||miyoutube.com^
 ||mkt8668.com^
 ||mkt932.com^
@@ -6041,7 +6035,6 @@
 ||securemail.openfansite.com^
 ||securepop.openfansite.com^
 ||smtpauth.openfansite.com^
-||thissubdomainshouldnotexist.openfansite.com^
 ||openx.com^
 ||openxadexchange.com^
 ||openxenterprise.com^
@@ -7884,7 +7877,6 @@
 ||out.tsinf.com^
 ||pop.tsinf.com^
 ||root.tsinf.com^
-||ww25.tsinf.com^
 ||aep-power.tsyawshost.com^
 ||tsyndicate.com^
 ||ttehun.com^
@@ -8229,7 +8221,60 @@
 ||wadknisse.com^
 ||ww25.wadsfasg.com^
 ||wahlgreens.com^
-||wakanetwork.com^
+||auth.wakanetwork.com^
+||authsmtp.wakanetwork.com^
+||barracuda.wakanetwork.com^
+||comune.wakanetwork.com^
+||correo.wakanetwork.com^
+||couponic.wakanetwork.com^
+||email.wakanetwork.com^
+||home.wakanetwork.com^
+||imap1.wakanetwork.com^
+||imap2.wakanetwork.com^
+||mail1.wakanetwork.com^
+||mail2.wakanetwork.com^
+||mail3.wakanetwork.com^
+||mail4.wakanetwork.com^
+||mail7.wakanetwork.com^
+||mail8.wakanetwork.com^
+||mailer.wakanetwork.com^
+||mailgate.wakanetwork.com^
+||mailgw.wakanetwork.com^
+||mailhost.wakanetwork.com^
+||mailin.wakanetwork.com^
+||mailsrv.wakanetwork.com^
+||mailx.wakanetwork.com^
+||member.wakanetwork.com^
+||mx.wakanetwork.com^
+||mx0.wakanetwork.com^
+||mx01.wakanetwork.com^
+||mx02.wakanetwork.com^
+||mx1.wakanetwork.com^
+||mx2.wakanetwork.com^
+||mx3.wakanetwork.com^
+||mx7.wakanetwork.com^
+||ns1.wakanetwork.com^
+||ns2.wakanetwork.com^
+||out.wakanetwork.com^
+||poczta.wakanetwork.com^
+||pop.wakanetwork.com^
+||post.wakanetwork.com^
+||postmaster.wakanetwork.com^
+||relay.wakanetwork.com^
+||relay1.wakanetwork.com^
+||secure.wakanetwork.com^
+||server.wakanetwork.com^
+||server2.wakanetwork.com^
+||smtpauth.wakanetwork.com^
+||smtps.wakanetwork.com^
+||smtpseguro.wakanetwork.com^
+||sniper.wakanetwork.com^
+||srv.wakanetwork.com^
+||t.wakanetwork.com^
+||ww1.wakanetwork.com^
+||www.wakanetwork.com^
+||www1.wakanetwork.com^
+||zmail.wakanetwork.com^
 ||smetrics.walgreens.com^
 ||target.walgreens.com^
 ||wallmart1.com^
@@ -8754,7 +8799,9 @@
 ||youtubebuddy.com^
 ||youtubeco.com^
 ||youtubecreators.com^
-||youtubeeee.com^
+||ww11.youtubeeee.com^
+||ww25.youtubeeee.com^
+||ww31.youtubeeee.com^
 ||youtubefreeporn.com^
 ||youtubegetmusicsoft.com^
 ||youtubegmail.com^
@@ -9202,7 +9249,6 @@
 ||xn--9dbq2a.co.il^
 ||xn--cebti.co.il^
 ||xn--debbbfn2ef.co.il^
-||xn--debcwca9ad.co.il^
 ||xn--eebdz.co.il^
 ||xn--eebikd0a.co.il^
 ||xn--febdf.co.il^
@@ -9251,7 +9297,6 @@
 ||5movies.info^
 ||6630.info^
 ||ww1.69love.info^
-||ww25.69love.info^
 ||69postix.info^
 ||7494568.info^
 ||7hari.info^
@@ -9920,7 +9965,6 @@
 ||hillwoodhome.info^
 ||hinterglemm.info^
 ||hinterstoder.info^
-||hirklikk.info^
 ||hitcrick.info^
 ||hochfilzen.info^
 ||hochkoenig.info^
@@ -10091,7 +10135,6 @@
 ||lech.info^
 ||legfrissebb.info^
 ||legislatives.info^
-||leiji7.info^
 ||leonardoschool.info^
 ||leopalace21.info^
 ||lhmdaakl.info^
@@ -10334,7 +10377,6 @@
 ||outdoorman.info^
 ||ovni.info^
 ||p108.info^
-||p69.info^
 ||packettracer.info^
 ||padnij.info^
 ||paginapeliculasonline.info^
@@ -10396,7 +10438,6 @@
 ||mvideo.porno-chaman.info^
 ||ww1.porno-chaman.info^
 ||ww16.porno-chaman.info^
-||ww17.porno-chaman.info^
 ||ww25.porno-chaman.info^
 ||www.porno-chaman.info^
 ||pornobitx.info^
@@ -11573,7 +11614,6 @@
 ||crazy-holiday.net^
 ||criteo.net^
 ||crwdcntrl.net^
-||ww35.cryptocoiners.net^
 ||www.cryptocoiners.net^
 ||coadvertise.cubecdn.net^
 ||culterycorner.net^
@@ -11897,7 +11937,6 @@
 ||ww16.monmetier.net^
 ||ww2.monmetier.net^
 ||ww25.monmetier.net^
-||ww38.monmetier.net^
 ||www.monmetier.net^
 ||montclairsports.net^
 ||moquta.net^
@@ -12327,7 +12366,6 @@
 ||acenet.org^
 ||achorusline.org^
 ||acrhive.org^
-||acrostic.org^
 ||action-social.org^
 ||actionfraud.org^
 ||actionsenfance.org^
