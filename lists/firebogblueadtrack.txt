@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-03T00:08:23.015Z
+! Last modified: 2023-08-03T11:27:26.840Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1324,6 +1324,8 @@
 ||4zared.com^
 ||59fifty.com^
 ||ww1.5legeat.com^
+||ww38.5legeat.com^
+||www.5legeat.com^
 ||622lq.com^
 ||65daiguo.com^
 ||69pcrepair.com^
@@ -1392,8 +1394,6 @@
 ||ww11.acacemy.com^
 ||ww16.acacemy.com^
 ||ww25.acacemy.com^
-||ww38.acacemy.com^
-||www.acacemy.com^
 ||www.academiccareers-jobs.com^
 ||acashatusa.com^
 ||acbjobs.com^
@@ -1903,7 +1903,6 @@
 ||anardesh.com^
 ||metrics.ancestry.com^
 ||smetrics.ancestry.com^
-||andreavaducci.com^
 ||analytics.anedot.com^
 ||photography.angela-mathis.com^
 ||angelsinuniform.com^
@@ -2267,7 +2266,7 @@
 ||bengalimatimony.com^
 ||benkoltd.com^
 ||bennha.com^
-||bentlyauction.com^
+||ww16.bentlyauction.com^
 ||benuaghty.com^
 ||beradar.com^
 ||berkleysettlement.com^
@@ -2569,6 +2568,7 @@
 ||buildersupplyatlanta.com^
 ||buildyourdata.com^
 ||buildyourownweapon.com^
+||ww38.builldabear.com^
 ||bulkapothocary.com^
 ||bulloger.com^
 ||bumlam.com^
@@ -2824,7 +2824,6 @@
 ||citzensfirstbank.com^
 ||analytics.civicplus.com^
 ||ads.ck101.com^
-||claremontoyota.com^
 ||clarianfederalcreditunion.com^
 ||clarivoy.com^
 ||clarkmotorco.com^
@@ -3127,7 +3126,6 @@
 ||ww16.crfeditonebank.com^
 ||ww25.crfeditonebank.com^
 ||ww38.crfeditonebank.com^
-||www.crfeditonebank.com^
 ||crickebuzz.com^
 ||cricket-365info.com^
 ||cricket365-info.com^
@@ -3383,7 +3381,8 @@
 ||disneiplatino.com^
 ||disneneylatino.com^
 ||disney2.com^
-||disneyagentesdeviaje.com^
+||ww16.disneyagentesdeviaje.com^
+||ww38.disneyagentesdeviaje.com^
 ||disneycarees.com^
 ||disneychannanel.com^
 ||disneychany.com^
@@ -3487,7 +3486,6 @@
 ||drfuhman.com^
 ||drink-korova.com^
 ||driodsans.com^
-||driversddirect.com^
 ||drlalpath.com^
 ||drleeuk.com^
 ||droobox.com^
@@ -3543,7 +3541,7 @@
 ||eagleinformatica.com^
 ||r.ealeo.com^
 ||earlychildren.com^
-||earlyshowcbsnews.com^
+||ww1.earlyshowcbsnews.com^
 ||earnonfeedback.com^
 ||earth-dancing.com^
 ||eastwindstravel.com^
@@ -3555,7 +3553,9 @@
 ||backstory.ebay.com^
 ||autotrack.g.ebay.com^
 ||ebayhomepage.com^
-||ebcheckgreyhound.com^
+||ww16.ebcheckgreyhound.com^
+||ww25.ebcheckgreyhound.com^
+||ww38.ebcheckgreyhound.com^
 ||ebdr1.com^
 ||ebdr3.com^
 ||ebuzzing.com^
@@ -3571,7 +3571,6 @@
 ||ecorebates.com^
 ||ecylight.com^
 ||ww25.edddiebauwer.com^
-||ww38.edddiebauwer.com^
 ||edeits.com^
 ||edgar2al2larngpoer.com^
 ||edgedinawesome.com^
@@ -3649,7 +3648,7 @@
 ||endoftheworld22.com^
 ||endofworld44.com^
 ||energeticladybug.com^
-||energybrokerconsultants.com^
+||www.energybrokerconsultants.com^
 ||engageclick.com^
 ||engagecore.com^
 ||engagefront.com^
@@ -3827,10 +3826,7 @@
 ||femmefatalfilms.com^
 ||fendistore.com^
 ||activate.ferguson.com^
-||ww1.ff-model.com^
-||ww16.ff-model.com^
-||ww5.ff-model.com^
-||www.ff-model.com^
+||ff-model.com^
 ||fghik.com^
 ||fgl.com^
 ||fhpulse.com^
@@ -3948,7 +3944,6 @@
 ||ww11.fountasandpinell.com^
 ||www.fountasandpinell.com^
 ||fourquare.com^
-||fousquare.com^
 ||foxdeporte.com^
 ||foxit-software.com^
 ||smetrics.foxnews.com^
@@ -4040,11 +4035,6 @@
 ||functionalcrown.com^
 ||fundsjoy.com^
 ||funkeyad.com^
-||mail3.funmoible.com^
-||mailserver.funmoible.com^
-||relay.funmoible.com^
-||smtp01.funmoible.com^
-||smtpseguro.funmoible.com^
 ||zimbra.funmoible.com^
 ||funnelenvy.com^
 ||funny-like.com^
@@ -4080,7 +4070,6 @@
 ||gamebannernet.com^
 ||gamefugh.com^
 ||gamenoed.com^
-||gameonlinegratis.com^
 ||gamerz-land.com^
 ||games2boy.com^
 ||gameschill.com^
@@ -5034,7 +5023,8 @@
 ||jyjwche.com^
 ||kabu-book.com^
 ||kakapakistan.com^
-||kakatus.com^
+||ww11.kakatus.com^
+||ww25.kakatus.com^
 ||kakatuz.com^
 ||kakud.com^
 ||analytics.kaltura.com^
@@ -5077,7 +5067,49 @@
 ||kenya-aiways.com^
 ||kenyarevenueauthority.com^
 ||keogers.com^
-||keopz.com^
+||antispam.keopz.com^
+||art.keopz.com^
+||barracuda.keopz.com^
+||com.keopz.com^
+||correo.keopz.com^
+||eml.keopz.com^
+||gw.keopz.com^
+||host.keopz.com^
+||internet.keopz.com^
+||m.keopz.com^
+||mail.keopz.com^
+||mail02.keopz.com^
+||mail11.keopz.com^
+||mail5.keopz.com^
+||mailbox.keopz.com^
+||mailer.keopz.com^
+||mailgate.keopz.com^
+||mailin.keopz.com^
+||mailrelay.keopz.com^
+||mails.keopz.com^
+||mailserver.keopz.com^
+||mta.keopz.com^
+||mx.keopz.com^
+||mx10.keopz.com^
+||mx2.keopz.com^
+||mx20.keopz.com^
+||mx4.keopz.com^
+||mx5.keopz.com^
+||mx7.keopz.com^
+||newmail.keopz.com^
+||ns.keopz.com^
+||ns1.keopz.com^
+||po.keopz.com^
+||post.keopz.com^
+||relay1.keopz.com^
+||root.keopz.com^
+||server.keopz.com^
+||server1.keopz.com^
+||srv.keopz.com^
+||ssl.keopz.com^
+||tiger.keopz.com^
+||vip.keopz.com^
+||www.keopz.com^
 ||kerman94.com^
 ||kew-village.com^
 ||keywordblocks.com^
@@ -5469,7 +5501,7 @@
 ||maryksyintouch.com^
 ||marzaniprogetti.com^
 ||masdejon.com^
-||masfamiliasenaccion.com^
+||ww1.masfamiliasenaccion.com^
 ||mashero.com^
 ||mashface.com^
 ||massachusettsmanny.com^
@@ -6074,6 +6106,7 @@
 ||onedigitalad.com^
 ||cm.oneidentity.com^
 ||oneopinion.com^
+||oneshotketopro.com^
 ||onetag-sys.com^
 ||onetandberg.com^
 ||onetravell.com^
@@ -6843,7 +6876,6 @@
 ||safronmarigold.com^
 ||sail-horizon.com^
 ||api.sail-personalize.com^
-||saintclairshoressingles.com^
 ||salemove.com^
 ||la1-c2-iad.salesforceliveagent.com^
 ||c.la1-c2-phx.salesforceliveagent.com^
@@ -7340,7 +7372,6 @@
 ||spribd.com^
 ||spriceline.com^
 ||ww25.springhillbulbs.com^
-||www.springhillbulbs.com^
 ||springserve.com^
 ||sprinklecontent.com^
 ||sprotsmansguide.com^
@@ -9164,10 +9195,7 @@
 ||livegol.co.il^
 ||location-location.co.il^
 ||authsmtp.logo2go.co.il^
-||mail.logo2go.co.il^
 ||mail4.logo2go.co.il^
-||ns1.logo2go.co.il^
-||www.logo2go.co.il^
 ||londonmusicals.co.il^
 ||lottery24.co.il^
 ||loxone.co.il^
@@ -9370,7 +9398,6 @@
 ||adatmentes.info^
 ||adblog.info^
 ||adessonews.info^
-||ww25.adidasi-nike.info^
 ||adidasspringblade2.info^
 ||aditech.info^
 ||adm-vids.info^
@@ -9736,9 +9763,6 @@
 ||drasticdsemulatorapk.info^
 ||dreiband.info^
 ||drg-faq.info^
-||ns1.dropcable.info^
-||out.dropcable.info^
-||ww25.dropcable.info^
 ||drpciv.info^
 ||duman.info^
 ||duniaprinter.info^
@@ -9818,11 +9842,11 @@
 ||fatorfiction.info^
 ||fazu.info^
 ||fcsite.info^
-||mail.ferdos.info^
-||ww16.ferdos.info^
-||ww25.ferdos.info^
+||ferdos.info^
 ||ferienhausinnorwegen.info^
-||ffy4.info^
+||ww11.ffy4.info^
+||ww16.ffy4.info^
+||ww25.ffy4.info^
 ||fieberbrunn.info^
 ||figvam.info^
 ||file156desktop.info^
@@ -9866,7 +9890,16 @@
 ||funtvshow.info^
 ||futjakot.info^
 ||futurestudys.info^
-||fxwl.info^
+||fxaction.info^
+||dev.fxwl.info^
+||old.fxwl.info^
+||shop.fxwl.info^
+||test.fxwl.info^
+||ww17.fxwl.info^
+||ww25.fxwl.info^
+||ww38.fxwl.info^
+||www.fxwl.info^
+||wwww.fxwl.info^
 ||fyo.info^
 ||g75v47q60.info^
 ||gaigoisaigon.info^
@@ -9908,8 +9941,6 @@
 ||gonzovideos.info^
 ||goodpeople.info^
 ||goodrxline.info^
-||idea.goodtrk.info^
-||www.goodtrk.info^
 ||goonlinepoker.info^
 ||gpgorakhpurtpo.info^
 ||greatdatesites.info^
@@ -10250,6 +10281,7 @@
 ||mobile-damz.info^
 ||mobile-tech.info^
 ||mobilemovie.info^
+||www.mobileprices.info^
 ||mobilesales.info^
 ||modelismo-naval.info^
 ||modernart.info^
@@ -10291,7 +10323,11 @@
 ||musicfestivals.info^
 ||musiclive.info^
 ||musicschool.info^
-||musicsun.info^
+||ww1.musicsun.info^
+||ww11.musicsun.info^
+||ww16.musicsun.info^
+||ww25.musicsun.info^
+||ww38.musicsun.info^
 ||musikz.info^
 ||muskelschmerz.info^
 ||muslimby.info^
@@ -10448,8 +10484,6 @@
 ||politique.info^
 ||popas.info^
 ||porev.info^
-||ww16.porno-chaman.info^
-||ww16.ww38.ww38.ww25.porno-chaman.info^
 ||pornobitx.info^
 ||pornocomicsix.info^
 ||pornoheroes.info^
@@ -10807,6 +10841,7 @@
 ||universitaet.info^
 ||unn.info^
 ||unnepek.info^
+||ww1.unnt.info^
 ||ww16.unnt.info^
 ||ww17.unnt.info^
 ||ww2.unnt.info^
@@ -11439,7 +11474,7 @@
 ||cf69.net^
 ||channelfurfing.net^
 ||chitika.net^
-||cinetr.net^
+||ww16.cinetr.net^
 ||circet.net^
 ||clickbank.net^
 ||clicktale.net^
@@ -11649,7 +11684,7 @@
 ||dotmetrics.net^
 ||doublemax.net^
 ||drillconsolidating.net^
-||drivelicense.net^
+||www1.drivelicense.net^
 ||dslinstallationbellsouth.net^
 ||dubiavisa.net^
 ||durationmedia.net^
@@ -12995,6 +13030,7 @@
 ||imslt.org^
 ||incident-report.org^
 ||mx.indesa.org^
+||ww17.indesa.org^
 ||www.indesa.org^
 ||indexxx.org^
 ||indianaexpeditions.org^
@@ -13580,9 +13616,6 @@
 ||seasemestreet.org^
 ||securedsearch.org^
 ||securityservicefederalcreditunion.org^
-||ww11.sedg.org^
-||ww17.sedg.org^
-||ww38.sedg.org^
 ||seeip.org^
 ||self-compasion.org^
 ||seniorplus.org^
