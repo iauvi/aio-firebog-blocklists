@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-04T00:08:51.189Z
+! Last modified: 2023-08-04T11:36:03.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1323,9 +1323,7 @@
 ||4pornhub.com^
 ||4zared.com^
 ||59fifty.com^
-||ww1.5legeat.com^
-||ww38.5legeat.com^
-||www.5legeat.com^
+||5legeat.com^
 ||622lq.com^
 ||65daiguo.com^
 ||69pcrepair.com^
@@ -1390,11 +1388,7 @@
 ||abtasty.com^
 ||abuelasfollando.com^
 ||abuzada.com^
-||mail5.acacemy.com^
-||ww11.acacemy.com^
 ||ww16.acacemy.com^
-||ww25.acacemy.com^
-||www.academiccareers-jobs.com^
 ||acashatusa.com^
 ||acbjobs.com^
 ||accelventures.com^
@@ -2195,18 +2189,6 @@
 ||barbieland.com^
 ||barbymodels.com^
 ||metrics.barclaycardus.com^
-||email.barclaycxardus.com^
-||imap1.barclaycxardus.com^
-||imap2.barclaycxardus.com^
-||m.barclaycxardus.com^
-||mail.barclaycxardus.com^
-||mail1.barclaycxardus.com^
-||mailout.barclaycxardus.com^
-||mailserver.barclaycxardus.com^
-||mx2.barclaycxardus.com^
-||ns1.barclaycxardus.com^
-||pop.barclaycxardus.com^
-||smtpauth.barclaycxardus.com^
 ||barclayd.com^
 ||baremetrics.com^
 ||baristand.com^
@@ -2379,36 +2361,18 @@
 ||blackopsairsoftguns.com^
 ||blackpapa.com^
 ||bladdercancerdata.com^
-||antispam.blevinfranks.com^
 ||authsmtp.blevinfranks.com^
-||box.blevinfranks.com^
-||comune.blevinfranks.com^
 ||gate.blevinfranks.com^
 ||host.blevinfranks.com^
-||m.blevinfranks.com^
 ||mail1.blevinfranks.com^
-||mail12.blevinfranks.com^
 ||mail3.blevinfranks.com^
 ||mail8.blevinfranks.com^
-||mailbox.blevinfranks.com^
 ||mailer.blevinfranks.com^
-||mails.blevinfranks.com^
 ||mailx.blevinfranks.com^
 ||ms1.blevinfranks.com^
-||mta.blevinfranks.com^
-||mx.blevinfranks.com^
-||mx0.blevinfranks.com^
-||mx02.blevinfranks.com^
-||mx5.blevinfranks.com^
+||a.mx.blevinfranks.com^
 ||newmail.blevinfranks.com^
-||outmail.blevinfranks.com^
-||po.blevinfranks.com^
-||post.blevinfranks.com^
-||relay.blevinfranks.com^
-||relay1.blevinfranks.com^
 ||root.blevinfranks.com^
-||server1.blevinfranks.com^
-||server2.blevinfranks.com^
 ||ww1.blevinfranks.com^
 ||ww11.blevinfranks.com^
 ||zimbra.blevinfranks.com^
@@ -2612,7 +2576,6 @@
 ||c3tag.com^
 ||c43a3cd8f99413891.com^
 ||cacestpourmoi.com^
-||mx1.caiptalone360.com^
 ||ww16.caiptalone360.com^
 ||ww25.caiptalone360.com^
 ||ww38.caiptalone360.com^
@@ -3467,7 +3430,6 @@
 ||mail2.drawnincest.com^
 ||mta1.drawnincest.com^
 ||offer.drawnincest.com^
-||real.drawnincest.com^
 ||root.drawnincest.com^
 ||smtpauth.drawnincest.com^
 ||ww16.drawnincest.com^
@@ -3941,7 +3903,6 @@
 ||aaa.fountasandpinell.com^
 ||resource.fountasandpinell.com^
 ||resources.fountasandpinell.com^
-||ww11.fountasandpinell.com^
 ||www.fountasandpinell.com^
 ||fourquare.com^
 ||foxdeporte.com^
@@ -4035,7 +3996,6 @@
 ||functionalcrown.com^
 ||fundsjoy.com^
 ||funkeyad.com^
-||zimbra.funmoible.com^
 ||funnelenvy.com^
 ||funny-like.com^
 ||funnyyordie.com^
@@ -4300,11 +4260,7 @@
 ||gookl.com^
 ||goolew.com^
 ||goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
-||barracuda.goozaa.com^
 ||board.goozaa.com^
-||mail.goozaa.com^
-||mx2.goozaa.com^
-||www.goozaa.com^
 ||goparod.com^
 ||goplaylabels.com^
 ||gorillalink.com^
@@ -4479,7 +4435,29 @@
 ||qab.hextom.com^
 ||spm.hextom.com^
 ||usb.hextom.com^
-||heyzap.com^
+||ams3.100tb.heyzap.com^
+||ams4.100tb.heyzap.com^
+||lon1.100tb.heyzap.com^
+||par3.100tb.heyzap.com^
+||sjc1.100tb.heyzap.com^
+||wdc1.100tb.heyzap.com^
+||acls.heyzap.com^
+||adr.heyzap.com^
+||ads.heyzap.com^
+||android.heyzap.com^
+||resque-moses.ec2.heyzap.com^
+||o1.email.heyzap.com^
+||fyc.heyzap.com^
+||hzmedia-cdn.heyzap.com^
+||med.heyzap.com^
+||sdkstatic.heyzap.com^
+||android.stage-one.heyzap.com^
+||iphone.stage-one.heyzap.com^
+||preflight.stage-one.heyzap.com^
+||trends.stage-one.heyzap.com^
+||stage-three.heyzap.com^
+||stage-two.heyzap.com^
+||track.heyzap.com^
 ||hfc195b.com^
 ||hfrcl.com^
 ||hfuostp.com^
@@ -4522,7 +4500,7 @@
 ||hollywoolife.com^
 ||holmescountyflorida.com^
 ||hombresmujeresyviceversa.com^
-||homdep.com^
+||ww16.homdep.com^
 ||home-of-speed.com^
 ||homeadisor.com^
 ||homeamericanexpress.com^
@@ -4648,7 +4626,8 @@
 ||so8.hyatt.com^
 ||hyatthotel.com^
 ||hydsex.com^
-||hyuday.com^
+||ww16.hyuday.com^
+||ww25.hyuday.com^
 ||hyundaigenisis.com^
 ||hyundauusa.com^
 ||hyunja6.com^
@@ -4933,7 +4912,6 @@
 ||jcpenneygiftcard.com^
 ||jcpenneyscreditcard.com^
 ||jcpenneyshomestore.com^
-||jcpenniportaits.com^
 ||jcpenniys.com^
 ||jcpennyportaits.com^
 ||jcpennyrewards.com^
@@ -5024,7 +5002,6 @@
 ||kabu-book.com^
 ||kakapakistan.com^
 ||ww11.kakatus.com^
-||ww25.kakatus.com^
 ||kakatuz.com^
 ||kakud.com^
 ||analytics.kaltura.com^
@@ -5196,7 +5173,6 @@
 ||lakecountrychevrolet.com^
 ||lakecuyamacarestaurant.com^
 ||lakesappliance.com^
-||lamaisonparadis.com^
 ||lamasamu.com^
 ||lanbil.com^
 ||lancerweb.com^
@@ -5207,6 +5183,7 @@
 ||larivieredemeraude.com^
 ||lasaoren.com^
 ||lastminurte.com^
+||lasugo.com^
 ||latestflashupdate.com^
 ||latestflashupdates.com^
 ||latexmatresscompany.com^
@@ -5302,7 +5279,6 @@
 ||liveintent.com^
 ||chepelev.livejounral.com^
 ||fans.livejounral.com^
-||holventure.livejounral.com^
 ||ms1.livejounral.com^
 ||outmail.livejounral.com^
 ||po.livejounral.com^
@@ -5501,7 +5477,6 @@
 ||maryksyintouch.com^
 ||marzaniprogetti.com^
 ||masdejon.com^
-||ww1.masfamiliasenaccion.com^
 ||mashero.com^
 ||mashface.com^
 ||massachusettsmanny.com^
@@ -5603,7 +5578,17 @@
 ||mheeducation.com^
 ||smetrics.michaels.com^
 ||target.michaels.com^
-||micorsoftonline.com^
+||ns2.bdm.micorsoftonline.com^
+||ns3.bdm.micorsoftonline.com^
+||ww25.login.micorsoftonline.com^
+||ww31.login.micorsoftonline.com^
+||mail.micorsoftonline.com^
+||ogin.micorsoftonline.com^
+||passwordreset.micorsoftonline.com^
+||ww25.portal.micorsoftonline.com^
+||ww31.micorsoftonline.com^
+||ww8.micorsoftonline.com^
+||www.micorsoftonline.com^
 ||microad-cn.com^
 ||microadinc.com^
 ||microoftonline.com^
@@ -5872,7 +5857,8 @@
 ||nachoanalytics.com^
 ||nakaqut.com^
 ||nakedcraig.com^
-||nakenpart.com^
+||ww25.nakenpart.com^
+||www.nakenpart.com^
 ||nalurujo.com^
 ||namechecp.com^
 ||nanaimorealestateprices.com^
@@ -6131,7 +6117,10 @@
 ||openxadexchange.com^
 ||openxenterprise.com^
 ||operahouseeventsite.com^
-||opiratinha.com^
+||ww1.opiratinha.com^
+||ww16.opiratinha.com^
+||ww25.opiratinha.com^
+||ww38.opiratinha.com^
 ||opiumud.com^
 ||opmnstr.com^
 ||optimeze.com^
@@ -7371,7 +7360,6 @@
 ||spotxchange.com^
 ||spribd.com^
 ||spriceline.com^
-||ww25.springhillbulbs.com^
 ||springserve.com^
 ||sprinklecontent.com^
 ||sprotsmansguide.com^
@@ -7979,7 +7967,7 @@
 ||turninc.com^
 ||turningwheelrv.com^
 ||turnto.com^
-||tuscominc.com^
+||mail.tuscominc.com^
 ||tutorialbagus.com^
 ||tutoriali.com^
 ||tuttodisegno.com^
@@ -8223,8 +8211,6 @@
 ||tagman.virginatlantic.com^
 ||virginatllantic.com^
 ||virginattlantic.com^
-||sitemap.virgingmobileusa.com^
-||ww1.virgingmobileusa.com^
 ||www.virgingmobileusa.com^
 ||virginmediativo.com^
 ||virginmovil.com^
@@ -8340,6 +8326,7 @@
 ||sniper.wakanetwork.com^
 ||srv.wakanetwork.com^
 ||t.wakanetwork.com^
+||testing.wakanetwork.com^
 ||ww1.wakanetwork.com^
 ||www.wakanetwork.com^
 ||www1.wakanetwork.com^
@@ -8566,7 +8553,6 @@
 ||prod.wozbtc.com^
 ||stage.wozbtc.com^
 ||w1.wozbtc.com^
-||www.wozbtc.com^
 ||pixel.wp.com^
 ||stats.wp.com^
 ||wpeducation.com^
@@ -8689,7 +8675,6 @@
 ||x9blog.com^
 ||xad.com^
 ||xapxmaawcsk.com^
-||xcapitalone360.com^
 ||xenfra.com^
 ||xf1ogger.com^
 ||oascentral.xfinity.com^
@@ -8815,7 +8800,8 @@
 ||ycarli.com^
 ||ydigitalmedia.com^
 ||metrics.yellowpages.com^
-||yelol.com^
+||ww25.yelol.com^
+||www.yelol.com^
 ||yepopo.com^
 ||yesinsights.com^
 ||yestuition.com^
@@ -8911,7 +8897,9 @@
 ||zachbrowser.com^
 ||zaies.com^
 ||zaitzev.com^
-||zajicjiri.com^
+||ww16.zajicjiri.com^
+||ww25.zajicjiri.com^
+||ww38.zajicjiri.com^
 ||zalescredit.com^
 ||zaluucom.com^
 ||zambianairways.com^
@@ -9194,8 +9182,6 @@
 ||livechat.co.il^
 ||livegol.co.il^
 ||location-location.co.il^
-||authsmtp.logo2go.co.il^
-||mail4.logo2go.co.il^
 ||londonmusicals.co.il^
 ||lottery24.co.il^
 ||loxone.co.il^
@@ -9970,6 +9956,7 @@
 ||guter-punkt.info^
 ||gutteruncensored.info^
 ||gyaoh.info^
+||ww82.gyteli.info^
 ||haag.info^
 ||haceracuario.info^
 ||hackgames.info^
@@ -10323,11 +10310,6 @@
 ||musicfestivals.info^
 ||musiclive.info^
 ||musicschool.info^
-||ww1.musicsun.info^
-||ww11.musicsun.info^
-||ww16.musicsun.info^
-||ww25.musicsun.info^
-||ww38.musicsun.info^
 ||musikz.info^
 ||muskelschmerz.info^
 ||muslimby.info^
@@ -10648,7 +10630,6 @@
 ||shuwo.info^
 ||sifangclub1.info^
 ||sillanpaa.info^
-||www.simbox.info^
 ||simming.info^
 ||sinazucar.info^
 ||sinhalaonline.info^
@@ -10841,12 +10822,7 @@
 ||universitaet.info^
 ||unn.info^
 ||unnepek.info^
-||ww1.unnt.info^
-||ww16.unnt.info^
-||ww17.unnt.info^
-||ww2.unnt.info^
-||ww38.unnt.info^
-||www.unnt.info^
+||unnt.info^
 ||uohyd.info^
 ||upfast.info^
 ||uploadgeneration.info^
@@ -11947,7 +11923,6 @@
 ||media.net^
 ||mediabong.net^
 ||meetrics.net^
-||menchats.net^
 ||mennavi.net^
 ||microad.net^
 ||mintegral.net^
@@ -12805,7 +12780,6 @@
 ||www.meet.enfieldhomes.org^
 ||security.enfieldhomes.org^
 ||tango.enfieldhomes.org^
-||ww1.enfieldhomes.org^
 ||ww25.enfieldhomes.org^
 ||ww38.enfieldhomes.org^
 ||engineersrule.org^
@@ -13261,7 +13235,11 @@
 ||monkeyradio.org^
 ||monterfiore.org^
 ||monticelloar.org^
-||monusco.org^
+||unmissions.monusco.org^
+||ww1.monusco.org^
+||ww25.monusco.org^
+||ww38.monusco.org^
+||www.monusco.org^
 ||mooseint1.org^
 ||moseintl.org^
 ||mosiac.org^
