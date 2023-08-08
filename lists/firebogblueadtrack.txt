@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-08T00:27:32.369Z
+! Last modified: 2023-08-08T11:32:12.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2184,7 +2184,6 @@
 ||azrvahb.com^
 ||vmss-clarity-ingest-eus2-b.eastus2.cloudapp.azure.com^
 ||azwear.com^
-||b-nance.com^
 ||b0e8.com^
 ||b0oie4xjeb4ite.com^
 ||b2c.com^
@@ -2912,7 +2911,7 @@
 ||coinbaseone.com^
 ||coinbasepromotion.com^
 ||coinbaserewards.com^
-||mail.coindeskbtc.com^
+||coindeskbtc.com^
 ||col3negorijinal.com^
 ||colaretiree.com^
 ||colaretirees.com^
@@ -3120,13 +3119,7 @@
 ||sponge.creditkarma.com^
 ||tags.creditkarma.com^
 ||metrics.creditreport.com^
-||ww16.credkitonebank.com^
-||ww25.credkitonebank.com^
-||ww38.credkitonebank.com^
 ||crewbuxonline.com^
-||ww16.crfeditonebank.com^
-||ww25.crfeditonebank.com^
-||ww38.crfeditonebank.com^
 ||crickebuzz.com^
 ||cricket-365info.com^
 ||cricket365-info.com^
@@ -3595,6 +3588,7 @@
 ||elmokhtabar.com^
 ||elocalisting.com^
 ||elonchristmas.com^
+||elonpresent.com^
 ||elonshares.com^
 ||eloqua.com^
 ||elsitiofeliz.com^
@@ -4450,21 +4444,12 @@
 ||qab.hextom.com^
 ||spm.hextom.com^
 ||usb.hextom.com^
-||ams3.100tb.heyzap.com^
-||ams4.100tb.heyzap.com^
-||lon1.100tb.heyzap.com^
-||par3.100tb.heyzap.com^
-||wdc1.100tb.heyzap.com^
 ||ads.heyzap.com^
-||resque-moses.ec2.heyzap.com^
-||o1.email.heyzap.com^
 ||fyc.heyzap.com^
 ||med.heyzap.com^
-||iphone.stage-one.heyzap.com^
 ||preflight.stage-one.heyzap.com^
 ||trends.stage-one.heyzap.com^
-||stage-two.heyzap.com^
-||track.heyzap.com^
+||android.stage-two.heyzap.com^
 ||hfc195b.com^
 ||hfrcl.com^
 ||hfuostp.com^
@@ -5015,6 +5000,7 @@
 ||karakeparty.com^
 ||kargo.com^
 ||karnevalwierts.com^
+||karuq.com^
 ||kasperspy.com^
 ||kassarctest.com^
 ||kate-shoponline.com^
@@ -5781,8 +5767,6 @@
 ||musk-event.com^
 ||muskgive.com^
 ||muslimexweb.com^
-||ww1.muslims4marriag.com^
-||ww16.muslims4marriag.com^
 ||ww2.muslims4marriag.com^
 ||www.muslims4marriag.com^
 ||mustang50thbirthdaycelebration.com^
@@ -5877,7 +5861,6 @@
 ||nachoanalytics.com^
 ||nakaqut.com^
 ||nakedcraig.com^
-||ww25.nakenpart.com^
 ||nalurujo.com^
 ||namechecp.com^
 ||nanaimorealestateprices.com^
@@ -6237,7 +6220,9 @@
 ||pardot.com^
 ||pargon.com^
 ||paris-saillard.com^
-||parishotelandcasino.com^
+||ww16.parishotelandcasino.com^
+||ww25.parishotelandcasino.com^
+||ww38.parishotelandcasino.com^
 ||parkplacemotors.com^
 ||parrz.com^
 ||parsely.com^
@@ -6252,7 +6237,6 @@
 ||paybybitcoin.com^
 ||stats.paypal.com^
 ||t.paypal.com^
-||paypal-assist.com^
 ||payperinstallcash.com^
 ||paypopup.com^
 ||pazashevy.com^
@@ -6528,6 +6512,7 @@
 ||pulsepoint.com^
 ||punishtub.com^
 ||punishtubbe.com^
+||ww25.punsup.com^
 ||purch.com^
 ||puresweeteners.com^
 ||pursuanthealth.com^
@@ -6872,7 +6857,8 @@
 ||sacredpages.com^
 ||sadals.com^
 ||safedk.com^
-||safeharbourgames.com^
+||ww1.safeharbourgames.com^
+||www.safeharbourgames.com^
 ||safety-search.com^
 ||safeyoutube.com^
 ||saffronsshanklin.com^
@@ -7706,7 +7692,8 @@
 ||theadex.com^
 ||theadx.com^
 ||theallxclubguru.com^
-||theamaturetube.com^
+||ww1.theamaturetube.com^
+||www.theamaturetube.com^
 ||theamericndishtv.com^
 ||theamricandishtv.com^
 ||theappanalytics.com^
@@ -8043,7 +8030,7 @@
 ||ultreach.com^
 ||umassfootball.com^
 ||tracker.unbxdapi.com^
-||uncghana.com^
+||ww5.uncghana.com^
 ||unclepeppers.com^
 ||underdogmedia.com^
 ||undertone.com^
@@ -8284,7 +8271,6 @@
 ||vidsdbm.com^
 ||vidyoutube.com^
 ||vienamairline.com^
-||vietnanairlines.com^
 ||viewbix.com^
 ||viewdeos.com^
 ||viewsignage.com^
@@ -8374,6 +8360,7 @@
 ||w3ibm.com^
 ||link.wacom.com^
 ||wadknisse.com^
+||ww25.wadsfasg.com^
 ||wahlgreens.com^
 ||wakanetwork.com^
 ||smetrics.walgreens.com^
@@ -8446,7 +8433,9 @@
 ||webcindario.com^
 ||webclickroute.com^
 ||webcontentassessor.com^
-||webegettingrich.com^
+||ww1.webegettingrich.com^
+||ww16.webegettingrich.com^
+||www.webegettingrich.com^
 ||tmetrics.webex.com^
 ||webfett.com^
 ||webgains.com^
@@ -9426,7 +9415,7 @@
 ||afreeurl.info^
 ||africanlegends.info^
 ||aftereffectvn.info^
-||aguu.info^
+||ww17.aguu.info^
 ||ahhadesigns.info^
 ||ahmetcan.info^
 ||ainu.info^
@@ -9480,7 +9469,6 @@
 ||post.aroundthe-world.info^
 ||relay.aroundthe-world.info^
 ||smtp01.aroundthe-world.info^
-||ww1.aroundthe-world.info^
 ||ww11.aroundthe-world.info^
 ||ww17.aroundthe-world.info^
 ||ww38.aroundthe-world.info^
@@ -9559,6 +9547,7 @@
 ||beotubex.info^
 ||beragam.info^
 ||beritaislam24h.info^
+||bernathegyi.info^
 ||bestcb.info^
 ||bestgarten.info^
 ||bestmovies.info^
@@ -9799,8 +9788,6 @@
 ||duniaprinter.info^
 ||dunkelnacht.info^
 ||durangomexico.info^
-||ww17.durara.info^
-||ww25.durara.info^
 ||dutunudutu.info^
 ||earthwisdom.info^
 ||easymeet.info^
@@ -9922,12 +9909,9 @@
 ||futjakot.info^
 ||futurestudys.info^
 ||fxaction.info^
-||old.fxwl.info^
-||shop.fxwl.info^
 ||ww17.fxwl.info^
 ||ww25.fxwl.info^
 ||ww38.fxwl.info^
-||wwww.fxwl.info^
 ||fyo.info^
 ||g75v47q60.info^
 ||gaigoisaigon.info^
@@ -10173,6 +10157,7 @@
 ||komaneko.info^
 ||konp.info^
 ||konsan.info^
+||konyaalti.info^
 ||kooora.info^
 ||koorlive.info^
 ||kotaklagu.info^
@@ -10211,7 +10196,6 @@
 ||leonardoschool.info^
 ||leopalace21.info^
 ||lhmdaakl.info^
-||liaison-mit-literatur.info^
 ||lichsuvietnam.info^
 ||lienz.info^
 ||likeriteok.info^
@@ -10234,6 +10218,7 @@
 ||lrcs.info^
 ||lspeed.info^
 ||lsrd.info^
+||luatdoanhnghiep.info^
 ||lucario.info^
 ||lucypindergallery.info^
 ||luoli.info^
@@ -10441,6 +10426,7 @@
 ||onlymature.info^
 ||onthespot.info^
 ||onzeweb.info^
+||optisyen.info^
 ||optymalni.info^
 ||organizationalmarket.info^
 ||outdooradventure.info^
@@ -10461,6 +10447,7 @@
 ||pdsb.info^
 ||peakfitnessofdalton.info^
 ||peepshow.info^
+||pelagia.info^
 ||perfectcorner.info^
 ||periscopeporn.info^
 ||petrolbusiness.info^
@@ -10537,7 +10524,6 @@
 ||puntolimpio.info^
 ||pusat-bahasa.info^
 ||putana.info^
-||ww16.pword.info^
 ||www.pword.info^
 ||que-significa-mi-nombre.info^
 ||quepaso.info^
@@ -10576,9 +10562,6 @@
 ||ww25.mvideo.redup.info^
 ||webdisk.redup.info^
 ||ww25.redup.info^
-||ww38.redup.info^
-||ww43.redup.info^
-||www.redup.info^
 ||referendumailietuvos.info^
 ||regeneration.info^
 ||register-news-24h.info^
@@ -10613,7 +10596,7 @@
 ||rusputana.info^
 ||russian-ships.info^
 ||rutot.info^
-||www.rutube.info^
+||rutube.info^
 ||rutur.info^
 ||rxhd.info^
 ||saalbach-hinterglemm.info^
@@ -10963,6 +10946,7 @@
 ||xorroxinirratia.info^
 ||xptheme.info^
 ||xrpgive.info^
+||xrplive.info^
 ||xxlshow.info^
 ||xyzdirectory.info^
 ||yaohu.info^
@@ -12240,6 +12224,7 @@
 ||vickyshop.net^
 ||api.vidiom.net^
 ||visto1.net^
+||vitalitis.net^
 ||w55c.net^
 ||wach-movies.net^
 ||walmartgiftcard.net^
@@ -12690,6 +12675,7 @@
 ||oascentral.consumerreports.org^
 ||smetrics.consumerreports.org^
 ||coresera.org^
+||cornerstoneaog.org^
 ||cornerstonerecovery.org^
 ||corsicanaisd.org^
 ||cosmetix.org^
@@ -13081,7 +13067,6 @@
 ||jonathanbrandis.org^
 ||joomlafans.org^
 ||jordanembassyuk.org^
-||ww38.josephinetransit.org^
 ||joucemeyer.org^
 ||jpsschool.org^
 ||jrc.org^
@@ -13545,7 +13530,6 @@
 ||rebornshop.org^
 ||recup.org^
 ||recyclingworkscampaign.org^
-||redenderechos.org^
 ||redeproaprendiz.org^
 ||redmp3.org^
 ||redrockcanyon.org^
@@ -13712,7 +13696,6 @@
 ||ssjanakalyanatrust.org^
 ||ssnit.org^
 ||stamfordct.org^
-||ww38.starrettcityboxing.org^
 ||starscholarships.org^
 ||startisanat.org^
 ||statesales.org^
@@ -13863,7 +13846,6 @@
 ||turnik.org^
 ||tuscl.org^
 ||tuttoanunci.org^
-||tvescola.org^
 ||tvropes.org^
 ||tweeker.org^
 ||txcom.org^
@@ -13910,6 +13892,7 @@
 ||venicedobermanrescue.org^
 ||ventriloharassment.org^
 ||veporn.org^
+||veridaincu.org^
 ||verpelis.org^
 ||victoria-justice.org^
 ||vidik.org^
