@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-08T11:32:12.423Z
+! Last modified: 2023-08-09T11:12:37.736Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1285,7 +1285,7 @@
 ||1s2c3s.com^
 ||1thology.com^
 ||1worldonline.com^
-||2-tigers.com^
+||www.2-tigers.com^
 ||2015pharmacy.com^
 ||20eth.com^
 ||21e14corp.com^
@@ -1711,7 +1711,6 @@
 ||akbaralami.com^
 ||akinato.com^
 ||atlas.r.akipam.com^
-||akormuzik.com^
 ||akotuve.com^
 ||akslar.com^
 ||alabamacoastalrentals.com^
@@ -1850,7 +1849,16 @@
 ||ambiguousquilt.com^
 ||ambra.com^
 ||ambroseshoemaker.com^
-||ambtraders.com^
+||antispam.ambtraders.com^
+||gw.ambtraders.com^
+||home.ambtraders.com^
+||mx01.ambtraders.com^
+||mx02.ambtraders.com^
+||ns1.ambtraders.com^
+||relay.ambtraders.com^
+||root.ambtraders.com^
+||smtp01.ambtraders.com^
+||smtpauth.ambtraders.com^
 ||mms.amc.com^
 ||amdaws.com^
 ||amdgt.com^
@@ -1996,7 +2004,6 @@
 ||architectoys.com^
 ||archivepornxxx.com^
 ||archlight.com^
-||areligus.com^
 ||arenapoa.com^
 ||arennabg.com^
 ||aretecnologia.com^
@@ -2067,7 +2074,47 @@
 ||atwola.com^
 ||auctiondrop.com^
 ||auctionsbywolf.com^
-||auctionsuccessteam.com^
+||auth.auctionsuccessteam.com^
+||authsmtp.auctionsuccessteam.com^
+||comune.auctionsuccessteam.com^
+||email.auctionsuccessteam.com^
+||gate.auctionsuccessteam.com^
+||hermes.auctionsuccessteam.com^
+||home.auctionsuccessteam.com^
+||imap1.auctionsuccessteam.com^
+||m.auctionsuccessteam.com^
+||mail.auctionsuccessteam.com^
+||mail1.auctionsuccessteam.com^
+||mail10.auctionsuccessteam.com^
+||mail12.auctionsuccessteam.com^
+||mail2.auctionsuccessteam.com^
+||mail3.auctionsuccessteam.com^
+||mail4.auctionsuccessteam.com^
+||mail7.auctionsuccessteam.com^
+||mail9.auctionsuccessteam.com^
+||mailer.auctionsuccessteam.com^
+||mailin.auctionsuccessteam.com^
+||mailrelay.auctionsuccessteam.com^
+||mails.auctionsuccessteam.com^
+||mailx.auctionsuccessteam.com^
+||mx1.auctionsuccessteam.com^
+||mx2.auctionsuccessteam.com^
+||mx5.auctionsuccessteam.com^
+||ns.auctionsuccessteam.com^
+||ns1.auctionsuccessteam.com^
+||po.auctionsuccessteam.com^
+||poczta.auctionsuccessteam.com^
+||pop.auctionsuccessteam.com^
+||post.auctionsuccessteam.com^
+||posta.auctionsuccessteam.com^
+||relay.auctionsuccessteam.com^
+||relay2.auctionsuccessteam.com^
+||server2.auctionsuccessteam.com^
+||smtpauth.auctionsuccessteam.com^
+||www.auctionsuccessteam.com^
+||www1.auctionsuccessteam.com^
+||zimbra.auctionsuccessteam.com^
+||zmail.auctionsuccessteam.com^
 ||audiablepodcast.com^
 ||audience2media.com^
 ||audienceplay.com^
@@ -2183,7 +2230,7 @@
 ||azbnulhupw.com^
 ||azrvahb.com^
 ||vmss-clarity-ingest-eus2-b.eastus2.cloudapp.azure.com^
-||azwear.com^
+||server1.azwear.com^
 ||b0e8.com^
 ||b0oie4xjeb4ite.com^
 ||b2c.com^
@@ -2225,6 +2272,7 @@
 ||bangladeshixnxx.com^
 ||bangolore.com^
 ||banhkofamerica.com^
+||ww11.bank-soal-un.com^
 ||ww16.bank-soal-un.com^
 ||bankaunited.com^
 ||bankforclosedlistings.com^
@@ -2381,7 +2429,8 @@
 ||billigastelanet.com^
 ||billigastforsakring.com^
 ||billing-select.com^
-||billyblank.com^
+||mail.billyblank.com^
+||www.billyblank.com^
 ||billywitchdoctor.com^
 ||bilojobs.com^
 ||binance-gives.com^
@@ -2496,7 +2545,8 @@
 ||boxingfights.com^
 ||boyfrienstv.com^
 ||boyonthenet.com^
-||boysfoob.com^
+||ww1.boysfoob.com^
+||ww25.boysfoob.com^
 ||boystwon.com^
 ||bpdresources.com^
 ||brainient.com^
@@ -2550,10 +2600,9 @@
 ||bruthalove.com^
 ||bsbrowsing.com^
 ||bsctelangana.com^
-||bt-tour.com^
 ||btbshoping.com^
 ||btc-bonus.com^
-||btefair.com^
+||www.btefair.com^
 ||btinternernet.com^
 ||btloader.com^
 ||web.btncdn.com^
@@ -2618,8 +2667,6 @@
 ||c3tag.com^
 ||c43a3cd8f99413891.com^
 ||cacestpourmoi.com^
-||ww1.calendari2012.com^
-||www.calendari2012.com^
 ||californiastatetesting.com^
 ||callawayvip.com^
 ||callawy.com^
@@ -3063,7 +3110,6 @@
 ||cosrtco.com^
 ||costaricaapartment.com^
 ||costcocreditcard.com^
-||cosumerlawfirmcenter.com^
 ||counselorreality.com^
 ||smetrics.couponcabin.com^
 ||couponsurger.com^
@@ -3114,11 +3160,12 @@
 ||crediitone.com^
 ||www.creditcards.com^
 ||creditcardshortpay.com^
-||creditde.com^
+||www.creditde.com^
 ||creditdiadnosis.com^
 ||sponge.creditkarma.com^
 ||tags.creditkarma.com^
 ||metrics.creditreport.com^
+||credkitonebank.com^
 ||crewbuxonline.com^
 ||crickebuzz.com^
 ||cricket-365info.com^
@@ -3868,7 +3915,16 @@
 ||flurry.com^
 ||fluxloop.com^
 ||fly-analytics.com^
-||flyeair.com^
+||com.flyeair.com^
+||email.flyeair.com^
+||mail2.flyeair.com^
+||mailgw.flyeair.com^
+||mailrelay.flyeair.com^
+||mailserver.flyeair.com^
+||ms.flyeair.com^
+||relay1.flyeair.com^
+||sniper.flyeair.com^
+||zmail.flyeair.com^
 ||flyingvintage.com^
 ||fmwold.com^
 ||fodoqur.com^
@@ -4015,7 +4071,7 @@
 ||funtafreeh.com^
 ||futanar.com^
 ||futanarigalleries.com^
-||futureiet.com^
+||www.futureiet.com^
 ||futurelean.com^
 ||futurelectronics.com^
 ||futuristicfifth.com^
@@ -4326,7 +4382,6 @@
 ||guideamour.com^
 ||guieco.com^
 ||guiguiland.com^
-||staging.guisinart.com^
 ||guitarfedish.com^
 ||gukacado.com^
 ||gulfcoastconnections.com^
@@ -4444,12 +4499,6 @@
 ||qab.hextom.com^
 ||spm.hextom.com^
 ||usb.hextom.com^
-||ads.heyzap.com^
-||fyc.heyzap.com^
-||med.heyzap.com^
-||preflight.stage-one.heyzap.com^
-||trends.stage-one.heyzap.com^
-||android.stage-two.heyzap.com^
 ||hfc195b.com^
 ||hfrcl.com^
 ||hfuostp.com^
@@ -4519,6 +4568,7 @@
 ||honeybakeforyou.com^
 ||honybunny.com^
 ||notice.hoopladigital.com^
+||ww16.hooshman-isp.com^
 ||hoptheshop.com^
 ||hormonacrecimiento.com^
 ||horneybuds.com^
@@ -4921,7 +4971,8 @@
 ||jetlore.com^
 ||jetstarairline.com^
 ||jeweleryfactorydirect.com^
-||jewelpets.com^
+||ww1.jewelpets.com^
+||ww11.jewelpets.com^
 ||jhonnysins.com^
 ||jianyuwenhua.com^
 ||jibjabsendables.com^
@@ -5266,7 +5317,6 @@
 ||wlamazcsrv1.live-stripe.com^
 ||ww1.live-stripe.com^
 ||ww35.live-stripe.com^
-||www.live-stripe.com^
 ||liveintent.com^
 ||njs.services.livejournal.com^
 ||xc3.services.livejournal.com^
@@ -5363,6 +5413,7 @@
 ||maccosmeticspro.com^
 ||maccoubreys.com^
 ||machigames.com^
+||machotex.com^
 ||macinstallerinfo.com^
 ||macksites.com^
 ||macmillinmh.com^
@@ -5468,7 +5519,7 @@
 ||masticricket.com^
 ||matchmovies.com^
 ||materialisticfan.com^
-||maternityporn.com^
+||www.maternityporn.com^
 ||mathads.com^
 ||matheranalytics.com^
 ||mathsiit.com^
@@ -6857,7 +6908,6 @@
 ||sacredpages.com^
 ||sadals.com^
 ||safedk.com^
-||ww1.safeharbourgames.com^
 ||www.safeharbourgames.com^
 ||safety-search.com^
 ||safeyoutube.com^
@@ -7332,9 +7382,7 @@
 ||speeddemonskarting.com^
 ||speedosnextdoor.com^
 ||speedracergame.com^
-||ww25.spellenl.com^
 ||ww38.spellenl.com^
-||www.spellenl.com^
 ||spencerretail.com^
 ||attribution.sperry.com^
 ||adtag.sphdigital.com^
@@ -7476,6 +7524,7 @@
 ||suhacuc.com^
 ||suite6ixty6ix.com^
 ||ww11.sulancanews.com^
+||ww25.sulancanews.com^
 ||summerhamster.com^
 ||summervilleseniorliving.com^
 ||sumo.com^
@@ -8244,7 +8293,9 @@
 ||vetements-ethiques.com^
 ||vfgte.com^
 ||vhejafry.com^
+||ww11.vhlcenral.com^
 ||ww25.vhlcenral.com^
+||www.vhlcenral.com^
 ||via9gag.com^
 ||viacaoosasco.com^
 ||s-adobeanalytics.vice.com^
@@ -8686,7 +8737,9 @@
 ||wwwuniteddentalonline.com^
 ||wwwuntrust.com^
 ||wwwustraveldocs.com^
-||wwwusvisa-mexico.com^
+||ww16.wwwusvisa-mexico.com^
+||ww5.wwwusvisa-mexico.com^
+||www.wwwusvisa-mexico.com^
 ||wwwwaptrik.com^
 ||wwwxnnx.com^
 ||wwwyouporno.com^
@@ -8827,7 +8880,6 @@
 ||ycarli.com^
 ||ydigitalmedia.com^
 ||metrics.yellowpages.com^
-||ww25.yelol.com^
 ||yepopo.com^
 ||yesinsights.com^
 ||yestuition.com^
@@ -8921,7 +8973,6 @@
 ||zachbrowser.com^
 ||zaies.com^
 ||zaitzev.com^
-||ww16.zajicjiri.com^
 ||ww25.zajicjiri.com^
 ||ww38.zajicjiri.com^
 ||zalescredit.com^
@@ -9415,7 +9466,6 @@
 ||afreeurl.info^
 ||africanlegends.info^
 ||aftereffectvn.info^
-||ww17.aguu.info^
 ||ahhadesigns.info^
 ||ahmetcan.info^
 ||ainu.info^
@@ -9523,6 +9573,7 @@
 ||baixarjogoscompletos.info^
 ||mvideo.baixartorrent.info^
 ||ww16.baixartorrent.info^
+||ww25.baixartorrent.info^
 ||ww38.baixartorrent.info^
 ||www.baixartorrent.info^
 ||balkaria.info^
@@ -9863,8 +9914,6 @@
 ||fcsite.info^
 ||ferdos.info^
 ||ferienhausinnorwegen.info^
-||ww16.ffy4.info^
-||ww25.ffy4.info^
 ||fieberbrunn.info^
 ||figvam.info^
 ||file156desktop.info^
@@ -10558,9 +10607,7 @@
 ||recepti-i-ideje.info^
 ||red-rose.info^
 ||redhotrealty.info^
-||ww16.mvideo.redup.info^
 ||ww25.mvideo.redup.info^
-||webdisk.redup.info^
 ||ww25.redup.info^
 ||referendumailietuvos.info^
 ||regeneration.info^
@@ -11630,7 +11677,9 @@
 ||coleccionismo.net^
 ||collegelatinas.net^
 ||colorkids.net^
-||commentcamarch.net^
+||droit-finances.commentcamarch.net^
+||ww10.commentcamarch.net^
+||ww16.commentcamarch.net^
 ||community-baptist.net^
 ||comxcast.net^
 ||connecthackensackumc.net^
@@ -11900,7 +11949,6 @@
 ||katespisnups.net^
 ||kbj19.net^
 ||kbpcollegevashi.net^
-||ww1.kccllcc.net^
 ||kerei.net^
 ||kidmose.net^
 ||kinguit.net^
@@ -12707,7 +12755,7 @@
 ||cwuce.org^
 ||cyberthreatcoalition.org^
 ||cylab.org^
-||cytcunoc.org^
+||www.cytcunoc.org^
 ||d6f.org^
 ||dabbetularz.org^
 ||dabomb.org^
@@ -14286,6 +14334,7 @@
 ||device.zhiliaoapp.com^
 ||api.branch.io^
 ||supersonicads-a.akamaihd.net^
+||med.heyzap.com^
 ||api.uca.cloud.unity3d.com^
 ||logs.locarta.co^
 ||postback.pointwise.co^
