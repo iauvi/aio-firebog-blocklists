@@ -3,7 +3,7 @@
 ! Description: All the advertising sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-09T11:11:47.558Z
+! Last modified: 2023-08-10T00:17:13.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2299,28 +2299,16 @@
 -ad-banner-
 -ad-bottom-
 -ad-button-
--ad-choices.
 -ad-column-
 -ad-horizontal.
--ad-left.
--ad-loading.
 -ad-reload.
--ad-resize-
 -ad-right.
--ad-rotator-
 -ad-sidebar-
 -ad-sidebar.
--ad-strip.
--ad-switcher.
--ad-tags.
--ad-tile.
 -ad-top.
 -ad-unit.
--ad-util-
 -ad-util.
--ad-utility-
 -ad-vertical-
--ad-zone.
 -ad.jpg.pagespeed.
 -adbanner.
 -adbox-
@@ -2330,7 +2318,6 @@
 -ads-banner.
 -ads-bottom.
 -ads-right.
--adsense2.
 -adskin.
 -adslots.
 -adsonar.
@@ -12011,7 +11998,6 @@
 ||get-statics.live^
 ||get-things-done.net^
 ||get2nesoft1.ru^
-||getadjacent.com^
 ||getadx.com^
 ||getapo.com^
 ||getbrowbeatgroup.com^
@@ -13398,7 +13384,6 @@
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
-||hyros.com^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
 ||hyyaofjnidwiyg.com^
@@ -27388,6 +27373,7 @@
 ||horse-racing-affiliate-program.co.uk^
 ||hot-mob.com^
 ||hotelscombined.com.au^
+||hyros.com^
 ||ibannerexchange.com^
 ||icorp.ro^
 ||idreammedia.com^
@@ -43827,6 +43813,7 @@
 ||tracking.emilyclarkconsulting.com^
 ||tracking.epicgames.com^
 ||tracking.exipure.com^
+||tracking.hyros.com^
 ||tracking.ibxlink.com^
 ||tracking.intentsify.io^
 ||tracking.jiffyworld.com^
