@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-10T00:18:04.841Z
+! Last modified: 2023-08-10T11:23:48.580Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1303,7 +1303,7 @@
 ||2partyhard.com^
 ||2sshoes.com^
 ||33across.com^
-||360bwin.com^
+||ww16.360bwin.com^
 ||360safe.com^
 ||360yield.com^
 ||362b643a66026e.com^
@@ -1732,7 +1732,6 @@
 ||analytics.us.algolia.com^
 ||recommendation.us.algolia.com^
 ||algovid.com^
-||alianzavisual.com^
 ||aliasusa.com^
 ||alibabavision.com^
 ||alibexpress.com^
@@ -1922,7 +1921,6 @@
 ||antvoice.com^
 ||anunfree.com^
 ||anwswatch.com^
-||anyserial.com^
 ||adinfo.aol.com^
 ||aolomail.com^
 ||aovivo.com^
@@ -2166,13 +2164,11 @@
 ||authsmtp.awtank.com^
 ||com.awtank.com^
 ||comune.awtank.com^
-||cs.awtank.com^
 ||direct.awtank.com^
 ||email.awtank.com^
 ||gw.awtank.com^
 ||hermes.awtank.com^
 ||host.awtank.com^
-||imap1.awtank.com^
 ||imap2.awtank.com^
 ||internet.awtank.com^
 ||ipe.awtank.com^
@@ -2180,7 +2176,6 @@
 ||mail4.awtank.com^
 ||mail8.awtank.com^
 ||mailapp.awtank.com^
-||mailbox.awtank.com^
 ||mailer.awtank.com^
 ||mailgate.awtank.com^
 ||mailgw.awtank.com^
@@ -2193,11 +2188,9 @@
 ||mx10.awtank.com^
 ||mx2.awtank.com^
 ||mx20.awtank.com^
-||mx5.awtank.com^
 ||mydevice.awtank.com^
 ||newmail.awtank.com^
 ||pbrand.awtank.com^
-||poczta.awtank.com^
 ||post.awtank.com^
 ||relay.awtank.com^
 ||secure.awtank.com^
@@ -2208,10 +2201,8 @@
 ||sniper.awtank.com^
 ||srv.awtank.com^
 ||ssl.awtank.com^
-||thor.awtank.com^
 ||tiger.awtank.com^
 ||tw.awtank.com^
-||vip.awtank.com^
 ||vmail.awtank.com^
 ||vnet.awtank.com^
 ||vps.awtank.com^
@@ -2221,7 +2212,6 @@
 ||work.awtank.com^
 ||www-origin.awtank.com^
 ||www1.awtank.com^
-||www2.awtank.com^
 ||zimbra.awtank.com^
 ||axonix.com^
 ||axrawjk.com^
@@ -2230,13 +2220,12 @@
 ||azbnulhupw.com^
 ||azrvahb.com^
 ||vmss-clarity-ingest-eus2-b.eastus2.cloudapp.azure.com^
-||server1.azwear.com^
 ||b0e8.com^
 ||b0oie4xjeb4ite.com^
 ||b2c.com^
 ||b5e75c56.com^
 ||bab-el-oued.com^
-||babesatomy.com^
+||www.babesatomy.com^
 ||babiesru.com^
 ||babrbiegirl.com^
 ||babybotttlepop.com^
@@ -2272,8 +2261,11 @@
 ||bangladeshixnxx.com^
 ||bangolore.com^
 ||banhkofamerica.com^
+||ww1.bank-soal-un.com^
 ||ww11.bank-soal-un.com^
 ||ww16.bank-soal-un.com^
+||ww25.bank-soal-un.com^
+||ww38.bank-soal-un.com^
 ||bankaunited.com^
 ||bankforclosedlistings.com^
 ||bankmeli.com^
@@ -3427,6 +3419,7 @@
 ||disneychany.com^
 ||disneycollegeprograms.com^
 ||disneycruie.com^
+||ww1.disneydx.com^
 ||www.disneydx.com^
 ||sales.disneylandparis.com^
 ||disneylivingonline.com^
@@ -3671,7 +3664,6 @@
 ||endoftheworld22.com^
 ||endofworld44.com^
 ||energeticladybug.com^
-||www.energybrokerconsultants.com^
 ||engageclick.com^
 ||engagecore.com^
 ||engagefront.com^
@@ -3915,16 +3907,6 @@
 ||flurry.com^
 ||fluxloop.com^
 ||fly-analytics.com^
-||com.flyeair.com^
-||email.flyeair.com^
-||mail2.flyeair.com^
-||mailgw.flyeair.com^
-||mailrelay.flyeair.com^
-||mailserver.flyeair.com^
-||ms.flyeair.com^
-||relay1.flyeair.com^
-||sniper.flyeair.com^
-||zmail.flyeair.com^
 ||flyingvintage.com^
 ||fmwold.com^
 ||fodoqur.com^
@@ -4628,7 +4610,6 @@
 ||hronestop.com^
 ||hs-banner.com^
 ||hs-scripts.com^
-||ww1.hsbcmf.com^
 ||www.hsbcmf.com^
 ||hst-rc.com^
 ||htlbid.com^
@@ -4972,7 +4953,6 @@
 ||jetstarairline.com^
 ||jeweleryfactorydirect.com^
 ||ww1.jewelpets.com^
-||ww11.jewelpets.com^
 ||jhonnysins.com^
 ||jianyuwenhua.com^
 ||jibjabsendables.com^
@@ -5085,27 +5065,34 @@
 ||keogers.com^
 ||antispam.keopz.com^
 ||art.keopz.com^
+||auth.keopz.com^
 ||barracuda.keopz.com^
 ||com.keopz.com^
 ||correo.keopz.com^
 ||eml.keopz.com^
 ||gw.keopz.com^
+||home.keopz.com^
 ||host.keopz.com^
 ||internet.keopz.com^
 ||m.keopz.com^
 ||mail.keopz.com^
 ||mail02.keopz.com^
 ||mail11.keopz.com^
+||mail4.keopz.com^
 ||mail5.keopz.com^
 ||mailbox.keopz.com^
 ||mailer.keopz.com^
 ||mailgate.keopz.com^
+||mailgw.keopz.com^
 ||mailin.keopz.com^
+||mailout.keopz.com^
 ||mailrelay.keopz.com^
 ||mails.keopz.com^
 ||mailserver.keopz.com^
+||mailsrv.keopz.com^
 ||mta.keopz.com^
 ||mx.keopz.com^
+||mx01.keopz.com^
 ||mx10.keopz.com^
 ||mx2.keopz.com^
 ||mx20.keopz.com^
@@ -5116,11 +5103,14 @@
 ||ns.keopz.com^
 ||ns1.keopz.com^
 ||po.keopz.com^
+||pop.keopz.com^
 ||post.keopz.com^
 ||relay1.keopz.com^
 ||root.keopz.com^
 ||server.keopz.com^
 ||server1.keopz.com^
+||server2.keopz.com^
+||smtpseguro.keopz.com^
 ||srv.keopz.com^
 ||ssl.keopz.com^
 ||tiger.keopz.com^
@@ -5316,7 +5306,6 @@
 ||live-mocha.com^
 ||wlamazcsrv1.live-stripe.com^
 ||ww1.live-stripe.com^
-||ww35.live-stripe.com^
 ||liveintent.com^
 ||njs.services.livejournal.com^
 ||xc3.services.livejournal.com^
@@ -5807,6 +5796,8 @@
 ||mucabrasil.com^
 ||mucho-hentai.com^
 ||multiext.com^
+||ww2.mummy8.com^
+||ww35.mummy8.com^
 ||musakachat.com^
 ||muscleandfitnessforum.com^
 ||musclehero.com^
@@ -6272,8 +6263,6 @@
 ||pargon.com^
 ||paris-saillard.com^
 ||ww16.parishotelandcasino.com^
-||ww25.parishotelandcasino.com^
-||ww38.parishotelandcasino.com^
 ||parkplacemotors.com^
 ||parrz.com^
 ||parsely.com^
@@ -6303,7 +6292,6 @@
 ||peecorner.com^
 ||cobrowse.pega.com^
 ||pegnya.com^
-||peixerbano.com^
 ||peixonauta.com^
 ||peliculasxxxflv.com^
 ||peliculawarez.com^
@@ -6564,6 +6552,7 @@
 ||punishtub.com^
 ||punishtubbe.com^
 ||ww25.punsup.com^
+||www.punsup.com^
 ||purch.com^
 ||puresweeteners.com^
 ||pursuanthealth.com^
@@ -7284,7 +7273,7 @@
 ||smencies.com^
 ||api.smg.com^
 ||smilewanted.com^
-||smokefirealarms.com^
+||www.smokefirealarms.com^
 ||smokeykin.com^
 ||smokeymouth.com^
 ||smratdate.com^
@@ -7770,7 +7759,6 @@
 ||thehearingaidscenter.com^
 ||thehomesecuritysystemsguide.com^
 ||thejewelerybox.com^
-||thelastestnews.com^
 ||theluckyone.com^
 ||themariogame.com^
 ||themasonjarcafe.com^
@@ -8293,6 +8281,7 @@
 ||vetements-ethiques.com^
 ||vfgte.com^
 ||vhejafry.com^
+||aaa.vhlcenral.com^
 ||ww11.vhlcenral.com^
 ||ww25.vhlcenral.com^
 ||www.vhlcenral.com^
@@ -8310,7 +8299,6 @@
 ||videmob.com^
 ||video-dating.com^
 ||videoamp.com^
-||videocourtesclic.com^
 ||videod2h.com^
 ||videoduma.com^
 ||videoincest.com^
@@ -8412,6 +8400,7 @@
 ||link.wacom.com^
 ||wadknisse.com^
 ||ww25.wadsfasg.com^
+||ww38.wadsfasg.com^
 ||wahlgreens.com^
 ||wakanetwork.com^
 ||smetrics.walgreens.com^
@@ -8685,9 +8674,7 @@
 ||wwwflhealthsource.com^
 ||wwwfonacot.com^
 ||ww11.wwwfrev.com^
-||ww25.wwwfrev.com^
 ||ww35.wwwfrev.com^
-||ww38.wwwfrev.com^
 ||wwwfrif.com^
 ||wwwgasparense.com^
 ||wwwgeonumbers.com^
@@ -8974,7 +8961,6 @@
 ||zaies.com^
 ||zaitzev.com^
 ||ww25.zajicjiri.com^
-||ww38.zajicjiri.com^
 ||zalescredit.com^
 ||zaluucom.com^
 ||zambianairways.com^
@@ -9012,7 +8998,7 @@
 ||zillowmap.com^
 ||zineone.com^
 ||zizzhut.com^
-||zkkkladno.com^
+||ww25.zkkkladno.com^
 ||zlbtaj.com^
 ||creator.zmags.com^
 ||zmenmuol.com^
@@ -9322,7 +9308,6 @@
 ||sextube.co.il^
 ||shlof.co.il^
 ||sigaliot-design.co.il^
-||silexica.co.il^
 ||sisuguard.co.il^
 ||sovanightguard.co.il^
 ||sportech.co.il^
@@ -9414,7 +9399,6 @@
 ||177piczz.info^
 ||1929barry.info^
 ||1bollywood1.info^
-||1finalmovie.info^
 ||1rhp.info^
 ||1seautotoonorn.info^
 ||2clik.info^
@@ -9523,7 +9507,6 @@
 ||ww17.aroundthe-world.info^
 ||ww38.aroundthe-world.info^
 ||www.aroundthe-world.info^
-||www70.aroundthe-world.info^
 ||artecrochet.info^
 ||arterienverkalkung.info^
 ||arteycultura.info^
@@ -9571,11 +9554,7 @@
 ||bahth.info^
 ||bailu888.info^
 ||baixarjogoscompletos.info^
-||mvideo.baixartorrent.info^
-||ww16.baixartorrent.info^
-||ww25.baixartorrent.info^
-||ww38.baixartorrent.info^
-||www.baixartorrent.info^
+||baixartorrent.info^
 ||balkaria.info^
 ||bancurifunny.info^
 ||bandwurm.info^
@@ -9935,7 +9914,9 @@
 ||forkhost.info^
 ||formadv.info^
 ||formenterazen.info^
-||forthewomen.info^
+||ww25.forthewomen.info^
+||ww38.forthewomen.info^
+||www.forthewomen.info^
 ||fotomodelle.info^
 ||fotomodels.info^
 ||fotoway.info^
@@ -9958,9 +9939,6 @@
 ||futjakot.info^
 ||futurestudys.info^
 ||fxaction.info^
-||ww17.fxwl.info^
-||ww25.fxwl.info^
-||ww38.fxwl.info^
 ||fyo.info^
 ||g75v47q60.info^
 ||gaigoisaigon.info^
@@ -10134,6 +10112,7 @@
 ||irkut.info^
 ||isea2016.info^
 ||isong.info^
+||www.it-notes.info^
 ||it-stuff.info^
 ||itsdogbreeds.info^
 ||ivory.info^
@@ -10573,7 +10552,6 @@
 ||puntolimpio.info^
 ||pusat-bahasa.info^
 ||putana.info^
-||www.pword.info^
 ||que-significa-mi-nombre.info^
 ||quepaso.info^
 ||quicktime-download.info^
@@ -10607,8 +10585,6 @@
 ||recepti-i-ideje.info^
 ||red-rose.info^
 ||redhotrealty.info^
-||ww25.mvideo.redup.info^
-||ww25.redup.info^
 ||referendumailietuvos.info^
 ||regeneration.info^
 ||register-news-24h.info^
@@ -11125,7 +11101,6 @@
 ||kayzen.io^
 ||keen.io^
 ||segment.kilometer.io^
-||kindmetrics.io^
 ||ladatab.io^
 ||leadware.io^
 ||lemonpi.io^
@@ -12224,7 +12199,8 @@
 ||incoming-telemetry.thunderbird.net^
 ||timecommerce.net^
 ||tinh1gio.net^
-||todaysnewsupdates.net^
+||search.todaysnewsupdates.net^
+||www.todaysnewsupdates.net^
 ||todaytvseries.net^
 ||totalh.net^
 ||tplikmodem.net^
@@ -13298,8 +13274,6 @@
 ||monterfiore.org^
 ||monticelloar.org^
 ||unmissions.monusco.org^
-||ww1.monusco.org^
-||ww38.monusco.org^
 ||www.monusco.org^
 ||mooseint1.org^
 ||moseintl.org^
