@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-10T23:40:49.054Z
+! Last modified: 2023-08-11T11:12:51.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2188,7 +2188,6 @@
 ||mx10.awtank.com^
 ||mx2.awtank.com^
 ||mx20.awtank.com^
-||mydevice.awtank.com^
 ||newmail.awtank.com^
 ||pbrand.awtank.com^
 ||post.awtank.com^
@@ -2206,11 +2205,6 @@
 ||vmail.awtank.com^
 ||vnet.awtank.com^
 ||vps.awtank.com^
-||watch.awtank.com^
-||widget.awtank.com^
-||widgets.awtank.com^
-||work.awtank.com^
-||www-origin.awtank.com^
 ||www1.awtank.com^
 ||zimbra.awtank.com^
 ||axonix.com^
@@ -2261,11 +2255,7 @@
 ||bangladeshixnxx.com^
 ||bangolore.com^
 ||banhkofamerica.com^
-||ww1.bank-soal-un.com^
-||ww11.bank-soal-un.com^
-||ww16.bank-soal-un.com^
-||ww25.bank-soal-un.com^
-||ww38.bank-soal-un.com^
+||bank-soal-un.com^
 ||bankaunited.com^
 ||bankforclosedlistings.com^
 ||bankmeli.com^
@@ -2292,7 +2282,9 @@
 ||baremetrics.com^
 ||baristand.com^
 ||barnsleyloftandpigeon.com^
-||barrettcars.com^
+||ww1.barrettcars.com^
+||ww16.barrettcars.com^
+||ww25.barrettcars.com^
 ||barsabon.com^
 ||baseballsave.com^
 ||omnis.basspro.com^
@@ -2392,7 +2384,7 @@
 ||bgstechnik.com^
 ||bhandarimaruti.com^
 ||bhandhan.com^
-||bheyafry.com^
+||ww16.bheyafry.com^
 ||bhringer.com^
 ||bibng.com^
 ||bidberrymedia.com^
@@ -2504,7 +2496,6 @@
 ||bokepfull.com^
 ||boldbdsm.com^
 ||boldchat.com^
-||bombome.com^
 ||bombomme.com^
 ||bombora.com^
 ||bonbardier.com^
@@ -2762,7 +2753,6 @@
 ||cstat.cdn-apple.com^
 ||cdn-jquery.com^
 ||cdnativ.com^
-||cdnmediafire.com^
 ||cdnopw.com^
 ||i.cdnpark.com^
 ||cdnsoar.com^
@@ -3532,7 +3522,6 @@
 ||dtw-zelte.com^
 ||dtxngr.com^
 ||ducel.com^
-||dufibepe.com^
 ||dumbpop.com^
 ||dunill.com^
 ||excess.duolingo.com^
@@ -4460,7 +4449,6 @@
 ||hellospy.com^
 ||helmbanck.com^
 ||helpinghandshomeimprovement.com^
-||www.henrysheinrxsamples.com^
 ||herfirstpregnancy.com^
 ||anti-theft-web.herokuapp.com^
 ||ao-freegeoip.herokuapp.com^
@@ -4550,7 +4538,7 @@
 ||honeybakeforyou.com^
 ||honybunny.com^
 ||notice.hoopladigital.com^
-||ww16.hooshman-isp.com^
+||hooshman-isp.com^
 ||hoptheshop.com^
 ||hormonacrecimiento.com^
 ||horneybuds.com^
@@ -4902,6 +4890,7 @@
 ||iueast.com^
 ||ividplayer.com^
 ||americansforprosperity.ivolunteers.com^
+||en.iwkipedia.com^
 ||ixiaa.com^
 ||jabardasti.com^
 ||jacquiwlawson.com^
@@ -5063,66 +5052,13 @@
 ||kenya-aiways.com^
 ||kenyarevenueauthority.com^
 ||keogers.com^
-||antispam.keopz.com^
-||art.keopz.com^
-||auth.keopz.com^
-||barracuda.keopz.com^
-||com.keopz.com^
-||correo.keopz.com^
-||eml.keopz.com^
-||gw.keopz.com^
-||home.keopz.com^
-||host.keopz.com^
-||internet.keopz.com^
-||m.keopz.com^
-||mail.keopz.com^
-||mail02.keopz.com^
-||mail11.keopz.com^
-||mail4.keopz.com^
-||mail5.keopz.com^
-||mailbox.keopz.com^
-||mailer.keopz.com^
-||mailgate.keopz.com^
-||mailgw.keopz.com^
-||mailin.keopz.com^
-||mailout.keopz.com^
-||mailrelay.keopz.com^
-||mails.keopz.com^
-||mailserver.keopz.com^
-||mailsrv.keopz.com^
-||mta.keopz.com^
-||mx.keopz.com^
-||mx01.keopz.com^
-||mx10.keopz.com^
-||mx2.keopz.com^
-||mx20.keopz.com^
-||mx4.keopz.com^
-||mx5.keopz.com^
-||mx7.keopz.com^
-||newmail.keopz.com^
-||ns.keopz.com^
-||ns1.keopz.com^
-||po.keopz.com^
-||pop.keopz.com^
-||post.keopz.com^
-||relay1.keopz.com^
-||root.keopz.com^
-||server.keopz.com^
-||server1.keopz.com^
-||server2.keopz.com^
-||smtpseguro.keopz.com^
-||srv.keopz.com^
-||ssl.keopz.com^
-||tiger.keopz.com^
-||vip.keopz.com^
-||www.keopz.com^
+||keopz.com^
 ||kerman94.com^
 ||kew-village.com^
 ||keywordblocks.com^
 ||kfeawfjatxpi.com^
 ||kgfjrb711.com^
 ||khingtracking.com^
-||khuds.com^
 ||kiadealer.com^
 ||kicks-lab.com^
 ||pixel.kiitties.com^
@@ -5334,8 +5270,6 @@
 ||locationserve.com^
 ||lockandloadtyler.com^
 ||lockedandload.com^
-||ads.lockedonmedia.com^
-||ww1.lockedonmedia.com^
 ||lockerdome.com^
 ||locsensads.com^
 ||logbor.com^
@@ -5419,6 +5353,7 @@
 ||mageplastikk.com^
 ||magicobux.com^
 ||magictraps.com^
+||magjan.com^
 ||magic-analytics.magmic.com^
 ||magmypics.com^
 ||magnificentmist.com^
@@ -5443,7 +5378,7 @@
 ||maitresse.com^
 ||makkahhilton.com^
 ||malaysianewsjournal.com^
-||malhotraflowers.com^
+||ww16.malhotraflowers.com^
 ||malibupalities.com^
 ||mallusexy.com^
 ||malsup.com^
@@ -5676,7 +5611,6 @@
 ||ml-attr.com^
 ||ml314.com^
 ||mm-syringe.com^
-||www.mmo-campion.com^
 ||mmstat.com^
 ||mmtro.com^
 ||mmvoice.com^
@@ -5702,6 +5636,8 @@
 ||mobsuccess.com^
 ||mobusi.com^
 ||auth.mocrosoftonline.com^
+||bdm.mocrosoftonline.com^
+||comune.mocrosoftonline.com^
 ||email.mocrosoftonline.com^
 ||imap2.mocrosoftonline.com^
 ||isoc-net.mocrosoftonline.com^
@@ -5709,20 +5645,26 @@
 ||ww25.login.mocrosoftonline.com^
 ||ww38.login.mocrosoftonline.com^
 ||ww25.logion.mocrosoftonline.com^
+||mail.mocrosoftonline.com^
 ||mail1.mocrosoftonline.com^
 ||mailer.mocrosoftonline.com^
 ||mailgate.mocrosoftonline.com^
 ||mailin.mocrosoftonline.com^
 ||mailserver.mocrosoftonline.com^
+||mbox.mocrosoftonline.com^
+||mta.mocrosoftonline.com^
+||mx01.mocrosoftonline.com^
 ||mx1.mocrosoftonline.com^
 ||passwordreset.mocrosoftonline.com^
 ||portail.mocrosoftonline.com^
 ||ww35.portal.mocrosoftonline.com^
 ||server.mocrosoftonline.com^
 ||smtps.mocrosoftonline.com^
+||vmail.mocrosoftonline.com^
 ||ww1.mocrosoftonline.com^
 ||ww31.mocrosoftonline.com^
 ||ww35.mocrosoftonline.com^
+||ww38.mocrosoftonline.com^
 ||www.mocrosoftonline.com^
 ||modacomeia.com^
 ||moderndesignlamps.com^
@@ -5790,7 +5732,6 @@
 ||h6.msn.com^
 ||srtb.msn.com^
 ||tags.msnbc.com^
-||ww1.mssharepointdevelopers.com^
 ||mtnresorts.com^
 ||mtway.com^
 ||mucabrasil.com^
@@ -5809,7 +5750,6 @@
 ||musk-event.com^
 ||muskgive.com^
 ||muslimexweb.com^
-||ww2.muslims4marriag.com^
 ||www.muslims4marriag.com^
 ||mustang50thbirthdaycelebration.com^
 ||mvat.com^
@@ -6012,7 +5952,12 @@
 ||nigomy.com^
 ||nihulhon.com^
 ||nikbor.com^
-||ninaloca.com^
+||mailserver.ninaloca.com^
+||mx2.ninaloca.com^
+||ns2.ninaloca.com^
+||post.ninaloca.com^
+||ww16.ninaloca.com^
+||ww38.ninaloca.com^
 ||ninesmsn.com^
 ||ninjakloack.com^
 ||ninjapd.com^
@@ -6897,7 +6842,6 @@
 ||sacredpages.com^
 ||sadals.com^
 ||safedk.com^
-||www.safeharbourgames.com^
 ||safety-search.com^
 ||safeyoutube.com^
 ||saffronsshanklin.com^
@@ -7095,7 +7039,6 @@
 ||sercheshub-donate-cars.com^
 ||serconmp.com^
 ||series-fc.com^
-||ww25.seriestvx.com^
 ||serranoimoveis.com^
 ||servebom.com^
 ||p.servedat.com^
@@ -7371,7 +7314,6 @@
 ||speeddemonskarting.com^
 ||speedosnextdoor.com^
 ||speedracergame.com^
-||ww38.spellenl.com^
 ||spencerretail.com^
 ||attribution.sperry.com^
 ||adtag.sphdigital.com^
@@ -7514,6 +7456,7 @@
 ||suite6ixty6ix.com^
 ||ww11.sulancanews.com^
 ||ww25.sulancanews.com^
+||www.sulancanews.com^
 ||summerhamster.com^
 ||summervilleseniorliving.com^
 ||sumo.com^
@@ -8067,7 +8010,6 @@
 ||ultreach.com^
 ||umassfootball.com^
 ||tracker.unbxdapi.com^
-||ww5.uncghana.com^
 ||unclepeppers.com^
 ||underdogmedia.com^
 ||undertone.com^
@@ -8281,10 +8223,7 @@
 ||vetements-ethiques.com^
 ||vfgte.com^
 ||vhejafry.com^
-||aaa.vhlcenral.com^
-||ww11.vhlcenral.com^
-||ww25.vhlcenral.com^
-||www.vhlcenral.com^
+||vhlcenral.com^
 ||via9gag.com^
 ||viacaoosasco.com^
 ||s-adobeanalytics.vice.com^
@@ -8673,8 +8612,6 @@
 ||wwwfaberlic.com^
 ||wwwflhealthsource.com^
 ||wwwfonacot.com^
-||ww11.wwwfrev.com^
-||ww35.wwwfrev.com^
 ||wwwfrif.com^
 ||wwwgasparense.com^
 ||wwwgeonumbers.com^
@@ -8724,7 +8661,6 @@
 ||wwwuniteddentalonline.com^
 ||wwwuntrust.com^
 ||wwwustraveldocs.com^
-||ww16.wwwusvisa-mexico.com^
 ||ww5.wwwusvisa-mexico.com^
 ||www.wwwusvisa-mexico.com^
 ||wwwwaptrik.com^
@@ -8998,7 +8934,6 @@
 ||zillowmap.com^
 ||zineone.com^
 ||zizzhut.com^
-||ww25.zkkkladno.com^
 ||zlbtaj.com^
 ||creator.zmags.com^
 ||zmenmuol.com^
@@ -9503,10 +9438,6 @@
 ||post.aroundthe-world.info^
 ||relay.aroundthe-world.info^
 ||smtp01.aroundthe-world.info^
-||ww11.aroundthe-world.info^
-||ww17.aroundthe-world.info^
-||ww38.aroundthe-world.info^
-||www.aroundthe-world.info^
 ||artecrochet.info^
 ||arterienverkalkung.info^
 ||arteycultura.info^
@@ -9803,6 +9734,7 @@
 ||domowybudzet.info^
 ||donpennington.info^
 ||donquixotesmusic.info^
+||dotb.info^
 ||doubleup.info^
 ||downclub.info^
 ||downloader.info^
@@ -10128,7 +10060,13 @@
 ||jayrigby.info^
 ||jebar.info^
 ||jetztodernie.info^
-||jezdeckaskola.info^
+||cpcontacts.jezdeckaskola.info^
+||mail.jezdeckaskola.info^
+||ww1.jezdeckaskola.info^
+||ww11.jezdeckaskola.info^
+||ww25.jezdeckaskola.info^
+||ww38.jezdeckaskola.info^
+||www.jezdeckaskola.info^
 ||jianyue.info^
 ||jinan.info^
 ||jinseikenko.info^
@@ -10720,8 +10658,7 @@
 ||sqmf.info^
 ||sserbanro.info^
 ||ssf2online.info^
-||ww25.ssmatomeantenna.info^
-||www.ssmatomeantenna.info^
+||ssmatomeantenna.info^
 ||stafabanddl.info^
 ||startbeestlife.info^
 ||stato.info^
@@ -10831,7 +10768,9 @@
 ||torjacka.info^
 ||torrentgamesps2.info^
 ||torrentsave.info^
-||tosec.info^
+||ww11.tosec.info^
+||ww25.tosec.info^
+||ww38.tosec.info^
 ||totoarena.info^
 ||touring24.info^
 ||toutsurtlemcen.info^
@@ -12370,7 +12309,8 @@
 ||511mo.org^
 ||51av.org^
 ||51avi.org^
-||55n3.org^
+||ww16.55n3.org^
+||ww38.55n3.org^
 ||57so.org^
 ||5lu.org^
 ||666av.org^
@@ -12414,7 +12354,9 @@
 ||acrhive.org^
 ||action-social.org^
 ||actionfraud.org^
-||actionsenfance.org^
+||mx.actionsenfance.org^
+||ww17.actionsenfance.org^
+||www.actionsenfance.org^
 ||adah.org^
 ||adblocplus.org^
 ||addblock.org^
@@ -12731,7 +12673,6 @@
 ||cwuce.org^
 ||cyberthreatcoalition.org^
 ||cylab.org^
-||www.cytcunoc.org^
 ||d6f.org^
 ||dabbetularz.org^
 ||dabomb.org^
@@ -12823,6 +12764,7 @@
 ||email-verify.org^
 ||emblemsales.org^
 ||emetministries.org^
+||enfieldhomes.org^
 ||engineersrule.org^
 ||englisforeveryone.org^
 ||english-heritage.org^
@@ -13273,7 +13215,6 @@
 ||monkeyradio.org^
 ||monterfiore.org^
 ||monticelloar.org^
-||unmissions.monusco.org^
 ||www.monusco.org^
 ||mooseint1.org^
 ||moseintl.org^
