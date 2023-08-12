@@ -3,7 +3,7 @@
 ! Description: All the suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-12T11:24:09.082Z
+! Last modified: 2023-08-12T23:52:06.018Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7169,6 +7169,7 @@
 ||856b81d6a45.chefs-kitchen.co.uk^
 ||858b8070bf4a6f6a850a8120c8636b50.ll-pl.co.pl^
 ||859b9a0cf48f74664198bc6d678350f1.alldom.co.pl^
+||859ca1584aaa252eddc5e536b816f432.patrycjako.pl^
 ||861zgloszenie.site^
 ||863f8f2126dadc9cb0106fcfdf9b1eba.nyoh.pl^
 ||865aa8b6b72880e2947d422a0a4e3231.ztaho.pl^
@@ -10923,6 +10924,7 @@
 ||aktualizacja-991587-faktury.knto-app.co.pl^
 ||aktualizacja-cyberatak-ug.weebly.com^
 ||aktualizacja-kont.weebly.com^
+||aktualizacja-pakietu.com^
 ||aktualizacja-plat.kontontf.live^
 ||aktualizacja-platnosci.idlenetfixa.fun^
 ||aktualizacja-platnosci.netafix-pl.one^
@@ -13404,6 +13406,7 @@
 ||auto-domain2-manaliner.pbclimbing.co.uk^
 ||auto-fortecki.pl^
 ||auto-gielda24.net.pl^
+||auto-gielda24.pl^
 ||auto-glaze.com^
 ||auto-grabowski.pl^
 ||auto-handel24.net.pl^
@@ -22258,6 +22261,7 @@
 ||d81018b07b4fdfd066659e96754f1893.ll-pl.co.pl^
 ||d89062ad740e1be86336cef1b21ed62c.acalgo.co.pl^
 ||d107683f34be81811747dbb7f8da479c.infoser.pl^
+||d356368e18c71344c229d5e25821da7a.patrycjako.pl^
 ||d487941aac796f905ab9c962b986ae4f.al-pl.co.pl^
 ||d586965ede3782716f7ed8eadc227e64.krokla.co.pl^
 ||d705011c41b714b88a2add8993cf7201.podlaw.co.pl^
@@ -23127,6 +23131,7 @@
 ||debu92837a923-li28dsa72.triatlo.co.pl^
 ||debusing.live^
 ||debymedia.buzz^
+||decadewinter.com^
 ||decalit.pl^
 ||decalscreator.com^
 ||decapitalising.com^
@@ -23352,6 +23357,7 @@
 ||delivery-allegrolokalnie.48755112.xyz^
 ||delivery-allegrolokalnie.6154215484.xyz^
 ||delivery-d-pd.6877564443.xyz^
+||delivery-dhl-parcel-track.com^
 ||delivery-dp-d.4412121.xyz^
 ||delivery-dpd.6560000.xyz^
 ||delivery-dpd.64684512.xyz^
@@ -42145,6 +42151,7 @@
 ||kardalenasklep.pl^
 ||kardana-sklep.pl^
 ||kardanasklep.pl^
+||kardelenpark.com^
 ||kardenasklep.pl^
 ||kardola-sklep.pl^
 ||kardolasklep.pl^
@@ -44118,6 +44125,7 @@
 ||labtimetoanswer.com^
 ||laccen.site^
 ||laccetap.welcme-proftr.site^
+||lacer-offers.com^
 ||laciestmo.com^
 ||lacosta.livesketo.site^
 ||lacrdesquit.site^
@@ -45462,6 +45470,7 @@
 ||lnpost.loubnany.space^
 ||lnpost.lovinaglobal.site^
 ||lnpost.lryu.site^
+||lnpost.magnna.space^
 ||lnpost.magog.lol^
 ||lnpost.mahindra.shop^
 ||lnpost.manlka.space^
@@ -45577,6 +45586,7 @@
 ||lnpost.terustwallet.online^
 ||lnpost.theprince.tech^
 ||lnpost.thucung.top^
+||lnpost.tigome.space^
 ||lnpost.timeta.top^
 ||lnpost.tomgo.website^
 ||lnpost.tonkatsudj.online^
@@ -45968,6 +45978,7 @@
 ||lokalne-newsy24.waw.pl^
 ||lokalne-oferty24.pl^
 ||lokalne-oferty24h.pl^
+||lokalne-oglaszanie24.pl^
 ||lokalne-ogloszenia24.pl^
 ||lokalne-ogloszenia.pl^
 ||lokalne-wydarzenia24.eu5.net^
@@ -47210,6 +47221,7 @@
 ||marketjnpost.45120012.xyz^
 ||marketjnpost.55666021.xyz^
 ||marketjnpoz-t.3999584555.xyz^
+||marketmalopolski.pl^
 ||marketmazowiecki.pl^
 ||marketmazowsze.pl^
 ||marketmmagnett.site^
@@ -47654,6 +47666,7 @@
 ||mazowieckie-auta.pl^
 ||mazowsze-info24.xyz^
 ||mazowsze-ogloszenia.pl^
+||mazowsze-ogloszenie.pl^
 ||mazowszegazeta.xyz^
 ||mazowszeinfo24.xyz^
 ||mazuts.life^
@@ -49487,6 +49500,7 @@
 ||motivationify.com^
 ||motive-business.online^
 ||moto-auta.pl^
+||moto-gielda24.pl^
 ||moto-handlowcy24.pl^
 ||moto-rynek24.net.pl^
 ||moto-rynek24.pl^
@@ -49514,6 +49528,7 @@
 ||motoryzacje-sklep.pl^
 ||motoryzacyjne-ogloszenia.pl^
 ||motosprzedaz-polska.pl^
+||mototo24.net.pl^
 ||mottohandel.pl^
 ||motys.pl^
 ||mouggistrim.site^
@@ -52796,10 +52811,12 @@
 ||ogioszenia-diaciebie.pl^
 ||ogioszenia-dlaciebie.pl^
 ||ogioszenia-komis.pl^
+||ogioszenia-motoryzacyjne24.pl^
 ||ogioszenia-motoryzacyjne.pl^
 ||ogioszenia-okazje.pl^
 ||ogioszenia-poiska.pl^
 ||ogioszenia-poiskie.pl^
+||ogioszenia-polska24.pl^
 ||ogioszenia-polska.pl^
 ||ogioszenia-samochodowe.pl^
 ||ogioszenia-samochody.pl^
@@ -52826,6 +52843,7 @@
 ||oglaszajmypolska.pl^
 ||oglaszam-olx.pl^
 ||oglaszamy-lokalnie.pl^
+||oglaszamy-polska.pl^
 ||oglaszamy-sprzedaz.pl^
 ||oglaszamy-warszawa.pl^
 ||oglaszamy-wyniki.pl^
@@ -52853,6 +52871,7 @@
 ||ogloszenia-lokalnie.pl^
 ||ogloszenia-market.pl^
 ||ogloszenia-meble.pl^
+||ogloszenia-motoryzacja24.pl^
 ||ogloszenia-okazja.pl^
 ||ogloszenia-okazje24.pl^
 ||ogloszenia-okazji.pl^
@@ -57460,6 +57479,7 @@
 ||outchidedr.pl^
 ||outcropsdo.pl^
 ||outdoersas.com^
+||outdoorc.sbs^
 ||outdoorkitchensandpatios.com^
 ||outeditspacemedia.webflow.io^
 ||outerwear.cfd^
@@ -57789,6 +57809,7 @@
 ||pakersi-pl.cloud^
 ||paketnummer-de.shop^
 ||pakiet-inpost-pl.locaux-a-louer.fr^
+||pakietu-aktualizacja.com^
 ||pakietypl.top^
 ||pakobcom.com^
 ||paksmf.pl^
@@ -58546,6 +58567,7 @@
 ||perfumella.pl^
 ||perfumesgallery.com^
 ||pergamene.info^
+||perhapn.sbs^
 ||perieratklx.click^
 ||perigastric.info^
 ||perihelialchimerical.pl^
@@ -68758,6 +68780,7 @@
 ||squamishcondo.com^
 ||squaredguanins.info^
 ||squaredistributor.com^
+||squareds.cfd^
 ||squareinvest-pl.cyou^
 ||squashconstant.info^
 ||squashere.com^
@@ -71151,6 +71174,7 @@
 ||tesnog.space^
 ||tesommas.click^
 ||tesourobet.com^
+||tesovig917.convertbuilder.com^
 ||tesplieu.com^
 ||tesppen.click^
 ||tesprojectx.click^
@@ -71751,6 +71775,7 @@
 ||tm1.pics^
 ||tm.pl48-dom.live^
 ||tm.rich2info.life^
+||tmanalaysay.com^
 ||tmasprog.space^
 ||tmh09.info^
 ||tmppgt.s3.us-west-004.backblazeb2.com^
@@ -75309,6 +75334,7 @@
 ||vinted-cz.order631.info^
 ||vinted-cz.order632.info^
 ||vinted-cz.order857.info^
+||vinted-cz.order1109.site^
 ||vinted-cz.order1723.pw^
 ||vinted-cz.order2416.eu^
 ||vinted-cz.order2710.pw^
@@ -78954,6 +78980,7 @@
 ||wondgenerate.com^
 ||wondret-com.preview-domain.com^
 ||wonneer.site^
+||wontcontrolmyself.net^
 ||woodbinsg.com^
 ||woodcarvers.info^
 ||woodchu.xyz^
@@ -86983,6 +87010,7 @@
 ||campinglespins.fr^
 ||camplace.fr^
 ||campus-forprof.fr^
+||canadapost-delivery-reshedule.com^
 ||capitalregionusa.fr^
 ||carac-terres.fr^
 ||carrfefour.fr^
