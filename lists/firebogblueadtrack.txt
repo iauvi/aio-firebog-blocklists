@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-12T23:48:02.144Z
+! Last modified: 2023-08-13T11:34:24.397Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1302,7 +1302,6 @@
 ||2partyhard.com^
 ||2sshoes.com^
 ||33across.com^
-||ww16.360bwin.com^
 ||360safe.com^
 ||360yield.com^
 ||362b643a66026e.com^
@@ -2147,55 +2146,7 @@
 ||awmdelivery.com^
 ||awsmppl.com^
 ||awsstatreporter.com^
-||antispam.awtank.com^
-||art.awtank.com^
-||auth.awtank.com^
-||authsmtp.awtank.com^
-||com.awtank.com^
-||comune.awtank.com^
-||direct.awtank.com^
-||email.awtank.com^
-||gw.awtank.com^
-||hermes.awtank.com^
-||host.awtank.com^
-||imap2.awtank.com^
-||internet.awtank.com^
-||ipe.awtank.com^
-||mail12.awtank.com^
-||mail4.awtank.com^
-||mail8.awtank.com^
-||mailapp.awtank.com^
-||mailer.awtank.com^
-||mailgate.awtank.com^
-||mailgw.awtank.com^
-||mailout.awtank.com^
-||mailrelay.awtank.com^
-||ms1.awtank.com^
-||mta.awtank.com^
-||mta1.awtank.com^
-||mx02.awtank.com^
-||mx10.awtank.com^
-||mx2.awtank.com^
-||mx20.awtank.com^
-||newmail.awtank.com^
-||pbrand.awtank.com^
-||post.awtank.com^
-||relay.awtank.com^
-||secure.awtank.com^
-||seed.awtank.com^
-||server.awtank.com^
-||smtp01.awtank.com^
-||smtpauth.awtank.com^
-||sniper.awtank.com^
-||srv.awtank.com^
-||ssl.awtank.com^
-||tiger.awtank.com^
-||tw.awtank.com^
-||vmail.awtank.com^
-||vnet.awtank.com^
-||vps.awtank.com^
-||www1.awtank.com^
-||zimbra.awtank.com^
+||awtank.com^
 ||axonix.com^
 ||axrawjk.com^
 ||aytobe.com^
@@ -2270,7 +2221,6 @@
 ||baremetrics.com^
 ||baristand.com^
 ||barnsleyloftandpigeon.com^
-||ww1.barrettcars.com^
 ||ww16.barrettcars.com^
 ||ww25.barrettcars.com^
 ||barsabon.com^
@@ -2602,6 +2552,7 @@
 ||burlengton.com^
 ||burlingtonfactoryoutlet.com^
 ||burrningcamel.com^
+||ww1.businessfinansial.com^
 ||ww11.businessfinansial.com^
 ||ww35.businessfinansial.com^
 ||analytics.businessinsider.com^
@@ -3024,6 +2975,7 @@
 ||m.convertkit.com^
 ||mail.convertkit.com^
 ||media.convertkit.com^
+||migrations.convertkit.com^
 ||ck.n.convertkit.com^
 ||link.n.convertkit.com^
 ||pages.convertkit.com^
@@ -4046,7 +3998,6 @@
 ||gamail.com^
 ||gameanalytics.com^
 ||gameandfishnetwork.com^
-||www.gamebannernet.com^
 ||gamefugh.com^
 ||gamenoed.com^
 ||gamerz-land.com^
@@ -4914,8 +4865,6 @@
 ||jdoqocy.com^
 ||jdunbar.com^
 ||jdwentworth.com^
-||fbt.jecpeny.com^
-||rg.jecpeny.com^
 ||jennifersofas.com^
 ||jeolladosushi.com^
 ||cno.jerkmate.com^
@@ -5054,7 +5003,7 @@
 ||kingstarz.com^
 ||kington123.com^
 ||metric.kirklands.com^
-||kirmizcam.com^
+||ww1.kirmizcam.com^
 ||kissmetrics.com^
 ||kissyouporn.com^
 ||kivitie.com^
@@ -5108,7 +5057,6 @@
 ||kurdrojh.com^
 ||kusharice.com^
 ||kutsatsa.com^
-||kuwujo.com^
 ||kwanzoo.com^
 ||kwpsurveys.com^
 ||lackadaisicalkite.com^
@@ -5141,7 +5089,6 @@
 ||lauritch.com^
 ||laybrookscooters.com^
 ||lazerlending.com^
-||lcoste.com^
 ||lcs-solar.com^
 ||lcwaiki.com^
 ||ldoltapes.com^
@@ -5224,7 +5171,6 @@
 ||littlegirlsnude.com^
 ||live-cric.com^
 ||live-mocha.com^
-||ww1.live-stripe.com^
 ||liveintent.com^
 ||njs.services.livejournal.com^
 ||xc3.services.livejournal.com^
@@ -5351,7 +5297,7 @@
 ||mailibupilates.com^
 ||maillotspro.com^
 ||mailrtb.com^
-||mailsoufun.com^
+||ww25.mailsoufun.com^
 ||mailtrafficnetwork.com^
 ||mailtrafficrtb.com^
 ||mainad.com^
@@ -5361,7 +5307,6 @@
 ||maitresse.com^
 ||makkahhilton.com^
 ||malaysianewsjournal.com^
-||ww16.malhotraflowers.com^
 ||malibupalities.com^
 ||mallusexy.com^
 ||malsup.com^
@@ -5517,18 +5462,7 @@
 ||mheeducation.com^
 ||smetrics.michaels.com^
 ||target.michaels.com^
-||ns2.bdm.micorsoftonline.com^
-||ww25.login.micorsoftonline.com^
-||ww31.login.micorsoftonline.com^
-||mail.micorsoftonline.com^
-||ogin.micorsoftonline.com^
-||passwordreset.micorsoftonline.com^
-||ww25.portal.micorsoftonline.com^
-||ww25.micorsoftonline.com^
-||ww31.micorsoftonline.com^
-||ww38.micorsoftonline.com^
-||ww8.micorsoftonline.com^
-||www.micorsoftonline.com^
+||micorsoftonline.com^
 ||microad-cn.com^
 ||microadinc.com^
 ||microoftonline.com^
@@ -5937,10 +5871,6 @@
 ||nigomy.com^
 ||nihulhon.com^
 ||nikbor.com^
-||mailserver.ninaloca.com^
-||mx2.ninaloca.com^
-||ns2.ninaloca.com^
-||post.ninaloca.com^
 ||ww16.ninaloca.com^
 ||ww38.ninaloca.com^
 ||ninesmsn.com^
@@ -6016,7 +5946,7 @@
 ||telemetryservice.firstpartyapps.oaspapps.com^
 ||service.cmp.oath.com^
 ||octaviagallery.com^
-||ocuriso.com^
+||www.ocuriso.com^
 ||odeswk.com^
 ||odewsk.com^
 ||off--white.com^
@@ -6043,7 +5973,7 @@
 ||oldmenwantsex.com^
 ||oldnationalback.com^
 ||oldnavyl.com^
-||olivecookies.com^
+||ww1.olivecookies.com^
 ||oliviersanrey.com^
 ||olkjf.com^
 ||olympicartgallery.com^
@@ -6102,6 +6032,7 @@
 ||optrainingcenter.com^
 ||opttracker.com^
 ||optumbankfinancial.com^
+||optvdo.com^
 ||cobrowse.oraclecloud.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cloud-commerce-visit.oracleoutsourcing.com^
@@ -6184,7 +6115,6 @@
 ||paperworlds.com^
 ||papushapu.com^
 ||papuyyar.com^
-||parachutes-occasions.com^
 ||paradarestaurantpr.com^
 ||paradym.com^
 ||parcheggiorio.com^
@@ -6363,7 +6293,37 @@
 ||popcornetime.com^
 ||poprule.com^
 ||ts.popsugar.com^
-||popunderonly.com^
+||barracuda.popunderonly.com^
+||gateway.popunderonly.com^
+||gw.popunderonly.com^
+||home.popunderonly.com^
+||host.popunderonly.com^
+||mail02.popunderonly.com^
+||mail12.popunderonly.com^
+||mailer.popunderonly.com^
+||mailgate.popunderonly.com^
+||mailrelay.popunderonly.com^
+||mailsrv.popunderonly.com^
+||mbox.popunderonly.com^
+||ms1.popunderonly.com^
+||mx01.popunderonly.com^
+||mx5.popunderonly.com^
+||mxs.popunderonly.com^
+||newmail.popunderonly.com^
+||ns.popunderonly.com^
+||ns2.popunderonly.com^
+||out.popunderonly.com^
+||outmail.popunderonly.com^
+||post.popunderonly.com^
+||posta.popunderonly.com^
+||relay2.popunderonly.com^
+||root.popunderonly.com^
+||server1.popunderonly.com^
+||sniper.popunderonly.com^
+||srv.popunderonly.com^
+||www2.popunderonly.com^
+||zimbra.popunderonly.com^
+||zmail.popunderonly.com^
 ||popupdomination.com^
 ||porcelain-painters.com^
 ||porgressiveinsurance.com^
@@ -6479,8 +6439,7 @@
 ||pulsepoint.com^
 ||punishtub.com^
 ||punishtubbe.com^
-||ww25.punsup.com^
-||www.punsup.com^
+||punsup.com^
 ||purch.com^
 ||puresweeteners.com^
 ||pursuanthealth.com^
@@ -7055,7 +7014,6 @@
 ||thunderdom-v1.sftapi.com^
 ||sgjobsdb.com^
 ||invenio.sgn.com^
-||sgnorton.com^
 ||sguareup.com^
 ||shady45.com^
 ||shahidnet.com^
@@ -7198,7 +7156,6 @@
 ||smencies.com^
 ||api.smg.com^
 ||smilewanted.com^
-||www.smokefirealarms.com^
 ||smokeykin.com^
 ||smokeymouth.com^
 ||smrt-content.com^
@@ -7652,7 +7609,6 @@
 ||theadex.com^
 ||theadx.com^
 ||theallxclubguru.com^
-||ww1.theamaturetube.com^
 ||theamericndishtv.com^
 ||theamricandishtv.com^
 ||theappanalytics.com^
@@ -7810,7 +7766,8 @@
 ||toyotadiscountparts.com^
 ||toyotafinincial.com^
 ||toyotanissan.com^
-||toyotaofbrandon.com^
+||ww35.toyotaofbrandon.com^
+||www.toyotaofbrandon.com^
 ||toyotarv.com^
 ||tpbid.com^
 ||tpcserve.com^
@@ -8357,6 +8314,7 @@
 ||warrock-hack.com^
 ||metrics.washingtonpost.com^
 ||smetrics.washingtonpost.com^
+||wasud.com^
 ||watchcri.com^
 ||watchdegrassi.com^
 ||watcherseb.com^
@@ -8389,7 +8347,6 @@
 ||webcindario.com^
 ||webclickroute.com^
 ||webcontentassessor.com^
-||ww1.webegettingrich.com^
 ||tmetrics.webex.com^
 ||webfett.com^
 ||webgains.com^
@@ -9340,7 +9297,6 @@
 ||abbottandcostello.info^
 ||abono.info^
 ||abportal.info^
-||acehonline.info^
 ||actiegeld.info^
 ||actu30.info^
 ||actualite.info^
@@ -9494,7 +9450,10 @@
 ||big-news.info^
 ||bigger-penis.info^
 ||biggerpenisnow.info^
-||bigrealestate.info^
+||ww1.bigrealestate.info^
+||ww11.bigrealestate.info^
+||ww17.bigrealestate.info^
+||ww38.bigrealestate.info^
 ||bijsluiterscore.info^
 ||bill-gates.info^
 ||bimba.info^
@@ -11560,8 +11519,6 @@
 ||coleccionismo.net^
 ||collegelatinas.net^
 ||colorkids.net^
-||droit-finances.commentcamarch.net^
-||ww16.commentcamarch.net^
 ||community-baptist.net^
 ||comxcast.net^
 ||connecthackensackumc.net^
@@ -12105,8 +12062,6 @@
 ||incoming-telemetry.thunderbird.net^
 ||timecommerce.net^
 ||tinh1gio.net^
-||search.todaysnewsupdates.net^
-||www.todaysnewsupdates.net^
 ||todaytvseries.net^
 ||totalh.net^
 ||tplikmodem.net^
@@ -12276,7 +12231,6 @@
 ||511mo.org^
 ||51av.org^
 ||51avi.org^
-||ww38.55n3.org^
 ||57so.org^
 ||5lu.org^
 ||666av.org^
@@ -13181,7 +13135,7 @@
 ||monkeyradio.org^
 ||monterfiore.org^
 ||monticelloar.org^
-||www.monusco.org^
+||monusco.org^
 ||mooseint1.org^
 ||moseintl.org^
 ||mosiac.org^
