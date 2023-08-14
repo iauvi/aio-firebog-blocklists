@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-13T23:50:19.748Z
+! Last modified: 2023-08-14T11:17:08.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1675,6 +1675,7 @@
 ||sessionstack.com^
 ||sexcounter.com^
 ||sexystat.com^
+||sharedid.org^
 ||sharpspring.com^
 ||shippinginsights.com^
 ||shoelace.com^
@@ -38425,7 +38426,6 @@ arketing.indianadunes.com^
 ||ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com^
 ||ads-c-164036077.us-east-1.elb.amazonaws.com^
 ||adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com^
-||bc-bidder-alb-1485194680.us-east-1.elb.amazonaws.com^
 ||cobrowse-externale-8rgcdqborxnm-1333206640.us-east-1.elb.amazonaws.com^
 ||cobrowse-prod-1836182388.us-east-1.elb.amazonaws.com^
 ||dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com^
@@ -38677,7 +38677,7 @@ arketing.indianadunes.com^
 ||atomx.com^
 ||attach-bond.com^
 ||attachee.com^
-||attchat.com^
+||www.attchat.com^
 ||attentivemobile.com^
 ||attributionapp.com^
 ||attugrils.com^
@@ -38837,8 +38837,6 @@ arketing.indianadunes.com^
 ||baremetrics.com^
 ||baristand.com^
 ||barnsleyloftandpigeon.com^
-||ww16.barrettcars.com^
-||ww25.barrettcars.com^
 ||barsabon.com^
 ||baseballsave.com^
 ||omnis.basspro.com^
@@ -39886,7 +39884,6 @@ arketing.indianadunes.com^
 ||disneycruie.com^
 ||disneydx.com^
 ||disneylivingonline.com^
-||ww1.disneymoviecllub.com^
 ||disneymoviewrewards.com^
 ||disneyozmovieoffers.com^
 ||disneypchannel.com^
@@ -40920,7 +40917,6 @@ arketing.indianadunes.com^
 ||honybunny.com^
 ||hooshman-isp.com^
 ||hoptheshop.com^
-||hormonacrecimiento.com^
 ||horneybuds.com^
 ||horneycam.com^
 ||hosag.com^
@@ -40977,7 +40973,6 @@ arketing.indianadunes.com^
 ||hronestop.com^
 ||hs-banner.com^
 ||hs-scripts.com^
-||www.hsbcmf.com^
 ||hst-rc.com^
 ||htlbid.com^
 ||htorkut.com^
@@ -41407,7 +41402,6 @@ arketing.indianadunes.com^
 ||kingstarz.com^
 ||kington123.com^
 ||metric.kirklands.com^
-||ww1.kirmizcam.com^
 ||kissyouporn.com^
 ||kivitie.com^
 ||klangoo.com^
@@ -41533,7 +41527,9 @@ arketing.indianadunes.com^
 ||libihimu.com^
 ||lichouseing.com^
 ||licoshnit.com^
-||lieber-tower.com^
+||mail.lieber-tower.com^
+||ww38.lieber-tower.com^
+||www.lieber-tower.com^
 ||liektuan.com^
 ||life--insurance--quotes.com^
 ||lifeinsurancequotescenter.com^
@@ -41556,7 +41552,6 @@ arketing.indianadunes.com^
 ||liquidm.com^
 ||lisasophia.com^
 ||lisnr.com^
-||listingsyellowpages.com^
 ||listn2myradio.com^
 ||littlegirlsnude.com^
 ||live-cric.com^
@@ -41677,7 +41672,6 @@ arketing.indianadunes.com^
 ||mailibupilates.com^
 ||maillotspro.com^
 ||mailrtb.com^
-||ww25.mailsoufun.com^
 ||mailtrafficnetwork.com^
 ||mailtrafficrtb.com^
 ||mainad.com^
@@ -41851,11 +41845,9 @@ arketing.indianadunes.com^
 ||midasplayer.com^
 ||midsizesuvhub.com^
 ||midwestsportsevents.com^
-||mijnneckerman.com^
 ||mikeschanksworld.com^
 ||mikkymax.com^
 ||milfplatz.com^
-||militaryonesourse.com^
 ||millennialmedia.com^
 ||millsapveterinaryclinic.com^
 ||mimixp.com^
@@ -41907,39 +41899,7 @@ arketing.indianadunes.com^
 ||mobpro.com^
 ||mobsuccess.com^
 ||mobusi.com^
-||auth.mocrosoftonline.com^
-||bdm.mocrosoftonline.com^
-||comune.mocrosoftonline.com^
-||email.mocrosoftonline.com^
-||imap2.mocrosoftonline.com^
-||isoc-net.mocrosoftonline.com^
-||ww16.login.mocrosoftonline.com^
-||ww25.login.mocrosoftonline.com^
-||ww38.login.mocrosoftonline.com^
-||ww25.logion.mocrosoftonline.com^
-||mail.mocrosoftonline.com^
-||mail1.mocrosoftonline.com^
-||mailer.mocrosoftonline.com^
-||mailgate.mocrosoftonline.com^
-||mailin.mocrosoftonline.com^
-||mailserver.mocrosoftonline.com^
-||mbox.mocrosoftonline.com^
-||mta.mocrosoftonline.com^
-||mx01.mocrosoftonline.com^
-||mx1.mocrosoftonline.com^
-||office365.mocrosoftonline.com^
-||passwordreset.mocrosoftonline.com^
-||portail.mocrosoftonline.com^
-||ww35.portal.mocrosoftonline.com^
-||server.mocrosoftonline.com^
-||smtps.mocrosoftonline.com^
-||vmail.mocrosoftonline.com^
-||ww1.mocrosoftonline.com^
-||ww25.mocrosoftonline.com^
-||ww31.mocrosoftonline.com^
-||ww35.mocrosoftonline.com^
-||ww38.mocrosoftonline.com^
-||www.mocrosoftonline.com^
+||mocrosoftonline.com^
 ||modacomeia.com^
 ||moderndesignlamps.com^
 ||modernlinefuniture.com^
@@ -42005,9 +41965,7 @@ arketing.indianadunes.com^
 ||mucabrasil.com^
 ||mucho-hentai.com^
 ||multiext.com^
-||ww1.mummy8.com^
-||ww2.mummy8.com^
-||ww35.mummy8.com^
+||mummy8.com^
 ||musakachat.com^
 ||muscleandfitnessforum.com^
 ||musclehero.com^
@@ -42019,7 +41977,6 @@ arketing.indianadunes.com^
 ||musk-event.com^
 ||muskgive.com^
 ||muslimexweb.com^
-||www.muslims4marriag.com^
 ||mustang50thbirthdaycelebration.com^
 ||mvat.com^
 ||mxradon.com^
@@ -42074,7 +42031,9 @@ arketing.indianadunes.com^
 ||myhyundia.com^
 ||myindangirl.com^
 ||myinformationamedisys.com^
-||myjoyonlin.com^
+||mx1.myjoyonlin.com^
+||ww16.myjoyonlin.com^
+||www.myjoyonlin.com^
 ||mymarketingreports.com^
 ||mymerrell.com^
 ||mymetrotx.com^
@@ -42209,8 +42168,6 @@ arketing.indianadunes.com^
 ||nigomy.com^
 ||nihulhon.com^
 ||nikbor.com^
-||ww16.ninaloca.com^
-||ww38.ninaloca.com^
 ||ninesmsn.com^
 ||ninjakloack.com^
 ||ninjapd.com^
@@ -42275,7 +42232,6 @@ arketing.indianadunes.com^
 ||telemetryservice.firstpartyapps.oaspapps.com^
 ||service.cmp.oath.com^
 ||octaviagallery.com^
-||www.ocuriso.com^
 ||odeswk.com^
 ||odewsk.com^
 ||off--white.com^
@@ -42301,7 +42257,6 @@ arketing.indianadunes.com^
 ||oldmenwantsex.com^
 ||oldnationalback.com^
 ||oldnavyl.com^
-||ww1.olivecookies.com^
 ||oliviersanrey.com^
 ||olkjf.com^
 ||olympicartgallery.com^
@@ -42706,7 +42661,6 @@ arketing.indianadunes.com^
 ||protopline.com^
 ||provenpixel.com^
 ||proxiy.com^
-||www.proxporn.com^
 ||psdplace.com^
 ||psp35.com^
 ||pspioz.com^
@@ -42837,7 +42791,6 @@ arketing.indianadunes.com^
 ||rebelmouse.com^
 ||recessgobananas.com^
 ||recipeally.com^
-||recordedonperson.com^
 ||recreationshoes.com^
 ||recruitem.com^
 ||e.redbox.com^
@@ -43003,7 +42956,6 @@ arketing.indianadunes.com^
 ||ruderulette.com^
 ||rudtub.com^
 ||ruelela.com^
-||rugbydumb.com^
 ||rugscleaningservice.com^
 ||ruhaho.com^
 ||rumahdanisa.com^
@@ -43602,7 +43554,6 @@ arketing.indianadunes.com^
 ||suntrutst.com^
 ||sunwayputrahotel.com^
 ||supedrug.com^
-||super-grandsparents.com^
 ||superbnike.com^
 ||superonclick.com^
 ||api.superpages.com^
@@ -43939,8 +43890,6 @@ arketing.indianadunes.com^
 ||toyotadiscountparts.com^
 ||toyotafinincial.com^
 ||toyotanissan.com^
-||ww35.toyotaofbrandon.com^
-||www.toyotaofbrandon.com^
 ||toyotarv.com^
 ||tpbid.com^
 ||tpcserve.com^
@@ -44412,8 +44361,7 @@ arketing.indianadunes.com^
 ||w3ibm.com^
 ||link.wacom.com^
 ||wadknisse.com^
-||ww25.wadsfasg.com^
-||ww38.wadsfasg.com^
+||wadsfasg.com^
 ||wahlgreens.com^
 ||wakanetwork.com^
 ||target.walgreens.com^
@@ -44662,7 +44610,6 @@ arketing.indianadunes.com^
 ||wwwepatest.com^
 ||wwwevercleanse.com^
 ||wwwfaberlic.com^
-||wwwflhealthsource.com^
 ||wwwfonacot.com^
 ||wwwfrif.com^
 ||wwwgasparense.com^
@@ -45530,9 +45477,6 @@ arketing.indianadunes.com^
 ||bigger-penis.info^
 ||biggerpenisnow.info^
 ||ww1.bigrealestate.info^
-||ww11.bigrealestate.info^
-||ww17.bigrealestate.info^
-||ww38.bigrealestate.info^
 ||bijsluiterscore.info^
 ||bill-gates.info^
 ||bimba.info^
@@ -45837,7 +45781,6 @@ arketing.indianadunes.com^
 ||fcsite.info^
 ||ferdos.info^
 ||ferienhausinnorwegen.info^
-||fieberbrunn.info^
 ||figvam.info^
 ||file156desktop.info^
 ||filieregourmande.info^
@@ -45898,7 +45841,6 @@ arketing.indianadunes.com^
 ||ganihp.info^
 ||ganokuni.info^
 ||gasteinertal.info^
-||www.gbinsta.info^
 ||gear-up.info^
 ||geckos.info^
 ||geid.info^
@@ -46072,8 +46014,6 @@ arketing.indianadunes.com^
 ||jayrigby.info^
 ||jebar.info^
 ||jetztodernie.info^
-||mail.jezdeckaskola.info^
-||www.jezdeckaskola.info^
 ||jianyue.info^
 ||jinan.info^
 ||jinseikenko.info^
@@ -46253,7 +46193,6 @@ arketing.indianadunes.com^
 ||micama.info^
 ||mightylinks.info^
 ||milfpics.info^
-||mail.millstatt.info^
 ||mimino.info^
 ||mindsweeper.info^
 ||mine-server.info^
@@ -46434,7 +46373,9 @@ arketing.indianadunes.com^
 ||phpstore.info^
 ||phtechtools.info^
 ||phur.info^
-||picaduras.info^
+||mail.picaduras.info^
+||webdisk.picaduras.info^
+||www.picaduras.info^
 ||pictureguycabo.info^
 ||piece.info^
 ||pilzerkrankungen.info^
@@ -47850,7 +47791,9 @@ arketing.indianadunes.com^
 ||montclairsports.net^
 ||moquta.net^
 ||morrisonproductions.net^
-||moto-plus.net^
+||ww1.moto-plus.net^
+||ww17.moto-plus.net^
+||www.moto-plus.net^
 ||movie-6.net^
 ||moviesisters.net^
 ||movieup.net^
@@ -47981,7 +47924,6 @@ arketing.indianadunes.com^
 ||servicecreditunion.net^
 ||sevafrom.net^
 ||sexeshop.net^
-||www.sexinvodka.net^
 ||sexpsp.net^
 ||shadid.net^
 ||sharethis.net^
@@ -48009,7 +47951,6 @@ arketing.indianadunes.com^
 ||speectest.net^
 ||sperdtest.net^
 ||srbiaulogin.net^
-||www.ssfrom.net^
 ||sstoday.net^
 ||ssvefrom.net^
 ||st-av.net^
@@ -48099,7 +48040,6 @@ arketing.indianadunes.com^
 ||webtrekk.net^
 ||whachmovies.net^
 ||whitedate.net^
-||wholesalebusinesscn.net^
 ||cookiesuksouth.blob.core.windows.net^
 ||mg2assetsdev.blob.core.windows.net^
 ||optanon.blob.core.windows.net^
@@ -48877,6 +48817,7 @@ arketing.indianadunes.com^
 ||infografias.org^
 ||inskape.org^
 ||intarnet.org^
+||interboro.org^
 ||intercambiosvituales.org^
 ||internalrequests.org^
 ||internetlawlac.org^
@@ -49321,6 +49262,7 @@ arketing.indianadunes.com^
 ||projectobolix.org^
 ||projectyouthsafety.org^
 ||promoteyourself.org^
+||ww1.pron00.org^
 ||prons.org^
 ||proudflex.org^
 ||providencu.org^
@@ -49466,7 +49408,7 @@ arketing.indianadunes.com^
 ||shabad.org^
 ||shador.org^
 ||shadowsock.org^
-||sharedid.org^
+||fledge.sharedid.org^
 ||shekinahlive.org^
 ||shelbywarrant.org^
 ||sheltonpublicschool.org^
