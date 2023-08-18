@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-17T23:48:57.974Z
+! Last modified: 2023-08-18T11:34:44.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1999,7 +1999,6 @@
 ||arlpositiva.com^
 ||armstromg.com^
 ||aronmovies.com^
-||ww1.arpdmn.com^
 ||www.arpdmn.com^
 ||arrecifesdigital.com^
 ||arrivalist.com^
@@ -2283,6 +2282,7 @@
 ||bgstechnik.com^
 ||bhandarimaruti.com^
 ||bhandhan.com^
+||www.bheyafry.com^
 ||bhringer.com^
 ||bibng.com^
 ||bidberrymedia.com^
@@ -4373,7 +4373,9 @@
 ||o1.email.heyzap.com^
 ||fyc.heyzap.com^
 ||med.heyzap.com^
-||www.trends.stage-one.heyzap.com^
+||www.iphone.stage-one.heyzap.com^
+||preflight.stage-one.heyzap.com^
+||trends.stage-one.heyzap.com^
 ||www.stage-three.heyzap.com^
 ||stage-two.heyzap.com^
 ||track.heyzap.com^
@@ -5061,7 +5063,9 @@
 ||lauritch.com^
 ||laybrookscooters.com^
 ||lazerlending.com^
+||ww35.lcoste.com^
 ||ww41.lcoste.com^
+||www.lcoste.com^
 ||lcs-solar.com^
 ||lcwaiki.com^
 ||ldoltapes.com^
@@ -5775,7 +5779,6 @@
 ||newmetalcraft.com^
 ||newsandpromotions.com^
 ||newscgp.com^
-||newsibm.com^
 ||newsjacaranda.com^
 ||newsmaxfeednetwork.com^
 ||assets.newsmaxwidget.com^
@@ -8352,6 +8355,7 @@
 ||ww16.wwwflhealthsource.com^
 ||ww25.wwwflhealthsource.com^
 ||ww38.wwwflhealthsource.com^
+||www.wwwflhealthsource.com^
 ||wwwfonacot.com^
 ||wwwfrif.com^
 ||wwwgasparense.com^
@@ -9538,8 +9542,6 @@
 ||evergreenseniorliving.info^
 ||evershine.info^
 ||evgrid.info^
-||ww17.evmaps.info^
-||ww38.evmaps.info^
 ||exabyte.info^
 ||examroom.info^
 ||eyep.info^
@@ -9581,7 +9583,6 @@
 ||forkhost.info^
 ||formadv.info^
 ||formenterazen.info^
-||www.forthewomen.info^
 ||fotomodelle.info^
 ||fotomodels.info^
 ||fotoway.info^
@@ -10757,10 +10758,7 @@
 ||kayzen.io^
 ||keen.io^
 ||segment.kilometer.io^
-||accounts.kindmetrics.io^
-||api.kindmetrics.io^
-||app.kindmetrics.io^
-||staging.kindmetrics.io^
+||kindmetrics.io^
 ||ladatab.io^
 ||leadware.io^
 ||lemonpi.io^
@@ -11644,7 +11642,6 @@
 ||morrisonproductions.net^
 ||ww1.moto-plus.net^
 ||ww17.moto-plus.net^
-||www.moto-plus.net^
 ||movie-6.net^
 ||moviesisters.net^
 ||movieup.net^
