@@ -20,7 +20,7 @@
 ---
 
 
-<h2 align="center">📑 The Sources 📑</h2>
+<h2 align="center">📝 The Sources 📝</h2>
 
 <div align="center">
 
