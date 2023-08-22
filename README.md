@@ -1,4 +1,4 @@
-<h1 align="center">📖 The Bog All-In-One AdBlock Lists 📖</h1>
+<h1 align="center">📖 FireBog All-In-One AdBlock Lists 📖</h1>
 
 <div align="center">
   
