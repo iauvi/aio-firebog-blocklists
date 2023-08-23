@@ -8,7 +8,7 @@
 
 ---
 
-| Type | 📚 | Description |
+| Class | 📚 | Description |
 |:---:|:---:|:---|
 |Bog| 🔥 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list; less likely to interfere with browsing|
@@ -28,7 +28,7 @@
   
 <br>
 
-| Class | 📚 | Source |
+| Type | 📚 | Source |
 |:---:|:---:|:---|
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
