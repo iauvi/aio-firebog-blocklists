@@ -13,7 +13,7 @@
 |Bog| 🔥 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list; less likely to interfere with browsing|
 |Blue| 📘 |Included in The Bog AIO list and blue AIO list; more likely to interfere with browsing|
-|Whitelist| 📰 |A list of things allowed when denied by a blocklist|
+|Whitelist| 📔 |A list of things allowed when denied by a blocklist|
 
 </div>
 
@@ -115,9 +115,9 @@
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt" title="">Advertising-Tracking-Malicious Blue List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">Advertising-Tracking-Malicious Green List</a> |
 |📚|Whitelist Suggestions|
-| 📰 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
-| 📰 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
-| 📰 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |
+| 📔 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
+| 📔 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
+| 📔 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |
 
 </div>
 
