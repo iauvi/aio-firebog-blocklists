@@ -8,7 +8,7 @@
 
 ---
 
-| Class | 📚 | Description |
+| Type | 📚 | Description |
 |:---:|:---:|:---|
 |Bog| 📙 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list; less likely to interfere with browsing|
@@ -28,7 +28,7 @@
   
 <br>
 
-| Type | 📚 | Source |
+| Class | 📚 | Source |
 |:---:|:---:|:---|
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
@@ -98,16 +98,16 @@
 | 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Bog All-In-One List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">Blue All-In-One List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">Green All-In-One List</a> |
-|📚|Type-Class AIO Blocklists|
+|📚|Light AIO Blocklists|
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">Advertising-Tracking-Malicious AIO List</a> |
-|📚|Class AIO Blocklists|
+|📚|Single Class Blocklists|
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">Suspicious AIO List</a> |
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">Advertising AIO List</a> |
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Tracking AIO List</a> |
 | 📘📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Malicious AIO List</a> |
-|📚|Type AIO Blocklists|
+|📚|Single Type Blocklists|
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
