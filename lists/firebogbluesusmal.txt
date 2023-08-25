@@ -3,7 +3,7 @@
 ! Description: All the blue suspicious and malicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-24T11:48:03.124Z
+! Last modified: 2023-08-25T00:29:37.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31935,6 +31935,9 @@
 ||telemetry.huluad.com^
 ||assets.huluim.com^
 ||transactionparasite.com^
+||star.fallback.c10r.facebook.com^
+||click.listen360.com^
+||stats.revenuecat.com^
 ||functionalclam.com^
 ||119.29.196.104.bc.googleusercontent.com^
 ||175.220.196.104.bc.googleusercontent.com^
