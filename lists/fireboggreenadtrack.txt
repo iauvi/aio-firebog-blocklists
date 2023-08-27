@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-26T00:15:39.342Z
+! Last modified: 2023-08-27T00:20:41.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2192,14 +2192,11 @@
 -adbox-
 -adfliction.
 -adimage-
--adloader-
 -ads-banner.
 -ads-bottom.
 -ads-right.
 -adskin.
--adslots.
 -adsonar.
--advertisment-
 -adverts.min.
 -article-ad-
 -article-ad.
@@ -8251,6 +8248,7 @@
 ||confiskbriggs.top^
 ||confrontationdrunk.com^
 ||confused-classic.pro^
+||confvtt.com^
 ||congestionbeautycrystal.com^
 ||congestit.com^
 ||congressaffrayghosts.com^
@@ -26775,6 +26773,7 @@
 ||xxmaqoupnd.com^
 ||xxodleylnfhyi.com^
 ||xxofygygumf.com^
+||xxpghuf.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
 ||xxxiijmp.com^
@@ -28156,6 +28155,7 @@
 ||taggify.net^
 ||tagjunction.com^
 ||taiphaib.net^
+||takeads.com^
 ||talaropa.com^
 ||tangozebra.com^
 ||tankeuro.com^
@@ -32331,6 +32331,7 @@
 ||pubfeed.linkby.com^
 ||public.porn.fr^
 ||qsearch-a.akamaihd.net^
+||random-affiliate.atimaze.com^
 ||revboostprocdnadsprod.azureedge.net^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
@@ -48615,6 +48616,7 @@
 ||clrt.ai^
 ||cntxtfl.com^
 ||convead.io^
+||convertlink.com^
 ||cvlb.dev^
 ||cxt.ms^
 ||cybba.solutions^
@@ -48931,6 +48933,7 @@
 ||advangelists.com^
 ||advconversion.com^
 ||advertising.com^
+||advoncommerce.com^
 ||adways.com^
 ||adwerx.com^
 ||adwstats.com^
@@ -49566,6 +49569,7 @@
 ||flashb.id^
 ||flcounter.com^
 ||flexlinkspro.com^
+||flippback.com^
 ||flixfacts.co.uk^
 ||flixsyndication.net^
 ||fluencymedia.com^
@@ -49724,6 +49728,7 @@
 ||gvisit.com^
 ||gweini.com^
 ||gwmtracking.com^
+||hadronid.net^
 ||halldata.com^
 ||haloscan.com^
 ||havasedge.com^
@@ -50438,6 +50443,7 @@
 ||qflm.net^
 ||qlitics.com^
 ||qoijertneio.com^
+||qortex.ai^
 ||qsstats.com^
 ||quadran.eu^
 ||qualaroo.com^
@@ -51313,6 +51319,7 @@
 ||citrusad.net^
 ||clickguardian.app^
 ||clickyab.com^
+||fpjscdn.net^
 ||guoshipartners.com^
 ||hostpush.info^
 ||ismatlab.com^
@@ -51663,6 +51670,7 @@
 ||fastenfather.com^
 ||fearfulmint.com^
 ||fearlessfaucet.com^
+||fewjuice.com^
 ||flowerycreature.com^
 ||floweryfact.com^
 ||foamypain.com^
@@ -52930,6 +52938,7 @@
 ||analyze.full-marke.com^
 ||ao-freegeoip.herokuapp.com^
 ||ape-tagit.timeinc.net^
+||api-analytics-prd.pelcro.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
 ||argos.citruserve.com^
@@ -53073,6 +53082,7 @@
 ||dfanalytics.dealerfire.com^
 ||diagnose.igstatic.com^
 ||direct-collect.dy-api.com^
+||direct-collect.dy-api.eu^
 ||dl.episerver.net^
 ||doppler-beacons.cbsivideo.com^
 ||dotaudiences.com^
@@ -53112,7 +53122,6 @@
 ||events.matterport.com^
 ||events.missena.io^
 ||events.ocdn.eu^
-||events.qortex.ai^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
