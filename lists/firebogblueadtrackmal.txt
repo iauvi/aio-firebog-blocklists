@@ -3,7 +3,7 @@
 ! Description: All the blue advertising-tracking-malicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-29T13:37:46.067Z
+! Last modified: 2023-08-30T01:12:29.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1386,6 +1386,9 @@
 ||abtasty.com^
 ||abuelasfollando.com^
 ||abuzada.com^
+||mail5.acacemy.com^
+||ww11.acacemy.com^
+||ww25.acacemy.com^
 ||ww38.acacemy.com^
 ||www.acacemy.com^
 ||acashatusa.com^
@@ -8893,7 +8896,9 @@
 ||livechat.co.il^
 ||livegol.co.il^
 ||location-location.co.il^
+||authsmtp.logo2go.co.il^
 ||mail.logo2go.co.il^
+||mail4.logo2go.co.il^
 ||ns1.logo2go.co.il^
 ||www.logo2go.co.il^
 ||londonmusicals.co.il^
@@ -9066,7 +9071,10 @@
 ||4downfiles1.info^
 ||4downfiles2.info^
 ||4health.info^
-||4shared.info^
+||ww17.4shared.info^
+||ww38.4shared.info^
+||ww8.4shared.info^
+||www.4shared.info^
 ||52youwu.info^
 ||5fan.info^
 ||5movies.info^
@@ -10188,9 +10196,6 @@
 ||problemhaut.info^
 ||procurements.info^
 ||projectmanagement.info^
-||mvideo.projectoval.info^
-||webdisk.projectoval.info^
-||ww1.projectoval.info^
 ||promma.info^
 ||promolab.info^
 ||pronosticodeltiempo.info^
@@ -10486,7 +10491,6 @@
 ||traveller.info^
 ||trinhcongson.info^
 ||trustfund.info^
-||ww38.truyengay.info^
 ||tsuki-subs.info^
 ||tugaflix.info^
 ||turcambrils.info^
@@ -11295,8 +11299,8 @@
 ||coleccionismo.net^
 ||collegelatinas.net^
 ||colorkids.net^
-||ww11.wengo.droit-finances.commentcamarch.net^
-||ww25.wengo.droit-finances.commentcamarch.net^
+||droit-finances.commentcamarch.net^
+||ww10.commentcamarch.net^
 ||community-baptist.net^
 ||comxcast.net^
 ||connecthackensackumc.net^
@@ -12064,9 +12068,6 @@
 ||afflink.org^
 ||africangirls.org^
 ||africateachingauthorities.org^
-||ww17.agendaveb.org^
-||ww25.agendaveb.org^
-||www.agendaveb.org^
 ||ageofrocks.org^
 ||agincourtesl.org^
 ||ahacpr.org^
@@ -12779,6 +12780,7 @@
 ||lapels.org^
 ||laptop-battery.org^
 ||lasourisweb.org^
+||laughfest.org^
 ||lawgames.org^
 ||lawrencecountyhigh.org^
 ||lawyerszoom.org^
