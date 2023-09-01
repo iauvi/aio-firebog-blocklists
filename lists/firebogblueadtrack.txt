@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-08-31T13:20:14.075Z
+! Last modified: 2023-09-01T01:27:22.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1111,7 +1111,6 @@
 ||infusionsoft.app^
 ||analytics.lucid.app^
 ||permutive.app^
-||a.run.app^
 ||smrt.as^
 ||gigazine.asia^
 ||openxmarket.asia^
@@ -1124,7 +1123,6 @@
 ||tms.gay-parship.at^
 ||oewabox.at^
 ||tms.parship.at^
-||spartoo.at^
 ||gc.zgo.at^
 ||activate.aami.com.au^
 ||activate.gio.com.au^
@@ -1137,7 +1135,6 @@
 ||doubleclick.be^
 ||geoedge.be^
 ||tms.parship.be^
-||spartoo.be^
 ||digitmate.bid^
 ||advolution.biz^
 ||celpip.biz^
@@ -3073,7 +3070,7 @@
 ||ctasnet.com^
 ||ctnsnet.com^
 ||ctrix.com^
-||com.cuchsurfing.com^
+||vk.com.cuchsurfing.com^
 ||www.cuchsurfing.com^
 ||cuddlethehyena.com^
 ||cugak.com^
@@ -3255,7 +3252,6 @@
 ||dexdirect.com^
 ||dexpredict.com^
 ||dfcsp.com^
-||dhgate.com^
 ||diablo3builds.com^
 ||diamonresorts.com^
 ||dianeychannal.com^
@@ -5196,6 +5192,7 @@
 ||lp3tdqle.com^
 ||lpaylist.com^
 ||lqmcdn.com^
+||lreqmoonpjka.com^
 ||lubutube.com^
 ||analytics.lucidchart.com^
 ||analytics.app.lucidchart.com^
@@ -6417,7 +6414,8 @@
 ||rampanel.com^
 ||rampmetrics.com^
 ||ranchonuevomexicanrestaurant.com^
-||randibazi.com^
+||ww11.randibazi.com^
+||ww25.randibazi.com^
 ||randmcnallymaps.com^
 ||adserver.rankedbyreview.com^
 ||rapidshareleaks.com^
@@ -7062,7 +7060,6 @@
 ||sneaker-shop08.com^
 ||sneakercafe.com^
 ||ww17.sneakernewa.com^
-||ww25.sneakernewa.com^
 ||www.sneakernewa.com^
 ||assets.sni-dat.com^
 ||adsales.snidigital.com^
@@ -7127,7 +7124,6 @@
 ||spammerparadise.com^
 ||spammeuntilibleed.com^
 ||analytics.sparkpost.com^
-||spartoo.com^
 ||spcejet.com^
 ||special-shop.com^
 ||spectroniq.com^
@@ -8107,7 +8103,10 @@
 ||metrics.washingtonpost.com^
 ||smetrics.washingtonpost.com^
 ||wasud.com^
-||watchcri.com^
+||ww1.watchcri.com^
+||ww25.watchcri.com^
+||ww38.watchcri.com^
+||www.watchcri.com^
 ||watchdegrassi.com^
 ||watcherseb.com^
 ||watchesidol.com^
@@ -8681,7 +8680,6 @@
 ||adx.fotoaparat.cz^
 ||openx2.kytary.cz^
 ||adserver.nearby.cz^
-||spartoo.cz^
 ||tagm.tchibo.cz^
 ||touchdownworld.cz^
 ||content.acc-hd.de^
@@ -8702,7 +8700,6 @@
 ||1.belboon.de^
 ||www1.belboon.de^
 ||www.bioverlag-online.de^
-||www.boersen-zeitung.de^
 ||miranda.bounced.de^
 ||postview.devk.de^
 ||df-srv.de^
@@ -8717,7 +8714,6 @@
 ||prophet.heise.de^
 ||intelliad.de^
 ||ioam.de^
-||ix.de^
 ||impng.kpcustomer.de^
 ||kuponacdn.de^
 ||medialead.de^
@@ -8737,7 +8733,6 @@
 ||wer.schwarzwaelder-bote.de^
 ||serviceimg.de^
 ||servscrpt.de^
-||spartoo.de^
 ||stroeer.de^
 ||t4ft.de^
 ||tagm.tchibo.de^
@@ -8755,7 +8750,6 @@
 ||trace.onb.workers.dev^
 ||ad4mat.dk^
 ||ia.ekstrabladet.dk^
-||spartoo.dk^
 ||tagm.tchibo.dk^
 ||me2.do^
 ||adservice.google.com.eg^
@@ -8765,7 +8759,6 @@
 ||ads.mediasmart.es^
 ||euads.mediasmart.es^
 ||www.miciudadreal.es^
-||spartoo.es^
 ||cognitivemarketing.tid.es^
 ||ad-server.eu^
 ||adfly.eu^
@@ -8785,7 +8778,6 @@
 ||analysis.fi^
 ||sanoma.fi^
 ||simpli.fi^
-||spartoo.fi^
 ||api.pdst.fm^
 ||cdn.pdst.fm^
 ||ping.pdst.fm^
@@ -8812,7 +8804,6 @@
 ||dap.digitalgov.gov^
 ||adman.gr^
 ||adservice.google.gr^
-||spartoo.gr^
 ||ad.gt^
 ||adservice.google.com.hk^
 ||stats.anchor.host^
@@ -9071,7 +9062,6 @@
 ||4downfiles1.info^
 ||4downfiles2.info^
 ||4health.info^
-||www.4shared.info^
 ||52youwu.info^
 ||5fan.info^
 ||5movies.info^
@@ -9243,6 +9233,9 @@
 ||big-news.info^
 ||bigger-penis.info^
 ||biggerpenisnow.info^
+||ww11.bigrealestate.info^
+||ww17.bigrealestate.info^
+||ww38.bigrealestate.info^
 ||bijsluiterscore.info^
 ||bill-gates.info^
 ||bimba.info^
@@ -9266,7 +9259,7 @@
 ||boatrental.info^
 ||bockchain.info^
 ||bodenmarkt.info^
-||bodybilding.info^
+||ww17.bodybilding.info^
 ||bokepgratiz.info^
 ||bokepsmp.info^
 ||bolero.info^
@@ -9374,7 +9367,6 @@
 ||creditoalinstante.info^
 ||crickbuzz.info^
 ||crikit.info^
-||crownheight.info^
 ||crtaci.info^
 ||crtx.info^
 ||crypto-promo.info^
@@ -9388,7 +9380,7 @@
 ||dadbab.info^
 ||daftarcpns.info^
 ||damdam.info^
-||www.danangplus.info^
+||danangplus.info^
 ||danjeh.info^
 ||darkbb.info^
 ||darknets.info^
@@ -9474,21 +9466,8 @@
 ||eclats.info^
 ||ecodream.info^
 ||ecostudio.info^
-||m.editomanga.info^
-||mail2.editomanga.info^
-||mx.editomanga.info^
-||mx10.editomanga.info^
-||mx20.editomanga.info^
-||pop.editomanga.info^
-||post.editomanga.info^
-||posta.editomanga.info^
-||relay.editomanga.info^
-||relay2.editomanga.info^
-||server1.editomanga.info^
 ||webdisk.editomanga.info^
-||ww16.editomanga.info^
 ||www.editomanga.info^
-||www2.editomanga.info^
 ||eigenblut.info^
 ||eigenurin.info^
 ||eisenstadt.info^
@@ -9544,7 +9523,6 @@
 ||ww11.falvguwen.info^
 ||ww17.falvguwen.info^
 ||ww38.falvguwen.info^
-||www.falvguwen.info^
 ||familiengarten.info^
 ||familydick.info^
 ||fangot.info^
@@ -9843,7 +9821,9 @@
 ||konp.info^
 ||konsan.info^
 ||konyaalti.info^
-||kooora.info^
+||ww1.kooora.info^
+||ww16.kooora.info^
+||www.kooora.info^
 ||koorlive.info^
 ||kotaklagu.info^
 ||kozi.info^
@@ -10107,7 +10087,6 @@
 ||olioli.info^
 ||one-step-beyond.info^
 ||only-soft.info^
-||onlymature.info^
 ||onthespot.info^
 ||onzeweb.info^
 ||optisyen.info^
@@ -10239,6 +10218,7 @@
 ||recepti-i-ideje.info^
 ||red-rose.info^
 ||redhotrealty.info^
+||redup.info^
 ||referendumailietuvos.info^
 ||regeneration.info^
 ||register-news-24h.info^
@@ -10293,7 +10273,10 @@
 ||sectionz.info^
 ||seednet.info^
 ||seefeld.info^
-||seisenkai.info^
+||ww11.seisenkai.info^
+||ww16.seisenkai.info^
+||ww38.seisenkai.info^
+||www.seisenkai.info^
 ||semmering.info^
 ||seo-mix.info^
 ||seo03.info^
@@ -10417,7 +10400,6 @@
 ||takeaway.info^
 ||takebin.info^
 ||takipcisiteleri.info^
-||tamil-rockers.info^
 ||taoy999.info^
 ||tap7500.info^
 ||taraftarium24hd.info^
@@ -10829,7 +10811,6 @@
 ||heatmap.it^
 ||idrove.it^
 ||offerte-italia.rd1.it^
-||spartoo.it^
 ||imp21.a-cast.jp^
 ||ppz01.a-cast.jp^
 ||ppz21.a-cast.jp^
@@ -11977,7 +11958,6 @@
 ||microdefender.nl^
 ||onlinesucces.nl^
 ||tms.parship.nl^
-||spartoo.nl^
 ||synovite.nl^
 ||personvern.aller.no^
 ||am.medialaben.no^
@@ -12524,7 +12504,6 @@
 ||mail.flrministry.org^
 ||old.flrministry.org^
 ||ww17.flrministry.org^
-||www.flrministry.org^
 ||flydenver.org^
 ||fmc4me.org^
 ||fmsdpzg.org^
@@ -13309,23 +13288,16 @@
 ||smruk.org^
 ||snafeee.org^
 ||snappvis.org^
-||10780.snapsteal.org^
 ||12314.snapsteal.org^
 ||ww25.15161.snapsteal.org^
-||2054.snapsteal.org^
-||ww1.20801.snapsteal.org^
-||ww38.20801.snapsteal.org^
+||ww25.2054.snapsteal.org^
 ||ww25.20921.snapsteal.org^
 ||ww25.21987.snapsteal.org^
-||ww11.2716.snapsteal.org^
 ||27535.snapsteal.org^
-||32335.snapsteal.org^
+||ww25.32335.snapsteal.org^
 ||ww11.33727.snapsteal.org^
-||43715.snapsteal.org^
 ||ww25.7984.snapsteal.org^
 ||ww25.snapsteal.org^
-||ww31.snapsteal.org^
-||ww38.snapsteal.org^
 ||ww11.x.snapsteal.org^
 ||snowcrestowners.org^
 ||socalprobono.org^
@@ -13690,8 +13662,6 @@
 ||wwwworkintexas.org^
 ||wwwymca.org^
 ||xcdsql.org^
-||ww17.xepan.org^
-||ww38.xepan.org^
 ||xposedmagazinenews.org^
 ||xvedios.org^
 ||y20turkey.org^
@@ -13730,7 +13700,6 @@
 ||nsaudience.pl^
 ||oan.pl^
 ||quartic.pl^
-||spartoo.pl^
 ||tagm.tchibo.pl^
 ||adserver.wolterskluwer.pl^
 ||adserver.pm^
@@ -13745,7 +13714,6 @@
 ||trredir.pro^
 ||withdromnit.pro^
 ||ads.shasha.ps^
-||spartoo.pt^
 ||hybrid-advancelocal.perso.aws.arc.pub^
 ||targeting.perso.aws.arc.pub^
 ||pxi.pub^
@@ -13790,7 +13758,6 @@
 ||ad4mat.se^
 ||adhost.se^
 ||bksn.se^
-||spartoo.se^
 ||tagm.tchibo.se^
 ||ads.ungdomar.se^
 ||amp.services^
@@ -13899,7 +13866,6 @@
 ||researchnowbusiness.co.uk^
 ||rubbersole.co.uk^
 ||sift.co.uk^
-||spartoo.co.uk^
 ||nir.theregister.co.uk^
 ||attribution.theworks.co.uk^
 ||valuedopinions.co.uk^
@@ -14415,7 +14381,6 @@
 ||adtechium.com^
 ||adtimaserver.vn^
 ||adtoma.com^
-||adtopia.club^
 ||adtrace.io^
 ||adtriba.com^
 ||adtrue.com^
@@ -15234,7 +15199,6 @@
 ||datawrapper.de^
 ||datingshall.life^
 ||daudejuw.com^
-||daughtersanything.com^
 ||dauup.com^
 ||dazeads1.online^
 ||dazedengage.com^
@@ -15308,7 +15272,6 @@
 ||distinctlynobleprosecute.com^
 ||distressedsoultabloid.com^
 ||distributionrealmoth.com^
-||disturbancecoldlilac.com^
 ||dit.whatsapp.net^
 ||divideoutdoors.com^
 ||divorceseed.com^
@@ -16143,7 +16106,6 @@
 ||martcubic.com^
 ||masakeku.com^
 ||masontotally.com^
-||materialfirearm.com^
 ||mathscrayonreference.com^
 ||matomo.org^
 ||maximtoaster.com^
@@ -27458,7 +27420,6 @@
 ||picanalysis.vivo.com.cn^
 ||pictela.net^
 ||piksel.com^
-||pillarvolcano.com^
 ||ping.staticmoly.me^
 ||ping.ublock.org^
 ||pingback.giphy.com^
@@ -28854,7 +28815,6 @@
 ||staggeredravehospitality.com^
 ||stainclout.com^
 ||stampsmindlessscrap.com^
-||starkshrewd.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
 ||stat-rock.com^
