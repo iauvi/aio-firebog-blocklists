@@ -3,7 +3,7 @@
 ! Description: All the suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-03T01:31:53.003Z
+! Last modified: 2023-09-03T13:19:27.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5363,6 +5363,7 @@
 ||6f46568896e11ea99e27e9c7bfd0c2ae.faitsjo.pl^
 ||6fb8ec691376faef2f7175fd6f07ab9f.djodom.co.pl^
 ||6fbe8a12dde69f664dceee3e082b4116.m-pl.co.pl^
+||6fdb23516143acafa5c69126961d4cb3.sivlsa.pl^
 ||6fde83b17190aea17ad2332a12bd80c6.hospla.co.pl^
 ||6fe749c958633bff90020b8855dfc013.alldom.co.pl^
 ||6feb35e9ae9240a36385a60134cacd1b.bitevard.pl^
@@ -5701,12 +5702,14 @@
 ||9-wp.azureedge.net^
 ||9.1nnoflare.sbs^
 ||009.itpolska.click^
+||9a5af14feb0e91bed162d2a6602efbd4.sivlsa.pl^
 ||9a8f480ffa283146ce4466d6911cfa40.opergro.pl^
 ||9a9e4e05d73be80b19fd9a91848cd415.sht.co.pl^
 ||9a289d57929d36d5f18e0700a2b3ba0c.hospla.co.pl^
 ||9a421b2df115eff2b8805e141fc607b2.fjao.pl^
 ||9a703d48e1288328fda24716a83f2f68.krokla.co.pl^
 ||9a822ef1d7c76ba66a31dbe1e745fa1b.hospla.co.pl^
+||9a962d1e36fb7d7264b7dd58d153955e.sivlsa.pl^
 ||9a5822b1f49df85501d7aa29cf89f55e.sht.co.pl^
 ||9a70921d5a29c7cee7bd256cd0858cfc.rezolvs.pl^
 ||9a18471306e.chefs-kitchen.co.uk^
@@ -5936,6 +5939,7 @@
 ||18c7f0b8c081247cc49daff4c1c69a45.kklmn.co.pl^
 ||18c93c301bc9d97d8684a87a449b7674.al-pl.co.pl^
 ||18cb7b2a0b8e78a2a8d6ffcdc0bce9e6.alldom.co.pl^
+||18cf22ba83430b8bf7c1d0ea6691cf73.asasup.pl^
 ||18dd687fa8a4c8ac3e5a9f95ab30d04f.twojedom.pl^
 ||18e2decad016855bb3845976e51a227a.alldom.co.pl^
 ||18e16295a4858a25d27592ca70c4fce6.twojedom.pl^
@@ -6181,6 +6185,7 @@
 ||35ccfeb1210c3853a6f99a3872a635f9.hospla.co.pl^
 ||35cf77d44b7c037ab2e1d9902eefeab1.djodom.co.pl^
 ||35cfb1a259a133d5905408421ad27024.alldom.co.pl^
+||35d5610f2eeed2bbc7d0a12e83a04148.sopwa.pl^
 ||35d057426d816a571376e1a7a52cf2cf.spgros.pl^
 ||35ea10fc95b985f56447635fab29e0c8.sht.co.pl^
 ||35ec2a1573524843be7b973a1e8a93aa.al-pl.co.pl^
@@ -6384,6 +6389,7 @@
 ||58a9c7b6db953d3cdc877aced000dae6.podisat.pl^
 ||58aeaaaed3df5985c206aa7e48ed1a19.tracisa.pl^
 ||58bca41ff5e841a6afc83b6ca2d25a89.twojedom.pl^
+||58bde228b879bc93a92e64c55fed5b5a.zislkda.pl^
 ||58dad5fc8a5d5a255ca046d225847db8.rha.co.pl^
 ||58e6cd79172d37ab35bbd973d5ece98b.zonatas.pl^
 ||58ea9ba830d85165bf07704548c592f1.apl.co.pl^
@@ -9838,6 +9844,7 @@
 ||a123d1d68bd8c67c785ee69f5dfed768.krokla.co.pl^
 ||a128ee83fc112ea53b293c1ea37b21e3.hospla.co.pl^
 ||a147a94329e82d49d50c77210daf4cbc.iwosa.pl^
+||a187c7244e1c75e3cc43eca6b428263c.sivlsa.pl^
 ||a251bbd35c715c075b7813c1113d26de.salapiotr.pl^
 ||a304.info^
 ||a322e6b1.365software.co.uk^
@@ -11757,6 +11764,7 @@
 ||allegrolokalnie.dostawa-24h.pl^
 ||allegrolokalnie.kup-z-dostawa24.pl^
 ||allegrolokalnie.kupowanie-24.pl^
+||allegrolokalnie.kupteraz-24.pl^
 ||allegrolokalnie.kupuj-bezpiecznie.pl^
 ||allegrolokalnie.oferta000123.xyz^
 ||allegrolokalnie.oferta000657.xyz^
@@ -17959,6 +17967,7 @@
 ||c61d990147496cb47a42bf3697ffa21c.alldom.co.pl^
 ||c65de3a6010296e950415048a09b4a8d.alldom.co.pl^
 ||c68b062f093ea4f2d87ffa18869b1581.aols.pl^
+||c70e01078006d611022644391de7c17c.sivlsa.pl^
 ||c71edd0c169462ee0e6159c570dd9bdd.usaga.pl^
 ||c72eb0a24d6a0290bc3bbc0f4654e960.hospla.co.pl^
 ||c73gfhdsjs8.bar^
@@ -20937,6 +20946,7 @@
 ||crystalspace.xyz^
 ||cs2-claim.com^
 ||cs2-esport.com^
+||cs2-gets.com^
 ||cs2-go.com^
 ||cs2-source.pro^
 ||cs2.com.pl^
@@ -27245,6 +27255,7 @@
 ||e72bb8a5e0df0bdb4947a9ff8b330f43.acalgo.co.pl^
 ||e73a5a80e1b82719323a74a482167853.hospla.co.pl^
 ||e075f1a1f5738036e6086772dbd970d1.djodom.co.pl^
+||e76b225a2516c243abbede499bedd099.zislkda.pl^
 ||e79a454f5f23944b9cedb02288682bda.alldom.co.pl^
 ||e81fb59eb31f8cb98905a4d1b757fcfb.hospla.co.pl^
 ||e85e5afadc052e9a99f36d81b9589c37.m-pl.co.pl^
@@ -32652,6 +32663,7 @@
 ||gillespie.gjedrzejczyk.pl^
 ||gim.gimms.xyz^
 ||gimnasioalache.com^
+||gimz2gniez.psfkalisz.pl^
 ||gin.safars.online^
 ||gina.tomasz.wroclaw.pl^
 ||ginaluttrell.com^
@@ -45712,6 +45724,7 @@
 ||lecomptoirfermier.com^
 ||leczeniezeza.com^
 ||lededata.com^
+||ledger-secure.catalog.yampi.io^
 ||ledgerr.org^
 ||ledgtek.com^
 ||leds.starprogram.site^
@@ -46758,6 +46771,7 @@
 ||lnpost.nchengcpa.online^
 ||lnpost.newmoshop.shop^
 ||lnpost.niamod.space^
+||lnpost.niodla.site^
 ||lnpost.nonste.pw^
 ||lnpost.nq842145512.tech^
 ||lnpost.nurdan.lol^
@@ -63842,6 +63856,7 @@
 ||pomocdlaobywateli.online^
 ||pomogam-polska.pl^
 ||pomomento-com.preview-domain.com^
+||pomorskie-ogloszenia24.pl^
 ||pomorskiewiadomosci.pl^
 ||pomozpolaku466.rest^
 ||pompon.blog-finansowe.xyz^
@@ -78288,6 +78303,7 @@
 ||vintedcz.cell120.online^
 ||vintedcz.info21.pw^
 ||vintedcz.order45.pw^
+||vintedcz.order64.com^
 ||vintedcz.order382.eu^
 ||vintedcz.order4372.eu^
 ||vintedcz.order5914.eu^
@@ -80322,6 +80338,7 @@
 ||wentpays.top^
 ||wenyugs.com^
 ||weo.skin^
+||weog.one^
 ||wepklbalta.com^
 ||weplay-events.pro^
 ||weplay-jr.com^
