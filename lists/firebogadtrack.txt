@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-05T01:58:09.741Z
+! Last modified: 2023-09-05T13:41:58.531Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1286,14 +1286,6 @@
 ||ads-cloud.rovio.com^
 ||videoads-cloud.rovio.com^
 ||app.roximity.com^
-||adconf.rqmob.com^
-||adcs.rqmob.com^
-||ap-adcs.rqmob.com^
-||api.rqmob.com^
-||appclick.rqmob.com^
-||ascribe.rqmob.com^
-||msdk.rqmob.com^
-||static.rqmob.com^
 ||dmp.rtbsrv.com^
 ||ads.rubiconproject.com^
 ||aws.rubiconproject.com^
@@ -4480,6 +4472,7 @@
 ||applabzzeydood.com^
 ||applandforbuddies.top^
 ||applandlight.com^
+||applandsforbests.com^
 ||applaudmaturityasunder.com^
 ||applausebind.com^
 ||applausesuch.com^
@@ -9696,6 +9689,7 @@
 ||eac0823ca94e3c07.com^
 ||eacfiii.com^
 ||eachiv.com^
+||eachuit.uno^
 ||eadirtlseivid.xyz^
 ||eads.to^
 ||eae5daf052d2673b.com^
@@ -19037,6 +19031,7 @@
 ||photographediblefiend.com^
 ||photographingmake.com^
 ||photographingstirinput.com^
+||phourdee.com^
 ||phouvemp.net^
 ||phouwims.net^
 ||phrensaltier.com^
@@ -19178,6 +19173,7 @@
 ||piwixesu.pro^
 ||pixazza.com^
 ||pixelhere.com^
+||pixelplay.pro^
 ||pixfuture.net^
 ||pixinform.com^
 ||pixiv.org^
@@ -26022,6 +26018,7 @@
 ||warmanmamelon.com^
 ||warmheartedtackle.pro^
 ||warmthsmasseur.com^
+||warnmessage.com^
 ||warpassistrefrain.com^
 ||warswhitawe.com^
 ||wartletkenn.com^
@@ -26495,14 +26492,11 @@
 ||wkyfgxxabvu.xyz^
 ||wl-cornholio.com^
 ||wlawpzx.com^
-||wlct-two.de^
 ||wledconsi.xyz^
 ||wlfcwkijsknted.xyz^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlixymxepnroiq.com^
-||wlt-alice.de^
-||wlt-jupiter.de^
 ||wltsgqnblq.com^
 ||wma.io^
 ||wmbbsat.com^
@@ -27300,6 +27294,7 @@
 ||zalawqsahn.com^
 ||zaltaumi.net^
 ||zamansolpuga.com^
+||zambianmarlena.com^
 ||zamiasbrouze.com^
 ||zamioculcas2.org^
 ||zangocash.com^
@@ -27990,6 +27985,7 @@
 ||headbidder.net^
 ||headerbidding.ai^
 ||healthtrader.com^
+||heliumads.com^
 ||horse-racing-affiliate-program.co.uk^
 ||hot-mob.com^
 ||hotelscombined.com.au^
@@ -33507,6 +33503,7 @@
 ||lw.musictarget.com^
 ||mafvertizing.crazygames.com^
 ||mail-ads.google.com^
+||outlookads.live.com^
 ||plutonium.cointelegraph.com^
 ||prebid-server.newsbreak.com^
 ||prod-sponsoredads.mkt.zappos.com^
@@ -37769,7 +37766,6 @@
 ||pricee.com^
 ||newsupdatewe.info^
 ||seriencev.com^
-||tracker.rqmob.com^
 ||myshopify-admin-privacy.ml^
 ||ec83cce4c209447a2af3d62f2.litix.io^
 ||asia.bm.traakr.com^
@@ -42074,6 +42070,7 @@
 ||analytics.xelondigital.com^
 ||analyticsapi.happypancake.net^
 ||ancientact.com^
+||androiddownload.net^
 ||aniview.com^
 ||annoyedairport.com^
 ||anstrex.com^
@@ -43609,6 +43606,7 @@
 ||ads.livetv689.me^
 ||ads.livetv691.me^
 ||ads.livetv697.me^
+||ads.livetv701.me^
 ||intake-logging.wikimedia.org^
 ||adkwai.com^
 ||ad.a.yximgs.com^
@@ -43712,6 +43710,9 @@
 ||r.apkpure.net^
 ||report.apkpure.net^
 ||t.apkpure.net^
+||adcs-ap.myappsget.com^
+||adcs-ue.myappsget.com^
+||rqmob.com^
 ||novanet.vn^
 ||novaonads.com^
 ||novaon.vn^
@@ -45154,6 +45155,7 @@
 ||crazyabuse.pro^
 ||crazywingflap.com^
 ||creakdovbvfi.com^
+||creasureeffe.club^
 ||creative.leojmp.com^
 ||crebmemimsty.com^
 ||creepingseverely.com^
@@ -45337,6 +45339,7 @@
 ||erauthors.com^
 ||ermin-oxj.info^
 ||eryondistain.com^
+||essbritanidim.club^
 ||etoet.icu^
 ||euclid.kuula.co^
 ||eulerian.com^
@@ -47699,9 +47702,7 @@
 ||adtrack.e.kuaishou.com^
 ||open.e.kuaishou.cn^
 ||jnn-pa.googleapis.com^
-||adcs-ue.myappsget.com^
 ||midas-tracker.hellay.net^
-||adcs-ap.myappsget.com^
 ||adx.apiok.net^
 ||api.youngle.tech^
 ||events.mz.unity3d.com^
@@ -48246,6 +48247,10 @@
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
+||wlct-one.de^
+||wlct-two.de^
+||wlt-alice.de^
+||wlt-jupiter.de^
 ||wmgroup.us^
 ||yardianalytics.com^
 ||yottlyscript.com^
@@ -53293,7 +53298,6 @@
 ||gak.webtoons.com^
 ||gct.americanexpress.com^
 ||geo.brobible.com^
-||geo.gfycat.com^
 ||geoip.boredpanda.com^
 ||geoip.hmageo.com^
 ||geoip.ifunny.co^
@@ -53432,6 +53436,7 @@
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
+||statistics.streamdav.com^
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
 ||stats.davidickedelivery.com^
