@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-07T03:11:58.203Z
+! Last modified: 2023-09-07T13:49:13.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1881,6 +1881,7 @@
 ||tvpixel.com^
 ||sdkgw.us1.twilio.com^
 ||ads.twitter.com^
+||ads-api.twitter.com^
 ||ads-bidder-api.twitter.com^
 ||lightstep-collector.api.ua.com^
 ||uberads.com^
@@ -33176,7 +33177,6 @@
 ||ad.video-mech.ru^
 ||adncdnend.azureedge.net^
 ||adrackpush.azurewebsites.net^
-||ads-api.twitter.com^
 ||ads-yallo-production.imgix.net^
 ||ads.betfair.com^
 ||ads.linkedin.com^
@@ -53805,7 +53805,6 @@
 ||analytics.cmn.com^
 ||analytics.codigo.se^
 ||analytics.contentexchange.me^
-||analytics.dealer.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
@@ -54366,6 +54365,7 @@
 ||t.irtyc.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
+||t.playwayfinder.com^
 ||t.pointandplace.com^
 ||t.powerreviews.com^
 ||t.pswec.com^
@@ -54561,6 +54561,7 @@
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
+||d1qbbgtcslwdbx.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
@@ -55302,6 +55303,7 @@
 ||j927.statnews.com^
 ||jfapiprod.optimonk.com^
 ||jumbo.zomato.com^
+||kinesis.us-east-1.analytics.edmentum.com^
 ||librato-collector.genius.com^
 ||link.kogan.com^
 ||log-gateway.zoom.us^
@@ -71893,6 +71895,7 @@ arketing.indianadunes.com^
 ||d.sondakika.com^
 ||hstats.hepsiburada.com^
 ||stats.birgun.net^
+||counter.nv.ua^
 ||counter.ukr.net^
 ||remp.nv.ua^
 ||target.ukr.net^

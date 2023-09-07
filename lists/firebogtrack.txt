@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-07T03:11:32.029Z
+! Last modified: 2023-09-07T13:48:47.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5328,6 +5328,7 @@
 ||t.irtyc.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
+||t.playwayfinder.com^
 ||t.pointandplace.com^
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
@@ -5550,6 +5551,7 @@
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
+||d1qbbgtcslwdbx.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
@@ -6355,6 +6357,7 @@
 ||ivx.lacompagnie.com^
 ||j927.statnews.com^
 ||jumbo.zomato.com^
+||kinesis.us-east-1.analytics.edmentum.com^
 ||librato-collector.genius.com^
 ||link.kogan.com^
 ||log-gateway.zoom.us^
@@ -23014,6 +23017,7 @@ arketing.indianadunes.com^
 ||d.sondakika.com^
 ||hstats.hepsiburada.com^
 ||stats.birgun.net^
+||counter.nv.ua^
 ||counter.ukr.net^
 ||remp.nv.ua^
 ||target.ukr.net^
@@ -51024,7 +51028,6 @@ arketing.indianadunes.com^
 ||count.wenxuecity.com^
 ||counter.dsp.groupminteraction.ru^
 ||counter.lifesitenews.com^
-||counter.nv.ua^
 ||counter.pushauction.com^
 ||counter.simplybook.me^
 ||counter.tengrinews.kz^
