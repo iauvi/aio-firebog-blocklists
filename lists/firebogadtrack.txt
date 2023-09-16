@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-16T01:55:43.530Z
+! Last modified: 2023-09-16T13:07:49.773Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1853,7 +1853,6 @@
 -468x60-
 -468x60.
 -468x70.
--468x80-
 -468x80.
 -468x90.
 -480x60-
@@ -48955,12 +48954,8 @@
 .googleanalytics.prod.
 .ntpagetag.
 .sharecounter.
-.sitecatalyst.js
-.siteclarity.
-.sitetracking.
 .skimlinks.js
 .v4.analytics.
-.web-vitals-reporting.
 ://a869.
 ://internal-matomo.
 ://segment-api.
