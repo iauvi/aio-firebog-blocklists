@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-18T13:39:30.840Z
+! Last modified: 2023-09-19T01:30:03.505Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1139,8 +1139,6 @@
 ||advolution.biz^
 ||celpip.biz^
 ||czx5eyk0exbhwp43ya.biz^
-||1000.findmedia.biz^
-||download.findmedia.biz^
 ||api.freshaddress.biz^
 ||mixmarket.biz^
 ||ns-cdn.neustar.biz^
@@ -1435,6 +1433,7 @@
 ||adasiaholdings.com^
 ||adbiq.com^
 ||adblade.com^
+||adblocker-vpn.com^
 ||adbull.com^
 ||adcash.com^
 ||adchoice.com^
@@ -1863,6 +1862,7 @@
 ||amillionads.com^
 ||amirpirani.com^
 ||amishfurnaces.com^
+||amlbubctet.com^
 ||amoad.com^
 ||amobee.com^
 ||amoreangels.com^
@@ -2617,7 +2617,6 @@
 ||cbsi.com^
 ||cbsileads.com^
 ||adops.cbsinteractive.com^
-||www.cbsmagazine.com^
 ||cbsmoneyline.com^
 ||cbsmorning.com^
 ||bidbarrel.cbsnews.com^
@@ -2800,15 +2799,11 @@
 ||host.coachingandcoaches.com^
 ||mail.coachingandcoaches.com^
 ||ms.coachingandcoaches.com^
-||ns1.coachingandcoaches.com^
-||ns2.coachingandcoaches.com^
 ||outmail.coachingandcoaches.com^
 ||webdisk.coachingandcoaches.com^
-||www.coachingandcoaches.com^
 ||coasttocoastcarports.com^
 ||traffic.prod.cobaltgroup.com^
 ||cobraelect.com^
-||cocalar.com^
 ||cocospy.com^
 ||coddycummings.com^
 ||coderousseau.com^
@@ -3021,7 +3016,6 @@
 ||creativehelp.com^
 ||creativemonekyz.com^
 ||creativenailplace.com^
-||crediitone.com^
 ||www.creditcards.com^
 ||creditcardshortpay.com^
 ||creditde.com^
@@ -3248,7 +3242,6 @@
 ||smetrics.dickssportinggoods.com^
 ||tag.dickssportinggoods.com^
 ||dicshary.com^
-||ww1.dicsoveryeducation.com^
 ||irene.dictionary.com^
 ||track.dictionary.com^
 ||dictortionary.com^
@@ -4140,7 +4133,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||googleblack.com^
-||googlebussines.com^
+||www.googlebussines.com^
 ||googlecalender.com^
 ||googleespn.com^
 ||googlemaail.com^
@@ -4173,7 +4166,6 @@
 ||gosquared.com^
 ||gotoympc.com^
 ||gr.com^
-||www.grabbesttours.com^
 ||smetrics.grainger.com^
 ||grandcrowneleisure.com^
 ||grandinrode.com^
@@ -4218,7 +4210,6 @@
 ||guestionpro.com^
 ||guhafohu.com^
 ||consider.guideamour.com^
-||www.guideamour.com^
 ||guieco.com^
 ||guiguiland.com^
 ||guitarfedish.com^
@@ -4287,7 +4278,6 @@
 ||hashsrv.com^
 ||hausabf.com^
 ||tracking.hawksearch.com^
-||hawxgames.com^
 ||hayssupermarket.com^
 ||hbfstech.com^
 ||smetrics.hbogo.com^
@@ -4712,8 +4702,6 @@
 ||iogous.com^
 ||ios-protection.com^
 ||api.ipapi.com^
-||ww11.ipardpa.com^
-||ww25.ipardpa.com^
 ||iperceptions.com^
 ||iphwallpaper.com^
 ||ipinfodb.com^
@@ -4783,7 +4771,8 @@
 ||jcpenne.com^
 ||jcpenneeys.com^
 ||jcpenneygiftcard.com^
-||jcpenneyscreditcard.com^
+||ww1.jcpenneyscreditcard.com^
+||www.jcpenneyscreditcard.com^
 ||jcpenneyshomestore.com^
 ||jcpenniys.com^
 ||jcpennyportaits.com^
@@ -4956,7 +4945,6 @@
 ||kol7agh.com^
 ||kolhscarrers.com^
 ||kolkwi4tzicraamabilis.com^
-||kolscareers.com^
 ||komonplus.com^
 ||adsimg.kompas.com^
 ||apis.kompas.com^
@@ -5097,7 +5085,7 @@
 ||njs.services.livejournal.com^
 ||xc3.services.livejournal.com^
 ||livelumber.com^
-||ww1.livemucho.com^
+||livemucho.com^
 ||liverail.com^
 ||liveramp.com^
 ||livesegmentservice.com^
@@ -5208,6 +5196,7 @@
 ||magmypics.com^
 ||magnificentmist.com^
 ||magscustomerservice.com^
+||a.magsrv.com^
 ||mahan-news.com^
 ||mahasagar.com^
 ||mahohaq.com^
@@ -5837,7 +5826,6 @@
 ||okknotty.com^
 ||okqapmnpyox.com^
 ||log.olark.com^
-||ww25.olbgsport.com^
 ||olcnet.com^
 ||oldenglandroma.com^
 ||oldmaturechick.com^
@@ -7186,7 +7174,6 @@
 ||stroeermobileperformance.com^
 ||strpjmp.com^
 ||structurerod.com^
-||studiorso.com^
 ||stupendoussleet.com^
 ||styledeluxe.com^
 ||styles4w.com^
@@ -7887,7 +7874,6 @@
 ||victoriasecrat.com^
 ||victoriasecrert.com^
 ||victoriassecrest.com^
-||nic.aaa.victoricasecrets.com^
 ||vidcy.com^
 ||videmob.com^
 ||video-dating.com^
@@ -7902,7 +7888,8 @@
 ||vidora.com^
 ||vidsdbm.com^
 ||vidyoutube.com^
-||vienamairline.com^
+||ww1.vienamairline.com^
+||www.vienamairline.com^
 ||viewbix.com^
 ||viewdeos.com^
 ||viewsignage.com^
@@ -8544,7 +8531,6 @@
 ||zazlitatpd.com^
 ||count.zcominc.com^
 ||urs.zdnet.com^
-||ww25.zdravykorinek.com^
 ||zedgames.com^
 ||zeegallery.com^
 ||zemanta.com^
@@ -9015,7 +9001,6 @@
 ||afreeurl.info^
 ||mvideo.africanlegends.info^
 ||ww1.africanlegends.info^
-||ww16.africanlegends.info^
 ||ww17.africanlegends.info^
 ||ww25.africanlegends.info^
 ||ww38.africanlegends.info^
@@ -9175,7 +9160,6 @@
 ||bled.info^
 ||blockchani.info^
 ||blogvlw.info^
-||www.bluehippo.info^
 ||bluenews.info^
 ||boatrental.info^
 ||bockchain.info^
@@ -9207,12 +9191,7 @@
 ||bukinist.info^
 ||bukittinggi.info^
 ||bulldozer.info^
-||mvideo.bundesliga-livestream.info^
-||ww11.bundesliga-livestream.info^
-||ww16.bundesliga-livestream.info^
-||ww25.bundesliga-livestream.info^
-||ww3.bundesliga-livestream.info^
-||www.bundesliga-livestream.info^
+||bundesliga-livestream.info^
 ||bungalows.info^
 ||buonchuyen.info^
 ||busjav.info^
@@ -9510,7 +9489,6 @@
 ||galzu.info^
 ||gamebbs.info^
 ||gameoke.info^
-||www.gamerwap.info^
 ||gameswin.info^
 ||gamewin.info^
 ||gamezonewap.info^
@@ -9659,7 +9637,6 @@
 ||inglesonlinegratis.info^
 ||inima.info^
 ||injured.info^
-||ww38.interlin.info^
 ||internetmarketingideas.info^
 ||interwork.info^
 ||investition.info^
@@ -10041,7 +10018,6 @@
 ||pelagia.info^
 ||perfectcorner.info^
 ||ww25.periscopeporn.info^
-||www.periscopeporn.info^
 ||petrolbusiness.info^
 ||petsupply.info^
 ||pfshop.info^
@@ -10151,7 +10127,6 @@
 ||redup.info^
 ||referendumailietuvos.info^
 ||regeneration.info^
-||ww16.register-news-24h.info^
 ||reisu.info^
 ||renktir.info^
 ||resorthotels.info^
@@ -10175,6 +10150,7 @@
 ||rpg-maker.info^
 ||rtbnews.info^
 ||ruensport.info^
+||ww1.rukodelnitsa.info^
 ||rumahmodernterbaik.info^
 ||rumobi.info^
 ||rupertmallin.info^
@@ -10296,10 +10272,7 @@
 ||stoommachine.info^
 ||stopillegals.info^
 ||streamingvf.info^
-||backup.stroims.info^
-||ww17.stroims.info^
-||ww25.stroims.info^
-||ww38.stroims.info^
+||stroims.info^
 ||studnet.info^
 ||subsidios.info^
 ||suertetrabajos.info^
@@ -11265,6 +11238,10 @@
 ||ditme.net^
 ||dividshub.net^
 ||adv.dlh.net^
+||dsm.a.dlqm.net^
+||ml2k.a.dlqm.net^
+||b.dlqm.net^
+||s3.dlqm.net^
 ||dm-event.net^
 ||tofu-ssl.dmcdn.net^
 ||dnsnanny.net^
@@ -11495,6 +11472,7 @@
 ||koosk.net^
 ||krxd.net^
 ||kylyria.net^
+||ww1.lacierda.net^
 ||lanchpad.net^
 ||landirekt.net^
 ||laooste.net^
@@ -11603,6 +11581,18 @@
 ||openx.net^
 ||optimadns.net^
 ||optofine.net^
+||dns2.or-tec.net^
+||esx4.or-tec.net^
+||mail.or-tec.net^
+||mail2.or-tec.net^
+||mailer.or-tec.net^
+||mailgw.or-tec.net^
+||mailx.or-tec.net^
+||mta.or-tec.net^
+||mx.or-tec.net^
+||mx4.or-tec.net^
+||smtp01.or-tec.net^
+||vmail.or-tec.net^
 ||owneriq.net^
 ||ads.p161.net^
 ||pages03.net^
@@ -12040,7 +12030,6 @@
 ||assertj.org^
 ||assistirfilmesonlinehd.org^
 ||assistmypc.org^
-||mx4.assre.org^
 ||assst.org^
 ||assuranceinsurance.org^
 ||atlantagamer.org^
@@ -12639,7 +12628,9 @@
 ||joucemeyer.org^
 ||jpsschool.org^
 ||jrc.org^
-||jsdc33jsod24.org^
+||ww1.jsdc33jsod24.org^
+||ww38.jsdc33jsod24.org^
+||www.jsdc33jsod24.org^
 ||jsononlineeditor.org^
 ||judgenow.org^
 ||justintvizle.org^
@@ -13197,7 +13188,6 @@
 ||shopbs.org^
 ||shrutinandan.org^
 ||ww16.siapakepo.org^
-||ww25.siapakepo.org^
 ||sidrith.org^
 ||sikayethatti.org^
 ||simkey.org^
@@ -13707,7 +13697,6 @@
 ||armis.tech^
 ||coinbasepro.tech^
 ||sommelier.futurehybrid.tech^
-||rtb.instabid.tech^
 ||ads5.matichon.co.th^
 ||cpx.to^
 ||binancegiveaway.top^
@@ -13794,7 +13783,7 @@
 ||search-api.fie.future.net.uk^
 ||4et.us^
 ||amung.us^
-||anonymousinsights.us^
+||mail.anonymousinsights.us^
 ||binances.us^
 ||coinbasegive.us^
 ||icontent.us^
@@ -15902,7 +15891,6 @@
 ||lilystyle.ai^
 ||limeclassycaption.com^
 ||limitationvolleyballdejected.com^
-||linealtwelfthinject.com^
 ||linkbucks.com^
 ||linkis.com^
 ||linkonclick.com^
@@ -27078,7 +27066,6 @@
 ||monumentsmaterialeasel.com^
 ||moodokay.com^
 ||morrowfreezer.com^
-||mostlytreasure.com^
 ||motdgd.com^
 ||motrixi.com^
 ||mountain.com^
@@ -27786,7 +27773,6 @@
 ||sentkey.com^
 ||seoab.io^
 ||separatecolonist.com^
-||serialwarning.com^
 ||sermonoccupied.com^
 ||sessionamateur.com^
 ||sessioncam.com^
@@ -28367,7 +28353,6 @@
 ||smetrics.mutua.es^
 ||smetrics.myspringfield.com^
 ||smetrics.myvi.in^
-||smetrics.myyellow.com^
 ||smetrics.nab.com.au^
 ||smetrics.nabbroker.com.au^
 ||smetrics.nabtrade.com.au^
@@ -29293,7 +29278,6 @@
 ||watson.microsoft.com^
 ||waudit.cz^
 ||waufooke.com^
-||wavermerchandiseweird.com^
 ||wayin.com^
 ||wbtrk.net^
 ||weaveradrenaline.com^
