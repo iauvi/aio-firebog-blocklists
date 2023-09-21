@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-21T01:54:14.123Z
+! Last modified: 2023-09-21T13:58:01.722Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -94,6 +94,7 @@
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
+||byspotify.com^
 ||cadsuta.net^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
@@ -6379,6 +6380,7 @@
 ||fathom.app.silverbeak.com^
 ||fathom.status.im^
 ||fathom.tdvm.net^
+||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fdt.kraken.com^
 ||firebaselogging.googleapis.com^
 ||fp.heavybit.com^
