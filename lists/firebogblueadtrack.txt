@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-20T13:39:21.363Z
+! Last modified: 2023-09-21T01:55:10.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1837,7 +1837,14 @@
 ||ambra.com^
 ||ambroseshoemaker.com^
 ||mms.amc.com^
-||amdaws.com^
+||image.amdaws.com^
+||m.amdaws.com^
+||magento.amdaws.com^
+||mail.amdaws.com^
+||s3.amdaws.com^
+||shop.amdaws.com^
+||staging.amdaws.com^
+||www.amdaws.com^
 ||amdgt.com^
 ||amefly.com^
 ||ameraicanidol.com^
@@ -2301,8 +2308,8 @@
 ||billyblank.com^
 ||billywitchdoctor.com^
 ||bilojobs.com^
-||binance-gives.com^
 ||binance2.com^
+||binance2x.com^
 ||binancebegin.com^
 ||binancebonus.com^
 ||binancedeals.com^
@@ -2818,7 +2825,6 @@
 ||coinbasegiving.com^
 ||coinbasegold.com^
 ||coinbaseone.com^
-||coinbasepromotion.com^
 ||coinbaserewards.com^
 ||coindeskbtc.com^
 ||col3negorijinal.com^
@@ -3270,7 +3276,6 @@
 ||discovernative.com^
 ||discoveryespanol.com^
 ||diseymovierewards.com^
-||disfloration.com^
 ||disipapa.com^
 ||disneiplatino.com^
 ||disneneylatino.com^
@@ -3353,7 +3358,9 @@
 ||dramasoloist.com^
 ||dramaticcondition.com^
 ||drbanner.com^
-||dreamameteurs.com^
+||ww1.dreamameteurs.com^
+||ww11.dreamameteurs.com^
+||www.dreamameteurs.com^
 ||dreamameture.com^
 ||dreambathinternational.com^
 ||dreamfeets.com^
@@ -3726,6 +3733,7 @@
 ||fingersgames.com^
 ||fiowertucci.com^
 ||fipinocupid.com^
+||firebasegoogle.com^
 ||firstanalouest.com^
 ||firstbankscard.com^
 ||firstliberybank.com^
@@ -4208,7 +4216,6 @@
 ||guepiere.com^
 ||guestionpro.com^
 ||guhafohu.com^
-||consider.guideamour.com^
 ||guieco.com^
 ||guiguiland.com^
 ||guitarfedish.com^
@@ -5149,7 +5156,6 @@
 ||luiviton.com^
 ||lukassbprojects.com^
 ||lula3d.com^
-||www.lulutong8899.com^
 ||lulutuh.com^
 ||lumberamount.com^
 ||lungcancerguides.com^
@@ -5229,8 +5235,6 @@
 ||mangafax.com^
 ||mangehere.com^
 ||ww11.manjisstudio.com^
-||ww25.manjisstudio.com^
-||ww38.manjisstudio.com^
 ||www.manjisstudio.com^
 ||manroulett.com^
 ||mansrun.com^
@@ -10011,7 +10015,6 @@
 ||peepshow.info^
 ||pelagia.info^
 ||perfectcorner.info^
-||ww25.periscopeporn.info^
 ||petrolbusiness.info^
 ||petsupply.info^
 ||pfshop.info^
@@ -11373,6 +11376,7 @@
 ||gavsim.net^
 ||www.quotes.gb.net^
 ||geoplugin.net^
+||www.mail.germanstudy.net^
 ||gigazu.net^
 ||sentry.gitlab.net^
 ||glancecdn.net^
@@ -11491,6 +11495,8 @@
 ||lovely-kiss.net^
 ||lowfareticket.net^
 ||lsimg.net^
+||comcast.lspeedtest.net^
+||ww1.lspeedtest.net^
 ||luckyorange.net^
 ||maillaposte.net^
 ||mannybooks.net^
@@ -11587,6 +11593,7 @@
 ||mx4.or-tec.net^
 ||smtp01.or-tec.net^
 ||vmail.or-tec.net^
+||www.or-tec.net^
 ||owneriq.net^
 ||ads.p161.net^
 ||pages03.net^
@@ -11698,6 +11705,8 @@
 ||collector.pi.spectrum.net^
 ||speectest.net^
 ||sperdtest.net^
+||backup.sporcash.net^
+||ww1.sporcash.net^
 ||srbiaulogin.net^
 ||ssfrom.net^
 ||sstoday.net^
@@ -13002,17 +13011,6 @@
 ||playbuzz.org^
 ||playtetris.org^
 ||plela.org^
-||barracuda.plp2.org^
-||comune.plp2.org^
-||host.plp2.org^
-||m.plp2.org^
-||mail1.plp2.org^
-||mailhost.plp2.org^
-||mbox.plp2.org^
-||mx01.plp2.org^
-||mx10.plp2.org^
-||mx7.plp2.org^
-||vmail.plp2.org^
 ||pmasterson.org^
 ||poewiki.org^
 ||policecanada.org^
@@ -13195,7 +13193,6 @@
 ||shoeman.org^
 ||shopbs.org^
 ||shrutinandan.org^
-||ww16.siapakepo.org^
 ||sidrith.org^
 ||sikayethatti.org^
 ||simkey.org^
@@ -13442,8 +13439,6 @@
 ||usalerans.org^
 ||usalerns.org^
 ||lime.usalr.org^
-||ww1.usalr.org^
-||ww17.usalr.org^
 ||usamnesty.org^
 ||usarchives.org^
 ||usclimateplan.org^
@@ -13550,7 +13545,9 @@
 ||worldfoodprogram.org^
 ||worldindata.org^
 ||worldonfire.org^
-||worldwarzfilm.org^
+||staging.worldwarzfilm.org^
+||ww38.worldwarzfilm.org^
+||www.worldwarzfilm.org^
 ||woundedwariorproject.org^
 ||wp11.org^
 ||wpswpatester.org^
@@ -14358,6 +14355,7 @@
 ||aiir.net^
 ||aimatch.com^
 ||aimtell.com^
+||airconditionblown.com^
 ||aireport.shalltry.com^
 ||aj1010.online^
 ||aj1047.online^
@@ -14696,6 +14694,7 @@
 ||beacon.qq.com^
 ||beacons5.gvt3.com^
 ||beaconsinspace.com^
+||beambroth.com^
 ||beardfleet.com^
 ||bebi.com^
 ||becomingcrackingragged.com^
@@ -15994,6 +15993,7 @@
 ||madsips.com^
 ||magic1.info^
 ||magnetmail.net^
+||magnificentflametemperature.com^
 ||magnificentmanlyyeast.com^
 ||magreprints.com^
 ||mahimeta.com^
@@ -16006,6 +16006,7 @@
 ||manalyticshub.com^
 ||mandrillapp.com^
 ||mantis-prod-reach.cdn.appdomain.cloud^
+||manualcasketlousy.com^
 ||map2.ssl.hwcdn.net^
 ||margarinereverend.com^
 ||marinegruffexpecting.com^
@@ -17963,6 +17964,7 @@
 ||mkt11724.com^
 ||mkt11725.com^
 ||mkt11727.com^
+||mkt11728.com^
 ||mkt11729.com^
 ||mkt1173.com^
 ||mkt11736.com^
@@ -27407,6 +27409,7 @@
 ||polar.me^
 ||polarbyte.com^
 ||polarmobile.com^
+||politicianbusplate.com^
 ||pollpublicly.com^
 ||pomodoromedia.com^
 ||ponderousmuffled.com^
@@ -27755,6 +27758,7 @@
 ||se-core-pipe.com^
 ||se05.biz^
 ||se07.biz^
+||seafoodclickwaited.com^
 ||seaofads.com^
 ||search-log-1.tapatalk.com^
 ||searchanalytics.turkcell.com.tr^
