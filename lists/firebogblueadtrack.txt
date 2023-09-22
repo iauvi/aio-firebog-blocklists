@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-21T13:58:58.001Z
+! Last modified: 2023-09-22T02:03:22.487Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1844,7 +1844,6 @@
 ||s3.amdaws.com^
 ||shop.amdaws.com^
 ||staging.amdaws.com^
-||www.amdaws.com^
 ||amdgt.com^
 ||amefly.com^
 ||ameraicanidol.com^
@@ -4154,7 +4153,9 @@
 ||googleprank.com^
 ||googlerive.com^
 ||googlesettings.com^
-||googlessites.com^
+||ww25.googlessites.com^
+||ww38.googlessites.com^
+||www.googlessites.com^
 ||googletagservice.com^
 ||googletrad.com^
 ||googlevedio.com^
@@ -4777,8 +4778,6 @@
 ||jcpenne.com^
 ||jcpenneeys.com^
 ||jcpenneygiftcard.com^
-||ww1.jcpenneyscreditcard.com^
-||www.jcpenneyscreditcard.com^
 ||jcpenneyshomestore.com^
 ||jcpenniys.com^
 ||jcpennyportaits.com^
@@ -5016,7 +5015,8 @@
 ||leadlander.com^
 ||leadnationmedia.com^
 ||leadsbridge.com^
-||leaguoflegend.com^
+||eune.leaguoflegend.com^
+||tr.leaguoflegend.com^
 ||leanplum.com^
 ||leapretrieval.com^
 ||learn2do.com^
@@ -5029,6 +5029,7 @@
 ||web.legalandgeneral.com^
 ||leggoit.com^
 ||static.legitscript.com^
+||www.legolanddiscovercenter.com^
 ||legostarwarsthecompletesaga.com^
 ||leial.com^
 ||lemmatechnologies.com^
@@ -5234,7 +5235,6 @@
 ||manga2h.com^
 ||mangafax.com^
 ||mangehere.com^
-||ww11.manjisstudio.com^
 ||www.manjisstudio.com^
 ||manroulett.com^
 ||mansrun.com^
@@ -5273,7 +5273,18 @@
 ||maruthuvam.com^
 ||marveikids.com^
 ||maryksyintouch.com^
-||marzaniprogetti.com^
+||auth.marzaniprogetti.com^
+||hermes.marzaniprogetti.com^
+||imap1.marzaniprogetti.com^
+||mail1.marzaniprogetti.com^
+||mailgate.marzaniprogetti.com^
+||mx.marzaniprogetti.com^
+||ww25.ns1.marzaniprogetti.com^
+||pop.marzaniprogetti.com^
+||relay.marzaniprogetti.com^
+||smtpauth.marzaniprogetti.com^
+||ww11.marzaniprogetti.com^
+||www.marzaniprogetti.com^
 ||masdejon.com^
 ||mashero.com^
 ||mashface.com^
@@ -6462,7 +6473,6 @@
 ||collect.rewardstyle.com^
 ||reyoutube.com^
 ||rezonence.com^
-||rezultait.com^
 ||rezutati.com^
 ||rezync.com^
 ||rfihub.com^
@@ -6601,7 +6611,7 @@
 ||safedk.com^
 ||safety-search.com^
 ||safeyoutube.com^
-||saffronsshanklin.com^
+||ww11.saffronsshanklin.com^
 ||safronmarigold.com^
 ||sail-horizon.com^
 ||api.sail-personalize.com^
@@ -6936,7 +6946,7 @@
 ||promotions.skype.com^
 ||skysporthd1.com^
 ||analytics.slashdotmedia.com^
-||slatetheschool.com^
+||www.slatetheschool.com^
 ||sleeklogo.com^
 ||pulse.sleepnumber.com^
 ||slickstream.com^
@@ -7022,7 +7032,6 @@
 ||pixel.solvemedia.com^
 ||somalioz.com^
 ||sombersurprise.com^
-||ww25.sonaaunty.com^
 ||ww38.sonaaunty.com^
 ||telemetry.sonarsource.com^
 ||songaza.com^
@@ -8215,7 +8224,6 @@
 ||ww-hsn.com^
 ||wwbasspro.com^
 ||wwcoach.com^
-||ww25.wwesport.com^
 ||www.wwesport.com^
 ||wwethemesongs.com^
 ||wweyoutube.com^
@@ -11350,6 +11358,7 @@
 ||fishingclub.net^
 ||flero.net^
 ||flippty.net^
+||www.flouwhot.net^
 ||flutterbyfields.net^
 ||cdn.best-tv.com.c.footprint.net^
 ||global.msads.net.c.footprint.net^
@@ -11376,6 +11385,7 @@
 ||gavsim.net^
 ||www.quotes.gb.net^
 ||geoplugin.net^
+||bypass.germanstudy.net^
 ||www.mail.germanstudy.net^
 ||gigazu.net^
 ||sentry.gitlab.net^
@@ -11471,6 +11481,11 @@
 ||krxd.net^
 ||kylyria.net^
 ||ww1.lacierda.net^
+||ww25.lacierda.net^
+||www12.lacierda.net^
+||www14.lacierda.net^
+||www42.lacierda.net^
+||www6.lacierda.net^
 ||lanchpad.net^
 ||landirekt.net^
 ||laooste.net^
@@ -11497,6 +11512,8 @@
 ||lsimg.net^
 ||comcast.lspeedtest.net^
 ||ww1.lspeedtest.net^
+||ww25.lspeedtest.net^
+||www.lspeedtest.net^
 ||luckyorange.net^
 ||maillaposte.net^
 ||mannybooks.net^
@@ -11573,6 +11590,8 @@
 ||nsimg.net^
 ||nsleep.net^
 ||nuggad.net^
+||ww17.nylonmilf.net^
+||ww25.nylonmilf.net^
 ||nymburk.net^
 ||onetag.net^
 ||trkpnt.ongage.net^
@@ -11674,6 +11693,7 @@
 ||semester.net^
 ||sendgrid.net^
 ||sensic.net^
+||serpento.net^
 ||servicecreditunion.net^
 ||sevafrom.net^
 ||sexeshop.net^
@@ -12614,7 +12634,16 @@
 ||iuhelath.org^
 ||iyns.org^
 ||jabook.org^
-||jaffbooks.org^
+||citrix.jaffbooks.org^
+||dev.jaffbooks.org^
+||mail.jaffbooks.org^
+||old.jaffbooks.org^
+||shop.jaffbooks.org^
+||sitemap.jaffbooks.org^
+||test.jaffbooks.org^
+||ww1.jaffbooks.org^
+||ww17.jaffbooks.org^
+||ww25.jaffbooks.org^
 ||jailbase.org^
 ||jaketm.org^
 ||javlibrary.org^
@@ -13028,6 +13057,13 @@
 ||prebid.org^
 ||preparetexas.org^
 ||presion.org^
+||comune.primarysourcelearning.org^
+||hermes.primarysourcelearning.org^
+||mx1.primarysourcelearning.org^
+||mx5.primarysourcelearning.org^
+||vmail.primarysourcelearning.org^
+||ww17.primarysourcelearning.org^
+||ww38.primarysourcelearning.org^
 ||primejailbait.org^
 ||prismarc.org^
 ||privacy-center.org^
@@ -13545,9 +13581,7 @@
 ||worldfoodprogram.org^
 ||worldindata.org^
 ||worldonfire.org^
-||staging.worldwarzfilm.org^
 ||ww38.worldwarzfilm.org^
-||www.worldwarzfilm.org^
 ||woundedwariorproject.org^
 ||wp11.org^
 ||wpswpatester.org^
@@ -27784,7 +27818,6 @@
 ||sensors.larkplayerapp.com^
 ||sensors.yodo1api.com^
 ||sentifi.com^
-||sentimenthypocrisy.com^
 ||sentkey.com^
 ||seoab.io^
 ||separatecolonist.com^
@@ -28198,7 +28231,6 @@
 ||smetrics.gomastercard.com.au^
 ||smetrics.grandandtoy.com^
 ||smetrics.greatsouthernbank.com.au^
-||smetrics.greenflag.com^
 ||smetrics.groupama.fr^
 ||smetrics.grundfos.com^
 ||smetrics.gs1us.org^
@@ -28889,7 +28921,6 @@
 ||tactilews.com^
 ||tagcade.com^
 ||taggstar.com^
-||tagoutlookignoring.com^
 ||tags.johnlewis.com^
 ||tailtarget.com^
 ||takepalpablenuisance.com^
