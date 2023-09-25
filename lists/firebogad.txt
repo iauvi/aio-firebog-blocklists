@@ -3,7 +3,7 @@
 ! Description: All the advertising sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-25T01:42:32.971Z
+! Last modified: 2023-09-25T13:17:06.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3906,6 +3906,7 @@
 ||adsafety.net^
 ||adsagony.com^
 ||adsalo.com^
+||adsbar.online^
 ||adsbeard.com^
 ||adscale.de^
 ||adscampaign.net^
@@ -46664,6 +46665,8 @@
 ||amazon-adsystems.com^
 ||cloudfront-labs.amazonaws.com^
 ||popadex-1919430815.us-east-1.elb.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||sprocket-ping.s3.amazonaws.com^
 ||us-east-1.telemetry.insights.video.a2z.com^
 ||platform.tumblr.com^
 ||saber.srvcs.tumblr.com^
