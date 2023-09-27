@@ -25,8 +25,6 @@
 <div align="center">
 
 <strong><em>All sources are from <a href="https://firebog.net/" title="">The Firebog</a><br>created by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
-  
-<br>
 
 | Class | 📚 | Source |
 |:---:|:---:|:---|
@@ -91,8 +89,6 @@
 
 <strong><em><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock-style</a> blocklists for ad blockers and DNS services</em></strong>
 
-<br>
-
 |📚|All-In-One Blocklists|
 |:---:|:---|
 | 📙 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Bog All-In-One List</a> |
@@ -136,8 +132,6 @@
 <div align="center">
 
 <strong><em>Tools to help identify what is blocked or unblocked</em></strong>
-
-<br>
 
 | 📉 | Testing Tools |
 |:---:|:---|
