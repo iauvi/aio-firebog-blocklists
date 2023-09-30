@@ -131,7 +131,7 @@
 
 <div align="center">
 
-<strong><em>Tools to help identify what is blocked or unblocked</em></strong>
+<strong><em>Tools to help identify what is blocked by the list of your choice</em></strong>
 
 | 📉 | Testing Tools |
 |:---:|:---|
