@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-09-30T01:23:06.471Z
+! Last modified: 2023-09-30T13:08:38.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1658,6 +1658,7 @@
 ||s3s-main.net^
 ||s7target.ru^
 ||safe-click.net^
+||safeanalytics.net^
 ||salesgenius.com^
 ||salesviewer.com^
 ||salesviewer.org^
@@ -6238,6 +6239,7 @@
 ||ampltd2.medal.tv^
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.
+||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
 ||analytics-tracking.meetup.com^
 ||analytics-wcms.joins.net^
