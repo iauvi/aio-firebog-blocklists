@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-02T01:55:49.598Z
+! Last modified: 2023-10-02T13:22:19.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -49578,7 +49578,6 @@
 ||brsrvr.com^
 ||bx-cloud.com^
 ||bydst.com^
-||byspotify.com^
 ||cadsuta.net^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
@@ -53929,6 +53928,7 @@
 ||pixel.ampry.com^
 ||pixel.archipro.co.nz^
 ||pixel.blivenyc.com^
+||pixel.byspotify.com^
 ||pixel.locker2.com^
 ||pixel.redgifs.com^
 ||pixel.roymorgan.com^
@@ -54796,6 +54796,7 @@
 ||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.freemake.com^
+||analytics.gamesdrive.net^
 ||analytics.global.sky.com^
 ||analytics.hashnode.com^
 ||analytics.kooapp.com^

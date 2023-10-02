@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-02T01:54:40.532Z
+! Last modified: 2023-10-02T13:21:10.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -50834,7 +50834,6 @@
 ||brsrvr.com^
 ||bx-cloud.com^
 ||bydst.com^
-||byspotify.com^
 ||cadsuta.net^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
@@ -55595,6 +55594,7 @@
 ||pixel.ampry.com^
 ||pixel.archipro.co.nz^
 ||pixel.blivenyc.com^
+||pixel.byspotify.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
 ||pixel.mintigo.com^
@@ -56536,6 +56536,7 @@
 ||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.freemake.com^
+||analytics.gamesdrive.net^
 ||analytics.global.sky.com^
 ||analytics.hashnode.com^
 ||analytics.kaggle.io^
