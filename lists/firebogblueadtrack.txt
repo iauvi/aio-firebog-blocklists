@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-02T13:21:43.574Z
+! Last modified: 2023-10-03T01:19:50.922Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1789,7 +1789,6 @@
 ||privacycollector-production-457481513.us-east-1.elb.amazonaws.com^
 ||prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com^
 ||prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com^
-||raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com^
 ||rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com^
 ||sink-prod-us-east-1-star-680592999.us-east-1.elb.amazonaws.com^
 ||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^
@@ -1977,7 +1976,6 @@
 ||arenapoa.com^
 ||aretecnologia.com^
 ||arielmadeni.com^
-||ww38.ariknig.com^
 ||stats.arinet.com^
 ||analytics.arinetapi.com^
 ||arlpositiva.com^
@@ -1992,7 +1990,6 @@
 ||poczta.artistiksigns.com^
 ||ww11.artistiksigns.com^
 ||ww25.artistiksigns.com^
-||www.artistiksigns.com^
 ||artofzo.com^
 ||artpever.com^
 ||artsai.com^
@@ -2195,7 +2192,6 @@
 ||bebrates.com^
 ||beck-technologies.com^
 ||becooldoright.com^
-||www.beeconimic.com^
 ||beegl.com^
 ||beeketing.com^
 ||beemray.com^
@@ -2405,8 +2401,6 @@
 ||boxingfights.com^
 ||boyfrienstv.com^
 ||boyonthenet.com^
-||mxs.boystwon.com^
-||vip.boystwon.com^
 ||bpdresources.com^
 ||brainient.com^
 ||client-analytics.braintreegateway.com^
@@ -3014,7 +3008,6 @@
 ||crickebuzz.com^
 ||cricket-365info.com^
 ||cricket365-info.com^
-||crickvideo.com^
 ||crictym.com^
 ||crimtan.com^
 ||crisdomson.com^
@@ -3316,7 +3309,8 @@
 ||doonstang.com^
 ||doppler10.com^
 ||dorpbox.com^
-||dota-hotkeys.com^
+||ww11.dota-hotkeys.com^
+||ww25.dota-hotkeys.com^
 ||dotandad.com^
 ||dotnemania.com^
 ||dotomi.com^
@@ -3886,7 +3880,7 @@
 ||futuristicfifth.com^
 ||fuunyordie.com^
 ||fuzzyflavor.com^
-||www.fxgolf.com^
+||fxgolf.com^
 ||fxlogger.com^
 ||fyber.com^
 ||g2afse.com^
@@ -4051,7 +4045,6 @@
 ||goaheraldnews.com^
 ||goalbeting.com^
 ||goaserv.com^
-||goatsgalleries.com^
 ||goatube.com^
 ||products.gobankingrates.com^
 ||gocomplare.com^
@@ -4135,9 +4128,6 @@
 ||goplaylabels.com^
 ||gorillalink.com^
 ||goriziaboats.com^
-||ww1.gosabol.com^
-||ww38.gosabol.com^
-||www.gosabol.com^
 ||gospongebob.com^
 ||gosquared.com^
 ||gotoympc.com^
@@ -4393,7 +4383,6 @@
 ||activate.hotels.com^
 ||hotels-in-israel.com^
 ||ww38.hotes-ballet.com^
-||www.hotes-ballet.com^
 ||hotfreebees.com^
 ||hotjar.com^
 ||hotmaaail.com^
@@ -4474,7 +4463,19 @@
 ||hyunja6.com^
 ||i-cleaning.com^
 ||i23greeting.com^
-||iahoro.com^
+||mail12.iahoro.com^
+||mail8.iahoro.com^
+||mailgw.iahoro.com^
+||mailin.iahoro.com^
+||mailsrv.iahoro.com^
+||mailx.iahoro.com^
+||mx.iahoro.com^
+||mx02.iahoro.com^
+||mx5.iahoro.com^
+||po.iahoro.com^
+||srv.iahoro.com^
+||ww11.iahoro.com^
+||ww25.iahoro.com^
 ||ialotter.com^
 ||iasds01.com^
 ||iaudienc.com^
@@ -4517,7 +4518,6 @@
 ||smy.iheart.com^
 ||iincorporate.com^
 ||ikka-online.com^
-||www.iklaneklusif.com^
 ||il-insurance--quotes.com^
 ||ilebox.com^
 ||ilife-insurance.com^
@@ -5445,7 +5445,6 @@
 ||mopinion.com^
 ||mopub.com^
 ||mopuf.com^
-||mordningstar.com^
 ||morethanjustmiles.com^
 ||morganstanlely.com^
 ||morpthing.com^
@@ -5493,7 +5492,6 @@
 ||mucho-hentai.com^
 ||multiext.com^
 ||mummy8.com^
-||ww1.musakachat.com^
 ||muscleandfitnessforum.com^
 ||musclehero.com^
 ||musicasshow.com^
@@ -6376,7 +6374,6 @@
 ||remedyotc.com^
 ||metrics.rent.com^
 ||aerovuelo.rentadeautoscuba.com^
-||rentalbusparwisata.com^
 ||rentroanoke.com^
 ||replaceroute.com^
 ||reportmylost.com^
@@ -6432,7 +6429,6 @@
 ||richrelevance.com^
 ||ridedical-riseats.com^
 ||rightmessage.com^
-||rightsouce.com^
 ||rightyxxx.com^
 ||ringshell.com^
 ||riocentral.com^
@@ -6592,8 +6588,6 @@
 ||sasmsclub.com^
 ||sasolbusaries.com^
 ||satangay.com^
-||ww5.satishtv.com^
-||www.satishtv.com^
 ||satismeter.com^
 ||attribution.saucony.com^
 ||savethemurlocs.com^
@@ -7022,7 +7016,6 @@
 ||spinacar.com^
 ||spirtanimals.com^
 ||spitzoo.com^
-||www.splderman3.com^
 ||splkmobile.com^
 ||post.spmailtechnol.com^
 ||spognebob.com^
@@ -7131,7 +7124,6 @@
 ||stupendoussleet.com^
 ||styledeluxe.com^
 ||styles4w.com^
-||styletravelmarq.com^
 ||stylinetrucks.com^
 ||subaruaccessories.com^
 ||subhavarthatv.com^
@@ -9334,7 +9326,16 @@
 ||el-youm.info^
 ||eldolarparalelo.info^
 ||electromenager.info^
-||eltt.info^
+||darmowe-tlumaczenia.eltt.info^
+||files.eltt.info^
+||ms1.eltt.info^
+||ww1.eltt.info^
+||ww11.eltt.info^
+||ww16.eltt.info^
+||ww17.eltt.info^
+||ww25.eltt.info^
+||ww38.eltt.info^
+||www.eltt.info^
 ||elweva.info^
 ||emoticone-gratuit.info^
 ||emruz.info^
@@ -9391,6 +9392,7 @@
 ||ww11.fdating.info^
 ||ww38.fdating.info^
 ||www.fdating.info^
+||ferdos.info^
 ||ferienhausinnorwegen.info^
 ||figvam.info^
 ||file156desktop.info^
@@ -9408,7 +9410,6 @@
 ||flixzone.info^
 ||forbest.info^
 ||forex-web.info^
-||forkhost.info^
 ||formadv.info^
 ||formenterazen.info^
 ||forthewomen.info^
@@ -9574,7 +9575,6 @@
 ||ww17.ilit.info^
 ||ww25.ilit.info^
 ||ilkoala.info^
-||ilovefilmesonline.info^
 ||ilovepix.info^
 ||imagediet.info^
 ||imagesexplore.info^
@@ -10326,7 +10326,6 @@
 ||touring24.info^
 ||toutsurtlemcen.info^
 ||toy-terrier.info^
-||traficando.info^
 ||translator.info^
 ||travelersales.info^
 ||traveller.info^
@@ -10409,6 +10408,7 @@
 ||wap9.info^
 ||waploft.info^
 ||waptrik.info^
+||is.warface.info^
 ||mail.warface.info^
 ||ww25.warface.info^
 ||ww38.warface.info^
@@ -10456,6 +10456,7 @@
 ||witze.info^
 ||woco.info^
 ||wonderweblink.info^
+||ns1.wood35.info^
 ||ww38.wood35.info^
 ||www.wood35.info^
 ||woodworkplans.info^
@@ -10466,8 +10467,6 @@
 ||wwpc.info^
 ||wwsy.info^
 ||wwwmuzik.info^
-||ww1.xav11.info^
-||www.xav11.info^
 ||xeal.info^
 ||xiaohuangren.info^
 ||xiaoshuog58.info^
@@ -11877,8 +11876,6 @@
 ||4bilder1wort.org^
 ||4hu.org^
 ||511mo.org^
-||ww1.51av.org^
-||www.ww17.51av.org^
 ||51avi.org^
 ||57so.org^
 ||666av.org^
@@ -12546,9 +12543,6 @@
 ||iisj.org^
 ||ikyep.org^
 ||illegalcartoons.org^
-||wmmasia.imiw.org^
-||ww1.imiw.org^
-||ww38.imiw.org^
 ||impslp.org^
 ||imslo.org^
 ||imslt.org^
@@ -13005,7 +12999,6 @@
 ||procorn.org^
 ||progepe.org^
 ||ww2.projectgazelle.org^
-||ww38.projectgazelle.org^
 ||projectobolix.org^
 ||projectyouthsafety.org^
 ||promoteyourself.org^
@@ -13799,6 +13792,7 @@
 ||sxy18.xyz^
 ||itomedia.co.za^
 ||marketingmachine.co.za^
+||www.openx.co.za^
 ||adserve.zone^
 ||monetate-prod.zone^
 ||a-graph.facebook.com^
@@ -14341,7 +14335,6 @@
 ||akisinn.site^
 ||aklamator.com^
 ||akro.io^
-||albeitinflame.com^
 ||alcoholicsort.com^
 ||alecclause.com^
 ||alephd.com^
@@ -14833,7 +14826,6 @@
 ||center.io^
 ||centertrack.com^
 ||centurybending.com^
-||certifiedstarveeminent.com^
 ||certona.net^
 ||cetrk.com^
 ||chameleon.ad^
@@ -29083,7 +29075,6 @@
 ||tweakostensibleinstaller.com^
 ||twibida.com^
 ||twinrdsyn.com^
-||twistneedylever.com^
 ||twisto.cz^
 ||typescoordinate.com^
 ||tyroo.com^
@@ -29108,7 +29099,6 @@
 ||unruly.systems^
 ||unseenreport.com^
 ||unspeakablepurebeings.com^
-||unwillingsnick.com^
 ||uobsoe.com^
 ||uod2quk646.com^
 ||up0.net^
@@ -29244,6 +29234,7 @@
 ||waufooke.com^
 ||wayin.com^
 ||wbtrk.net^
+||wcsvjqcrpqqft.com^
 ||weaveradrenaline.com^
 ||web-analytics.huami.com^
 ||web-metrica.yandex.ru^
@@ -29342,6 +29333,7 @@
 ||yr9n47004g.com^
 ||yuhuads.com^
 ||ywobqrhsh.com^
+||yxhamnomqlpkwt.com^
 ||zaglushkaaa.com^
 ||zatnoh.com^
 ||zbuckz.com^
