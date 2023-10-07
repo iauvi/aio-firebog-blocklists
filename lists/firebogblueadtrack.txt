@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-06T14:02:55.461Z
+! Last modified: 2023-10-07T01:49:14.330Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1848,7 +1848,6 @@
 ||americanskiff.com^
 ||americsnas.com^
 ||amgdgt.com^
-||amgvgt.com^
 ||amicalis.com^
 ||amidaz.com^
 ||amiibox.com^
@@ -1986,7 +1985,6 @@
 ||arroheadexchange.com^
 ||art-zaya.com^
 ||arthritiscancer.com^
-||poczta.artistiksigns.com^
 ||ww25.artistiksigns.com^
 ||artofzo.com^
 ||artpever.com^
@@ -4629,7 +4627,6 @@
 ||interpolls.com^
 ||intervalleyhealth.com^
 ||intowow.com^
-||www.intraisp.com^
 ||abtesting.intuit.com^
 ||apppersonalization.api.intuit.com^
 ||beyonduserpaid.api.intuit.com^
@@ -6183,7 +6180,6 @@
 ||psp35.com^
 ||pspioz.com^
 ||ptalo.com^
-||www.ptestexapta.com^
 ||ptp22.com^
 ||ptypygrebu.com^
 ||pubexchange.com^
@@ -6634,6 +6630,7 @@
 ||searchesshop.com^
 ||searchexclus.com^
 ||searchextrem.com^
+||searchflowed.com^
 ||searchingbank.com^
 ||searchingbar.com^
 ||searchingblog.com^
@@ -7528,8 +7525,6 @@
 ||trafmag.com^
 ||tranaero.com^
 ||ww16.trance-bux.com^
-||ww38.trance-bux.com^
-||www.trance-bux.com^
 ||traneline.com^
 ||tranformise.com^
 ||transaction-id.com^
@@ -8282,7 +8277,8 @@
 ||xn--sahane-xua.com^
 ||xn--ssyoutube-r3a.com^
 ||xn--tlchargements-bhbb.com^
-||xn--trktelekom-9db.com^
+||ww1.xn--trktelekom-9db.com^
+||ww38.xn--trktelekom-9db.com^
 ||xn--trtocuk-wxa.com^
 ||xn--xhamstr-7xa.com^
 ||xn--yahooenespaol-skb.com^
@@ -8298,6 +8294,7 @@
 ||xposemagazine.com^
 ||xredtube.com^
 ||xrnxx.com^
+||www.xrp-info.com^
 ||xscreenattribution.com^
 ||www.xsslabphpbb.com^
 ||xtendmedia.com^
@@ -9049,7 +9046,6 @@
 ||bestcb.info^
 ||mvideo.bestgarten.info^
 ||ww1.bestgarten.info^
-||ww16.bestgarten.info^
 ||www.bestgarten.info^
 ||bestmovies.info^
 ||bestouyagames.info^
@@ -9324,7 +9320,6 @@
 ||drpciv.info^
 ||duman.info^
 ||duniaprinter.info^
-||dunkelnacht.info^
 ||durangomexico.info^
 ||dutunudutu.info^
 ||earthwisdom.info^
@@ -9397,7 +9392,6 @@
 ||ww31.static.factory-outlet-stores.info^
 ||ww11.factory-outlet-stores.info^
 ||ww17.factory-outlet-stores.info^
-||ww31.factory-outlet-stores.info^
 ||www.factory-outlet-stores.info^
 ||faiznet.info^
 ||fajos.info^
@@ -9955,6 +9949,7 @@
 ||nxnn.info^
 ||nyanko.info^
 ||nycc.info^
+||nzdi.info^
 ||nzpersonals.info^
 ||obatnya.info^
 ||ofcpage.info^
@@ -10041,9 +10036,18 @@
 ||pornstock.info^
 ||porshe.info^
 ||portablesoft.info^
+||auth.portailwebecoles.info^
 ||email.portailwebecoles.info^
 ||gateway.portailwebecoles.info^
+||imap2.portailwebecoles.info^
+||mailer.portailwebecoles.info^
+||mailx.portailwebecoles.info^
+||mx2.portailwebecoles.info^
 ||outmail.portailwebecoles.info^
+||poczta.portailwebecoles.info^
+||pop.portailwebecoles.info^
+||postmaster.portailwebecoles.info^
+||secure.portailwebecoles.info^
 ||server.portailwebecoles.info^
 ||server1.portailwebecoles.info^
 ||smtpauth.portailwebecoles.info^
@@ -10052,6 +10056,9 @@
 ||ww17.portailwebecoles.info^
 ||ww25.portailwebecoles.info^
 ||ww38.portailwebecoles.info^
+||www.portailwebecoles.info^
+||www1.portailwebecoles.info^
+||www2.portailwebecoles.info^
 ||postcode-zoeken.info^
 ||potenzstoerungen.info^
 ||pozivitno.info^
@@ -10130,6 +10137,7 @@
 ||rohkost.info^
 ||rollover.info^
 ||romiso.info^
+||romolo.info^
 ||roomie.info^
 ||rotor.info^
 ||routerhowto.info^
@@ -11201,6 +11209,7 @@
 ||connexity.net^
 ||contactphoto.net^
 ||content-recommendation.net^
+||convertidordeyoutubemp3.net^
 ||convertvideos.net^
 ||cosentinousa.net^
 ||cosmeticsurgery247.net^
@@ -12704,6 +12713,7 @@
 ||liechess.org^
 ||lifebridgehealthjobs.org^
 ||lifephysicsgroup.org^
+||ligg.org^
 ||ligionier.org^
 ||ligouri.org^
 ||likes4likes.org^
@@ -13152,10 +13162,8 @@
 ||scoliosis-support.org^
 ||scoutin.org^
 ||scp-foundation.org^
-||barracuda.scribblekid.org^
 ||ww31.chugworth.scribblekid.org^
 ||ww38.chugworth.scribblekid.org^
-||hermes.scribblekid.org^
 ||imap1.scribblekid.org^
 ||imap2.scribblekid.org^
 ||loserz.scribblekid.org^
@@ -13175,7 +13183,6 @@
 ||ww17.scribblekid.org^
 ||ww31.scribblekid.org^
 ||ww38.scribblekid.org^
-||zmail.scribblekid.org^
 ||scribd.org^
 ||sdacape.org^
 ||sdutlinux.org^
@@ -13389,6 +13396,7 @@
 ||tor-project.org^
 ||toreproject.org^
 ||torprojet.org^
+||torrentproxy.org^
 ||totalsuccessworld.org^
 ||toyotawiki.org^
 ||toys4tots.org^
@@ -14485,7 +14493,6 @@
 ||analytics.nike.com^
 ||analytics.ninjakiwi.com^
 ||analytics.ns1.ff.avast.com^
-||analytics.oneplus.cn^
 ||analytics.ostr.io^
 ||analytics.playinfinity.cn^
 ||analytics.poperblocker.com^
@@ -14750,7 +14757,6 @@
 ||blackmailingpanic.com^
 ||blacknesskeepplan.com^
 ||blinkx.com^
-||blondhoverhesitation.com^
 ||blubberspoiled.com^
 ||blueconic.com^
 ||bluelithium.com^
@@ -27420,7 +27426,6 @@
 ||poptrkr.com^
 ||popxperts.com^
 ||popxyz.com^
-||porcelainfurtherties.com^
 ||porovname.cz^
 ||portbay.trade^
 ||poshhateful.com^
