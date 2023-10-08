@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-07T13:58:14.834Z
+! Last modified: 2023-10-08T01:28:13.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -57280,6 +57280,7 @@
 ||blitz-analytics-batch-server.blitz.gg^
 ||boomerang.dell.com^
 ||c.fingerprint.com^
+||c.newyorker.com^
 ||c.thredup.com^
 ||c.vogue.com^
 ||c.wort-suche.com^
@@ -57479,6 +57480,7 @@
 ||pulse.delta.com^
 ||pumpkin.abine.com^
 ||pxl.indeed.com^
+||qc.newyorker.com^
 ||qc.vogue.com^
 ||qm.redbull.com^
 ||rankhit.china.com^
