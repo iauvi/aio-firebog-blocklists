@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-13T14:00:36.578Z
+! Last modified: 2023-10-14T01:53:23.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4187,7 +4187,6 @@
 ||gwnrecords.com^
 ||gyanin.com^
 ||gyfumobo.com^
-||ww11.gzxrong.com^
 ||ww25.gzxrong.com^
 ||www.gzxrong.com^
 ||h-bid.com^
@@ -6214,7 +6213,6 @@
 ||ww16.mail5.pusnet.com^
 ||mail8.pusnet.com^
 ||mailbox.pusnet.com^
-||mailer.pusnet.com^
 ||mails.pusnet.com^
 ||mx.pusnet.com^
 ||mx02.pusnet.com^
@@ -6225,17 +6223,13 @@
 ||ns2.pusnet.com^
 ||outmail.pusnet.com^
 ||poczta.pusnet.com^
-||post.pusnet.com^
-||postmaster.pusnet.com^
-||relay1.pusnet.com^
-||server1.pusnet.com^
+||ww16.post.pusnet.com^
 ||smtp01.pusnet.com^
 ||smtpauth.pusnet.com^
 ||smtpseguro.pusnet.com^
 ||srv.pusnet.com^
 ||ww11.pusnet.com^
 ||ww16.pusnet.com^
-||ww25.pusnet.com^
 ||www.pusnet.com^
 ||putasviejas.com^
 ||puwoqog.com^
@@ -7801,7 +7795,7 @@
 ||vazesh3.com^
 ||analytics.vcdevhub.com^
 ||vciuy.com^
-||ww11.vcrictime.com^
+||vcrictime.com^
 ||vcyud.com^
 ||veeplay.com^
 ||veeseo.com^
@@ -8325,7 +8319,7 @@
 ||xrnxx.com^
 ||xrp-info.com^
 ||xscreenattribution.com^
-||www.xsslabphpbb.com^
+||xsslabphpbb.com^
 ||xtendmedia.com^
 ||xtify.com^
 ||xtmobile.com^
@@ -8864,7 +8858,6 @@
 ||xn--9dbd4bu.co.il^
 ||xn--9dbfdn.co.il^
 ||xn--9dbgdauq8cc.co.il^
-||xn--9dbhoi6c.co.il^
 ||xn--9dbl4bd.co.il^
 ||xn--9dbnfg.co.il^
 ||xn--9dbq2a.co.il^
@@ -9896,6 +9889,7 @@
 ||nontonfilm.info^
 ||nonude-stars.info^
 ||noorani.info^
+||noraredenoma.info^
 ||noticias365.info^
 ||novaonautoadssword.info^
 ||novax.info^
@@ -10374,7 +10368,6 @@
 ||vertelevisiongratis.info^
 ||verthewalkingdeadonline.info^
 ||vestige.info^
-||ww1.videoindir.info^
 ||videoking.info^
 ||videoprivate.info^
 ||vidk.info^
@@ -10436,7 +10429,8 @@
 ||wikiseda.info^
 ||win-prize.info^
 ||winner-topper-1.info^
-||wir9.info^
+||sl.wir9.info^
+||tk.wir9.info^
 ||wishrobux.info^
 ||witze.info^
 ||woco.info^
@@ -10572,9 +10566,13 @@
 ||info2.gleam.io^
 ||js.gleam.io^
 ||l.gleam.io^
+||next.gleam.io^
 ||preview.gleam.io^
+||prototype.gleam.io^
 ||r.gleam.io^
 ||re.gleam.io^
+||stage.gleam.io^
+||stage-b.gleam.io^
 ||status.gleam.io^
 ||www.gleam.io^
 ||graphly.io^
@@ -11145,7 +11143,6 @@
 ||collegelatinas.net^
 ||colorkids.net^
 ||droit-finances.commentcamarch.net^
-||ww10.commentcamarch.net^
 ||ww16.commentcamarch.net^
 ||community-baptist.net^
 ||comxcast.net^
@@ -11328,7 +11325,6 @@
 ||fullspa.net^
 ||funafterdark.net^
 ||funnymathgames.net^
-||www.furniturex.net^
 ||futbollive.net^
 ||api.vanilla.futurecdn.net^
 ||fuzk.net^
@@ -14568,7 +14564,6 @@
 ||attemptdruggedcarve.com^
 ||attemptinghorace.com^
 ||attributedminded.com^
-||audaciousdefault.com^
 ||audioeye.com^
 ||auditioningborder.com^
 ||auditorius.ru^
@@ -15736,7 +15731,6 @@
 ||ja2n2u30a6rgyd.com^
 ||jakescribble.com^
 ||jampp.com^
-||jamsoulsfriday.com^
 ||jarquizslash.com^
 ||jawconcealed.com^
 ||jbm6c54upkui.com^
@@ -16054,7 +16048,6 @@
 ||mineraltip.com^
 ||mintigo.com^
 ||minutemedia-prebid.com^
-||misslinkvocation.com^
 ||mkklcdnv6tempv4.com^
 ||mkt005.com^
 ||mkt015.com^
@@ -28775,7 +28768,6 @@
 ||stretchedcreepy.com^
 ||stretchingwicked.com^
 ||strikead.com^
-||stronglygathering.com^
 ||struq.com^
 ||stsdk.vivoglobal.com^
 ||stunthedge.com^

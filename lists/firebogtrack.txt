@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-13T13:59:37.738Z
+! Last modified: 2023-10-14T01:52:20.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -334,6 +334,7 @@
 ||spinnaker-js.com^
 ||stack-sonar.com^
 ||stat.ovh^
+||statisticsplatform.com^
 ||statsbox.info^
 ||stpmgo.com^
 ||summerhamster.com^
@@ -2735,9 +2736,11 @@
 ||crawlclocks.com^
 ||crayoncompetition.com^
 ||creditcreature.com^
+||crimsonmeadow.com^
 ||critictruck.com^
 ||crookedcreature.com^
 ||crowdedmass.com^
+||crystalboulevard.com^
 ||cubchannel.com^
 ||cuddlycake.com^
 ||culturedcamera.com^
@@ -3616,6 +3619,7 @@
 ||soaprange.com^
 ||soapsmoke.com^
 ||soggysponge.com^
+||solarislabyrinth.com^
 ||somberattack.com^
 ||somberscarecrow.com^
 ||sombersea.com^
@@ -5943,9 +5947,11 @@
 ||track.tomwx.net^
 ||track.unidata.ai^
 ||tracking.cat898.com^
+||trail.71baomu.com^
 ||videostats.kakao.com^
 ||web-trace.ksapisrv.com^
 ||webtrack.pospal.cn^
+||wlog.kuaishou.com^
 ||tracking.vid4u.org^
 ||a.centrum.cz^
 ||bisko.mall.tv^
@@ -22796,6 +22802,7 @@ arketing.indianadunes.com^
 ||insight.olx.ba^
 ||4399stat.5054399.com^
 ||a.itsmore.cn^
+||accwww9.53kf.com^
 ||adstats.tencentmusic.com^
 ||al.autohome.com.cn^
 ||ams.lelong.com.my^
@@ -22805,6 +22812,8 @@ arketing.indianadunes.com^
 ||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
 ||analytics.shop.hisense.com^
+||apilog-web.acfun.cn^
+||apiwmda.58.com.cn^
 ||applog.yiche.com^
 ||audit.qiuwen.net.cn^
 ||banana.le.com^
@@ -22855,6 +22864,7 @@ arketing.indianadunes.com^
 ||phpstat.cntcm.com.cn^
 ||pingjs.qq.com^
 ||pixel.kknews.cc^
+||poro.58.com^
 ||pv.ltn.com.tw^
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
@@ -22872,6 +22882,7 @@ arketing.indianadunes.com^
 ||sofire.bdstatic.com^
 ||ssp.hinet.net^
 ||stadig.ifeng.com^
+||stat-58home.58che.com^
 ||stat.*.v-56.com^
 ||stat.caijing.com.cn^
 ||stat.funshion.net^
@@ -22894,6 +22905,7 @@ arketing.indianadunes.com^
 ||trackcommon.hujiang.com^
 ||tracker.ai.xiaomi.com^
 ||trackjay.cool3c.com^
+||trail.53kf.com^
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
 ||vatrack.hinet.net^
@@ -23014,6 +23026,7 @@ arketing.indianadunes.com^
 ||view.fujitv.co.jp^
 ||x.allabout.co.jp^
 ||yjtag.yahoo.co.jp^
+||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
 ||count.munhwa.com^
 ||hits.zdnet.co.kr^
@@ -23022,6 +23035,7 @@ arketing.indianadunes.com^
 ||log.etoday.co.kr^
 ||log.zdnet.co.kr^
 ||nil.naver.com^
+||rake.11st.co.kr^
 ||sp.naver.com^
 ||stat.i3.dmm.com^
 ||stat.tiara.daum.net^
@@ -40859,7 +40873,6 @@ arketing.indianadunes.com^
 ||gwnrecords.com^
 ||gyanin.com^
 ||gyfumobo.com^
-||ww11.gzxrong.com^
 ||ww25.gzxrong.com^
 ||www.gzxrong.com^
 ||h-bid.com^
@@ -42705,7 +42718,6 @@ arketing.indianadunes.com^
 ||ww16.mail5.pusnet.com^
 ||mail8.pusnet.com^
 ||mailbox.pusnet.com^
-||mailer.pusnet.com^
 ||mails.pusnet.com^
 ||mx.pusnet.com^
 ||mx02.pusnet.com^
@@ -42716,17 +42728,13 @@ arketing.indianadunes.com^
 ||ns2.pusnet.com^
 ||outmail.pusnet.com^
 ||poczta.pusnet.com^
-||post.pusnet.com^
-||postmaster.pusnet.com^
-||relay1.pusnet.com^
-||server1.pusnet.com^
+||ww16.post.pusnet.com^
 ||smtp01.pusnet.com^
 ||smtpauth.pusnet.com^
 ||smtpseguro.pusnet.com^
 ||srv.pusnet.com^
 ||ww11.pusnet.com^
 ||ww16.pusnet.com^
-||ww25.pusnet.com^
 ||www.pusnet.com^
 ||putasviejas.com^
 ||puwoqog.com^
@@ -44159,7 +44167,7 @@ arketing.indianadunes.com^
 ||vazesh3.com^
 ||analytics.vcdevhub.com^
 ||vciuy.com^
-||ww11.vcrictime.com^
+||vcrictime.com^
 ||vcyud.com^
 ||veeplay.com^
 ||veeseo.com^
@@ -44650,7 +44658,7 @@ arketing.indianadunes.com^
 ||xrnxx.com^
 ||xrp-info.com^
 ||xscreenattribution.com^
-||www.xsslabphpbb.com^
+||xsslabphpbb.com^
 ||xtify.com^
 ||xtmobile.com^
 ||ads2.xumo.com^
@@ -45150,7 +45158,6 @@ arketing.indianadunes.com^
 ||xn--9dbd4bu.co.il^
 ||xn--9dbfdn.co.il^
 ||xn--9dbgdauq8cc.co.il^
-||xn--9dbhoi6c.co.il^
 ||xn--9dbl4bd.co.il^
 ||xn--9dbnfg.co.il^
 ||xn--9dbq2a.co.il^
@@ -46180,6 +46187,7 @@ arketing.indianadunes.com^
 ||nontonfilm.info^
 ||nonude-stars.info^
 ||noorani.info^
+||noraredenoma.info^
 ||noticias365.info^
 ||novaonautoadssword.info^
 ||novax.info^
@@ -46658,7 +46666,6 @@ arketing.indianadunes.com^
 ||vertelevisiongratis.info^
 ||verthewalkingdeadonline.info^
 ||vestige.info^
-||ww1.videoindir.info^
 ||videoking.info^
 ||videoprivate.info^
 ||vidk.info^
@@ -46720,7 +46727,8 @@ arketing.indianadunes.com^
 ||wikiseda.info^
 ||win-prize.info^
 ||winner-topper-1.info^
-||wir9.info^
+||sl.wir9.info^
+||tk.wir9.info^
 ||wishrobux.info^
 ||witze.info^
 ||woco.info^
@@ -46847,9 +46855,13 @@ arketing.indianadunes.com^
 ||info2.gleam.io^
 ||js.gleam.io^
 ||l.gleam.io^
+||next.gleam.io^
 ||preview.gleam.io^
+||prototype.gleam.io^
 ||r.gleam.io^
 ||re.gleam.io^
+||stage.gleam.io^
+||stage-b.gleam.io^
 ||status.gleam.io^
 ||www.gleam.io^
 ||graphly.io^
@@ -47373,7 +47385,6 @@ arketing.indianadunes.com^
 ||collegelatinas.net^
 ||colorkids.net^
 ||droit-finances.commentcamarch.net^
-||ww10.commentcamarch.net^
 ||ww16.commentcamarch.net^
 ||community-baptist.net^
 ||comxcast.net^
@@ -47541,7 +47552,6 @@ arketing.indianadunes.com^
 ||fullspa.net^
 ||funafterdark.net^
 ||funnymathgames.net^
-||www.furniturex.net^
 ||futbollive.net^
 ||api.vanilla.futurecdn.net^
 ||fuzk.net^
@@ -50649,7 +50659,6 @@ arketing.indianadunes.com^
 ||attemptdruggedcarve.com^
 ||attemptinghorace.com^
 ||attributedminded.com^
-||audaciousdefault.com^
 ||audioeye.com^
 ||auditioningborder.com^
 ||auditorius.ru^
@@ -51733,7 +51742,6 @@ arketing.indianadunes.com^
 ||ja2n2u30a6rgyd.com^
 ||jakescribble.com^
 ||jampp.com^
-||jamsoulsfriday.com^
 ||jarquizslash.com^
 ||jawconcealed.com^
 ||jbm6c54upkui.com^
@@ -52024,7 +52032,6 @@ arketing.indianadunes.com^
 ||mineraltip.com^
 ||mintigo.com^
 ||minutemedia-prebid.com^
-||misslinkvocation.com^
 ||mkklcdnv6tempv4.com^
 ||mkt005.com^
 ||mkt015.com^
@@ -64089,7 +64096,6 @@ arketing.indianadunes.com^
 ||stretchedcreepy.com^
 ||stretchingwicked.com^
 ||strikead.com^
-||stronglygathering.com^
 ||struq.com^
 ||stsdk.vivo.com.cn^
 ||stsdk.vivoglobal.com^
