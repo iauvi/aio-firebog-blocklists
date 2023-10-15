@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-14T13:52:56.959Z
+! Last modified: 2023-10-15T01:39:05.751Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2224,7 +2224,7 @@
 ||bestclasslanguage.com^
 ||bestcontentonline.com^
 ||bestdressedbaby.com^
-||bestfactorybundles.com^
+||www.bestfactorybundles.com^
 ||bestnetzero.com^
 ||bestofattorney.com^
 ||bestofpotstocks.com^
@@ -2489,7 +2489,10 @@
 ||buxoal.com^
 ||buy-ad.com^
 ||buyonlineretinanow.com^
-||buypixelads.com^
+||jagi.buypixelads.com^
+||pixel.buypixelads.com^
+||webdisk.buypixelads.com^
+||www.buypixelads.com^
 ||buyrumba.com^
 ||buysellads.com^
 ||buythethings.com^
@@ -3582,9 +3585,7 @@
 ||expresscameras.com^
 ||expressdirections.com^
 ||exsteze.com^
-||ww11.extasy-sp.com^
 ||ww25.extasy-sp.com^
-||ww35.extasy-sp.com^
 ||ww38.extasy-sp.com^
 ||www.extasy-sp.com^
 ||exteneze.com^
@@ -3672,7 +3673,7 @@
 ||fifastree3.com^
 ||fifastreets3.com^
 ||figlief.com^
-||figmag.com^
+||www.figmag.com^
 ||fiksu.com^
 ||filebx.com^
 ||filemonsters.com^
@@ -5338,7 +5339,6 @@
 ||mikeschanksworld.com^
 ||mikkymax.com^
 ||milfplatz.com^
-||militaryonesourse.com^
 ||millennialmedia.com^
 ||millsapveterinaryclinic.com^
 ||mimixp.com^
@@ -5578,7 +5578,8 @@
 ||analytics.narvar.com^
 ||natacha-masseuse-paris.com^
 ||natgeoyyo.com^
-||nationalbaza.com^
+||ww25.search.nationalbaza.com^
+||ww1.nationalbaza.com^
 ||nationalcostumercare.com^
 ||nationaltimber.com^
 ||natsyvideotube.com^
@@ -6229,7 +6230,6 @@
 ||smtpseguro.pusnet.com^
 ||srv.pusnet.com^
 ||ww11.pusnet.com^
-||ww16.pusnet.com^
 ||www.pusnet.com^
 ||putasviejas.com^
 ||puwoqog.com^
@@ -7104,7 +7104,8 @@
 ||statsmag.com^
 ||stayisland.com^
 ||steadfastsystem.com^
-||steamedcheeseburger.com^
+||ww1.steamedcheeseburger.com^
+||www.steamedcheeseburger.com^
 ||stereamsex.com^
 ||sterlingxxx.com^
 ||stevepromo.com^
@@ -7281,8 +7282,6 @@
 ||targetnet.com^
 ||tastebudsfm.com^
 ||tatlermagazine.com^
-||www.magento.tatness.com^
-||sitemap.tatness.com^
 ||tattooedgoddess.com^
 ||taxereturn.com^
 ||tbaholic.com^
@@ -8885,7 +8884,6 @@
 ||com-isupport.in^
 ||com-sign.in^
 ||adjust.net.in^
-||00221.info^
 ||0daypatch.info^
 ||104ez.info^
 ||177piczz.info^
@@ -9185,6 +9183,9 @@
 ||coinprobase.info^
 ||cointracker.info^
 ||collectivegap.info^
+||mail.coltivazioneindoor.info^
+||webdisk.coltivazioneindoor.info^
+||www.coltivazioneindoor.info^
 ||come-fare.info^
 ||comix.info^
 ||computer-arts.info^
@@ -9343,7 +9344,6 @@
 ||evershine.info^
 ||evgrid.info^
 ||exabyte.info^
-||ww25.examroom.info^
 ||eyep.info^
 ||eyesurgery.info^
 ||ezmethod.info^
@@ -10243,6 +10243,7 @@
 ||taoy999.info^
 ||tap7500.info^
 ||taraftarium24hd.info^
+||tarjetarojatv.info^
 ||tauruszodiac.info^
 ||taxecarbone.info^
 ||taxreps.info^
@@ -10372,7 +10373,15 @@
 ||videoprivate.info^
 ||vidk.info^
 ||viit.info^
-||vinhomescity-tranduyhung.info^
+||cpcalendars.vinhomescity-tranduyhung.info^
+||cpcontacts.vinhomescity-tranduyhung.info^
+||mail.vinhomescity-tranduyhung.info^
+||webdisk.vinhomescity-tranduyhung.info^
+||ww1.vinhomescity-tranduyhung.info^
+||ww16.vinhomescity-tranduyhung.info^
+||ww25.vinhomescity-tranduyhung.info^
+||ww38.vinhomescity-tranduyhung.info^
+||www.vinhomescity-tranduyhung.info^
 ||virtualbus.info^
 ||visapornotv.info^
 ||vitamin-c.info^
@@ -10429,8 +10438,6 @@
 ||wikiseda.info^
 ||win-prize.info^
 ||winner-topper-1.info^
-||sl.wir9.info^
-||tk.wir9.info^
 ||wishrobux.info^
 ||witze.info^
 ||woco.info^
@@ -10914,7 +10921,6 @@
 ||fp-cdn.azureedge.net^
 ||g2insights-cdn.azureedge.net^
 ||loader-cdn.azureedge.net^
-||mediaplanet.azureedge.net^
 ||toyota-tagging-prod.azureedge.net^
 ||bf-analytics-tracker-useast-as.azurewebsites.net^
 ||lightboxapi1.azurewebsites.net^
@@ -11142,8 +11148,6 @@
 ||coleccionismo.net^
 ||collegelatinas.net^
 ||colorkids.net^
-||droit-finances.commentcamarch.net^
-||ww16.commentcamarch.net^
 ||community-baptist.net^
 ||comxcast.net^
 ||connecthackensackumc.net^
@@ -11683,6 +11687,8 @@
 ||tappeout.net^
 ||targetix.net^
 ||cpt.test.technolutions.net^
+||mail.tekniart.net^
+||webdisk.tekniart.net^
 ||telugunovels.net^
 ||tennis-recruiting.net^
 ||teracent.net^
@@ -11928,8 +11934,6 @@
 ||aiimsonians.org^
 ||ainer.org^
 ||airframe.org^
-||ww1.aises-windsofchangedigitalguides.org^
-||ww7.aises-windsofchangedigitalguides.org^
 ||ajaxcdn.org^
 ||ajugarconunicef.org^
 ||akpk.org^
@@ -12010,7 +12014,6 @@
 ||azmunakan.org^
 ||babelinks.org^
 ||app.backinstock.org^
-||ww25.old.bagira.org^
 ||baillii.org^
 ||bajkidladzieci.org^
 ||ballotopedia.org^
@@ -12318,7 +12321,10 @@
 ||englishforevryone.org^
 ||englishonline.org^
 ||engracia.org^
-||epfindia.org^
+||account.epfindia.org^
+||api.epfindia.org^
+||chat.epfindia.org^
+||www.ww17.epfindia.org^
 ||eplore.org^
 ||epsthailand.org^
 ||ervaringswerkers.org^
@@ -12975,7 +12981,6 @@
 ||probestfilm.org^
 ||procorn.org^
 ||progepe.org^
-||projectobolix.org^
 ||projectyouthsafety.org^
 ||promoteyourself.org^
 ||pron00.org^
@@ -13107,6 +13112,7 @@
 ||scoliosis-support.org^
 ||scoutin.org^
 ||scp-foundation.org^
+||www.scribblekid.org^
 ||scribd.org^
 ||sdacape.org^
 ||sdutlinux.org^
@@ -13767,7 +13773,6 @@
 ||miqaki.xyz^
 ||mobiclean.xyz^
 ||ohmv23.xyz^
-||pervl206.xyz^
 ||quatrefeuillepolonaise.xyz^
 ||sxy18.xyz^
 ||itomedia.co.za^
@@ -14037,6 +14042,7 @@
 ||aatkit.com^
 ||aaxdetect.com^
 ||absoluteroute.com^
+||absolvecarriagenotify.com^
 ||absolveparticlesanti.com^
 ||abtest.mistat.intl.xiaomi.com^
 ||ac24horas.com^
@@ -14114,6 +14120,7 @@
 ||adhitzads.com^
 ||adinplay.com^
 ||adjoe.zone^
+||adjoiningrolesuspicious.com^
 ||adklik.com.tr^
 ||adkontekst.pl^
 ||adlabsnetworks.com^
@@ -14683,6 +14690,7 @@
 ||blackmailingpanic.com^
 ||blacknesskeepplan.com^
 ||blinkx.com^
+||bloodkneel.com^
 ||blubberspoiled.com^
 ||blueconic.com^
 ||bluelithium.com^
@@ -14855,6 +14863,7 @@
 ||clickiocdn.com^
 ||clicks.hurriyet.com.tr^
 ||clickshift.com^
+||clickterra.net^
 ||clicktracks.com^
 ||client-stats.gaijin.net^
 ||client-telemetry.roblox.com^
@@ -14898,6 +14907,7 @@
 ||collect.analytics.unity3d.com^
 ||collect.playdayy.com^
 ||collect.trendyol.com^
+||collectionspriestcardiac.com^
 ||collective-media.net^
 ||collective.com^
 ||collector.github.com^
@@ -14911,6 +14921,7 @@
 ||commandersact.com^
 ||commissionepochknuckle.com^
 ||commonvivacious.com^
+||comparativevegetables.com^
 ||comparedsilas.com^
 ||compasspenitenthollow.com^
 ||comprehendbighearted.com^
@@ -15542,6 +15553,7 @@
 ||handymansurrender.com^
 ||hannahdrovebible.com^
 ||happyfoxchat.com^
+||harmlesstacticalhonorable.com^
 ||haughtydropszoology.com^
 ||hc-analytics.idp.clogin.att.com^
 ||headerlift.com^
@@ -15731,6 +15743,7 @@
 ||ja2n2u30a6rgyd.com^
 ||jakescribble.com^
 ||jampp.com^
+||janitoraccrue.com^
 ||jarquizslash.com^
 ||jawconcealed.com^
 ||jbm6c54upkui.com^
@@ -17879,6 +17892,7 @@
 ||mkt11705.com^
 ||mkt11706.com^
 ||mkt11708.com^
+||mkt11709.com^
 ||mkt1171.com^
 ||mkt11710.com^
 ||mkt11711.com^
@@ -17913,6 +17927,7 @@
 ||mkt11761.com^
 ||mkt11763.com^
 ||mkt1177.com^
+||mkt11779.com^
 ||mkt1178.com^
 ||mkt1179.com^
 ||mkt11799.com^
@@ -27236,6 +27251,7 @@
 ||paddlesoothesoloist.com^
 ||padsbrown.com^
 ||padsims.com^
+||padslims.com^
 ||pagefair.net^
 ||pages01.net^
 ||pages02.net^
@@ -27251,6 +27267,7 @@
 ||panachetech.com^
 ||parachuteeffectedotter.com^
 ||parall.ax^
+||parchicky.com^
 ||parkcircularpearl.com^
 ||parkdumbest.com^
 ||parlorscenes.com^
@@ -27363,6 +27380,8 @@
 ||poptrkr.com^
 ||popxperts.com^
 ||popxyz.com^
+||porntrack.mobi^
+||porntrack.org^
 ||porovname.cz^
 ||portbay.trade^
 ||poshhateful.com^
@@ -27372,6 +27391,7 @@
 ||postalfranticallyfriendship.com^
 ||postsupport.net^
 ||postup.com^
+||pottercosign.com^
 ||pow7.com^
 ||powerlinks.com^
 ||pp.ru^
@@ -27720,6 +27740,7 @@
 ||sensors.larkplayerapp.com^
 ||sensors.yodo1api.com^
 ||sentifi.com^
+||sentimenthypocrisy.com^
 ||sentkey.com^
 ||seoab.io^
 ||separatecolonist.com^
@@ -28749,6 +28770,7 @@
 ||steakeffort.com^
 ||steelhousemedia.com^
 ||steepto.com^
+||stepmotherincomingpluck.com^
 ||stickerchapelsailing.com^
 ||stickervillain.com^
 ||stimulateartificial.com^
@@ -28808,6 +28830,7 @@
 ||synchronizerobot.com^
 ||syncronex.com^
 ||syoxfqrtj.com^
+||systemhostess.com^
 ||t17service.com^
 ||t4p-upd.info^
 ||t5lxz7dtq4iz.com^
@@ -28819,6 +28842,7 @@
 ||tactilews.com^
 ||tagcade.com^
 ||taggstar.com^
+||tagoutlookignoring.com^
 ||tags.johnlewis.com^
 ||tailtarget.com^
 ||takepalpablenuisance.com^
