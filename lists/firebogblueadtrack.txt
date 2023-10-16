@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-15T13:55:21.193Z
+! Last modified: 2023-10-16T01:56:14.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2273,7 +2273,6 @@
 ||bikezone-bg.com^
 ||bilenor.com^
 ||bilizzard.com^
-||billfilter.com^
 ||billgateshelp.com^
 ||billigastelanet.com^
 ||billigastforsakring.com^
@@ -2490,7 +2489,6 @@
 ||buy-ad.com^
 ||buyonlineretinanow.com^
 ||jagi.buypixelads.com^
-||pixel.buypixelads.com^
 ||webdisk.buypixelads.com^
 ||www.buypixelads.com^
 ||buyrumba.com^
@@ -3673,7 +3671,6 @@
 ||fifastree3.com^
 ||fifastreets3.com^
 ||figlief.com^
-||www.figmag.com^
 ||fiksu.com^
 ||filebx.com^
 ||filemonsters.com^
@@ -3883,7 +3880,44 @@
 ||galerie-blondel.com^
 ||galleryofwives.com^
 ||gam4free.com^
-||gamail.com^
+||05.gamail.com^
+||08.gamail.com^
+||smtpauth.123.gamail.com^
+||1704.gamail.com^
+||17faxe.gamail.com^
+||19.gamail.com^
+||2000.gamail.com^
+||228.gamail.com^
+||2310.gamail.com^
+||26.gamail.com^
+||27.gamail.com^
+||29.gamail.com^
+||47171.gamail.com^
+||508.gamail.com^
+||689.gamail.com^
+||999.gamail.com^
+||9gerbyk.gamail.com^
+||amin090904.gamail.com^
+||amin2205.gamail.com^
+||aniqmail.gamail.com^
+||bensalem.gamail.com^
+||bk.gamail.com^
+||com.gamail.com^
+||eposta.gamail.com^
+||exch2016.gamail.com^
+||exchangecorp.gamail.com^
+||hp.gamail.com^
+||msexch2k13.gamail.com^
+||mtn.gamail.com^
+||mx001.gamail.com^
+||naros.gamail.com^
+||nash.gamail.com^
+||newmail2013.gamail.com^
+||ogrencieposta.gamail.com^
+||smail.gamail.com^
+||smtpa.gamail.com^
+||webmail05.gamail.com^
+||webmail2013.gamail.com^
 ||gameanalytics.com^
 ||gameandfishnetwork.com^
 ||gamefugh.com^
@@ -4537,7 +4571,25 @@
 ||imtwjwoasak.com^
 ||inagbe.com^
 ||inatgrm.com^
-||inbintranet.com^
+||nri.inbintranet.com^
+||dev.sbi.inbintranet.com^
+||magento.sbi.inbintranet.com^
+||online.sbi.inbintranet.com^
+||shop.sbi.inbintranet.com^
+||staging.sbi.inbintranet.com^
+||test.sbi.inbintranet.com^
+||www.sbi.inbintranet.com^
+||dev.sbionline.inbintranet.com^
+||magento.sbionline.inbintranet.com^
+||old.sbionline.inbintranet.com^
+||shop.sbionline.inbintranet.com^
+||test.sbionline.inbintranet.com^
+||ww1.inbintranet.com^
+||ww11.inbintranet.com^
+||ww25.inbintranet.com^
+||ww35.inbintranet.com^
+||ww38.inbintranet.com^
+||www.inbintranet.com^
 ||inboxdollars.com^
 ||incestboard.com^
 ||incizers.com^
@@ -5187,7 +5239,6 @@
 ||marbledistributor.com^
 ||marfeelcache.com^
 ||marfeelrev.com^
-||marimga.com^
 ||marinsm.com^
 ||marisada.com^
 ||marketingg2.com^
@@ -6173,8 +6224,8 @@
 ||psp35.com^
 ||pspioz.com^
 ||ptalo.com^
+||ptestexapta.com^
 ||ptp22.com^
-||ptypygrebu.com^
 ||pubexchange.com^
 ||publicdnsinfo.com^
 ||publicenred.com^
@@ -6206,23 +6257,16 @@
 ||gw.pusnet.com^
 ||home.pusnet.com^
 ||host.pusnet.com^
-||mail.pusnet.com^
 ||mail02.pusnet.com^
 ||mail12.pusnet.com^
 ||mail2.pusnet.com^
 ||mail3.pusnet.com^
 ||ww16.mail5.pusnet.com^
-||mail8.pusnet.com^
-||mailbox.pusnet.com^
 ||mails.pusnet.com^
-||mx.pusnet.com^
 ||mx02.pusnet.com^
 ||mx1.pusnet.com^
-||mx4.pusnet.com^
-||newmail.pusnet.com^
 ||ns1.pusnet.com^
-||ns2.pusnet.com^
-||outmail.pusnet.com^
+||ww25.ns2.pusnet.com^
 ||poczta.pusnet.com^
 ||ww16.post.pusnet.com^
 ||smtp01.pusnet.com^
@@ -7104,7 +7148,6 @@
 ||statsmag.com^
 ||stayisland.com^
 ||steadfastsystem.com^
-||ww1.steamedcheeseburger.com^
 ||www.steamedcheeseburger.com^
 ||stereamsex.com^
 ||sterlingxxx.com^
@@ -7285,7 +7328,6 @@
 ||tattooedgoddess.com^
 ||taxereturn.com^
 ||tbaholic.com^
-||tbkeyz.com^
 ||agility.tbs.com^
 ||tccompliance.com^
 ||tcfapp.com^
@@ -9183,9 +9225,7 @@
 ||coinprobase.info^
 ||cointracker.info^
 ||collectivegap.info^
-||mail.coltivazioneindoor.info^
-||webdisk.coltivazioneindoor.info^
-||www.coltivazioneindoor.info^
+||coltivazioneindoor.info^
 ||come-fare.info^
 ||comix.info^
 ||computer-arts.info^
@@ -9414,7 +9454,6 @@
 ||gamebbs.info^
 ||gameoke.info^
 ||gameswin.info^
-||gamewin.info^
 ||gamezonewap.info^
 ||ganihp.info^
 ||ganokuni.info^
@@ -9500,7 +9539,7 @@
 ||healthbeautyvn.info^
 ||healthdiet.info^
 ||healthontrack.info^
-||www.healthtips1.info^
+||healthtips1.info^
 ||healthy-weight-loss-plan.info^
 ||heart-work.info^
 ||heartbreakers.info^
@@ -9927,11 +9966,7 @@
 ||organizationalmarket.info^
 ||outdooradventure.info^
 ||outdoorman.info^
-||ww11.ov3.info^
-||ww17.ov3.info^
-||ww25.ov3.info^
-||ww38.ov3.info^
-||www.ov3.info^
+||ov3.info^
 ||p108.info^
 ||packettracer.info^
 ||padnij.info^
@@ -10150,7 +10185,7 @@
 ||siberguvenlik.info^
 ||sifangclub1.info^
 ||sillanpaa.info^
-||simming.info^
+||www.simming.info^
 ||sinazucar.info^
 ||sinhalaonline.info^
 ||sirri.info^
@@ -11585,7 +11620,7 @@
 ||pyramisa.net^
 ||qksrv.net^
 ||siteintercept.qprod2.net^
-||www.qudsmedia.net^
+||qudsmedia.net^
 ||railtouring.net^
 ||rallyad-server.net^
 ||randyorton.net^
@@ -11615,7 +11650,6 @@
 ||scottcountysheriff.net^
 ||sdkninc.net^
 ||seadform.net^
-||search.searchdragon.net^
 ||searchduck.net^
 ||sftrack.searchforce.net^
 ||searchtubes.net^
@@ -11687,8 +11721,7 @@
 ||tappeout.net^
 ||targetix.net^
 ||cpt.test.technolutions.net^
-||mail.tekniart.net^
-||webdisk.tekniart.net^
+||tekniart.net^
 ||telugunovels.net^
 ||tennis-recruiting.net^
 ||teracent.net^
@@ -11891,7 +11924,6 @@
 ||metrics.aarp.org^
 ||smetrics.aarp.org^
 ||aauk.org^
-||abcya2.org^
 ||abercrombieworkout.org^
 ||abetka-logopedka.org^
 ||aboutdrugtesting.org^
@@ -12322,7 +12354,6 @@
 ||englishonline.org^
 ||engracia.org^
 ||account.epfindia.org^
-||api.epfindia.org^
 ||chat.epfindia.org^
 ||www.ww17.epfindia.org^
 ||eplore.org^
@@ -12566,6 +12597,7 @@
 ||itanimuli.org^
 ||itsajeep.org^
 ||iuhelath.org^
+||iwacu.org^
 ||iyns.org^
 ||jabook.org^
 ||jailbase.org^
@@ -13049,7 +13081,6 @@
 ||removepearlypenilepapules.org^
 ||rencontre-mature.org^
 ||rentshop.org^
-||rescuecommittee.org^
 ||rescume.org^
 ||reserveusa.org^
 ||resistere.org^
@@ -13112,7 +13143,7 @@
 ||scoliosis-support.org^
 ||scoutin.org^
 ||scp-foundation.org^
-||www.scribblekid.org^
+||scribblekid.org^
 ||scribd.org^
 ||sdacape.org^
 ||sdutlinux.org^
@@ -13135,7 +13166,6 @@
 ||shador.org^
 ||shadowsock.org^
 ||shekinahlive.org^
-||shelbywarrant.org^
 ||sheltonpublicschool.org^
 ||shiapgcollege.org^
 ||shikotv.org^
@@ -27320,7 +27350,6 @@
 ||piwik.com-online.com^
 ||piwikpro.com^
 ||pixanalytics.pixnet.net^
-||pixel.bild.de^
 ||pixel.cfspx.digitalriver.com^
 ||pixel.cornercart.io^
 ||pixel.facebook.com^
@@ -27562,7 +27591,6 @@
 ||rees46.com^
 ||reevoo.com^
 ||refinery89.com^
-||regionalsurveying.com^
 ||register.collector.scopely.io^
 ||regulationprivilegescan.top^
 ||reklama.silnet.pl^
