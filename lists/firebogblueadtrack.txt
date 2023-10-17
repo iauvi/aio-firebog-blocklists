@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-16T13:25:16.418Z
+! Last modified: 2023-10-17T01:30:41.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2489,7 +2489,6 @@
 ||buy-ad.com^
 ||buyonlineretinanow.com^
 ||jagi.buypixelads.com^
-||webdisk.buypixelads.com^
 ||www.buypixelads.com^
 ||buyrumba.com^
 ||buysellads.com^
@@ -3881,8 +3880,6 @@
 ||galleryofwives.com^
 ||gam4free.com^
 ||05.gamail.com^
-||08.gamail.com^
-||smtpauth.123.gamail.com^
 ||1704.gamail.com^
 ||17faxe.gamail.com^
 ||19.gamail.com^
@@ -3894,30 +3891,16 @@
 ||29.gamail.com^
 ||47171.gamail.com^
 ||508.gamail.com^
-||689.gamail.com^
 ||999.gamail.com^
 ||9gerbyk.gamail.com^
 ||amin090904.gamail.com^
 ||amin2205.gamail.com^
-||aniqmail.gamail.com^
 ||bensalem.gamail.com^
 ||bk.gamail.com^
 ||com.gamail.com^
-||eposta.gamail.com^
-||exch2016.gamail.com^
-||exchangecorp.gamail.com^
 ||hp.gamail.com^
-||msexch2k13.gamail.com^
-||mtn.gamail.com^
-||mx001.gamail.com^
 ||naros.gamail.com^
 ||nash.gamail.com^
-||newmail2013.gamail.com^
-||ogrencieposta.gamail.com^
-||smail.gamail.com^
-||smtpa.gamail.com^
-||webmail05.gamail.com^
-||webmail2013.gamail.com^
 ||gameanalytics.com^
 ||gameandfishnetwork.com^
 ||gamefugh.com^
@@ -4449,7 +4432,7 @@
 ||httpqvc.com^
 ||httptrack.com^
 ||httpturbotax.com^
-||htvmobili.com^
+||ww1.htvmobili.com^
 ||huang-jianhua.com^
 ||hubspotfeedback.com^
 ||hugechevy.com^
@@ -4571,7 +4554,6 @@
 ||imtwjwoasak.com^
 ||inagbe.com^
 ||inatgrm.com^
-||nri.inbintranet.com^
 ||dev.sbi.inbintranet.com^
 ||magento.sbi.inbintranet.com^
 ||online.sbi.inbintranet.com^
@@ -4585,11 +4567,6 @@
 ||shop.sbionline.inbintranet.com^
 ||test.sbionline.inbintranet.com^
 ||ww1.inbintranet.com^
-||ww11.inbintranet.com^
-||ww25.inbintranet.com^
-||ww35.inbintranet.com^
-||ww38.inbintranet.com^
-||www.inbintranet.com^
 ||inboxdollars.com^
 ||incestboard.com^
 ||incizers.com^
@@ -8341,7 +8318,6 @@
 ||xn--parfmevi-95a.com^
 ||xn--prednyam-95a.com^
 ||xn--sahane-xua.com^
-||xn--ssyoutube-r3a.com^
 ||xn--tlchargements-bhbb.com^
 ||xn--trtocuk-wxa.com^
 ||xn--xhamstr-7xa.com^
@@ -10185,7 +10161,6 @@
 ||siberguvenlik.info^
 ||sifangclub1.info^
 ||sillanpaa.info^
-||www.simming.info^
 ||sinazucar.info^
 ||sinhalaonline.info^
 ||sirri.info^
@@ -10445,7 +10420,6 @@
 ||webspro.info^
 ||webworth.info^
 ||weimei.info^
-||welda.info^
 ||cleanstep.wesua.info^
 ||dust.wesua.info^
 ||flexcam.wesua.info^
@@ -12567,7 +12541,9 @@
 ||imslo.org^
 ||imslt.org^
 ||incident-report.org^
-||indesa.org^
+||mx.indesa.org^
+||ww17.indesa.org^
+||www.indesa.org^
 ||indexxx.org^
 ||indianaexpeditions.org^
 ||indonesianembassy-china.org^
@@ -12589,6 +12565,7 @@
 ||ipsas.org^
 ||ironoakshoa.org^
 ||isamesih.org^
+||isfedu.org^
 ||islandofrhodes.org^
 ||islandtowers.org^
 ||islcollective.org^
@@ -12900,6 +12877,7 @@
 ||oasissanctuary.org^
 ||objectifdemocratie.org^
 ||oceach.org^
+||ogcweb.org^
 ||oharahs.org^
 ||okdslive.org^
 ||oklahomasoonercare.org^
@@ -12951,6 +12929,7 @@
 ||pargodungan.org^
 ||parivahan.org^
 ||parkinsonvoice.org^
+||particuliers.org^
 ||partnershealth.org^
 ||party-girls.org^
 ||partycat.org^
@@ -15304,7 +15283,6 @@
 ||envnxs.net^
 ||eo62cocntx.com^
 ||eprize.com^
-||equipmentshorterradiation.com^
 ||equitydefault.com^
 ||err-up.vivoglobal.com^
 ||errorception.com^
@@ -15480,7 +15458,6 @@
 ||fyre.co^
 ||g2crowd.com^
 ||g792337343.co^
-||gadsatz.com^
 ||gallup.eset.com^
 ||gamegamb.com^
 ||gamned.com^
@@ -15896,7 +15873,6 @@
 ||liveperson.net^
 ||livepromotools.com^
 ||lkpmprksau.com^
-||llahnch259.com^
 ||locallogic.co^
 ||lockdowncautionmentally.com^
 ||locomotiveconvenientriddle.com^
@@ -27578,7 +27554,6 @@
 ||rebelmouse.io^
 ||rebrandly.com^
 ||rebuyengine.com^
-||recentrecentturf.com^
 ||reciteassemble.com^
 ||reconsiderallowinggunfire.com^
 ||recordingperky.com^
@@ -27993,7 +27968,6 @@
 ||smetrics.britishgas.co.uk^
 ||smetrics.bt.com^
 ||smetrics.buffalotracedistillery.com^
-||smetrics.builddirect.com^
 ||smetrics.bupa.com.au^
 ||smetrics.buyagift.co.uk^
 ||smetrics.buybuybaby.com^
@@ -28996,7 +28970,6 @@
 ||track.saygames.io^
 ||track.searchiq.co^
 ||track.sohu.com^
-||track.sublytics-5bb3bd7244788.com^
 ||track.sublytics-5be5edecc10bf.com^
 ||track.sublytics-5cffe909e69e6.com^
 ||track.sublytics-5db9e5dd1b2c2.com^
@@ -29066,7 +29039,6 @@
 ||traktrafficflow.com^
 ||transacme.com^
 ||transcend.io^
-||transformignorant.com^
 ||trappedtree.com^
 ||trashdisguisedextension.com^
 ||trashyepochabsorbing.com^
