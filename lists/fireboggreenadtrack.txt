@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-19T01:32:26.524Z
+! Last modified: 2023-10-19T13:37:01.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -57318,6 +57318,7 @@
 ||webtracker.jp^
 ||x9.shinobi.jp^
 ||acelogger.heraldcorp.com^
+||event.hackle.io^
 ||log.cizion.com^
 ||log.targetpush.co.kr^
 ||logger.bzu.kr^
