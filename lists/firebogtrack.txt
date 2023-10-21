@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-20T13:47:17.024Z
+! Last modified: 2023-10-21T01:22:03.144Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4650,6 +4650,7 @@
 ||mokuz.ru^
 ||more-data.ru^
 ||mytopf.com^
+||netlog.ru^
 ||opentracking.ru^
 ||otclick-adv.ru^
 ||pmbox.biz^
@@ -6113,6 +6114,7 @@
 ||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||saluton.cizion.com^
 ||sas.nsm-corp.com^
 ||teralog.techhub.co.kr^
 ||tracker.adbinead.com^
@@ -6233,6 +6235,8 @@
 ||g-stats.openhost.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
+||report.botm.transparentedge.io^
+||rt.cdnmedia.tv^
 ||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.miarroba.info^
@@ -6311,6 +6315,7 @@
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
+||analytics.ticketmaster.
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
@@ -23065,6 +23070,7 @@ arketing.indianadunes.com^
 ||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
 ||bizlog-gateway.myrealtrip.com^
+||cdp.yna.co.kr^
 ||count.munhwa.com^
 ||data-logdelivery.wconcept.co.kr^
 ||hits.zdnet.co.kr^
@@ -38552,7 +38558,7 @@ arketing.indianadunes.com^
 ||afpesp.com^
 ||afrhugaqzbt.com^
 ||africafashioninternational.com^
-||africamagictv.com^
+||ww25.africamagictv.com^
 ||afripa.com^
 ||afullspa.com^
 ||agedpervert.com^
@@ -39119,7 +39125,6 @@ arketing.indianadunes.com^
 ||bfijteodglun.com^
 ||bgstechnik.com^
 ||bhandarimaruti.com^
-||bhandhan.com^
 ||bheyafry.com^
 ||mx4.bhringer.com^
 ||bibng.com^
@@ -39342,8 +39347,6 @@ arketing.indianadunes.com^
 ||buxoal.com^
 ||buy-ad.com^
 ||buyonlineretinanow.com^
-||jagi.buypixelads.com^
-||www.buypixelads.com^
 ||buyrumba.com^
 ||buythethings.com^
 ||buzzdeck.com^
@@ -40197,7 +40200,7 @@ arketing.indianadunes.com^
 ||edgar2al2larngpoer.com^
 ||edgedinawesome.com^
 ||edgexads.com^
-||edit-friendster.com^
+||www.edit-friendster.com^
 ||editarfoto.com^
 ||edw.edmunds.com^
 ||edtub.com^
@@ -40743,7 +40746,6 @@ arketing.indianadunes.com^
 ||sitemaps.globaltrainee.com^
 ||ww11.globaltrainee.com^
 ||ww16.globaltrainee.com^
-||ww11.ww25.globaltrainee.com^
 ||ml.globenewswire.com^
 ||globlb.com^
 ||globtrix.com^
@@ -41077,7 +41079,6 @@ arketing.indianadunes.com^
 ||hotnewhihop.com^
 ||hotnewhiphopsongs.com^
 ||hotnewhophop.com^
-||hotpinoyplanet.com^
 ||hotsalewear.com^
 ||hotsexypicture.com^
 ||hotteenasia.com^
@@ -41220,16 +41221,6 @@ arketing.indianadunes.com^
 ||imtwjwoasak.com^
 ||inagbe.com^
 ||inatgrm.com^
-||dev.sbi.inbintranet.com^
-||magento.sbi.inbintranet.com^
-||shop.sbi.inbintranet.com^
-||staging.sbi.inbintranet.com^
-||test.sbi.inbintranet.com^
-||dev.sbionline.inbintranet.com^
-||magento.sbionline.inbintranet.com^
-||old.sbionline.inbintranet.com^
-||shop.sbionline.inbintranet.com^
-||test.sbionline.inbintranet.com^
 ||ww1.inbintranet.com^
 ||incestboard.com^
 ||incizers.com^
@@ -41428,12 +41419,6 @@ arketing.indianadunes.com^
 ||jobsmnc.com^
 ||jocasal.com^
 ||counter.joeldare.com^
-||mail10.joempegs.com^
-||mailhost.joempegs.com^
-||mailrelay.joempegs.com^
-||mailsrv.joempegs.com^
-||mxs.joempegs.com^
-||ns2.joempegs.com^
 ||www.joempegs.com^
 ||joepraise.com^
 ||joesclassicmovies.com^
@@ -41705,9 +41690,7 @@ arketing.indianadunes.com^
 ||lockerdome.com^
 ||locsensads.com^
 ||logbor.com^
-||ww11.logdelnarco.com^
-||ww25.logdelnarco.com^
-||www.logdelnarco.com^
+||logdelnarco.com^
 ||logentries.com^
 ||logopont.com^
 ||logottv.com^
@@ -44256,7 +44239,7 @@ arketing.indianadunes.com^
 ||dc.services.visualstudio.com^
 ||dc-int.services.visualstudio.com^
 ||vitadesks.com^
-||vivoscandicci.com^
+||ww25.vivoscandicci.com^
 ||vizury.com^
 ||vkiapcavnoc.com^
 ||vkphandicrafts.com^
@@ -45182,7 +45165,7 @@ arketing.indianadunes.com^
 ||gaycenter.org.il^
 ||haganah.org.il^
 ||icci.org.il^
-||iloug.org.il^
+||autodiscover.iloug.org.il^
 ||kids-world.org.il^
 ||physicaplus.org.il^
 ||shin-tech.org.il^
@@ -45212,7 +45195,7 @@ arketing.indianadunes.com^
 ||52youwu.info^
 ||5fan.info^
 ||5movies.info^
-||6630.info^
+||ww38.6630.info^
 ||69postix.info^
 ||7hari.info^
 ||7zip.info^
@@ -45248,7 +45231,8 @@ arketing.indianadunes.com^
 ||afreeurl.info^
 ||africanlegends.info^
 ||aftereffectvn.info^
-||ahhadesigns.info^
+||ww16.ahhadesigns.info^
+||ww25.ahhadesigns.info^
 ||ainu.info^
 ||akiba-pr.info^
 ||alcea.info^
@@ -45936,6 +45920,14 @@ arketing.indianadunes.com^
 ||kidala.info^
 ||kievonline.info^
 ||kikou.info^
+||esports.killonsight.info^
+||m.killonsight.info^
+||mail.killonsight.info^
+||test.killonsight.info^
+||ww1.killonsight.info^
+||ww11.killonsight.info^
+||ww17.killonsight.info^
+||ww38.killonsight.info^
 ||www.killonsight.info^
 ||kimtragedy.info^
 ||kinderlaehmung.info^
@@ -46021,6 +46013,7 @@ arketing.indianadunes.com^
 ||luatdoanhnghiep.info^
 ||lucario.info^
 ||lucypindergallery.info^
+||jual.lukisan.info^
 ||mail.lukisan.info^
 ||ns1.lukisan.info^
 ||webdisk.lukisan.info^
@@ -46676,8 +46669,6 @@ arketing.indianadunes.com^
 ||videotyt.info^
 ||vidk.info^
 ||viit.info^
-||cpcontacts.vinhomescity-tranduyhung.info^
-||mail.vinhomescity-tranduyhung.info^
 ||virtualbus.info^
 ||visapornotv.info^
 ||vitamin-c.info^
@@ -47646,7 +47637,6 @@ arketing.indianadunes.com^
 ||katespisnups.net^
 ||kbj19.net^
 ||kerei.net^
-||kidmose.net^
 ||kinguit.net^
 ||kinquin.net^
 ||kitchenremodelingguide.net^
@@ -48500,7 +48490,6 @@ arketing.indianadunes.com^
 ||engracia.org^
 ||account.epfindia.org^
 ||chat.epfindia.org^
-||www.ww17.epfindia.org^
 ||eplore.org^
 ||epsthailand.org^
 ||ervaringswerkers.org^
@@ -48713,9 +48702,7 @@ arketing.indianadunes.com^
 ||imslo.org^
 ||imslt.org^
 ||incident-report.org^
-||mx.indesa.org^
 ||ww17.indesa.org^
-||www.indesa.org^
 ||indexxx.org^
 ||indianaexpeditions.org^
 ||indonesianembassy-china.org^
@@ -50864,7 +50851,6 @@ arketing.indianadunes.com^
 ||cassetteflask.com^
 ||catastropheillusive.com^
 ||catscanty.com^
-||cattledisplace.com^
 ||cauly.co.kr^
 ||causingguard.com^
 ||cb-telemetry.academicmerit.com^
@@ -51153,7 +51139,6 @@ arketing.indianadunes.com^
 ||departedbeings.com^
 ||departgross.com^
 ||designatejay.com^
-||desiremolecule.com^
 ||detmir-stats.ru^
 ||devaccess.easy4ipcloud.com^
 ||devnxs.net^
