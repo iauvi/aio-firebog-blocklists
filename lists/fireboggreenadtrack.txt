@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-21T01:22:29.877Z
+! Last modified: 2023-10-21T13:45:16.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29612,6 +29612,7 @@
 ||acootaul.net^
 ||acronym.com^
 ||activedancer.com^
+||ad-adapex.io^
 ||ad-sponsor.com^
 ||ad20.net^
 ||ad2adnetwork.biz^
@@ -48277,7 +48278,6 @@
 ||button-follow.zalo.me^
 ||button-share.zalo.me^
 ||groupstats.event.zalo.me^
-||px.za.zalo.me^
 ||stats.hc.score.dmp.zalo.me^
 ||ads.zalo.me^
 ||groupstats.chat.zalo.me^
@@ -51729,20 +51729,14 @@
 ||zz.bdstatic.com^
 -adobe-analytics.
 -amp-error-reporting.
--analytics-events.
--appanalytics-
 -click-tracker.
 -didomi.js
--ga-tracker.
 -gatracker.
 -geoIP.js
 -inview-tracker.
--optimization-metrics.
--quantcast-measurement.
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
--trackingScript.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
@@ -57185,6 +57179,8 @@
 ||imp.go.sohu.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
 ||msg.71.am^
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
@@ -57208,6 +57204,7 @@
 ||track.tomwx.net^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
+||webstat.qiumibao.com^
 ||webtrack.pospal.cn^
 ||wlog.kuaishou.com^
 ||tracking.vid4u.org^
@@ -57495,6 +57492,7 @@
 ||tracker.prom.ua^
 ||webvitals.luxnet.ua^
 ||tracking.aita.gov.vn^
+||za.zalo.me^
 ||a.electerious.com^
 ||a.tellonym.me^
 ||a10.nationalreview.com^
@@ -57737,6 +57735,7 @@
 ||pac.thescottishsun.co.uk^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||perr.hola.org^
 ||pf.newegg.com^
 ||ph.thenextweb.com^
 ||pingback.giphy.com^
@@ -74052,6 +74051,7 @@ arketing.indianadunes.com^
 ||rcgi.video.qq.com^
 ||reportsk.web.sdo.com^
 ||retcode.taobao.com^
+||ro.aiwan4399.com^
 ||s.360.cn^
 ||sfp.safe.baidu.com^
 ||shrek.6.cn^
@@ -74071,6 +74071,7 @@ arketing.indianadunes.com^
 ||statistic.qzone.qq.com^
 ||sugar.zhihu.com^
 ||tf.360.cn^
+||tj.img4399.com^
 ||tongji.mafengwo.cn^
 ||tongji.xinmin.cn^
 ||tr.discuss.com.hk^

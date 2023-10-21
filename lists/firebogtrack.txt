@@ -3,26 +3,20 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-21T01:22:03.144Z
+! Last modified: 2023-10-21T13:44:47.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 -adobe-analytics.
 -amp-error-reporting.
--analytics-events.
--appanalytics-
 -click-tracker.
 -didomi.js
--ga-tracker.
 -gatracker.
 -geoIP.js
 -inview-tracker.
--optimization-metrics.
--quantcast-measurement.
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
--trackingScript.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
@@ -5939,6 +5933,8 @@
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
 ||msg.71.am^
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
@@ -5967,6 +5963,7 @@
 ||trail.71baomu.com^
 ||videostats.kakao.com^
 ||web-trace.ksapisrv.com^
+||webstat.qiumibao.com^
 ||webtrack.pospal.cn^
 ||wlog.kuaishou.com^
 ||tracking.vid4u.org^
@@ -6259,8 +6256,11 @@
 ||webvitals.luxnet.ua^
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
+||px.dmp.zaloapp.com^
+||st-a.cdp.asia^
 ||tracking.aita.gov.vn^
 ||tracking3.vnncdn.net^
+||za.zalo.me^
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
 ||a.tellonym.me^
@@ -6553,6 +6553,7 @@
 ||pac.thesun.co.uk^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||perr.hola.org^
 ||pf.newegg.com^
 ||ph.thenextweb.com^
 ||ping.hungama.com^
@@ -22915,6 +22916,7 @@ arketing.indianadunes.com^
 ||reportsk.web.sdo.com^
 ||retcode.taobao.com^
 ||rlogs.youdao.com^
+||ro.aiwan4399.com^
 ||s.360.cn^
 ||sbeacon.sina.com.cn^
 ||sfp.safe.baidu.com^
@@ -22935,6 +22937,7 @@ arketing.indianadunes.com^
 ||statistic.qzone.qq.com^
 ||sugar.zhihu.com^
 ||tf.360.cn^
+||tj.img4399.com^
 ||tongji.mafengwo.cn^
 ||tongji.xinmin.cn^
 ||tr.discuss.com.hk^

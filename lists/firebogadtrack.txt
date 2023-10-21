@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-21T01:23:43.205Z
+! Last modified: 2023-10-21T13:46:29.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29203,6 +29203,7 @@
 ||acootaul.net^
 ||acronym.com^
 ||activedancer.com^
+||ad-adapex.io^
 ||ad-sponsor.com^
 ||ad2adnetwork.biz^
 ||ad2links.com^
@@ -50474,20 +50475,14 @@
 ||all.cnzz.com.danuoyi.tbcache.com^
 -adobe-analytics.
 -amp-error-reporting.
--analytics-events.
--appanalytics-
 -click-tracker.
 -didomi.js
--ga-tracker.
 -gatracker.
 -geoIP.js
 -inview-tracker.
--optimization-metrics.
--quantcast-measurement.
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
--trackingScript.
 .beacon.min.js
 .eloqua.js
 .EventTracking.
@@ -55996,6 +55991,7 @@
 ||pac.thescottishsun.co.uk^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||perr.hola.org^
 ||pf.newegg.com^
 ||ph.thenextweb.com^
 ||pingback.giphy.com^
@@ -72245,6 +72241,7 @@ arketing.indianadunes.com^
 ||rcgi.video.qq.com^
 ||reportsk.web.sdo.com^
 ||retcode.taobao.com^
+||ro.aiwan4399.com^
 ||sfp.safe.baidu.com^
 ||sngmta.qq.com^
 ||sofire.bdstatic.com^
@@ -72260,6 +72257,7 @@ arketing.indianadunes.com^
 ||statistic.qzone.qq.com^
 ||sugar.zhihu.com^
 ||tf.360.cn^
+||tj.img4399.com^
 ||tongji.mafengwo.cn^
 ||tongji.xinmin.cn^
 ||tr.discuss.com.hk^
