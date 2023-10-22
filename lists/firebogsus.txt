@@ -3,7 +3,7 @@
 ! Description: All the suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-21T13:50:03.887Z
+! Last modified: 2023-10-22T02:03:17.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3285,6 +3285,7 @@
 ||39ce99fb024b2807d73d82826d5fc0e7.iposl.pl^
 ||39f67c4d535d2b.regul-konto.pl^
 ||39sf-gd.cfd^
+||39to-lh.cfd^
 ||40-77-24-31.cprapid.com^
 ||40f0758fb373e51a728815aa3aeae218.voisi.pl^
 ||40mayo.com^
@@ -6939,7 +6940,10 @@
 ||australianews-abc.com^
 ||australianews-abc.online^
 ||auta-adam.pl^
+||auta-aleks.pl^
 ||auta-bartek.pl^
+||auta-blazej.pl^
+||auta-brzozowski.pl^
 ||auta-bydgoszcz.pl^
 ||auta-bytom.pl^
 ||auta-ciesielski.pl^
@@ -10868,6 +10872,7 @@
 ||celappmedia-api.com^
 ||celebrates.cfd^
 ||celebryci-polska-24.pl^
+||celebryci-polska-online.pl^
 ||celebryci-polska.com.pl^
 ||celebryci-polska.eu^
 ||celebryci-polskaonline.pl^
@@ -14550,6 +14555,7 @@
 ||dooyoouwoorkherre-354128.asia^
 ||dooyoouwoorkherre-354128.click^
 ||dopelganger.site^
+||dopozytywnoscoraz.lol^
 ||dopptet.welcme-proftr.site^
 ||dopyop.com^
 ||doralinvest.pro^
@@ -15249,6 +15255,8 @@
 ||e-wyborcza24-w.cleverapps.io^
 ||e-wyborcza24-y.cleverapps.io^
 ||e-yourmovies.com^
+||e-zakup24h.pl^
+||e-zakupy24h.pl^
 ||e-zdarzenia24.eu^
 ||e-zdrovvie.com^
 ||e.alpstationcles.com^
@@ -16243,6 +16251,7 @@
 ||espgboyvnqoqmf.com^
 ||espn365.com^
 ||esportsbetsites.com^
+||esportsrtx.com^
 ||esq.lifetradefx.top^
 ||esreal.top^
 ||esrousci.ml^
@@ -19037,6 +19046,7 @@
 ||geckotravelers.com^
 ||gediel.com^
 ||geebila.com^
+||geekbar.shop^
 ||geekgirlacademy.com^
 ||geekme-comix.com^
 ||geekslabs.cfd^
@@ -22106,6 +22116,7 @@
 ||incrediblesale.net^
 ||incredibly.mom^
 ||indagatesd.xyz^
+||indeedc.sbs^
 ||indeedg.sbs^
 ||indervidoboubob.tk^
 ||indexfxprotrade.com^
@@ -22336,6 +22347,10 @@
 ||infosprzedaz.online^
 ||infostics.com^
 ||infosw.teleportertyr.site^
+||infoswiat-wojewodztwo.cloud^
+||infoswiat-wojewodztwo.com.pl^
+||infoswiat-wojewodztwo.eu^
+||infoswiat-wojewodztwo.pl^
 ||infoswiat.hekko24.pl^
 ||infoswiatmiasto24h.pl^
 ||infot.traidinfomes.space^
@@ -22716,6 +22731,7 @@
 ||inpost-pl.priadd.site^
 ||inpost-pl.prpbi.site^
 ||inpost-pl.prusak.space^
+||inpost-pl.psdfoi.online^
 ||inpost-pl.psdofa.online^
 ||inpost-pl.ptleroo.online^
 ||inpost-pl.qwasfa.site^
@@ -22970,6 +22986,7 @@
 ||internationaltravelblogs.org^
 ||internetdrogist.com^
 ||internetowa-gieldapojazdow.pl^
+||internetowe-zamowienia.pl^
 ||internetoweogloszenia24.cba.pl^
 ||internetoweogloszenia24.pl^
 ||internetoweogloszenia.pl^
@@ -26230,6 +26247,7 @@
 ||lnpost.damak.pw^
 ||lnpost.discountvacations.xyz^
 ||lnpost.ecapsi.pw^
+||lnpost.firona.pw^
 ||lnpost.flina.pw^
 ||lnpost.flopis.online^
 ||lnpost.fnums.space^
@@ -26274,6 +26292,7 @@
 ||lnpost.mumari.space^
 ||lnpost.nerfa.site^
 ||lnpost.nybisa.online^
+||lnpost.nyrot.pw^
 ||lnpost.ojoevoip.pw^
 ||lnpost.oparit.site^
 ||lnpost.parfisa.online^
@@ -27393,6 +27412,7 @@
 ||maskshredder.xyz^
 ||masochistic.life^
 ||masoweinfo24.click^
+||maspontanicznoscze.space^
 ||masriash.com^
 ||massachusettshomerates.com^
 ||massage-corp.space^
@@ -30253,6 +30273,7 @@
 ||news-daily-today.com^
 ||news-day.site^
 ||news-dnia.com.pl^
+||news-dnia.eu^
 ||news-dnia.pl^
 ||news-good.online^
 ||news-hagar.store^
@@ -30491,6 +30512,7 @@
 ||niesamowitosc.site^
 ||nieuwpoortbe.godaddysites.com^
 ||niewaatpliwosc.site^
+||niewiarowski-motogielda.pl^
 ||niezaleznefakty.click^
 ||niezaleznosc.site^
 ||niezapomniiane.site^
@@ -36699,7 +36721,9 @@
 ||radilyipyi.live^
 ||radio-eska.pol.agency^
 ||radio-eska.pol.beauty^
+||radio-fm24maxx.com^
 ||radio-fm24maxx.com.pl^
+||radio-fm24maxx.eu^
 ||radio-fm24maxx.pl^
 ||radio-stargard.onrender.com^
 ||radio-zet.hel.beauty^
@@ -38235,6 +38259,7 @@
 ||samochody-gielda24.pl^
 ||samochody-handel.pl^
 ||samochody-krogulewski.pl^
+||samochody-zniemiec.pl^
 ||samoilproff.site^
 ||sampledelic.com^
 ||sampletemplates.org^
@@ -39543,6 +39568,7 @@
 ||skillfulgamershowdown.com^
 ||skillmapping.net^
 ||skillywoo.com^
+||skinboxs.com^
 ||skincareforsmokers.com^
 ||skinevguld.site^
 ||skinhornei.space^
@@ -39658,6 +39684,7 @@
 ||slowowolnosci.click^
 ||slpxwnd.awicksin.com^
 ||sls-on.com^
+||slsc.vn^
 ||slumberlesss.com^
 ||sm6rt2po.online^
 ||sm.existltd.com^
@@ -41200,6 +41227,7 @@
 ||syds588.cn^
 ||sydwrica.com^
 ||syfmurhteqbvzjcn.com^
+||sygnalaktualnosci.click^
 ||sygnalalarmowy.click^
 ||sygnum-app.com^
 ||syhymyufuu.live^
@@ -42578,6 +42606,7 @@
 ||toadynewnewscoiy.click^
 ||toastymedia.com^
 ||tobiasalmroth.se^
+||tobiewyborczas.fun^
 ||tobiyield.com^
 ||tobydevblog.com^
 ||tocorfabbforveni.cf^
@@ -45693,6 +45722,7 @@
 ||vlnted-gb.hopal.info^
 ||vlnted-gb.ikomd.info^
 ||vlnted-gb.kontkt.info^
+||vlnted-gb.onliningwallet.info^
 ||vlnted-gb.sdopl.info^
 ||vlnted-gb.viobn.info^
 ||vlnted-hu.request8542.cloud^
@@ -46190,6 +46220,7 @@
 ||wc28agjllmm3kbur2hepdtbe.quickmarketnow.me^
 ||wch.btktrdtn.xyz^
 ||wchat.masterprogr.xyz^
+||wciazplanowanieo.cfd^
 ||wckici.pl^
 ||wcsitepreview.com^
 ||wdfvh.pages.dev^
@@ -47925,6 +47956,7 @@
 ||zakup-auto.pl^
 ||zakup-natychmiastowy.pl^
 ||zakup-payu.pl^
+||zakup-z-gwarancja.pl^
 ||zakupnavint24na7.shop^
 ||zakupolx.pl^
 ||zakupuj-auta.pl^
@@ -47957,6 +47989,8 @@
 ||zamow-dzisiaj24.pl^
 ||zamow-internetowo.pl^
 ||zamow-online24.pl^
+||zamow-online24h.pl^
+||zamow-przedmioty24.pl^
 ||zamow-przesylka.pl^
 ||zamow-szybko.pl^
 ||zamow-taniej.pl^
@@ -48423,6 +48457,7 @@
 ||zweryfikuj.com^
 ||zwgli.piwylefubefu.top^
 ||zwhiet.space^
+||zwiastowanieinfo.click^
 ||zwiazek2firmenergetycznych.site^
 ||zwinglianism.org^
 ||zwookedu.net^
@@ -48443,6 +48478,7 @@
 ||zxzonp.reveriemoncton.com^
 ||zyceh.sunddip.com^
 ||zychadam.pl^
+||zycie-wiezienne.pl^
 ||zyciegwiazd-pudelek24h.pl^
 ||zyciegwiazd-wpinformacje.pl^
 ||zycietodar.click^
