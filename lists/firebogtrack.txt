@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-26T01:17:27.495Z
+! Last modified: 2023-10-26T13:09:39.104Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33,8 +33,6 @@
 ://internal-matomo.
 ://segment-api.
 ://segment-cdn.
--coin-hive.js
--monero-miner-
 -logabpstatus.
 ||00px.net^
 ||1cros.net^
@@ -4754,6 +4752,7 @@
 ||a.hcaptcha.com^
 ||a.mobify.com^
 ||a.opumo.net^
+||activity-flow.vtex.com^
 ||ad.aloodo.com^
 ||adfox.yandex.ru^
 ||adlog.com.com^
@@ -5062,6 +5061,7 @@
 ||event.syndigo.cloud^
 ||eventapi.libring.com^
 ||eventgateway.soundcloud.com^
+||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
 ||events.audiate.me^
@@ -5080,6 +5080,7 @@
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
+||events.storifyme.com^
 ||events.tubecup.org^
 ||events.whisk.com^
 ||events.yourcx.io^
@@ -5465,6 +5466,7 @@
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||telemetry.vtex.com^
 ||timber.sendtonews.com^
 ||timejs.game.163.com^
 ||tms.fmm.io^
