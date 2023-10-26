@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-25T13:40:47.569Z
+! Last modified: 2023-10-26T01:18:28.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2268,7 +2268,7 @@
 ||billgateshelp.com^
 ||billigastelanet.com^
 ||billigastforsakring.com^
-||billing-select.com^
+||ww1.billing-select.com^
 ||billyblank.com^
 ||billywitchdoctor.com^
 ||bilojobs.com^
@@ -7805,7 +7805,6 @@
 ||dc.services.visualstudio.com^
 ||dc-int.services.visualstudio.com^
 ||vitadesks.com^
-||ww25.vivoscandicci.com^
 ||vizu.com^
 ||vizury.com^
 ||vkiapcavnoc.com^
@@ -8356,7 +8355,8 @@
 ||youtalkback.com^
 ||youtu8.com^
 ||youtubebuddy.com^
-||youtubeco.com^
+||ww25.youtubeco.com^
+||ww38.youtubeco.com^
 ||youtubecreators.com^
 ||youtubefreeporn.com^
 ||youtubegetmusicsoft.com^
@@ -9549,15 +9549,7 @@
 ||kidala.info^
 ||kievonline.info^
 ||kikou.info^
-||esports.killonsight.info^
-||m.killonsight.info^
-||mail.killonsight.info^
-||test.killonsight.info^
-||ww1.killonsight.info^
-||ww11.killonsight.info^
-||ww17.killonsight.info^
-||ww38.killonsight.info^
-||www.killonsight.info^
+||killonsight.info^
 ||kimtragedy.info^
 ||kinderlaehmung.info^
 ||kinesiotape.info^
@@ -10112,14 +10104,10 @@
 ||sqmf.info^
 ||sserbanro.info^
 ||ssmatomeantenna.info^
-||lagu.stafabanddl.info^
 ||ww1.m.stafabanddl.info^
 ||ww11.m.stafabanddl.info^
 ||ww17.m.stafabanddl.info^
 ||ww38.m.stafabanddl.info^
-||mp3.stafabanddl.info^
-||ovh.stafabanddl.info^
-||www.stafabanddl.info^
 ||startbeestlife.info^
 ||stato.info^
 ||steroide.info^
@@ -10135,6 +10123,7 @@
 ||studnet.info^
 ||subsidios.info^
 ||suertetrabajos.info^
+||ww16.upla.sumariados.info^
 ||sunbuster.info^
 ||sunderlandinsurance.info^
 ||sunhorizon.info^
@@ -11764,7 +11753,6 @@
 ||vmg.nyc^
 ||kingfish.fishing.net.nz^
 ||aj1070.online^
-||store-notification.online^
 ||12js.org^
 ||1377x.org^
 ||16js.org^
@@ -14566,6 +14554,7 @@
 ||behavioralmailing.com^
 ||beintoo.net^
 ||believersheet.com^
+||belongedshark.com^
 ||berlipurplin.com^
 ||besmeargleor.com^
 ||bestcpmnetwork.com^
@@ -15005,6 +14994,7 @@
 ||departedbeings.com^
 ||departgross.com^
 ||designatejay.com^
+||desiremolecule.com^
 ||detmir-stats.ru^
 ||devaccess.easy4ipcloud.com^
 ||devnxs.net^
@@ -15876,6 +15866,7 @@
 ||marktest.pt^
 ||martcubic.com^
 ||masakeku.com^
+||masontotally.com^
 ||mathscrayonreference.com^
 ||matomo.org^
 ||maximtoaster.com^
@@ -17855,6 +17846,8 @@
 ||mkt11809.com^
 ||mkt1181.com^
 ||mkt11810.com^
+||mkt11812.com^
+||mkt11817.com^
 ||mkt1182.com^
 ||mkt1183.com^
 ||mkt1184.com^
@@ -27443,6 +27436,7 @@
 ||questback.com^
 ||qwerfdx.com^
 ||r.i0.cz^
+||r023m83skv5v.com^
 ||r1-cdn.net^
 ||r42tag.com^
 ||r7ls.net^
@@ -27579,6 +27573,7 @@
 ||rum20.a.trbcdn.net^
 ||runadtag.com^
 ||runative-syndicate.com^
+||runreferences.com^
 ||ruralstring.com^
 ||rustgenerations.com^
 ||rutpunishsnitch.com^
