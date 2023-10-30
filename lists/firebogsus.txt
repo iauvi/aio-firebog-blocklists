@@ -3,7 +3,7 @@
 ! Description: All the suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-10-29T13:30:19.983Z
+! Last modified: 2023-10-30T02:04:06.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7222,14 +7222,17 @@
 ||auta-jan.pl^
 ||auta-jarek.pl^
 ||auta-kalinowski.pl^
+||auta-kaminski.pl^
 ||auta-katowice.pl^
 ||auta-kosowski.pl^
 ||auta-koszalin.pl^
+||auta-kowalczyk.pl^
 ||auta-kowalska.pl^
 ||auta-krzysztof.pl^
 ||auta-kuba.pl^
 ||auta-kwiatkowski.pl^
 ||auta-leszczynski.pl^
+||auta-lewandowski.pl^
 ||auta-lisiecki.pl^
 ||auta-lublin.pl^
 ||auta-maciek.pl^
@@ -7264,6 +7267,7 @@
 ||auta-slupsk.pl^
 ||auta-sobieski.pl^
 ||auta-sopot.pl^
+||auta-szymanski.pl^
 ||auta-tadeusz.pl^
 ||auta-tarnow.pl^
 ||auta-tomasz.pl^
@@ -7275,6 +7279,7 @@
 ||auta-wiejska.pl^
 ||auta-wojciech.pl^
 ||auta-wojtek.pl^
+||auta-wozniak.pl^
 ||auta-wroclaw.pl^
 ||auta-zborowski.pl^
 ||auta-zbyszek.pl^
@@ -8973,6 +8978,7 @@
 ||bezpieczne-zamowienia.pl^
 ||bezpieczne-zamowienie.pl^
 ||bezpieczne-zaplaty.pl^
+||bezpiecznie-kup.pl^
 ||bezpieczny-kupiec.pl^
 ||bezpieczny-platnosci.pl^
 ||bezposrednie-przetwarzanie-online.xyz^
@@ -11088,6 +11094,7 @@
 ||carryonline.cfd^
 ||carryprize.online^
 ||cars-handel24.net.pl^
+||carsdeal.net.pl^
 ||carseatconsultations.com^
 ||carshandel.pl^
 ||carsshare-komisautuzywanych.pl^
@@ -14667,6 +14674,7 @@
 ||dipu.prlmaxiiisok.xyz^
 ||diqomoofai.live^
 ||direct-5f724.web.app^
+||direct-8fc3a.web.app^
 ||direct-79ab7.web.app^
 ||direct-962dd.web.app^
 ||direct-c4ded.web.app^
@@ -20046,6 +20054,7 @@
 ||giacongmigia.com^
 ||giadungbienhoa.com^
 ||giantc.cfd^
+||gianttransferwind.com^
 ||giasveam.space^
 ||gibaske.space^
 ||gibilisco.mbabik.info.pl^
@@ -23643,6 +23652,7 @@
 ||inpost-yhwx.order2315.info^
 ||inpost-yngj.order9205.info^
 ||inpost.6594512.xyz^
+||inpost.19784574.xyz^
 ||inpost.20451544.xyz^
 ||inpost.39784574.xyz^
 ||inpost.59784574.xyz^
@@ -26117,6 +26127,7 @@
 ||kup-online24h.pl^
 ||kup-online247.pl^
 ||kup-paczka-olx.pl^
+||kup-prywatnie.pl^
 ||kup-przedmiot.pl^
 ||kup-wysylka-olx.pl^
 ||kup-z-dostawa.pl^
@@ -27164,6 +27175,7 @@
 ||lnpost-info.gdbbf.click^
 ||lnpost-info.num28968.click^
 ||lnpost-info.num75767.click^
+||lnpost.3481512.xyz^
 ||lnpost.8675126.xyz^
 ||lnpost.abika.lol^
 ||lnpost.advous.top^
@@ -27233,6 +27245,7 @@
 ||lnpost.nerfa.site^
 ||lnpost.nybisa.online^
 ||lnpost.nyrot.pw^
+||lnpost.oifask.space^
 ||lnpost.ojoevoip.pw^
 ||lnpost.oparit.site^
 ||lnpost.parfisa.online^
@@ -31810,6 +31823,7 @@
 ||notice80-acc827a.listatv.co.pl^
 ||notificationstwo.pl^
 ||notifierhe.com^
+||notify-account-locked-fadc5.firebaseapp.com^
 ||notifymnow.com^
 ||notifynow1.com^
 ||notihe.site^
@@ -32183,6 +32197,7 @@
 ||oddamy-glosuje.eu^
 ||oddamy-yorka.site^
 ||oddamy-yorka.store^
+||oddamyonline24.pl^
 ||oddamyzadarmo.pl^
 ||oddamyzagrosze.pl^
 ||oddamzagrosze.pl^
@@ -34281,6 +34296,7 @@
 ||pewaukees.live^
 ||pewbbsflff.sa.com^
 ||pewlladfeer.site^
+||pewnie-zakup.pl^
 ||pewterclub.com^
 ||pexeqsend.shop^
 ||peypendostaw247.shop^
@@ -35099,6 +35115,7 @@
 ||platnosci-express.pl^
 ||platnosci-payu.prv.pl^
 ||platnosci-sendit.link^
+||platnosci-z-ochrona.pl^
 ||platnosciexpress.pl^
 ||platosdeducha.com^
 ||plausiblec.com^
@@ -37191,6 +37208,8 @@
 ||prywatne-ogloszenie24h.pl^
 ||prywatne-transakcje.pl^
 ||prywatne-zakupy247.pl^
+||prywatne-zakupy.pl^
+||prywatnie-kupuj.pl^
 ||prywatnie-kupuje247.pl^
 ||prywatny-zakup.pl^
 ||przbmkisur.sa.com^
@@ -42853,6 +42872,7 @@
 ||tangy-cat-turn.glitch.me^
 ||tani-pojazd.pl^
 ||tani-samochod.com.pl^
+||tani-zakup.pl^
 ||tania-motoryzacja24.pl^
 ||tanie-samochody.com.pl^
 ||tanie-wycieczki.com.pl^
@@ -45794,6 +45814,9 @@
 ||valleyhomeinvestment.net^
 ||valleylemon.com^
 ||valorant99.com^
+||valorant-arcane.fun^
+||valorant-money.fun^
+||valorant-promo.fun^
 ||valorant-supreme.com^
 ||valorantcrew.net^
 ||valorante.net^
@@ -46753,6 +46776,7 @@
 ||vinted.waleupl.org^
 ||vinted.yvellap.org^
 ||vintedcz.order146.online^
+||vintedcz.order253.com^
 ||vintedcz.order345.online^
 ||vintedcz.order382.eu^
 ||vintedcz.order531.com^
@@ -47105,6 +47129,7 @@
 ||vlariteder.com^
 ||vli89.cfd^
 ||vlmauzih13.lisanse.com^
+||vlnted-gb.abelg.info^
 ||vlnted-gb.abigl.info^
 ||vlnted-gb.aciox.info^
 ||vlnted-gb.akiji.info^
@@ -47216,6 +47241,7 @@
 ||voogueemania.site^
 ||voolsop-website.preview-domain.com^
 ||voopcreative.com^
+||vop-poczta0.top^
 ||vop.bashus.site^
 ||vop.bosd.online^
 ||vopasil.space^
@@ -47344,6 +47370,7 @@
 ||vz404.netdc.pl^
 ||vz18719.dahost.pl^
 ||vzgrof.gamemods.com.tr^
+||vzp-poczta0.top^
 ||vzxqm.shivamgmt.com^
 ||w0kuf03oeekjjrnr24aol80a.quickmarketnow.me^
 ||w0lf4p78oke7acuritcv7fdu.quickmarketnow.me^
@@ -49214,6 +49241,7 @@
 ||yourchoice.stormo.site^
 ||yourchoise.online^
 ||yourdayproft.site^
+||yourdealsoffers.com^
 ||yourdochod15000.site^
 ||yourdochod.site^
 ||yourealization.club^
@@ -49413,6 +49441,7 @@
 ||zakup-kontrolowany.pl^
 ||zakup-natychmiastowy.pl^
 ||zakup-payu.pl^
+||zakup-przez-internet.pl^
 ||zakup-z-gwarancja.pl^
 ||zakupnavint24na7.shop^
 ||zakupolx.pl^
@@ -49458,6 +49487,7 @@
 ||zamow-tanio.pl^
 ||zamowienia-bezpieczne24.pl^
 ||zamowienia-online.pl^
+||zamowienia-szybko.pl^
 ||zamowienie24.shop^
 ||zamowienie24h.pl^
 ||zamowienie761265261.pl^
@@ -49483,6 +49513,7 @@
 ||zapakujmy.cloud^
 ||zapakujpolska.cloud^
 ||zaplaan.se^
+||zaplac24h.pl^
 ||zaplac-24h.pl^
 ||zaplac-bezpiecznie24.pl^
 ||zaplac-bezpieczniej.pl^
