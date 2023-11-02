@@ -13,7 +13,7 @@
 |Bog| 📙 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
 |Blue| 📘 |Included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
-|Green & Blue| 📒 |Green and blue AIO list|
+|Green & Blue| 📒 |Includes entries from the green list and blue list|
 |Whitelist| 📓 |List of domains allowed when denied by a blocklist|
 
 </div>
