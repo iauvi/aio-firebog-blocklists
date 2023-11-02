@@ -32,7 +32,7 @@
 | 📗 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">Green All-In-One List</a> |
 | 📘 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">Blue All-In-One List</a> |
 
-|📚|Light AIO Blocklists|
+|📚|Light All-In-One Blocklists|
 |:---:|:---|
 | 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
 | 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
