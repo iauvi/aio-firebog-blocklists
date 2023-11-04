@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-03T13:42:43.242Z
+! Last modified: 2023-11-04T01:58:59.860Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -25,6 +25,7 @@
 .skimlinks.js
 .v4.analytics.
 ://a869.
+://client.rum.
 ://elqtrk.
 ://internal-matomo.
 ://segment-api.
@@ -53,6 +54,7 @@
 ||adstk.io^
 ||adultium.com^
 ||agkn.com^
+||agma-analytics.de^
 ||allvideometrika.com^
 ||alpha1trk.com^
 ||altopd.com^
@@ -4934,6 +4936,7 @@
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.tyuwq.com^
+||clicktalecdn.sslcs.cdngc.net^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
@@ -5390,6 +5393,7 @@
 ||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
+||stats.netdriven.com^
 ||stats.olark.com^
 ||stats.ozwebsites.biz^
 ||stats.phoenix-widget.com^
@@ -6770,6 +6774,7 @@
 ||v.ctrl.blog^
 ||views.arabnews.com^
 ||views.asura.gg^
+||views.asurascans.com^
 ||vortex.hulu.com^
 ||w3-reporting.reddit.com^
 ||wa.childrensplace.com^
@@ -26424,6 +26429,8 @@ arketing.indianadunes.com^
 ||zumodemarketing.com^
 ||zxxds.net^
 ||zy16eoat1w.com^
+||adstransparency.google.com^
+||moloco.com^
 ||sanalytics.spark.co.nz^
 ||analytics.metro.com.kz^
 ||smetrics.airbank.cz^
@@ -38682,6 +38689,7 @@ arketing.indianadunes.com^
 ||aluxurycars.com^
 ||alxgtyqhio.com^
 ||amateurgallore.com^
+||amazesoft.com^
 ||amazingassistedliving.com^
 ||aan.amazon.com^
 ||aax-us-iad.amazon.com^
@@ -39152,7 +39160,7 @@ arketing.indianadunes.com^
 ||bhringer.com^
 ||bibng.com^
 ||bidberrymedia.com^
-||bidobserver.com^
+||www.bidobserver.com^
 ||bidsimulator.com^
 ||bidstalk.com^
 ||bidswitch.com^
@@ -40904,6 +40912,7 @@ arketing.indianadunes.com^
 ||guhafohu.com^
 ||guieco.com^
 ||guiguiland.com^
+||guisinart.com^
 ||guitarfedish.com^
 ||gukacado.com^
 ||gulfcoastconnections.com^
@@ -42202,7 +42211,6 @@ arketing.indianadunes.com^
 ||cdn.neatab.com^
 ||services.neatab.com^
 ||staging.neatab.com^
-||try.neatab.com^
 ||www.neatab.com^
 ||neewgoogle.com^
 ||neglot.com^
@@ -43889,7 +43897,7 @@ arketing.indianadunes.com^
 ||topcoverpic.com^
 ||topfifty.com^
 ||topssneakers.com^
-||topwheels-belgium.com^
+||ww1.topwheels-belgium.com^
 ||toqofa.com^
 ||toreentsmd.com^
 ||torremtbox.com^
@@ -44213,8 +44221,7 @@ arketing.indianadunes.com^
 ||vidlcs.com^
 ||vidsdbm.com^
 ||vidyoutube.com^
-||ww1.vienamairline.com^
-||www.vienamairline.com^
+||vienamairline.com^
 ||viewbix.com^
 ||viewdeos.com^
 ||viewsignage.com^
@@ -44757,16 +44764,18 @@ arketing.indianadunes.com^
 ||yourgoingtohell.com^
 ||yourkadspunew.com^
 ||yourpornamateur.com^
-||yourseniorcarenetwork.com^
+||es.yourseniorcarenetwork.com^
+||ko.yourseniorcarenetwork.com^
+||sk.yourseniorcarenetwork.com^
+||te.yourseniorcarenetwork.com^
+||www.yourseniorcarenetwork.com^
 ||yourtexasenefits.com^
 ||yourtube8.com^
 ||yourwebbars.com^
 ||youtalkback.com^
 ||youtu8.com^
 ||youtubebuddy.com^
-||ww25.youtubeco.com^
-||ww38.youtubeco.com^
-||www.youtubeco.com^
+||youtubeco.com^
 ||youtubecreators.com^
 ||youtubefreeporn.com^
 ||youtubegetmusicsoft.com^
@@ -45369,6 +45378,7 @@ arketing.indianadunes.com^
 ||bigger-penis.info^
 ||biggerpenisnow.info^
 ||bigrealestate.info^
+||www.biip.info^
 ||bijsluiterscore.info^
 ||bimba.info^
 ||binarytribune.info^
@@ -45696,7 +45706,6 @@ arketing.indianadunes.com^
 ||freshwallpapers.info^
 ||funtvshow.info^
 ||futjakot.info^
-||www.futurestudys.info^
 ||fxaction.info^
 ||fyo.info^
 ||g75v47q60.info^
@@ -45860,10 +45869,6 @@ arketing.indianadunes.com^
 ||investition.info^
 ||ipboard.info^
 ||iphonedata.info^
-||mail.iprisonbreak.info^
-||webdisk.iprisonbreak.info^
-||ww17.iprisonbreak.info^
-||www.iprisonbreak.info^
 ||iptv-gratuit.info^
 ||iptvserver.info^
 ||iptvturk.info^
@@ -45951,6 +45956,7 @@ arketing.indianadunes.com^
 ||konp.info^
 ||konsan.info^
 ||konyaalti.info^
+||www.kooora.info^
 ||koorlive.info^
 ||kotaklagu.info^
 ||kozi.info^
@@ -46110,7 +46116,11 @@ arketing.indianadunes.com^
 ||mt04.info^
 ||muanyagablak.info^
 ||mueckenschutz.info^
-||mujerbella.info^
+||mail.mujerbella.info^
+||ww1.mujerbella.info^
+||ww16.mujerbella.info^
+||ww38.mujerbella.info^
+||www.mujerbella.info^
 ||muldental.info^
 ||multi3ker.info^
 ||multivitamine.info^
@@ -47104,6 +47114,7 @@ arketing.indianadunes.com^
 ||aljazeeraairways.net^
 ||allblock.net^
 ||altissimo.net^
+||altjar.net^
 ||amateurtubeporn.net^
 ||amazingvacationhomesfl.net^
 ||analytics-active.net^
@@ -47698,7 +47709,6 @@ arketing.indianadunes.com^
 ||newssplash.net^
 ||segment.psg.nexstardigital.net^
 ||art.next-power.net^
-||auth.next-power.net^
 ||authsmtp.next-power.net^
 ||barracuda.next-power.net^
 ||box.next-power.net^
@@ -47712,7 +47722,6 @@ arketing.indianadunes.com^
 ||hermes.next-power.net^
 ||home.next-power.net^
 ||host.next-power.net^
-||internet.next-power.net^
 ||m.next-power.net^
 ||mail.next-power.net^
 ||mail01.next-power.net^
@@ -47731,11 +47740,9 @@ arketing.indianadunes.com^
 ||mailbox.next-power.net^
 ||mailer.next-power.net^
 ||mailgate.next-power.net^
-||mailgw.next-power.net^
 ||mailrelay.next-power.net^
 ||mails.next-power.net^
 ||mailserver.next-power.net^
-||mailx.next-power.net^
 ||mbox.next-power.net^
 ||ms.next-power.net^
 ||ms1.next-power.net^
@@ -47754,7 +47761,6 @@ arketing.indianadunes.com^
 ||mxs.next-power.net^
 ||ns.next-power.net^
 ||ns2.next-power.net^
-||out.next-power.net^
 ||outmail.next-power.net^
 ||poczta.next-power.net^
 ||pop.next-power.net^
@@ -47766,13 +47772,10 @@ arketing.indianadunes.com^
 ||root.next-power.net^
 ||seed.next-power.net^
 ||send.next-power.net^
-||server.next-power.net^
 ||server1.next-power.net^
 ||smtp01.next-power.net^
-||smtpauth.next-power.net^
 ||smtps.next-power.net^
 ||smtpseguro.next-power.net^
-||sniper.next-power.net^
 ||srv.next-power.net^
 ||ssl.next-power.net^
 ||thor.next-power.net^
@@ -47782,12 +47785,9 @@ arketing.indianadunes.com^
 ||vnet.next-power.net^
 ||vps.next-power.net^
 ||ww1.next-power.net^
-||ww16.next-power.net^
-||ww38.next-power.net^
 ||ww4.next-power.net^
 ||ww5.next-power.net^
 ||www.next-power.net^
-||zimbra.next-power.net^
 ||analytics.nextopia.net^
 ||nextperf.net^
 ||ae.nflximg.net^
@@ -48243,7 +48243,6 @@ arketing.indianadunes.com^
 ||azmonakan.org^
 ||azmoun.org^
 ||azmunakan.org^
-||ww11.babelinks.org^
 ||app.backinstock.org^
 ||baillii.org^
 ||bajkidladzieci.org^
@@ -48568,7 +48567,6 @@ arketing.indianadunes.com^
 ||eyeofthecat.org^
 ||ezpassnj.org^
 ||f1tv.org^
-||ww35.face-copyright.org^
 ||fafas.org^
 ||fairygardening.org^
 ||familoysearch.org^
@@ -48625,10 +48623,6 @@ arketing.indianadunes.com^
 ||d5kd.freecardgamesonline.org^
 ||mail.freecardgamesonline.org^
 ||mlk2k2vu.freecardgamesonline.org^
-||ww1.freecardgamesonline.org^
-||ww17.freecardgamesonline.org^
-||ww25.freecardgamesonline.org^
-||ww38.freecardgamesonline.org^
 ||www.freecardgamesonline.org^
 ||x4.freecardgamesonline.org^
 ||freecoinbase.org^
@@ -48739,7 +48733,6 @@ arketing.indianadunes.com^
 ||hionline.org^
 ||hirensboot.org^
 ||hiringourheros.org^
-||hittai.org^
 ||hkhanacademy.org^
 ||hlcomission.org^
 ||hngu.org^
@@ -48865,6 +48858,7 @@ arketing.indianadunes.com^
 ||lacar.org^
 ||lakhonmeinek.org^
 ||lamarisd.org^
+||langirt.org^
 ||langleyfuc.org^
 ||lapels.org^
 ||laptop-battery.org^
@@ -51035,7 +51029,6 @@ arketing.indianadunes.com^
 ||collectorcommander.com^
 ||colonistnobilityheroic.com^
 ||combatbaskstationery.com^
-||combineencouragingutmost.com^
 ||comm100.com^
 ||commandersact.com^
 ||commonvivacious.com^
@@ -51063,7 +51056,6 @@ arketing.indianadunes.com^
 ||conjunctionrepresentativepowerless.com^
 ||connatedresspint.com^
 ||connct-9.com^
-||consequencesgiddyditch.com^
 ||constant.co^
 ||constructpoll.com^
 ||contagiousaugust.com^
@@ -63429,7 +63421,6 @@ arketing.indianadunes.com^
 ||prod-telemetry.paradox-interactive.com^
 ||prod.telemetry.ros.rockstargames.com^
 ||productserve.com^
-||profileknee.com^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
 ||profitablecreativeformat.com^
