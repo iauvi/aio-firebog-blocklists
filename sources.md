@@ -10,7 +10,7 @@
 |Green| 📗 |Included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
 |Blue| 📘 |Included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
 
-| Class | 📚 | Source |
+| Class | 📊 | Source |
 |:---:|:---:|:---|
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
