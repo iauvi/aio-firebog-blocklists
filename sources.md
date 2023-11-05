@@ -4,13 +4,13 @@
 
 <strong><em>All sources are found at <a href="https://firebog.net/" title="">The Firebog</a><br>created by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
 
-| Type | 📊 | Description |
+| Type | 📚 | Description |
 |:---:|:---:|:---|
 |Bog| 📙 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
 |Blue| 📘 |Included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
 
-| Class | 📊 | Source |
+| Class | 📚 | Source |
 |:---:|:---:|:---|
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
