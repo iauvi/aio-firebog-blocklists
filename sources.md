@@ -4,7 +4,7 @@
 
 <strong><em>All sources are found at <a href="https://firebog.net/" title="">The Firebog</a><br>created by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
 
-| Type | 📚 | Description |
+| Type | 📊 | Description |
 |:---:|:---:|:---|
 |Bog| 📙 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
