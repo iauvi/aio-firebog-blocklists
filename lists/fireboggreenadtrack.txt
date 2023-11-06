@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-06T03:00:01.708Z
+! Last modified: 2023-11-06T14:05:07.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -55621,6 +55621,7 @@
 ||collect.rewardstyle.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector-api.frspecifics.com^
 ||collector-soompi.viki.io^
 ||collector.api.video^
 ||collector.automote.co.nz^
@@ -74031,6 +74032,7 @@ arketing.indianadunes.com^
 ||adsomega.com^
 ||adstech.de^
 ||adstercerclick.com.ar^
+||adstransparency.google.com^
 ||adsverse.com^
 ||adsvert.com^
 ||adtech.com.tr^
@@ -74320,6 +74322,7 @@ arketing.indianadunes.com^
 ||mobileads.ru^
 ||mochiads.com^
 ||moggattice.com^
+||moloco.com^
 ||money4exit.de^
 ||mongoosemetrics.com^
 ||moniht.com^
@@ -74544,8 +74547,6 @@ arketing.indianadunes.com^
 ||zesuperoffre.fr^
 ||zumodemarketing.com^
 ||zxxds.net^
-||adstransparency.google.com^
-||moloco.com^
 ||sanalytics.spark.co.nz^
 ||analytics.metro.com.kz^
 ||smetrics.airbank.cz^
