@@ -3,12 +3,11 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-07T02:36:38.993Z
+! Last modified: 2023-11-07T14:16:37.646Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 -adobe-analytics.
--amp-error-reporting.
 -click-tracker.
 -didomi.js
 -geoIP.js
@@ -20,7 +19,6 @@
 .eloqua.js
 .EventTracking.
 .gatracking.js
-.Google.Tracker.js
 .sharecounter.
 .skimlinks.js
 .v4.analytics.
@@ -91,6 +89,7 @@
 ||cdnhst.xyz^
 ||ciqtracking.com^
 ||cityrobotflower.com^
+||ck123.io^
 ||ckies.net^
 ||clarity.ms^
 ||clearbitscripts.com^
