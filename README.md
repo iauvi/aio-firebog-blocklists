@@ -13,8 +13,8 @@
 |Bog| 📙 |The Bog All-In-One (AIO) list contains all the sources, consider using a whitelist|
 |Green| 📗 |Included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
 |Blue| 📘 |Included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
-|Green & Blue| 📒 |Includes green and blue sources|
-|Whitelist| 📄 |List of domains allowed when denied by a blocklist|
+|Green & Blue| 📔 |Includes green and blue sources|
+|Whitelist| 📓 |List of domains allowed when denied by a blocklist|
 
 </div>
 
@@ -34,9 +34,9 @@
 
 |📚|Light All-In-One Blocklists|
 |:---:|:---|
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">Advertising-Tracking-Malicious AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">Advertising-Tracking-Malicious AIO List</a> |
 
 |📚|Single Type Blocklists|
 |:---:|:---|
@@ -49,16 +49,16 @@
 
 |📚|Single Class Blocklists|
 |:---:|:---|
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">Suspicious AIO List</a> |
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">Advertising AIO List</a> |
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Tracking AIO List</a> |
-| 📒 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Malicious AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">Suspicious AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">Advertising AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Tracking AIO List</a> |
+| 📔 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Malicious AIO List</a> |
 
 |📚|Whitelist Suggestions|
 |:---:|:---|
-| 📄 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
-| 📄 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
-| 📄 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |
+| 📓 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's Whitelist</a> |
+| 📓 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's Whitelist</a> |
+| 📓 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's Whitelist</a> |
 
 </div>
 
@@ -72,8 +72,8 @@
 
 |📊| Testing Tools |📊|
 |:---:|:---:|:---:|
-|📙| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |📒|
+|📙| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |📔|
 |📕| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |📘|
-|📄| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |📗|
+|📓| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |📗|
 
 </div>
