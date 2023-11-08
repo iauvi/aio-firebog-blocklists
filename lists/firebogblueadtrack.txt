@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-07T14:17:38.601Z
+! Last modified: 2023-11-08T02:32:27.732Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2244,7 +2244,6 @@
 ||bhringer.com^
 ||bibng.com^
 ||bidberrymedia.com^
-||www.bidobserver.com^
 ||bidsimulator.com^
 ||bidstalk.com^
 ||bidswitch.com^
@@ -5554,7 +5553,6 @@
 ||adproxy.ndmdhs.com^
 ||ndroip.com^
 ||analyze.neatab.com^
-||calc.neatab.com^
 ||services.neatab.com^
 ||staging.neatab.com^
 ||neewgoogle.com^
@@ -6013,6 +6011,7 @@
 ||shop.podersa.com^
 ||sitemaps.podersa.com^
 ||test.podersa.com^
+||ww1.podersa.com^
 ||ww25.podersa.com^
 ||www.podersa.com^
 ||connect.podium.com^
@@ -6087,7 +6086,6 @@
 ||ns1.prantikv.com^
 ||postmaster.prantikv.com^
 ||server2.prantikv.com^
-||www.prantikv.com^
 ||prazeruniversal.com^
 ||preanimal.com^
 ||preapps.com^
@@ -8858,6 +8856,8 @@
 ||adblog.info^
 ||adessonews.info^
 ||adidasspringblade2.info^
+||autodiscover.aditech.info^
+||cpcontacts.aditech.info^
 ||adm-vids.info^
 ||advertisers.info^
 ||aerjournal.info^
@@ -9256,7 +9256,7 @@
 ||etain.info^
 ||etarin.info^
 ||ethanfletcher.info^
-||www.euro-news.info^
+||euro-news.info^
 ||eventsco.info^
 ||evergreenseniorliving.info^
 ||evershine.info^
@@ -9417,6 +9417,7 @@
 ||healthy-weight-loss-plan.info^
 ||heart-work.info^
 ||heartbreakers.info^
+||ww1.helphouse.info^
 ||ww38.helphouse.info^
 ||www.helphouse.info^
 ||helpmeout.info^
@@ -10846,6 +10847,7 @@
 ||boysonyourscreen.net^
 ||brandads.net^
 ||browse.net^
+||bubbas-diner.net^
 ||buysellads.net^
 ||adpushup1.cachefly.net^
 ||adpushup2.cachefly.net^
@@ -11403,76 +11405,6 @@
 ||newsexpert.net^
 ||newssplash.net^
 ||segment.psg.nexstardigital.net^
-||art.next-power.net^
-||authsmtp.next-power.net^
-||barracuda.next-power.net^
-||box.next-power.net^
-||com.next-power.net^
-||correo.next-power.net^
-||cs.next-power.net^
-||gate.next-power.net^
-||gateway.next-power.net^
-||gw.next-power.net^
-||hermes.next-power.net^
-||home.next-power.net^
-||m.next-power.net^
-||mail01.next-power.net^
-||mail02.next-power.net^
-||mail1.next-power.net^
-||mail11.next-power.net^
-||mail12.next-power.net^
-||mail2.next-power.net^
-||mail3.next-power.net^
-||mail4.next-power.net^
-||mail6.next-power.net^
-||mail7.next-power.net^
-||mail8.next-power.net^
-||mailapp.next-power.net^
-||mailbox.next-power.net^
-||mailer.next-power.net^
-||mailgate.next-power.net^
-||mailrelay.next-power.net^
-||mails.next-power.net^
-||mailserver.next-power.net^
-||mbox.next-power.net^
-||ms.next-power.net^
-||ms1.next-power.net^
-||mta.next-power.net^
-||mta1.next-power.net^
-||mx.next-power.net^
-||mx01.next-power.net^
-||mx02.next-power.net^
-||mx1.next-power.net^
-||mx10.next-power.net^
-||mx2.next-power.net^
-||mx20.next-power.net^
-||mx3.next-power.net^
-||mx5.next-power.net^
-||mx7.next-power.net^
-||mxs.next-power.net^
-||ns.next-power.net^
-||ns2.next-power.net^
-||poczta.next-power.net^
-||pop.next-power.net^
-||post.next-power.net^
-||posta.next-power.net^
-||postmaster.next-power.net^
-||relay1.next-power.net^
-||relay2.next-power.net^
-||root.next-power.net^
-||seed.next-power.net^
-||send.next-power.net^
-||server1.next-power.net^
-||smtp01.next-power.net^
-||smtps.next-power.net^
-||srv.next-power.net^
-||ssl.next-power.net^
-||thor.next-power.net^
-||tiger.next-power.net^
-||tw.next-power.net^
-||vip.next-power.net^
-||vps.next-power.net^
-||ww4.next-power.net^
 ||www.next-power.net^
 ||analytics.nextopia.net^
 ||nextperf.net^
@@ -11683,7 +11615,8 @@
 ||p.typekit.net^
 ||udmserve.net^
 ||ufim.net^
-||undressedwomen.net^
+||ww17.undressedwomen.net^
+||ww84.undressedwomen.net^
 ||upapi.net^
 ||updtr.net^
 ||upskirts69.net^
@@ -12806,6 +12739,7 @@
 ||nypg.org^
 ||nyschoolsurvey.org^
 ||nysters.org^
+||www.oahow.org^
 ||oakparkschool.org^
 ||oasissanctuary.org^
 ||objectifdemocratie.org^
@@ -12834,7 +12768,7 @@
 ||oraesatta.org^
 ||orbotech.org^
 ||organizando.org^
-||ww25.ww25.orgyzilla.org^
+||ww25.orgyzilla.org^
 ||ww31.orgyzilla.org^
 ||ww38.orgyzilla.org^
 ||www.orgyzilla.org^
