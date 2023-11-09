@@ -14,7 +14,7 @@
 |:---:|:---:|:---|
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 📗 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
-| Suspicious | 📗 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blacklist</a> |
+| Suspicious | 📗 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
 | Suspicious | 📘 | <a href="https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt" title="">Matomo Referrer Spam</a> |
 | Suspicious | 📘 | <a href="https://someonewhocares.org/hosts/zero/hosts" title="">Dan Pollock's List</a> |
 | Suspicious | 📘 | <a href="https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts" title="">VeleSila yhosts</a> |
