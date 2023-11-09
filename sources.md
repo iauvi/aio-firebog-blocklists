@@ -7,8 +7,8 @@
 | Type | 📚 | Description |
 |:---:|:---:|:---|
 |Bog| 📙 |Included in The Bog All-In-One (AIO) list only, consider using a whitelist|
-|Green| 📗 |Included in The Bog AIO list and all green lists, less likely to interfere with browsing|
-|Blue| 📘 |Included in The Bog AIO list and all blue lists, more likely to interfere with browsing|
+|Green| 📗 |Included in The Bog AIO list and green lists, less likely to interfere with browsing|
+|Blue| 📘 |Included in The Bog AIO list and blue lists, more likely to interfere with browsing|
 
 | Class | 📚 | Source |
 |:---:|:---:|:---|
