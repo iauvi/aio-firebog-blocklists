@@ -10,7 +10,7 @@
 
 | Type | 📚 | Description |
 |:---:|:---:|:---|
-|Bog| 📙 |The Bog All-In-One (AIO) list contains all the sources, consider using a whitelist|
+|Bog| 📙 |The Bog All-In-One (AIO) list contains all the sources, consider using an allowlist|
 |Green| 📗 |Includes green sources, included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
 |Blue| 📘 |Includes blue sources, included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
 |Green & Blue| 📔 |Includes green and blue sources, included in The Bog AIO list and green/blue AIO lists|
