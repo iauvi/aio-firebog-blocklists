@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-12T14:51:28.329Z
+! Last modified: 2023-11-13T14:11:30.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3381,7 +3381,6 @@
 ||ebayhomepage.com^
 ||ebcheckgreyhound.com^
 ||ebdr1.com^
-||ebdr3.com^
 ||ebuzzing.com^
 ||ebuzzingvideo.com^
 ||ecampaignstats.com^
@@ -4067,6 +4066,7 @@
 ||googlemqil.com^
 ||googlenewssubmit.com^
 ||googleoptimize.com^
+||googleplaystor.com^
 ||googleplaystoreapks.com^
 ||googleplsy.com^
 ||googleprank.com^
@@ -5276,7 +5276,7 @@
 ||telemetry.microsoft.com^
 ||uhf.microsoft.com^
 ||microsoftinline.com^
-||microsoftlonline.com^
+||www.microsoftlonline.com^
 ||microsoftnline.com^
 ||microsoftomline.com^
 ||microsoftonilne.com^
@@ -5548,7 +5548,7 @@
 ||ncuwtufam.com^
 ||adproxy.ndmdhs.com^
 ||ndroip.com^
-||neewgoogle.com^
+||www.neewgoogle.com^
 ||neglot.com^
 ||nehnutelnosti.com^
 ||nei--corp.com^
@@ -7618,7 +7618,6 @@
 ||ads.internal.unity3d.com^
 ||ads-game-configuration-master.ads.prd.ie.internal.unity3d.com^
 ||httpkafka.ads.prd.ie.internal.unity3d.com^
-||httpkafka-master.ads.prd.ie.internal.unity3d.com^
 ||publisher-event.ads.prd.ie.internal.unity3d.com^
 ||tracking.prd.mz.internal.unity3d.com^
 ||unityads.unity3d.com^
@@ -8155,7 +8154,6 @@
 ||x9blog.com^
 ||xad.com^
 ||xapxmaawcsk.com^
-||xenfra.com^
 ||xf1ogger.com^
 ||oascentral.xfinity.com^
 ||sdx.xfinity.com^
@@ -9221,7 +9219,6 @@
 ||essmile.info^
 ||estacionesnauticas.info^
 ||etain.info^
-||etarin.info^
 ||ethanfletcher.info^
 ||euro-news.info^
 ||eventsco.info^
@@ -9244,7 +9241,6 @@
 ||fatorfiction.info^
 ||fazu.info^
 ||fcsite.info^
-||ww11.fdating.info^
 ||ferdos.info^
 ||ferienhausinnorwegen.info^
 ||figvam.info^
@@ -9290,7 +9286,6 @@
 ||ww1.galiana.info^
 ||ww16.galiana.info^
 ||ww25.galiana.info^
-||ww38.galiana.info^
 ||www.galiana.info^
 ||galtuer.info^
 ||galzu.info^
@@ -9383,7 +9378,7 @@
 ||healthdiet.info^
 ||healthontrack.info^
 ||healthtips1.info^
-||healthy-weight-loss-plan.info^
+||www.healthy-weight-loss-plan.info^
 ||heart-work.info^
 ||heartbreakers.info^
 ||helphouse.info^
@@ -9427,7 +9422,7 @@
 ||ifullreview.info^
 ||igopro.info^
 ||ihtiyar.info^
-||ilfornello.info^
+||www.ilfornello.info^
 ||ilit.info^
 ||ilkoala.info^
 ||ilovepix.info^
@@ -9496,7 +9491,6 @@
 ||kabhebrew.info^
 ||kajak.info^
 ||kamikazi.info^
-||ww11.kampanjakoodi.info^
 ||kanshulou.info^
 ||karate2014.info^
 ||kariiresoudanjo.info^
@@ -9771,7 +9765,6 @@
 ||noraredenoma.info^
 ||noticias365.info^
 ||ww1.novaonautoadssword.info^
-||ww11.novaonautoadssword.info^
 ||www.novaonautoadssword.info^
 ||novax.info^
 ||novonovo.info^
@@ -10159,8 +10152,6 @@
 ||titangelrussia.info^
 ||tnggz.info^
 ||tnoa2019.info^
-||ww17.tnpsctamil.info^
-||www.tnpsctamil.info^
 ||tnttorent.info^
 ||tomboytools.info^
 ||tonion.info^
@@ -11179,7 +11170,6 @@
 ||funafterdark.net^
 ||funnymathgames.net^
 ||futbollive.net^
-||api.vanilla.futurecdn.net^
 ||fuzk.net^
 ||adserver.game-focus.net^
 ||game2girl.net^
@@ -11808,6 +11798,7 @@
 ||analytics.amiunique.org^
 ||android4play.org^
 ||androidsoundboard.org^
+||androidstock.org^
 ||anefrank.org^
 ||angletv.org^
 ||annaunivedu.org^
@@ -11862,6 +11853,7 @@
 ||azmoun.org^
 ||azmunakan.org^
 ||media.babelinks.org^
+||ww11.babelinks.org^
 ||app.backinstock.org^
 ||baillii.org^
 ||bajkidladzieci.org^
@@ -12561,7 +12553,6 @@
 ||mauiefcu.org^
 ||mazilla.org^
 ||mbgclub.org^
-||mbhsfcu.org^
 ||mc-thias.org^
 ||mclearn.org^
 ||mcstayfamily.org^
@@ -13343,8 +13334,6 @@
 ||www211.org^
 ||wwwamfirst.org^
 ||wwwbayareafasttrak.org^
-||ww25.wwwbelco.org^
-||ww31.wwwbelco.org^
 ||wwwdiabetes.org^
 ||wwweecu.org^
 ||wwwfreedompass.org^
@@ -15023,13 +15012,13 @@
 ||e.tapdb.net^
 ||e335udnv6drg78b7.com^
 ||eagllwin.com^
-||earlapspur.com^
 ||easycounter.com^
 ||easygoingasperitydisconnect.com^
 ||easyresearch.se^
 ||eavesdroppingsickleemotionally.com^
 ||ebayadvertising.com^
 ||ebaypartnernetwork.com^
+||ebdr3.com^
 ||ebuckler.com^
 ||ebz.io^
 ||eclkmpbn.com^
@@ -15107,7 +15096,6 @@
 ||enoughturtlecontrol.com^
 ||enrichyummy.com^
 ||envnxs.net^
-||eo62cocntx.com^
 ||eprize.com^
 ||equitydefault.com^
 ||err-up.vivoglobal.com^
@@ -15244,7 +15232,6 @@
 ||forcelessgreetingbust.com^
 ||forearmthrobjanuary.com^
 ||forensiq.com^
-||forgivenesspeltanalyse.com^
 ||forlumineoner.com^
 ||formalityunjustclown.com^
 ||formalyzer.com^
@@ -29035,7 +29022,6 @@
 ||vihub.ru^
 ||viiadr.com^
 ||villagerfertilityadversity.com^
-||vinegarfactorelevator.com^
 ||vintagerespectful.com^
 ||viqeo.tv^
 ||viral782.com^
