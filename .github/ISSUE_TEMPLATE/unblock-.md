@@ -1,7 +1,7 @@
 ---
 name: 'Unblock '
 about: 'Template to suggest domains to unblock '
-title: Domain(s) blocked by {list name}
+title: Domain(s) blocked by [List Name]
 labels: ''
 assignees: KnightmareVIIVIIXC
 
