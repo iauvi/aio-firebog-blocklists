@@ -1,4 +1,4 @@
-<h1 align="center">🚫 The Firebog All-In-One AdBlock Lists 🚫</h1>
+<h1 align="center">🧯 The Firebog All-In-One AdBlock Lists 🧯</h1>
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">🧯 The Lists 🧯</h2>
+<h2 align="center">☂ The Lists ☂</h2>
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-<h2 align="center">☂ The Tests ☂</h2>
+<h2 align="center">⚡ The Tests ⚡</h2>
 
 <div align="center">
 
