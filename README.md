@@ -55,15 +55,15 @@
 
 |📊|Allowlist Suggestions|
 |:---:|:---|
-| 🌍 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
-| 🌍 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
-| 🌍 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
+| ⚪ | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
+| ⚪ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
+| ⚪ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
 
 </div>
 
 ---
 
-<h2 align="center">🟡 The Tests 🟡</h2>
+<h2 align="center">👨🏽‍💻 The Tests 👨🏽‍💻</h2>
 
 <div align="center">
 
