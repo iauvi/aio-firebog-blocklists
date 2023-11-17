@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-17T02:23:45.487Z
+! Last modified: 2023-11-17T14:06:20.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -913,7 +913,6 @@
 ||s72f5a8e.irs03.com^
 ||s06aa680.irs03.com^
 ||c.bing.com^
-||c.msn.com^
 ||otf.msn.com^
 ||umeng.com^
 ||c.mse.360.cn^
@@ -5468,6 +5467,7 @@
 ||msgose.com^
 ||flextrack.msi-aci.com^
 ||msi-computer.com^
+||c.msn.com^
 ||confiant.msn.com^
 ||browser.events.data.msn.com^
 ||vortex.data.msn.com^
