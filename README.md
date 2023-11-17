@@ -63,16 +63,16 @@
 
 ---
 
-<h2 align="center">🟡 The Tests 🟡</h2>
+<h2 align="center">🔘 The Tests 🔘</h2>
 
 <div align="center">
 
 <strong><em>Tools to help identify what is blocked by the list of your choice</em></strong>
 
-| Testing Tools |
-|:---:|
-| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |
-| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |
-| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |
+| 📊 | Testing Tools | 📊 |
+|:---:|:---:|:---:|
+| 🟣 | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🔴 |
+| 🟠 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | 🟡 |
+| 🟢 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> | 🔵 |
 
 </div>
