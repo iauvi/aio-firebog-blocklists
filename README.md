@@ -63,7 +63,7 @@
 
 ---
 
-<h2 align="center">🔘 The Tests 🔘</h2>
+<h2 align="center">🌐 The Tests 🌐</h2>
 
 <div align="center">
 
