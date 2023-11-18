@@ -12,7 +12,7 @@
 |Green| 🟢 |Includes green sources, included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
 |Blue| 🔵 |Includes blue sources, included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
 |Green & Blue| 🟣 |Includes green and blue sources, included in The Bog AIO list and green/blue AIO lists|
-|Allowlist| ⚪ |List of domains allowed when denied by a blocklist|
+|Allowlist| 🟡 |List of domains allowed when denied by a blocklist|
 
 </div>
 
@@ -55,9 +55,9 @@
 
 |🧮|Allowlist Suggestions|
 |:---:|:---|
-| ⚪ | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
-| ⚪ | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
-| ⚪ | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
+| 🟡 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
+| 🟡 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
+| 🟡 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
 
 </div>
 
