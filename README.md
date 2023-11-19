@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<strong><em>Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock</a> for use with ad blockers<br>and DNS applications like<br>AdGuard, uBlock Origin, AdBlock,<br>AdBlock Plus, AdBlocker Ultimate,<br>AdGuard Home, Pi-Hole, and others</em></strong>
+<strong><em>Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock</a> for use with ad blockers<br>and DNS applications like<br>AdGuard, uBlock Origin,<br>AdBlock Plus, AdBlocker Ultimate,<br>AdGuard Home, Pi-Hole, and others</em></strong>
 
 |🧮|All-In-One Blocklists|
 |:---:|:---|
