@@ -8,7 +8,7 @@
 
 | Type | 🧮 | Description |
 |:---:|:---:|:---|
-|Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for more tailored control|
+|Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for better control|
 |Allowlist| 🟡 |A list of permitted domains in cases where they are restricted by a blocklist|
 |Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, minimizing the likelihood of browsing interference|
 |Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, increasing the likelihood of browsing interference|
