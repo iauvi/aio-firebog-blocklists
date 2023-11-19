@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists,designed to douse the flames by<br>preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
+<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by<br>preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
 
 ---
 
