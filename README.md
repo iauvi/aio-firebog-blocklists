@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
+<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists,designed to douse the flames by<br>preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
 
 ---
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<strong><em>Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock</a> for use with ad blockers<br>and DNS applications like<br>AdGuard, uBlock Origin,<br>AdBlock Plus, AdBlocker Ultimate,<br>AdGuard Home, Pi-Hole, and others</em></strong>
+<strong><em>Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">AdBlock</a> for use with<br>ad blockers and DNS applications like<br>AdGuard, uBlock Origin,<br>AdBlock Plus, AdBlocker Ultimate,<br>AdGuard Home, Pi-Hole, and others</em></strong>
 
 |🧮|All-In-One Blocklists|
 |:---:|:---|
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<strong><em>Utilities designed to identify what is being blocked by the selected list of your choice</em></strong>
+<strong><em>Utilities designed to identify what is being blocked by<br>the selected list of your choice</em></strong>
 
 | 🧮 | Blocklist Tests | 🧮 |
 |:---:|:---:|:---:|
