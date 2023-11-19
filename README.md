@@ -71,7 +71,7 @@
 
 | 🧮 | Blocklist Tests | 🧮 |
 |:---:|:---:|:---:|
-| [🔴](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/README.md#-the-firebog-all-in-one-adblock-lists-) | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🟠 |
+| [🔴](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/) | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🟠 |
 | 🟡 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | 🟢 |
 | 🔵 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> | 🟣 |
 
