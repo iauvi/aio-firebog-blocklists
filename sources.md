@@ -6,9 +6,9 @@
 
 | Type | 🧮 | Description |
 |:---:|:---:|:---|
-|Bog| 🟠 |Exclusive to The Bog All-In-One (AIO) list; consider implementing an allowlist for better control.|
-|Green| 🟢 |Listed in both The Bog AIO and green lists, it's less prone to disrupt your browsing experience.|
-|Blue| 🔵 |Listed in both The Bog AIO and blue lists, it's more prone to disrupt your browsing experience.|
+|Bog| 🟠 |Exclusive to The Bog All-In-One (AIO) list; consider implementing an allowlist for better control|
+|Green| 🟢 |Listed in both The Bog AIO and green lists, it's less prone to disrupt your browsing experience|
+|Blue| 🔵 |Listed in both The Bog AIO and blue lists, it's more prone to disrupt your browsing experience|
 
 | Class | 🧮 | Source |
 |:---:|:---:|:---|
