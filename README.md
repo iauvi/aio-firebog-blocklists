@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">⏺️ The Lists ⏺️</h2>
+<h2 align="center">🛑 The Lists 🛑</h2>
 
 <div align="center">
 
