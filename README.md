@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<strong><em>Utilities designed to identify what is being blocked by the selected list of your choice through ad blockers and DNS applications like AdBlock, AdBlock Plus, AdBlocker Ultimate, AdGuard, uBlock Origin, AdGuard Home, Pi-Hole, and others</em></strong>
+<strong><em>Utilities designed to identify what is being blocked by the selected list of your choice</em></strong>
 
 | 🧮 | Blocklist Tests | 🧮 |
 |:---:|:---:|:---:|
