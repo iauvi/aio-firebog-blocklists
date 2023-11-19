@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<strong><em>Utilities designed to identify what is being blocked by the selected list of your choice</em></strong>
+<strong><em>Utilize diverse tests to identify blocked or unblocked ad formats, gauging the effectiveness of ad blockers and DNS applications like AdBlock, AdBlock Plus, AdBlocker Ultimate, AdGuard, AdGuard Home, uBlock Origin, AdGuard Home, Pi-Hole, and others.</em></strong>
 
 | 🧮 | Links | 🧮 |
 |:---:|:---:|:---:|
