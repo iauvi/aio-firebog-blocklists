@@ -31,6 +31,12 @@
 | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">Blue All-In-One List</a> |
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">Green & Blue All-In-One List</a> |
 
+|🧮|Allowlist Suggestions|
+|:---:|:---|
+| 🟡 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
+| 🟡 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
+| 🟡 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
+
 |🧮|Light All-In-One Blocklists|
 |:---:|:---|
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
@@ -52,12 +58,6 @@
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">Advertising AIO List</a> |
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Tracking AIO List</a> |
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Malicious AIO List</a> |
-
-|🧮|Allowlist Suggestions|
-|:---:|:---|
-| 🟡 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
-| 🟡 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
-| 🟡 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
 
 </div>
 
