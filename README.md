@@ -67,9 +67,9 @@
 
 <div align="center">
 
-<strong><em>Utilize diverse tests to identify blocked or unblocked ad formats, gauging the effectiveness of ad blockers and DNS applications like AdBlock, AdBlock Plus, AdBlocker Ultimate, AdGuard, AdGuard Home, uBlock Origin, AdGuard Home, Pi-Hole, and others.</em></strong>
+<strong><em>Utilities designed to identify what is being blocked by the selected list of your choice through ad blockers and DNS applications like AdBlock, AdBlock Plus, AdBlocker Ultimate, AdGuard, uBlock Origin, AdGuard Home, Pi-Hole, and others</em></strong>
 
-| 🧮 | Links | 🧮 |
+| 🧮 | Blocklist Tests | 🧮 |
 |:---:|:---:|:---:|
 | 🔴 | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🟠 |
 | 🟡 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | 🟢 |
