@@ -2,17 +2,17 @@
 
 <div align="center">
   
-<strong><em>A collection of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) compiled into a variety of DNS blocklists that will extinguish the fires by<br>blocking advertisements, stopping trackers, and guarding against malicious content</em></strong>
+<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by<br>preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
 
 ---
 
 | Type | 🧮 | Description |
 |:---:|:---:|:---|
-|Bog| 🟠 |The Bog All-In-One (AIO) list contains all the sources, consider using an allowlist|
-|Allowlist| 🟡 |List of domains allowed when denied by a blocklist|
-|Green| 🟢 |Includes green sources, included in The Bog AIO list and green AIO list, less likely to interfere with browsing|
-|Blue| 🔵 |Includes blue sources, included in The Bog AIO list and blue AIO list, more likely to interfere with browsing|
-|Green & Blue| 🟣 |Includes green and blue sources, included in The Bog AIO list and green/blue AIO lists|
+|Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for more tailored control|
+|Allowlist| 🟡 |A list of permitted domains in cases where they are restricted by a blocklist|
+|Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, minimizing the likelihood of browsing interference|
+|Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, increasing the likelihood of browsing interference|
+|Green & Blue| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
 
 </div>
 
