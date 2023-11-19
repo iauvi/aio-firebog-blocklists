@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<strong><em>All sources are found at <a href="https://firebog.net/" title="">The Firebog</a><br>created by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
+<strong><em>All sources can be located on <a href="https://firebog.net/" title="">The Firebog</a><br>curated by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
 
 | Type | 🧮 | Description |
 |:---:|:---:|:---|
