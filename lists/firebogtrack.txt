@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-23T14:45:09.076Z
+! Last modified: 2023-11-24T02:07:48.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4307,6 +4307,7 @@
 ||dl.episerver.net^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-beacons.cbsivideo.com^
+||doppler-client-events.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -34446,7 +34447,6 @@
 ||android-stat.acestream.net^
 ||androidlog.ws.pho.to^
 ||anglezinccompassionate.com^
-||animosityknockedgorgeous.com^
 ||anm.co.uk^
 ||annesuspense.com^
 ||anomalousporch.com^
@@ -34575,7 +34575,6 @@
 ||backstory.ebay.nl^
 ||backstory.ebay.ph^
 ||backstory.ebay.pl^
-||badshades.com^
 ||badsips.com^
 ||badskates.com^
 ||bailifftent.com^
