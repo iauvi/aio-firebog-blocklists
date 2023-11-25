@@ -3,7 +3,7 @@
 ! Description: All the tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-11-25T02:37:57.913Z
+! Last modified: 2023-11-25T14:17:07.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9862,7 +9862,6 @@
 ||smetrics.robeco.com^
 ||sanalytics.verizon.com^
 ||smetrics.huntington.com^
-||smetrics.aem.playstation.com^
 ||smetrics.amplifon.com^
 ||smetrics.premierinn.com^
 ||smetrics.cnn.com^
@@ -47676,6 +47675,7 @@
 ||smetrics.accaglobal.com^
 ||smetrics.active.com^
 ||smetrics.activecommunities.com^
+||smetrics.aem.playstation.com^
 ||smetrics.aetnamedicare.com^
 ||smetrics.agillink.com^
 ||smetrics.aida.de^
