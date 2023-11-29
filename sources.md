@@ -1,8 +1,6 @@
-<h2 align="center">🎖️ The Sources 🎖️</h2>
+<h2 align="left">🎖️ The Sources 🎖️</h2>
 
-<div align="center">
-
-<strong><em>All sources are on <a href="https://firebog.net/" title="">The Firebog</a><br>curated by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
+<strong><em>All sources are on <a href="https://firebog.net/" title="">The Firebog</a> curated by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a></em></strong>
 
 | Type | ⚫ | Description |
 |:---:|:---:|:---|
@@ -62,5 +60,3 @@
 | Malicious | 🔵 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
 | Other | 🟢 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | Other | 🔵 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-
-</div>
