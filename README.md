@@ -1,8 +1,6 @@
-<h1 align="center">⭕ The Firebog All-In-One AdBlock Lists ⭕</h1>
+<h1 align="left">⭕ The Firebog All-In-One AdBlock Lists ⭕</h1>
 
-<div align="center">
-  
-<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by<br>preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
+<strong><em>An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing ads, halting trackers, and safeguarding against malicious content</em></strong>
 
 ---
 
@@ -18,11 +16,15 @@
 
 ---
 
-<h2 align="center">🔴 The Lists 🔴</h2>
+<h2 align="left">🔴 The Lists 🔴</h2>
 
-<div align="center">
-
-<strong><em>Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with<br>ad blockers and DNS applications like<br>AdGuard, uBlock Origin,<br>AdBlock Plus, AdBlocker Ultimate,<br>AdGuard Home, Pi-Hole, and others</em></strong>
+<strong><em>Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications like: 
++ AdGuard
++ uBlock Origin
++ AdBlock Plus
++ AdBlocker Ultimate
++ AdGuard Home
++ Pi-Hole, and others</em></strong>
 
 |⚫|All-In-One Blocklists|
 |:---:|:---|
@@ -59,20 +61,14 @@
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Tracking AIO List</a> |
 | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Malicious AIO List</a> |
 
-</div>
-
 ---
 
-<h2 align="center">🇴 The Tests 🇴</h2>
+<h2 align="left">🇴 The Tests 🇴</h2>
 
-<div align="center">
-
-<strong><em>Utilities designed to identify what is being blocked by<br>the selected list of your choice</em></strong>
+<strong><em>Utilities designed to identify what is being blocked by the selected list of your choice</em></strong>
 
 | ⚫ | Blocklist Tests | ⚫ |
 |:---:|:---:|:---:|
 | 🔴 | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🟠 |
 | 🟡 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | 🟢 |
 | 🔵 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> | 🟣 |
-
-</div>
