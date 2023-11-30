@@ -1,4 +1,4 @@
-##🎖️ The Sources 🎖️
+## 🎖️ The Sources 🎖️
 
 ***All sources are on <a href="https://firebog.net/" title="">The Firebog</a> curated by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
