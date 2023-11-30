@@ -12,8 +12,6 @@
 |Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 |Green & Blue| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
 
-</div>
-
 ---
 
 <h2 align="left">🔴 The Lists 🔴</h2>
