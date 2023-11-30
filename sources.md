@@ -17,7 +17,7 @@
 | Suspicious | 🔵 | <a href="https://someonewhocares.org/hosts/zero/hosts" title="">Dan Pollock's List</a> |
 | Suspicious | 🔵 | <a href="https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts" title="">VeleSila yhosts</a> |
 | Suspicious | 🔵 | <a href="https://winhelp2002.mvps.org/hosts.txt" title="">MVPS Hosts</a> |
-| Suspicious | 🔵 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts" title="">neoFelhz's neoHosts</a> |
+| Suspicious | 🔵 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt" title="">neoFelhz's neoHosts</a> |
 | Suspicious | 🔵 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | Suspicious | 🔵 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
 | Suspicious | 🟠 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
