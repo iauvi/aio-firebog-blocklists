@@ -20,7 +20,6 @@
 + ***AdGuard***
 + ***uBlock Origin***
 + ***AdBlock Plus***
-+ ***AdBlocker Ultimate***
 + ***AdGuard Home***
 + ***Pi-Hole, and others***
 
