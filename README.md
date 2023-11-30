@@ -1,6 +1,6 @@
 # ⭕ The Firebog All-In-One AdBlock Lists ⭕
 
-***An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing ads, halting trackers, and safeguarding against malicious content***
+> ***An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing ads, halting trackers, and safeguarding against malicious content***
 
 ---
 
@@ -16,12 +16,12 @@
 
 ## 🔴 The Lists 🔴
 
-***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications:***
-+ ***AdGuard***
-+ ***uBlock Origin***
-+ ***AdBlock Plus***
-+ ***AdGuard Home***
-+ ***Pi-Hole, and others***
+> ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications:***
+> + ***AdGuard***
+> + ***uBlock Origin***
+> + ***AdBlock Plus***
+> + ***AdGuard Home***
+> + ***Pi-Hole, and others***
 
 |⚫|All-In-One Blocklists|
 |:---:|:---|
@@ -62,7 +62,7 @@
 
 ## 🇴 The Tests 🇴
 
-***Utilities designed to identify what is being blocked by the selected list of your choice***
+> ***Utilities designed to identify what is being blocked by the selected list of your choice***
 
 | ⚫ | Blocklist Tests | ⚫ |
 |:---:|:---:|:---:|
