@@ -17,14 +17,22 @@
 ## 🔴 The Lists 🔴
 
 > ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications:***
-> 1. Ad Blockers
-> + ***AdGuard***
-> + ***uBlock Origin***
-> + ***AdBlock Plus***
-> 2. DNS Applications
-> + ***AdGuard Home***
-> + ***Pi-Hole***
-> + ***pfSense***
+> 
+> **Ad Blocker Examples**
+> 
+>> ***AdGuard***
+>> 
+>> ***uBlock Origin***
+>> 
+>> ***AdBlock Plus***
+>
+> **DNS Application Examples**
+> 
+>> ***AdGuard Home***
+>> 
+>> ***Pi-Hole***
+>> 
+>> ***pfSense***
 
 |⚫|All-In-One Blocklists|
 |:---:|:---|
