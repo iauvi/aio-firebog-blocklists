@@ -17,7 +17,7 @@
 ## 🔴 The Lists 🔴
 
 > ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications:***
-> 1. Adblockers
+> 1. Ad Blockers
 > + ***AdGuard***
 > + ***uBlock Origin***
 > + ***AdBlock Plus***
