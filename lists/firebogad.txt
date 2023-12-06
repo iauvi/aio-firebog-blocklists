@@ -3,7 +3,7 @@
 ! Description: All the advertising sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-12-05T14:31:06.928Z
+! Last modified: 2023-12-06T03:52:03.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -46092,6 +46092,7 @@
 ||assistads.net^
 ||llxads.com^
 ||preview-collector.scopely.io^
+||adserve.tv^
 ||adi.vcmedia.vn^
 ||admicro4.vcmedia.vn^
 ||admicro5.vcmedia.vn^
@@ -46142,9 +46143,7 @@
 ||za.zingmp3.vn^
 ||zlog.zingmp3.vn^
 ||log.zingnews.vn^
-||za.zingnews.vn^
-||log.zingnews.com.vn^
-||za.zingnews.com.vn^
+||log.znews.vn^
 ||ads-platform.zalo.me^
 ||ads.platform.zalo.me^
 ||button-call.zalo.me^
@@ -46277,9 +46276,20 @@
 ||kabbmedia.com^
 ||testcentre.vn^
 ||piads.vn^
-||haraloyalty.com^
-||harafunnel.com^
-||haraads.com^
+||app.harafunnel.com^
+||app.haraloyalty.com^
+||app.harasocial.com^
+||apps.haraads.com^
+||assets.harafunnel.com^
+||combo-omni.haravan.com^
+||socialloginplus-apps.haravan.com^
+||facebookinbox-omni-onapp.haravan.com^
+||promotion.haravan.com^
+||onapp.haravan.com^
+||facebook-ads.hara.vn^
+||google-ads.hara.vn^
+||stats.hara.vn^
+||tiktok-ads.hara.vn^
 ||starseed.fr^
 ||slimads.vn^
 ||t.sieu-viet.com^
@@ -46482,11 +46492,6 @@
 ||me.zedcdn.me^
 ||mme.zedcdn.me^
 ||aanetwork.vn^
-||combo-omni.haravan.com^
-||socialloginplus-apps.haravan.com^
-||facebookinbox-omni-onapp.haravan.com^
-||promotion.haravan.com^
-||onapp.haravan.com^
 ||ads.ultraviewer.net^
 ||qc.ultraviewer.net^
 ||vipads.cc^
@@ -49490,6 +49495,7 @@
 ||k6r.net^
 ||kidsghibli.com^
 ||kitbit.net^
+||knotch-cdn.com^
 ||largeer.com^
 ||lcs.loginfra.com^
 ||lem-computers.net^
