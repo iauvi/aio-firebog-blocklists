@@ -3,7 +3,7 @@
 ! Description: All the blue sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-12-07T13:27:54.298Z
+! Last modified: 2023-12-07T21:03:00.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -20309,6 +20309,11 @@
 ||click.mybest.app^
 ||usefomo.com^
 ||fomo.com^
+||click.api.drift.com^
+||event.api.drift.com^
+||customer.api.drift.com^
+||enrichment.api.drift.com^
+||file2.api.drift.com^
 ||promo.amplitude.com^
 ||madkudu.com^
 ||track.customer.io^
@@ -27280,6 +27285,8 @@
 ||dregsr.com^
 ||dresupgirll.com^
 ||drfuhman.com^
+||metrics.api.drift.com^
+||targeting.api.drift.com^
 ||drink-korova.com^
 ||driodsans.com^
 ||driversddirect.com^
@@ -38483,7 +38490,6 @@
 ||draggedgram.com^
 ||drawingwheels.com^
 ||dressipi.com^
-||drift.com^
 ||driftt.com^
 ||driv-analytics.com^
 ||dropkickmedia.com^

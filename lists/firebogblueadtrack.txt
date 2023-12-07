@@ -3,7 +3,7 @@
 ! Description: All the blue advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-12-07T13:30:11.627Z
+! Last modified: 2023-12-07T21:05:16.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3374,6 +3374,9 @@
 ||dregsr.com^
 ||dresupgirll.com^
 ||drfuhman.com^
+||event.api.drift.com^
+||metrics.api.drift.com^
+||targeting.api.drift.com^
 ||drink-korova.com^
 ||driodsans.com^
 ||driversddirect.com^
@@ -15023,7 +15026,6 @@
 ||draggedgram.com^
 ||drawingwheels.com^
 ||dressipi.com^
-||drift.com^
 ||driftt.com^
 ||driv-analytics.com^
 ||dropkickmedia.com^

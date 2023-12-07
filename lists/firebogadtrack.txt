@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-12-07T13:30:39.192Z
+! Last modified: 2023-12-07T21:05:44.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35435,6 +35435,7 @@
 ||especifice.info^
 ||es.unbounce.com^
 ||etrzz.qlvfyxtzjh5.bapb.gdn^
+||event.api.drift.com^
 ||event.headline.uodoo.com^
 ||event.ksoft.com^
 ||event.ksosoft.com^
@@ -38402,6 +38403,7 @@
 ||gm02b.opentracker.net^
 ||p0.ipstatp.com^
 ||prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com^
+||metrics.api.drift.com^
 ||analytics.mouthshut.com^
 ||analytics.livestream.com^
 ||kanmobi.net^
@@ -42975,6 +42977,7 @@
 ||tapfiliate.com^
 ||tapinfluence.com^
 ||target.microsoft.com^
+||targeting.api.drift.com^
 ||targeting.voxus.tv^
 ||tealeaf.com^
 ||tealium.com^
@@ -91118,7 +91121,6 @@
 ||dovetale.com^
 ||dowjoneson.com^
 ||dressipi.com^
-||drift.com^
 ||driftt.com^
 ||driv-analytics.com^
 ||dropkickmedia.com^
