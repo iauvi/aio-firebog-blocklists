@@ -3,7 +3,7 @@
 ! Description: All the advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-12-10T13:19:31.737Z
+! Last modified: 2023-12-11T01:19:39.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -43232,6 +43232,7 @@
 ||saber.srvcs.tumblr.com^
 ||ads-verify.yap.yahoo.com^
 ||adtech.yahooinc.com^
+||jac.yahoosandbox.com^
 ||b90.yahoo.co.jp^
 ||b94.yahoo.co.jp^
 ||dsb.yahoo.co.jp^
@@ -44212,6 +44213,8 @@
 ||llxads.com^
 ||preview-collector.scopely.io^
 ||adserve.tv^
+||stats.shopify.com^
+||v.shopify.com^
 ||novanet.vn^
 ||novaonads.com^
 ||novaon.vn^
@@ -47695,6 +47698,7 @@
 ||rta2.metro.co.uk^
 ||rtb123.com^
 ||rum.uptime.com^
+||rumt-sg.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
 ||s3-analytics-events.easybrain.com^
@@ -59494,7 +59498,6 @@
 ||rum.marquardmedia.hu^
 ||rum.perfops.net^
 ||rumstat.cdnvideo.ru^
-||rumt-sg.com^
 ||rup5.destinia.ru^
 ||ru-ru.siemensplmevents.com^
 ||ruvdkw.turk.net^
@@ -63332,7 +63335,6 @@
 ||stats.shareup.app^
 ||stats.shepherd.com^
 ||stats.shiftx.com^
-||stats.shopify.com^
 ||stats.sim.de^
 ||stats.simplytel.de^
 ||stats.sixseven.at^
@@ -66497,7 +66499,6 @@
 ||vrvjwr.mobelaris.com^
 ||vry9.destinia.com^
 ||vsfius.aranzulla.it^
-||v.shopify.com^
 ||vsqyaz.sweetwater.com^
 ||vs.target.com^
 ||vstat.borderlessbd.com^
@@ -67198,6 +67199,7 @@
 ||www.scienceaaas.org^
 ||www.seatac15.com^
 ||www.secondmicrosite.com^
+||www.se-core-pipe.com^
 ||www.service.just.nl^
 ||www.skye6oner.com^
 ||www.sl-ct5.com^
@@ -85596,7 +85598,6 @@
 ||ssp.yahoo.com^
 ||ybp.yahoo.com^
 ||yahoo--corp.com^
-||jac.yahoosandbox.com^
 ||yamaha-disklavier.com^
 ||yamails.com^
 ||yanaiarfi.com^
@@ -103026,7 +103027,6 @@
 ||scramblerun.com^
 ||sctclick2.com^
 ||sdsjweb.com^
-||se-core-pipe.com^
 ||se05.biz^
 ||se07.biz^
 ||search-log-1.tapatalk.com^

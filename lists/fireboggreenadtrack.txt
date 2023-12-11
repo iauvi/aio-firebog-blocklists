@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2023-12-10T13:18:27.055Z
+! Last modified: 2023-12-11T01:18:33.202Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -45067,6 +45067,7 @@
 ||c2shb.ssp.yahoo.com^
 ||ads-verify.yap.yahoo.com^
 ||adtech.yahooinc.com^
+||jac.yahoosandbox.com^
 ||b90.yahoo.co.jp^
 ||b94.yahoo.co.jp^
 ||dsb.yahoo.co.jp^
@@ -46100,6 +46101,8 @@
 ||llxads.com^
 ||preview-collector.scopely.io^
 ||adserve.tv^
+||stats.shopify.com^
+||v.shopify.com^
 ||adi.vcmedia.vn^
 ||admicro4.vcmedia.vn^
 ||admicro5.vcmedia.vn^
@@ -49469,6 +49472,7 @@
 ||event.stat.wedobest.com.cn^
 ||event.wedobest.com.cn^
 ||events.jora.com^
+||events.newsroom.bi^
 ||events.shoplytics.com^
 ||everestjs.net^
 ||fastcounter.de^
@@ -49614,6 +49618,7 @@
 ||rta2.metro.co.uk^
 ||rtb123.com^
 ||rum.uptime.com^
+||rumt-sg.com^
 ||s.infogram.com^
 ||s.media-imdb.com^
 ||s.yjtag.jp^
@@ -54995,7 +55000,6 @@
 ||events.mikescerealshack.co^
 ||events.missena.io^
 ||events.mywd.com^
-||events.newsroom.bi^
 ||events.nuance.com^
 ||events.ocdn.eu^
 ||events.onet.pl^
@@ -60738,7 +60742,6 @@
 ||rum.marquardmedia.hu^
 ||rum.perfops.net^
 ||rumstat.cdnvideo.ru^
-||rumt-sg.com^
 ||rup5.destinia.ru^
 ||ru-ru.siemensplmevents.com^
 ||ruvdkw.turk.net^
@@ -64605,7 +64608,6 @@
 ||stats.shareup.app^
 ||stats.shepherd.com^
 ||stats.shiftx.com^
-||stats.shopify.com^
 ||stats.sim.de^
 ||stats.simplytel.de^
 ||stats.sirdata.com^
@@ -67807,7 +67809,6 @@
 ||vrvjwr.mobelaris.com^
 ||vry9.destinia.com^
 ||vsfius.aranzulla.it^
-||v.shopify.com^
 ||vsqyaz.sweetwater.com^
 ||vs.target.com^
 ||vstat.borderlessbd.com^
