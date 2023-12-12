@@ -1,6 +1,6 @@
 # ⭕ The Firebog All-In-One AdBlock Lists ⭕
 
-> ***An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing ads, halting trackers, and safeguarding against malicious content***
+> ***An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing advertisements, halting trackers, and safeguarding against malicious content***
 
 ---
 
