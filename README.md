@@ -14,7 +14,7 @@
 
 ---
 
-## 🔴 The Lists 🔴
+# 🔴 The Lists 🔴
 
 > ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications:***
 > 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🚫 The Tests 🚫
+# 🚫 The Tests 🚫
 
 > ***Utilities designed to identify what is being blocked by the selected list of your choice***
 
