@@ -100,7 +100,7 @@
 
 ---
 
-# 🔴 The Hosts Lists 🔴
+# 🔴 The Hosts File Lists 🔴
 
 > ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">a hosts-style syntax</a>***
 
