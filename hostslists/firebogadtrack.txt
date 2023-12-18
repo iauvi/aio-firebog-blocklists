@@ -3,10 +3,25 @@
 # Description: All the advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2023-12-18T01:31:07.188Z
+# Last modified: 2023-12-18T13:06:02.156Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+# Begin List
 0.0.0.0 analytics.163.com
 0.0.0.0 crash.163.com
 0.0.0.0 iad.g.163.com
