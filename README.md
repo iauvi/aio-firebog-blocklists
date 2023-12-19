@@ -5,7 +5,7 @@
 ---
 
 | Type | ⚫ | Description |
-|:---:|:---:|:---|
+|---:|:---:|:---|
 |Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for better control|
 |Blue & Green| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
 |Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
