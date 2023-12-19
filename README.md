@@ -1,8 +1,14 @@
-# ⭕ The Firebog All-In-One AdBlock Lists ⭕
+<h1 align="center"> ⭕ The Firebog All-In-One AdBlock Lists ⭕ </h1>
 
-> ***An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing advertisements, halting trackers, and safeguarding against malicious content***
+<div align="center">
+
+***An amalgamation of [sources](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/sources.md) crafted into diverse DNS blocklists, designed to douse the flames by preventing advertisements, halting trackers, and safeguarding against malicious content***
+
+</div>
 
 ---
+
+<div align="center">
 
 | Type | ⚪ | Description |
 |---:|:---:|:---|
@@ -11,11 +17,15 @@
 |Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
 |Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 
+</div>
+
 ---
 
-# 🔴 The Lists 🔴
+<h1 align="center"> 🔴 The Lists 🔴 </h1>
 
-> ***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with ad blockers, DNS applications, and hosts files*** 
+<div align="center">
+  
+***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with ad blockers, DNS applications, and hosts files*** 
 
 | Blue & Green Lists | ⚪ | AdBlock | Domain | Hosts | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
@@ -43,14 +53,20 @@
 | Advertising-Tracking | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrack.txt" title="">Link</a> | Contains the green advertising and tracking sources |
 | Advertising-Tracking-Malicious | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrackmal.txt" title="">Link</a> | Contains the green advertising, tracking, and malicious sources |
 
+</div>
+
 ---
 
-# 🚫 The Tests 🚫
+<h1 align="center"> 🚫 The Tests 🚫 </h1>
 
-> ***Utilities designed to identify what is being blocked by the selected list of your choice***
+<div align="center">
 
+***Utilities designed to identify what is being blocked by the selected list of your choice***
+  
 | ⚪ | Blocklist Tests | ⚪ |
 |:---:|:---:|:---:|
 | 🔴 | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🟠 |
 | 🟡 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | 🟢 |
 | 🔵 | <a href="https://canyoublockit.com/" title="">Can You Block It</a> | 🟣 |
+
+</div>
