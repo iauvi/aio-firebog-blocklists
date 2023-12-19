@@ -21,7 +21,7 @@
 
 <div align="center">
   
-***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with ad blockers, DNS applications, and hosts files*** 
+***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with<br>ad blockers, DNS applications, and hosts files*** 
 
 | Blue & Green Lists | ⚪ | AdBlock | Domain | Hosts | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
