@@ -7,133 +7,38 @@
 | Type | ⚫ | Description |
 |:---:|:---:|:---|
 |Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for better control|
-|Allowlist| 🟡 |A list of permitted domains in cases where they are restricted by a blocklist|
 |Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
 |Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 |Green & Blue| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
 
 ---
 
-# 🔴 The AdBlock Lists 🔴
+# 🔴 The Lists 🔴
 
-> ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">the style of AdBlock</a> for use with ad blockers and DNS applications:***
-> 
->> **Ad Blocker Examples**
->> + ***AdGuard (Windows, Android, Browser Extension)***
->> + ***uBlock Origin***
->> + ***AdBlock Plus***
->>   
->> **DNS Application Examples**
->> + ***AdGuard Home***
->> + ***Pi-Hole***
->> + ***pfSense***
+> ***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with ad blockers, DNS applications, and hosts files*** 
 
-|⚫|All-In-One Blocklists|
-|:---:|:---|
-| 🟠 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">The Bog All-In-One List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">Green All-In-One List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">Blue All-In-One List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">Green & Blue All-In-One List</a> |
-
-|⚫|Allowlist Suggestions|
-|:---:|:---|
-| 🟡 | <a href="https://github.com/anudeepND/whitelist" title="">anudeepND's</a> |
-| 🟡 | <a href="https://github.com/hagezi/dns-blocklists/blob/main/adblock/whitelist.txt" title="">hagezi's</a> |
-| 🟡 | <a href="https://github.com/hl2guide/AdGuard-Home-Whitelist" title="">hl2guide's</a> |
-
-|⚫|Light All-In-One Blocklists|
-|:---:|:---|
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">Advertising-Tracking-Malicious AIO List</a> |
-
-|⚫|Single Type Blocklists|
-|:---:|:---|
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt" title="">Advertising-Tracking-Malicious Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">Advertising-Tracking-Malicious Green List</a> |
-
-|⚫|Single Class Blocklists|
-|:---:|:---|
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">Suspicious AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">Advertising AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Tracking AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Malicious AIO List</a> |
+| Class | Type | AdBlock | Domain | Hosts |
+|:---:|:---:|:---:|:---:|:---:|
+| The Bog All-In-One | 🟠 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">Link</a> |
+| Green & Blue All-In-One | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">Link</a> |
+| Suspicious-Malicious AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogsusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsusmal.txt" title="">Link</a> |
+| Advertising-Tracking AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogadtrack.txt" title="">Link</a> |
+| Advertising-Tracking-Malicious AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogadtrackmal.txt" title="">Link</a> |
+| Blue All-In-One | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogblue.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogblue.txt" title="">Link</a> |
+| Suspicious-Malicious Blue | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogbluesusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesusmal.txt" title="">Link</a> |
+| Advertising-Tracking Blue | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrack.txt" title="">Link</a> |
+| Advertising-Tracking-Malicious Blue | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrackmal.txt" title="">Link</a> |
+| Green All-In-One | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofireboggreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt" title="">Link</a> |
+| Suspicious-Malicious Green | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreensusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreensusmal.txt" title="">Link</a> |
+| Advertising-Tracking Green | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrack.txt" title="">Link</a> |
+| Advertising-Tracking-Malicious Green | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrackmal.txt" title="">Link</a> |
+| Suspicious AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogsus.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsus.txt" title="">Link</a> |
+| Advertising AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogad.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogad.txt" title="">Link</a> |
+| Tracking AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogtrack.txt" title="">Link</a> |
+| Malicious AIO | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogmal.txt" title="">Link</a> |
 
 ---
 
-# 🔴 The Domain Lists 🔴
-
-> ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">a domain-only syntax</a>***
-
-|⚫|All-In-One Blocklists|
-|:---:|:---|
-| 🟠 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">The Bog All-In-One List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofireboggreen.txt" title="">Green All-In-One List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogblue.txt" title="">Blue All-In-One List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">Green & Blue All-In-One List</a> |
-
-|⚫|Light All-In-One Blocklists|
-|:---:|:---|
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogadtrackmal.txt" title="">Advertising-Tracking-Malicious AIO List</a> |
-
-|⚫|Single Type Blocklists|
-|:---:|:---|
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrackmal.txt" title="">Advertising-Tracking-Malicious Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrackmal.txt" title="">Advertising-Tracking-Malicious Green List</a> |
-
-|⚫|Single Class Blocklists|
-|:---:|:---|
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogsus.txt" title="">Suspicious AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogad.txt" title="">Advertising AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogtrack.txt" title="">Tracking AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogmal.txt" title="">Malicious AIO List</a> |
-
----
-
-# 🔴 The Hosts File Lists 🔴
-
-> ***Blocklists designed in <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">a hosts-style syntax</a>***
-
-|⚫|All-In-One Blocklists|
-|:---:|:---|
-| 🟠 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">The Bog All-In-One List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt" title="">Green All-In-One List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogblue.txt" title="">Blue All-In-One List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">Green & Blue All-In-One List</a> |
-
-|⚫|Light All-In-One Blocklists|
-|:---:|:---|
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsusmal.txt" title="">Suspicious-Malicious AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogadtrack.txt" title="">Advertising-Tracking AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogadtrackmal.txt" title="">Advertising-Tracking-Malicious AIO List</a> |
-
-|⚫|Single Type Blocklists|
-|:---:|:---|
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesusmal.txt" title="">Suspicious-Malicious Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreensusmal.txt" title="">Suspicious-Malicious Green List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrack.txt" title="">Advertising-Tracking Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrack.txt" title="">Advertising-Tracking Green List</a> |
-| 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrackmal.txt" title="">Advertising-Tracking-Malicious Blue List</a> |
-| 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrackmal.txt" title="">Advertising-Tracking-Malicious Green List</a> |
-
-|⚫|Single Class Blocklists|
-|:---:|:---|
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsus.txt" title="">Suspicious AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogad.txt" title="">Advertising AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogtrack.txt" title="">Tracking AIO List</a> |
-| 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogmal.txt" title="">Malicious AIO List</a> |
-
----
 # 🚫 The Tests 🚫
 
 > ***Utilities designed to identify what is being blocked by the selected list of your choice***
