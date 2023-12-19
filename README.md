@@ -4,7 +4,7 @@
 
 ---
 
-| Type | ⚫ | Description |
+| Type | ⚪ | Description |
 |---:|:---:|:---|
 |Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for better control|
 |Blue & Green| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
@@ -17,7 +17,7 @@
 
 > ***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with ad blockers, DNS applications, and hosts files*** 
 
-| Blue & Green Lists | ⚫ | AdBlock | Domain | Hosts | Description |
+| Blue & Green Lists | ⚪ | AdBlock | Domain | Hosts | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
 | Bog All-In-One | 🟠 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">Link</a> | Contains all of the sources |
 | All-In-One | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">Link</a> | Contains all of the blue and green sources |
@@ -36,7 +36,7 @@
 | Advertising-Tracking | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrack.txt" title="">Link</a> | Contains the blue advertising and tracking sources |
 | Advertising-Tracking-Malicious | 🔵 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrackmal.txt" title="">Link</a> | Contains the blue advertising, tracking, and malicious sources |
 
-| Green Lists | ⚫ | AdBlock | Domain | Hosts | Description |
+| Green Lists | ⚪ | AdBlock | Domain | Hosts | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
 | All-In-One | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofireboggreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt" title="">Link</a> | Contains all of the green sources |
 | Suspicious-Malicious | 🟢 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreensusmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreensusmal.txt" title="">Link</a> | Contains the green suspicious and malicious sources |
@@ -49,7 +49,7 @@
 
 > ***Utilities designed to identify what is being blocked by the selected list of your choice***
 
-| ⚫ | Blocklist Tests | ⚫ |
+| ⚪ | Blocklist Tests | ⚪ |
 |:---:|:---:|:---:|
 | 🔴 | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | 🟠 |
 | 🟡 | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | 🟢 |
