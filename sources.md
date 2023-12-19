@@ -3,7 +3,7 @@
 ***All sources are on <a href="https://firebog.net/" title="">The Firebog</a> curated by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
 | Type | ⚫ | Description |
-|:---:|:---:|:---|
+|---:|:---:|:---|
 |Bog| 🟠 |Exclusive to The Bog All-In-One (AIO) list; consider implementing an allowlist for better control|
 |Green| 🟢 |Featured in both The Bog AIO and green lists, poses a lower risk of disrupting your browsing experience|
 |Blue| 🔵 |Featured in both The Bog AIO and blue lists, poses a higher risk of disrupting your browsing experience|
