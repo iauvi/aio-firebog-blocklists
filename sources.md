@@ -9,7 +9,7 @@
 |Blue| 🔵 |Featured in both The Bog AIO and blue lists, poses a higher risk of disrupting your browsing experience|
 
 | Class | ⚫ | Source |
-|:---:|:---:|:---|
+|---:|:---:|:---|
 | Suspicious | 🟢 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | Suspicious | 🟢 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
 | Suspicious | 🟢 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
