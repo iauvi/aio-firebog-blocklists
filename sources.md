@@ -59,10 +59,9 @@
 | Malicious | 🟢 | <a href="https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt" title="">Spam404</a> |
 | Malicious | 🟢 | <a href="https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts" title="">AssoEchap's Stalkerware Indicators</a> |
 | Malicious | 🟢 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malware URL blocklist</a> |
-
-</div>
-
 | Malicious | 🔵 | <a href="https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt" title="">Curbengh's Phishing filter</a> |
 | Malicious | 🔵 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
 | Other | 🟢 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | Other | 🔵 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
+
+</div>
