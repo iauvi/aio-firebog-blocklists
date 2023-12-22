@@ -4,13 +4,6 @@
 
 ***An amalgamation of sources crafted into diverse DNS blocklists, designed to douse the flames by<br>preventing advertisements, halting trackers, and safeguarding against malicious content***
 
-| Type | ⚪ | Description |
-|---:|:---:|:---|
-|Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for better control|
-|Blue & Green| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
-|Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
-|Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
-
 </div>
 
 ---
@@ -90,6 +83,13 @@
 <div align="center">
   
 ***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with<br>ad blockers, DNS applications, and hosts files*** 
+
+| Type | ⚪ | Description |
+|---:|:---:|:---|
+|Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources; consider implementing an allowlist for better control|
+|Blue & Green| 🟣 |Incorporates both green and blue sources, listed in The Bog AIO list and the green/blue AIO lists|
+|Green| 🟢 |Incorporates green sources, part of both The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
+|Blue| 🔵 |Incorporates blue sources, part of both The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 
 | Blue & Green Lists | ⚪ | AdBlock | Domain | Hosts | Description |
 |---:|:---:|:---:|:---:|:---:|:---|
