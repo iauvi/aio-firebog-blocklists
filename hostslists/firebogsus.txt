@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2023-12-23T01:09:14.800Z
+# Last modified: 2023-12-23T13:09:00.688Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.23
 #
@@ -1003,6 +1003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tes1a-x.web.app
 0.0.0.0 tesla-x-pl.web.app
 0.0.0.0 teslax22pl.web.app
+0.0.0.0 tfb-mobile-captcha.web.app
 0.0.0.0 tgieitekel.web.app
 0.0.0.0 thequantumai.app
 0.0.0.0 thirsty-varahamihira-8302b3.netlify.app
@@ -1906,6 +1907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f34fbb31.cftvpinheiro.com.br
 0.0.0.0 f45c6f1e.cftvpinheiro.com.br
 0.0.0.0 facebook-login.pages.net.br
+0.0.0.0 facebook-support.pages.mus.br
 0.0.0.0 facebooksecurytii.pages.net.br
 0.0.0.0 fb5b28bf.coletivohojeapassarinho.com.br
 0.0.0.0 fbcom.pages.net.br
@@ -5222,6 +5224,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nycggzk.cn
 0.0.0.0 pjc0pq.cn
 0.0.0.0 pl-poczta.cn
+0.0.0.0 plwcdnc.cn
 0.0.0.0 poczta-pl.cn
 0.0.0.0 pocztapl.cn
 0.0.0.0 pocztowy-pl.cn
@@ -15258,6 +15261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gonamedia.com
 0.0.0.0 gondab.com
 0.0.0.0 gondolaspring.com
+0.0.0.0 gonulakademi.com
 0.0.0.0 gonzalokaiser.com
 0.0.0.0 gonzine.e-monsite.com
 0.0.0.0 good-black-insect-papamiat359255.codeanyapp.com
@@ -18724,6 +18728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcsunucum.com
 0.0.0.0 mdaguerre.com
 0.0.0.0 mdcreativo.com
+0.0.0.0 mdejq4mh.dreamwp.com
 0.0.0.0 mdg-consultants.com
 0.0.0.0 mdnow247.com
 0.0.0.0 mdrmuxify.com
@@ -23899,6 +23904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 the-profitsmaximizer.com
 0.0.0.0 the-smartest-investment.com
 0.0.0.0 the-tatacrypto.com
+0.0.0.0 the-walt-company-inc.com
 0.0.0.0 the-walt-company-management-inc.com
 0.0.0.0 the-walt-company-management.com
 0.0.0.0 the-xya.com
@@ -25454,6 +25460,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 worddhl.com
 0.0.0.0 wordisbondinc.com
 0.0.0.0 wordofzod.com
+0.0.0.0 wordpress-1186721-4173967.cloudwaysapps.com
 0.0.0.0 wordpressloadtesting.com
 0.0.0.0 wordsmock.com
 0.0.0.0 worezuy.com
@@ -64591,10 +64598,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.oplaty24-7.pl
 0.0.0.0 allegro.pl-0x6.pl
 0.0.0.0 allegro.platnosci247.pl
+0.0.0.0 allegro.platnoscteraz24.pl
 0.0.0.0 allegro.ttsl.pl
 0.0.0.0 allegro.zakup-online24.pl
 0.0.0.0 allegro.zakupy24-7.pl
 0.0.0.0 allegro.zakupypayu24.pl
+0.0.0.0 allegro.zzakup.pl
 0.0.0.0 allegrolokalne.com.pl
 0.0.0.0 allegrolokalnie-payuu.pl
 0.0.0.0 allegrolokalnie-zakupy.pl
@@ -64624,8 +64633,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pay247.pl
 0.0.0.0 allegrolokalnie.pl21387413.pl
 0.0.0.0 allegrolokalnie.pl-16748oferta.pl
-0.0.0.0 allegrolokalnie.pl-prywatna-aukcja-sprzedazy198235.pl
-0.0.0.0 allegrolokalnie.pl-prywatna-aukcja-sprzedazy198236.pl
+0.0.0.0 allegrolokalnie.pl-prywatna-aukcja-sprzedazy198243.pl
 0.0.0.0 allegrolokalnie.pl-prywatne-oferty4567.pl
 0.0.0.0 allegrolokalnie.platnosci-payu24.pl
 0.0.0.0 allegrolokalnie.platnosci-zakupy247.pl
@@ -64717,6 +64725,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atak-nieletnionline.pl
 0.0.0.0 atkins.barbaru.pl
 0.0.0.0 atkinson.pawlukojc.pl
+0.0.0.0 aukcja-id7948261.pl
 0.0.0.0 aukcja-olx.pl
 0.0.0.0 aurismedic.josefkopecka.pl
 0.0.0.0 auta-bakowska.pl
@@ -65817,12 +65826,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 oddamyzadarmo.pl
 0.0.0.0 odsniezarki-snieg.pl
 0.0.0.0 odsprzedajemy.pl
+0.0.0.0 odsprzedawajmy.pl
 0.0.0.0 odsprzedawanie.pl
 0.0.0.0 odsprzedaz.pl
 0.0.0.0 ofertanajuz.pl
 0.0.0.0 oferty-olx.pl
 0.0.0.0 og2j4oqdsr.majamarta.pl
 0.0.0.0 ogladaj-online.pl
+0.0.0.0 oglaszamlisowski.pl
+0.0.0.0 oglaszammurza.pl
+0.0.0.0 oglaszampawlowski.pl
+0.0.0.0 oglaszamrusinski.pl
 0.0.0.0 ogloszenia-24.cba.pl
 0.0.0.0 ogloszenia-baran.pl
 0.0.0.0 ogloszenia-chojnacki.pl
@@ -66073,6 +66087,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-mojaplatnosc23440.pl
 0.0.0.0 pl-mojaplatnosc.pl
 0.0.0.0 pl-mojeplatnosci.pl
+0.0.0.0 pl-nowe-ps5-z-napedem-825gb.pl
 0.0.0.0 pl-oferta1936.pl
 0.0.0.0 pl-oferta2735.pl
 0.0.0.0 pl-oferta2852.pl
@@ -66154,7 +66169,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-oferta-uzytkownika1255374.pl
 0.0.0.0 pl-pay.pl
 0.0.0.0 pl-platnosc-payu.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198234.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198235.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198236.pl
 0.0.0.0 pl-prywatna-aukcja-sprzedazy198237.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198238.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198240.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198241.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198242.pl
+0.0.0.0 pl-prywatna-aukcja-sprzedazy198299.pl
 0.0.0.0 pl-prywatna-aukcja-sprzedazy245510.pl
 0.0.0.0 pl-prywatna-aukcja-sprzedazy245511.pl
 0.0.0.0 pl-prywatna-aukcja-sprzedazy245512.pl
@@ -66892,6 +66915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wygodnepozyczki.pl
 0.0.0.0 wygraj-iphone-x.tujest.pl
 0.0.0.0 wykaz.5p.pl
+0.0.0.0 wykupujemy.pl
 0.0.0.0 wylaczone.5p.pl
 0.0.0.0 wynajem-mieszkanwarszawa.pl
 0.0.0.0 wynajemmieszkan-krakow.pl
@@ -69461,6 +69485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nasbe.sbs
 0.0.0.0 naste.sbs
 0.0.0.0 nativet.sbs
+0.0.0.0 ndyeotpl.sbs
 0.0.0.0 ndyne.sbs
 0.0.0.0 neat-house.sbs
 0.0.0.0 neats.sbs
@@ -69999,6 +70024,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bl-pos.shop
 0.0.0.0 bnp-paribas.systemhaus.shop
 0.0.0.0 bondswvjmz.shop
+0.0.0.0 booking.guest-approve94164.shop
 0.0.0.0 bsnnes.shop
 0.0.0.0 bublydiscount.shop
 0.0.0.0 bussines-page.shop
@@ -76579,6 +76605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 correos-sa.top
 0.0.0.0 correos-suz.top
 0.0.0.0 correosohte.top
+0.0.0.0 correosoree.top
 0.0.0.0 correospl.top
 0.0.0.0 correospll.top
 0.0.0.0 correospopo.top
@@ -77254,6 +77281,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpost.ius-help.top
 0.0.0.0 inpostck.top
 0.0.0.0 inpostcloud.top
+0.0.0.0 inpostcpl.top
 0.0.0.0 inpostdm.top
 0.0.0.0 inpostdp.top
 0.0.0.0 inpostdpl.top
@@ -77270,6 +77298,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpostlok.top
 0.0.0.0 inpostoops.top
 0.0.0.0 inpostoot.top
+0.0.0.0 inpostp.inpary.top
 0.0.0.0 inpostpgk.top
 0.0.0.0 inpostpil.top
 0.0.0.0 inpostpl-pl.top
@@ -78314,6 +78343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uad.onlineprog.top
 0.0.0.0 uad.programmtrad.top
 0.0.0.0 ukrposhtatra.top
+0.0.0.0 ukrsposta.top
 0.0.0.0 uns.mix-legl.top
 0.0.0.0 uop.lifetradefx.top
 0.0.0.0 update.yams-com.top
@@ -80315,6 +80345,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 obatherbalbagus.website
 0.0.0.0 olx-pl.shostka.website
 0.0.0.0 onatylkogodzi.website
+0.0.0.0 onilsink.website
 0.0.0.0 online-helper.website
 0.0.0.0 onlinemanagers.website
 0.0.0.0 onlineservicetech.website
@@ -80339,6 +80370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 przesmoyipog.website
 0.0.0.0 quantikolioks.website
 0.0.0.0 radiantwaterfalls.website
+0.0.0.0 ratanakmmo.website
 0.0.0.0 realing.website
 0.0.0.0 reasonapp.website
 0.0.0.0 reasonappssolutions.website
