@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2023-12-26T01:34:10.746Z
+# Last modified: 2023-12-26T13:24:24.518Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -2459,6 +2459,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpcst-pl.cc
 0.0.0.0 inpocst-pl.cc
 0.0.0.0 inpocstpl.cc
+0.0.0.0 inpoistpl.cc
 0.0.0.0 inpostpi.cc
 0.0.0.0 inpostpil.cc
 0.0.0.0 inpostpl.cc
@@ -12745,6 +12746,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dhl-tracks-express.com
 0.0.0.0 dhl-transit-online.com
 0.0.0.0 dhl.de-podh.com
+0.0.0.0 dhl.trk-post.com
 0.0.0.0 dhlclient7257.com
 0.0.0.0 dhldelivery-pack.com
 0.0.0.0 dhlexpress-status.com
@@ -13686,6 +13688,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 entradasfull.com
 0.0.0.0 entrecanchas.com
 0.0.0.0 entreeqr.com
+0.0.0.0 entrega-de-paquetes.com
 0.0.0.0 entrenaressalud.com
 0.0.0.0 entrolytics.com
 0.0.0.0 envasesecopet.com
@@ -24376,6 +24379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 transglobalfreights.com
 0.0.0.0 transitionsoftwaresolutions.com
 0.0.0.0 transparencymeter.com
+0.0.0.0 tranups-eu.com
 0.0.0.0 trapaden.com
 0.0.0.0 trappdf.com
 0.0.0.0 trasa-pocztowa-polska.com
@@ -50432,6 +50436,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wobblefuzz.fun
 0.0.0.0 xay.scitec.fun
 0.0.0.0 zarejestrowac.fun
+0.0.0.0 zlao.fun
 0.0.0.0 zobistik.fun
 0.0.0.0 zonkle.fun
 0.0.0.0 blogstar.fun
@@ -53558,6 +53563,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 affirmationsyou.life
 0.0.0.0 agropyrons.life
 0.0.0.0 ai.se-69rene.life
+0.0.0.0 ainpost.life
 0.0.0.0 akalis.life
 0.0.0.0 alcoholomaniatvher.life
 0.0.0.0 all.se-69rene.life
@@ -53799,6 +53805,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpostoffice.life
 0.0.0.0 inpostpl.life
 0.0.0.0 inpostplplapp.life
+0.0.0.0 inpostpoles.life
 0.0.0.0 inposts.life
 0.0.0.0 inpostspol.life
 0.0.0.0 inpostspols.life
@@ -60893,6 +60900,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eu-5.one
 0.0.0.0 fkm.one
 0.0.0.0 if-53.one
+0.0.0.0 in-post-bl.one
 0.0.0.0 in-post.one
 0.0.0.0 inpostbl.one
 0.0.0.0 inposts.one
@@ -64639,6 +64647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro-platnosci.pl
 0.0.0.0 allegro-ups.e-kei.pl
 0.0.0.0 allegro.24-platnosci.pl
+0.0.0.0 allegro.24-zakupy.pl
 0.0.0.0 allegro.24transakcje.pl
 0.0.0.0 allegro.aukcjepayu24.pl
 0.0.0.0 allegro.e-aukcje24h.pl
@@ -65720,6 +65729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 marianmilowski.ludwikroman.pl
 0.0.0.0 mariusz.ameliagosia.com.pl
 0.0.0.0 market-lokalnie.pl
+0.0.0.0 marketplace-ogloszenia.pl
 0.0.0.0 markor3.michalmakysm.pl
 0.0.0.0 marlet-sklep.pl
 0.0.0.0 marlot-sklep.pl
@@ -65936,6 +65946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ogloszenia-romanowski.pl
 0.0.0.0 ogloszenia-rykalski.pl
 0.0.0.0 ogloszenia-sklepowe.pl
+0.0.0.0 ogloszenia-taniej.pl
 0.0.0.0 ogloszenia-tarkowski.pl
 0.0.0.0 ogloszenia-tomaszewski.pl
 0.0.0.0 ogloszenia-top24h.ct8.pl
@@ -66049,6 +66060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pawelkoscian.pl
 0.0.0.0 pay2me.pl
 0.0.0.0 paysecure.pl
+0.0.0.0 payu-zakup-24.pl
 0.0.0.0 pcpremium.pl
 0.0.0.0 pcsupport.lilianagrzyb.pl
 0.0.0.0 pdp-ing.pl
@@ -66709,6 +66721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sprawiedliwe.pl
 0.0.0.0 sprintgr.webd.pl
 0.0.0.0 sprzedajemy-kowalski.pl
+0.0.0.0 sprzedawaj-info.pl
 0.0.0.0 sprzedawaj-samochody.pl
 0.0.0.0 spwerblknia.fabianjanusz.nieruchomosci.pl
 0.0.0.0 spycimir.klarska.pl
@@ -67456,6 +67469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 guetploron.pro
 0.0.0.0 ha-deler.pro
 0.0.0.0 handilin-invest.pro
+0.0.0.0 handyranche.pro
 0.0.0.0 hn-api.lordofscan.pro
 0.0.0.0 honestcapital.pro
 0.0.0.0 hostage.pro
@@ -77305,12 +77319,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 inplosts.top
 0.0.0.0 inpocst-pl.top
 0.0.0.0 inpoes.top
+0.0.0.0 inpoist.top
 0.0.0.0 inpoosrpl.top
 0.0.0.0 inpoost-pl.top
 0.0.0.0 inpopl.top
 0.0.0.0 inpos7.top
 0.0.0.0 inposetple.top
 0.0.0.0 inposetplt.top
+0.0.0.0 inposlt.top
 0.0.0.0 inposst.top
 0.0.0.0 inpost-aa.top
 0.0.0.0 inpost-ab.top
@@ -77364,6 +77380,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpost-sp.top
 0.0.0.0 inpost-st.top
 0.0.0.0 inpost-uei.top
+0.0.0.0 inpost-xcn.top
 0.0.0.0 inpost.deliverychoose.top
 0.0.0.0 inpost.ius-help.top
 0.0.0.0 inpostck.top
@@ -77675,6 +77692,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mol-post.top
 0.0.0.0 molpost.top
 0.0.0.0 molpostinost.top
+0.0.0.0 molpostinpast.top
 0.0.0.0 molpostinpost.top
 0.0.0.0 mom.peoplexftrade.top
 0.0.0.0 mongj.btspolsky.top
@@ -77826,6 +77844,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oil.ratont.top
 0.0.0.0 ok.marcukesh.top
 0.0.0.0 oka.programtts.top
+0.0.0.0 oklzt.top
 0.0.0.0 olo.newprogram.top
 0.0.0.0 olx-pol-kxlsw2.aiing.top
 0.0.0.0 olx-pol-kxlsw2.njmax.top
@@ -77945,6 +77964,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plinposts.top
 0.0.0.0 pll.bloxg.top
 0.0.0.0 pll.forrum.top
+0.0.0.0 pllinposte.top
 0.0.0.0 plm8.eutradepeopl.top
 0.0.0.0 plmil01.eutradepeopl.top
 0.0.0.0 plmili01.eutradepeopl.top
@@ -78020,6 +78040,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pocztaw-polska.top
 0.0.0.0 pocztay.top
 0.0.0.0 pocztes-polska.top
+0.0.0.0 pocztexpl.pocztax.top
 0.0.0.0 poczto-pl.top
 0.0.0.0 pocztowy-pl.top
 0.0.0.0 pocztsaa-pollska-com.top
@@ -78046,7 +78067,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 poland-posts.top
 0.0.0.0 polandader.top
 0.0.0.0 polccp-post.top
+0.0.0.0 polcrstinpast.top
 0.0.0.0 polinposte.top
+0.0.0.0 polinpste.top
 0.0.0.0 polll.lifepeoplexf.top
 0.0.0.0 pollppost.top
 0.0.0.0 polopostinpost.top
@@ -78059,6 +78082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polposter.top
 0.0.0.0 polpostinot.top
 0.0.0.0 polpostinpasta.top
+0.0.0.0 polpostinpastten.top
 0.0.0.0 polpostinpostoffice.top
 0.0.0.0 polpostlab.top
 0.0.0.0 polpostsc.top
@@ -78180,6 +78204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 proworldlife.top
 0.0.0.0 prrp.chatprogram.top
 0.0.0.0 ps.gdfcvb.top
+0.0.0.0 pspllly.top
 0.0.0.0 pspts.top
 0.0.0.0 psrtpx.top
 0.0.0.0 pt.tradx.top
@@ -78496,6 +78521,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted-polska-rr124.vostfr.top
 0.0.0.0 vintet-pl-kl2112.ydzhang.top
 0.0.0.0 vip-xts.korpof.top
+0.0.0.0 vipinpost.top
 0.0.0.0 virted-pl-fi551.freebie.top
 0.0.0.0 virted-pl-fi551.qikeut.top
 0.0.0.0 viski.byseniscon.top
@@ -78505,6 +78531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vjnted-pl-ijfoks.freebie.top
 0.0.0.0 vjnted-pl-ijfoks.kuaixi1.top
 0.0.0.0 vjnted-pl-ijfoks.przewozy.top
+0.0.0.0 volpostinpost.top
 0.0.0.0 vovka.byseniscon.top
 0.0.0.0 vrag.byseniscon.top
 0.0.0.0 vva.liopah.top
@@ -81708,6 +81735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 millionpl.investingssforhub.xyz
 0.0.0.0 millpl.getinvestingstrat.xyz
 0.0.0.0 mind45setify45.xyz
+0.0.0.0 minpost.xyz
 0.0.0.0 misbeseeming.xyz
 0.0.0.0 mitchfinance-top.xyz
 0.0.0.0 mktrades.xyz
@@ -81941,6 +81969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 poczta-polskapl.xyz
 0.0.0.0 poczta-polskar.xyz
 0.0.0.0 poczta-polskas-pl.xyz
+0.0.0.0 poczta-polskc.xyz
 0.0.0.0 poczta-polskii.xyz
 0.0.0.0 poczta-polskp.xyz
 0.0.0.0 poczta-polskt.xyz
