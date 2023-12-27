@@ -3,7 +3,7 @@
 ! Description: All the blue and green suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT License
-! Last modified: 2023-12-26T13:24:24.518Z
+! Last modified: 2023-12-27T01:24:43.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -7305,7 +7305,6 @@
 ||illod.com^
 ||incruises.com^
 ||indaajach.com^
-||info.hearclear.com^
 ||informacja-dnia.com^
 ||inov8polska.com^
 ||inov-8polska.com^
@@ -8013,13 +8012,17 @@
 ||adventurefeeds.com^
 ||b7ax3cyzhq.com^
 ||bestadbid.com^
+||dailyhousetips.com^
 ||denis928.000webhostapp.com^
+||dial-vision.com^
 ||fun-clix.com^
+||get-synoshi.com^
 ||go2affise.com^
 ||go.playoosh.com^
 ||hitvisit.com^
 ||kmavj.ab4all.com^
 ||lnktk.com^
+||menminishaver.com^
 ||mobistos.com^
 ||obeyter.com^
 ||onlineslotmaschine.com^
@@ -10622,6 +10625,7 @@
 ||booking.id13741.com^
 ||booking.id28352.com^
 ||booking.logins-booking.com^
+||booking.partners-logins.com^
 ||booking.reservation3004453.com^
 ||booking.reservation-id2023.com^
 ||booking.reserve5418.com^
@@ -24676,6 +24680,7 @@
 ||unmetneedfinder.com^
 ||unnathimilk.com^
 ||unnoredticedlaundry.com^
+||unnuusps.com^
 ||unosapp.com^
 ||unpargmxkdyfv.com^
 ||unpoliced-exhibit.000webhostapp.com^
@@ -25131,6 +25136,7 @@
 ||w3gcdx.s3.us-east-005.backblazeb2.com^
 ||w6tqnmq8bos9hj5titjva9eq.musicpivots.com^
 ||w6u8vsbmm5ag5pdti3c3flai.moviespott.com^
+||w9gu4f696oufcr0u291kmj5i.talkgossipz.com^
 ||w22c40e5k7ana6gt2vqctip6.gardenspar.com^
 ||w-lcloud.com^
 ||w.cezretsep.com^
@@ -26260,6 +26266,7 @@
 ||fejsopodgladacz.blogspot.com^
 ||findyourlovenow5.com^
 ||freeiqtest.blogspot.com^
+||info.hearclear.com^
 ||informacjaechowiadomosci.agathaswelt.com^
 ||informacjainfofakt.voltexwebphone.com^
 ||jonathanbartz.com^
@@ -26336,6 +26343,7 @@
 ||vinted-pl-id002c.dgtaitong.com^
 ||vinted-pl-lzlxo.hkatb.com^
 ||waznefabrykawiadomosci24.agathaswelt.com^
+||web.hearclear.com^
 ||wp.pl.kegypz.com^
 ||ww7.openwrt.com^
 ||zalukaj24.com^
@@ -27868,6 +27876,7 @@
 ||eslprologmvp.com^
 ||eslprotourmvp.com^
 ||et-1nt3rc.com^
+||etdeposit-interac.com^
 ||exasked.com^
 ||expired-antiviruses.com^
 ||f05098.privacy4browsers.com^
@@ -48014,6 +48023,7 @@
 ||online-dhosting-pl.petralangschwager.de^
 ||online-inpost-pl.praxishanus.de^
 ||panel-home-pl-4ee7b03d5fc4ae76bb89.kbv-frankenberg.de^
+||panel-home.schaas.de^
 ||personal-gifts.de^
 ||pl-centrum24-web.com.de^
 ||poczta-polska.schaas.de^
@@ -62547,6 +62557,7 @@
 ||dontprosecuteassange.org^
 ||doorfinder.org^
 ||dpd.jolasopex.org^
+||dpd.rubpoma.org^
 ||dpd.tesfin.org^
 ||dpd.tubomec.org^
 ||drapart.org^
@@ -62677,6 +62688,7 @@
 ||info.update6219.port0.org^
 ||infohippy.org^
 ||inforama24.org^
+||ingslaski.org^
 ||inmakes.org^
 ||inpost.appsapidev.eu.org^
 ||inpost.gyxezos.org^
@@ -62807,6 +62819,7 @@
 ||olimpiagame.org^
 ||olx.deliverry.org^
 ||olx.delliverry.org^
+||olx.edkosyi.org^
 ||olx.sinomaxy.org^
 ||open4health.org^
 ||openrepo.org^
@@ -64083,7 +64096,6 @@
 ||sneakfreak.pl^
 ||sneakfriend.pl^
 ||snoopy-sklep.pl^
-||sowaksiazki.pl^
 ||spdobropole.pl^
 ||speedd.pl^
 ||spicy-store.pl^
@@ -64333,6 +64345,7 @@
 ||konkursbiedronka.5v.pl^
 ||legalizacja.5v.pl^
 ||mecz.ujm.pl^
+||mloda-cera.pl^
 ||odbierz-paysafecard.ujm.pl^
 ||pila-dziedzictwo-2017-online.5v.pl^
 ||pitbull-video.ujm.pl^
@@ -64496,6 +64509,7 @@
 ||887df2d6bf12.smsuslug.pl^
 ||907a20fef9e680e8414790420847d0a3.boawgr.pl^
 ||914cada338608c3880ae86686ee2e6ee.twospx.pl^
+||942fb613a0ae6857e69ae3d961501001.nitwos.pl^
 ||1013c264e87956fbaf.wwwplkt.pl^
 ||1172e9f8d86d60dcfbe756d510c788bc.vistvx.pl^
 ||1769e6a16ad126971cf4ce894d0b4191.marcoprzy.net.pl^
@@ -64653,6 +64667,9 @@
 ||allegro.oferta247.pl^
 ||allegro.oplaty24-7.pl^
 ||allegro.pl-0x6.pl^
+||allegro.pl-oferta564366.pl^
+||allegro.pl-oferta568312.pl^
+||allegro.pl-oferta568316.pl^
 ||allegro.platnosci247.pl^
 ||allegro.platnoscteraz24.pl^
 ||allegro.ttsl.pl^
@@ -64668,6 +64685,7 @@
 ||allegrolokalnie.24pay-u.pl^
 ||allegrolokalnie.aukcja-allegro.pl^
 ||allegrolokalnie.aukcja-id849214.pl^
+||allegrolokalnie.aukcja-id8971241.pl^
 ||allegrolokalnie.aukcjawsieci.pl^
 ||allegrolokalnie.aukcjepayu24.pl^
 ||allegrolokalnie.bezpieczny-ezakup.pl^
@@ -64692,6 +64710,9 @@
 ||allegrolokalnie.pay247.pl^
 ||allegrolokalnie.pl21387413.pl^
 ||allegrolokalnie.pl-16748oferta.pl^
+||allegrolokalnie.pl-oferta568312.pl^
+||allegrolokalnie.pl-oferta568316.pl^
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198228.pl^
 ||allegrolokalnie.pl-prywatne-oferty4567.pl^
 ||allegrolokalnie.platnosci-payu24.pl^
 ||allegrolokalnie.platnosci-zakupy247.pl^
@@ -64848,7 +64869,9 @@
 ||autokomis-wojtaszek.pl^
 ||autokomishandel.pl^
 ||automarket-kozminski.pl^
+||autoperla-24.pl^
 ||autosprzedaz24-tutaj.pl^
+||autosprzedaz-holuba.pl^
 ||autosprzedaz-polowczyk24.pl^
 ||autosprzedaz-smolik.pl^
 ||autoyanek.pl^
@@ -65101,6 +65124,7 @@
 ||dfx.addspls.pl^
 ||dhib3cxtfdjncfgy.vdl.pl^
 ||dhl.lotnicze.squaredesign.pl^
+||dhlogistics.pl^
 ||dietasekret.pl^
 ||dkarpinski.com.pl^
 ||dlazecoa.pl^
@@ -65188,6 +65212,7 @@
 ||erickson.zbigniewkaluga.pl^
 ||ernestyna.amadeuszanastazy.pl^
 ||esemeso.pl^
+||eskospj.konradluca.pl^
 ||estera-biesiada.pl^
 ||estrada.slwiastore.pl^
 ||eurocallcenter.pl^
@@ -65425,6 +65450,7 @@
 ||hunt.zwaszka.pl^
 ||hzoponkarz.j.pl^
 ||i94327.pl^
+||i-aukcje24.pl^
 ||i-chomik.pl^
 ||i-films.pl^
 ||i-ksiazka.pl^
@@ -65892,6 +65918,7 @@
 ||odsprzedawajmy.pl^
 ||odsprzedawanie.pl^
 ||odsprzedaz.pl^
+||oferta-6534.pl^
 ||ofertanajuz.pl^
 ||oferty-olx.pl^
 ||og2j4oqdsr.majamarta.pl^
@@ -66709,6 +66736,7 @@
 ||sprzedajemy-kowalski.pl^
 ||sprzedawaj-info.pl^
 ||sprzedawaj-samochody.pl^
+||sprzedawaj-zakupy.pl^
 ||spwerblknia.fabianjanusz.nieruchomosci.pl^
 ||spycimir.klarska.pl^
 ||spycimir.maciejkrysztofiak.pl^
@@ -66821,6 +66849,7 @@
 ||toyacom.pl^
 ||toystar.pl^
 ||tppay.pl^
+||tracking-poland.pl^
 ||trackingforinternet.katowice.pl^
 ||trackmypackage.com.pl^
 ||trackmypackage.pl^
@@ -71186,6 +71215,7 @@
 ||bipranova.site^
 ||birzha.site^
 ||bitcanuck.site^
+||bitcoindividend.site^
 ||bitcoinera.site^
 ||bitcointrader.site^
 ||bitioniksss.site^
@@ -72450,6 +72480,7 @@
 ||innovatixic.site^
 ||innpvativestrategies.site^
 ||inplanwetrusst.site^
+||inpost-pl.gmdevi.site^
 ||inpost-pl.hrenda.site^
 ||inpost-pl.kiask.site^
 ||inpost-pl.mnohot.site^
@@ -78061,6 +78092,7 @@
 ||polopostinpost.top^
 ||polopostinposts.top^
 ||polospostinpost.top^
+||polpcctinpost.top^
 ||polpoastinpostlaw.top^
 ||polpoastinposts.top^
 ||polpoastinqostgroup.top^
@@ -81510,6 +81542,7 @@
 ||if-ofmnn.xyz^
 ||if-ofnmm.xyz^
 ||ihpost.698451.xyz^
+||ihpost.4142343.xyz^
 ||ihpost.646434635.xyz^
 ||iinpost.089785454.xyz^
 ||ikiorto-1.xyz^
@@ -81805,6 +81838,7 @@
 ||ny.newpol.xyz^
 ||o0lx.3525568.xyz^
 ||o1wr4.xyz^
+||o1x.1845423.xyz^
 ||o1x.3845423.xyz^
 ||o1x.089765275.xyz^
 ||o1x.90725365.xyz^
@@ -82327,6 +82361,7 @@
 ||vjnted-pl-ijfoks.tintuctrongngay.xyz^
 ||vjnted-pl-ijfoks.unsml.xyz^
 ||vjnted.6849561.xyz^
+||vjnted.43523234.xyz^
 ||vol.fostt.xyz^
 ||voz.olled.xyz^
 ||vvczf.pasvar.xyz^
