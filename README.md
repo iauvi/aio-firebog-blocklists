@@ -55,7 +55,7 @@
 
 <div align="center">
 
-***All sources are on <a href="https://firebog.net/" title="">The Firebog</a> curated by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
+***All sources can be found on <a href="https://firebog.net/" title="">The Firebog</a><br>brought to you by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
 | Type | ⚪ | Description |
 |---:|:---:|:---|
