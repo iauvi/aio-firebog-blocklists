@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2023-12-29T01:16:27.486Z
+# Last modified: 2023-12-29T13:15:43.968Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -2903,6 +2903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0au0.lebwpl.cfd
 0.0.0.0 0ejo-7.cfd
 0.0.0.0 0f0e0.cfd
+0.0.0.0 0l-x.pn38-3.cfd
 0.0.0.0 0u1g.jfer.cfd
 0.0.0.0 1.provers3on.cfd
 0.0.0.0 1akz.bryx7-b.cfd
@@ -3832,6 +3833,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 doniesienie24h.click
 0.0.0.0 doniesienieinfo.click
 0.0.0.0 dostarczmywiedze.click
+0.0.0.0 dowiadujemyprawdy.click
+0.0.0.0 dowiedzsie.click
+0.0.0.0 dowodzimyinfo.click
 0.0.0.0 dozdrowiegdzie.click
 0.0.0.0 dozorinformacji.click
 0.0.0.0 dpd-formshop.num28965.click
@@ -4013,6 +4017,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 istotnainformacja.click
 0.0.0.0 istotnefakty.click
 0.0.0.0 istotneinfo.click
+0.0.0.0 istotnezdarzenia.click
 0.0.0.0 istotyludzkie.click
 0.0.0.0 it.itpolska.click
 0.0.0.0 jakk.inventnamb.click
@@ -4134,6 +4139,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 miastoalarmuje24h.click
 0.0.0.0 miastoinformuje.click
 0.0.0.0 miastowezguby.click
+0.0.0.0 miastowyportal.click
 0.0.0.0 miejskiedoniesienia.click
 0.0.0.0 miejskigoniec.click
 0.0.0.0 miejskiinformator.click
@@ -4180,6 +4186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 najnowszewiesci.click
 0.0.0.0 najnowszyraport.click
 0.0.0.0 najpierwto.click
+0.0.0.0 nasiczytelnicy.click
 0.0.0.0 naszainicjatywa.click
 0.0.0.0 naszasprawa.click
 0.0.0.0 naszefakty.click
@@ -4243,6 +4250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nxxt.tentaklsistem.click
 0.0.0.0 o0p.tentaklsistem.click
 0.0.0.0 obiektywnefakty.click
+0.0.0.0 objasniamyzdarzenia.click
 0.0.0.0 obwieszczenie.click
 0.0.0.0 obywatelwie.click
 0.0.0.0 odbierz.izigrosz.click
@@ -4274,6 +4282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opr.goodpltrmm.click
 0.0.0.0 oryginalnosc.click
 0.0.0.0 osiedlowewiesci.click
+0.0.0.0 osiedlowybiuletyn.click
 0.0.0.0 ostatniadroga.click
 0.0.0.0 ostatniarzecz.click
 0.0.0.0 ostatnisygnal.click
@@ -4314,6 +4323,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pohoronuvlada.lixprog.click
 0.0.0.0 poinformowanie.click
 0.0.0.0 pojazdkolizja.click
+0.0.0.0 pojazdygrozy.click
 0.0.0.0 polacypomagaja.click
 0.0.0.0 polnesweseday.click
 0.0.0.0 polskieinformacje.click
@@ -4347,6 +4357,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 potracildziewczynke.click
 0.0.0.0 potrafibyc.click
 0.0.0.0 potsluhajmstywer.click
+0.0.0.0 poufnedane.click
 0.0.0.0 powiadomienia24h.click
 0.0.0.0 powiatalarmuje.click
 0.0.0.0 powiatinformuje.click
@@ -4503,6 +4514,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 szybkajazda.click
 0.0.0.0 szybkareakcja24h.click
 0.0.0.0 szybkosczabija.click
+0.0.0.0 tablicainfo.click
+0.0.0.0 tablicjagminna.click
 0.0.0.0 takzycietrwa.click
 0.0.0.0 techfreeze.click
 0.0.0.0 techhandle.click
@@ -4571,6 +4584,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 waszewsparcie.click
 0.0.0.0 waznefakty.click
 0.0.0.0 waznerzeczy.click
+0.0.0.0 waznewatki.click
 0.0.0.0 waznykomunikat.click
 0.0.0.0 wiadomosci24.click
 0.0.0.0 wiadomosci.click
@@ -4596,6 +4610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wizjemiejscowe.click
 0.0.0.0 wladzamiasta.click
 0.0.0.0 wnetrzeizewnetrzne.click
+0.0.0.0 wojewodzkidonos.click
 0.0.0.0 wolnemediowe.click
 0.0.0.0 work.tentaklsistem.click
 0.0.0.0 worldpositivitypath.click
@@ -20608,6 +20623,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paissoluciones.com
 0.0.0.0 paitiewkan.com
 0.0.0.0 paketlemeisimm.com
+0.0.0.0 pakgeoelements.com
 0.0.0.0 pakiet-upsklient.com
 0.0.0.0 pakietklient-ups.com
 0.0.0.0 pakietu-aktualizacja.com
@@ -23332,6 +23348,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 specificationspace.com
 0.0.0.0 specjalniedlaciebie.com
 0.0.0.0 specsdekho.com
+0.0.0.0 spectrum.pavel-gluschuk.com
 0.0.0.0 spedmania.com
 0.0.0.0 speeders1traces.com
 0.0.0.0 speedfeedcalc.com
@@ -25586,6 +25603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 workrpsourcer-gr.com
 0.0.0.0 workshop.ninerail.com
 0.0.0.0 workwithkundan.com
+0.0.0.0 world-shipping-track.com
 0.0.0.0 worldenergychallenge.com
 0.0.0.0 worldinbottles.com
 0.0.0.0 worldmarkets.com
@@ -48130,6 +48148,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sms-short.de
 0.0.0.0 somaslounge.de
 0.0.0.0 source-pl.schaengelchen.de
+0.0.0.0 ssl-esklep-poczta-polska-pl.marinoah.de
 0.0.0.0 steamco.de
 0.0.0.0 support-ups-parcel.de
 0.0.0.0 tpay-cybergolks-pl.nachhaltigbestatten-potsdam.de
@@ -49008,6 +49027,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uwaga-weekend.eu
 0.0.0.0 verify-portfoliometamask.ddnss.eu
 0.0.0.0 vinted-cz.order2416.eu
+0.0.0.0 vinted-es.funds-gateway.eu
 0.0.0.0 vinted-fr.orderfunds.eu
 0.0.0.0 vinted-fr.receive-funds.eu
 0.0.0.0 vinted-sk.order4120.eu
@@ -51692,6 +51712,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 login-ingbank-odblokowac.info
 0.0.0.0 login-ingbank-zablokowany.info
 0.0.0.0 login-nestbenk-pl.info
+0.0.0.0 loteria-7aut.info
 0.0.0.0 low.fxworldkol.info
 0.0.0.0 lozijoosui.info
 0.0.0.0 lpkopl.info
@@ -56936,6 +56957,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jlb-marketing.net
 0.0.0.0 jobase.net
 0.0.0.0 johnmurtagh.net
+0.0.0.0 jornypasta.net
 0.0.0.0 jucofoods.net
 0.0.0.0 judgestevesmith.net
 0.0.0.0 jutrobedzie.is-best.net
@@ -62974,6 +62996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pinjamanonline.org
 0.0.0.0 piswithua.org
 0.0.0.0 pl-centrum24.org
+0.0.0.0 pl.inposts.org
 0.0.0.0 plantling.org
 0.0.0.0 plexmovies.org
 0.0.0.0 plfinancehelp.org
@@ -64492,6 +64515,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vulkan-vegas-kasyno.pl
 0.0.0.0 vulkan-vegass.pl
 0.0.0.0 xzegarsmiercix.prv.pl
+0.0.0.0 0bb903d17cf760976d84bba303b47d8c.nitwos.pl
 0.0.0.0 0c1058ded04c67f5600fc3d7074dcaa8.notvps.pl
 0.0.0.0 0c50294bbd4ef73e11ae88fcedffe65f.loftx.pl
 0.0.0.0 0c358177ab4a2e38619249fe6d900ce5.btntls.pl
@@ -64538,6 +64562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 05fc76fef8bf1710e686a53c94f61f5e.natoplx.pl
 0.0.0.0 5tysiecy.pl
 0.0.0.0 6b0296bff7d2266.akc-all.pl
+0.0.0.0 6c7e824116678a0dee7d9f60be7df1d4.nitwos.pl
 0.0.0.0 6d89c8775ff296f9058f9c06116ffecf.vistvx.pl
 0.0.0.0 6d734ecd6ebdea52eead1c9803697066.liamartem.pl
 0.0.0.0 6dn0h4d3oq.juliankurzela.pl
@@ -64596,6 +64621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 55c1d0cda424a55b5be6d.subpocz.pl
 0.0.0.0 55e5ce601b6b31c11c074051d814c795.forgro.pl
 0.0.0.0 57a197f7c906cc901cd201aa0646b6f8.vistvx.pl
+0.0.0.0 58e75c744e5b7176d36c572be8bdda5d.nitwos.pl
 0.0.0.0 58ec94a68383aec7df900b7df01f5f4a.boawgr.pl
 0.0.0.0 59be3a05cd559253aafd.wwwplkt.pl
 0.0.0.0 60b730d3d89f10667752a3a26ad160dc.molekewa.net.pl
@@ -64603,6 +64629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 62a810d0c60f84b5f8.plall.pl
 0.0.0.0 64bcf4da794811902a280a7c33f48a71.lisagos.pl
 0.0.0.0 70cb94b386f63cfc3ccf4ec37bc2ac9c.astrisla.pl
+0.0.0.0 71dfae2d08986e11cbd71608b74f8b3b.nitwos.pl
 0.0.0.0 73ad252ea1bb6a9e0830dcc604310bf4.liamartem.pl
 0.0.0.0 73dd12743f99993d24b4d59a99f6b6b4.nitxl.pl
 0.0.0.0 77dbdeca871b748e450d2caeb5b77bf1.vistvx.pl
@@ -64838,6 +64865,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pay247.pl
 0.0.0.0 allegrolokalnie.pl21387413.pl
 0.0.0.0 allegrolokalnie.pl-16748oferta.pl
+0.0.0.0 allegrolokalnie.pl-oferta7566.pl
+0.0.0.0 allegrolokalnie.pl-oferta88357.pl
 0.0.0.0 allegrolokalnie.pl-prywatne-oferty4567.pl
 0.0.0.0 allegrolokalnie.platnosc-oferta.pl
 0.0.0.0 allegrolokalnie.platnosci-payu24.pl
@@ -64951,6 +64980,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auto-kowalik24.pl
 0.0.0.0 auto-moks.pl
 0.0.0.0 auto-moksonline.pl
+0.0.0.0 auto-tu24.pl
 0.0.0.0 autoareczka.pl
 0.0.0.0 autobula.pl
 0.0.0.0 autogielda-24.pl
@@ -65017,6 +65047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b772c8ab22854286c7a17c339f0b164c.vistvx.pl
 0.0.0.0 b2057d1647efda22988ce84e99006f23.btntls.pl
 0.0.0.0 b9783bd453c8e6f696f08718914e0853.lisapwa.pl
+0.0.0.0 b113706a9777cdaf531e08d5e2e140ce.nitwos.pl
 0.0.0.0 b268341f0f356f02b4.plwwwnet.pl
 0.0.0.0 b312514dce9b158164e8abf9d9ee0fbc.notplsz.pl
 0.0.0.0 b3892793b01cc658c46d72fc1d8e84df.vistvx.pl
@@ -65276,6 +65307,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 domowe-kino.pl
 0.0.0.0 domturysty.cezaryaaron.pl
 0.0.0.0 dostawa24-7.pl
+0.0.0.0 dostawa-dhlog.pl
 0.0.0.0 dr.krzysztofrzepecki.pl
 0.0.0.0 dragomir.mrugalla.pl
 0.0.0.0 drogowe24.e-kei.pl
@@ -65903,6 +65935,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mediafile.pl
 0.0.0.0 mediavideo.pl
 0.0.0.0 medlaexpert.pl
+0.0.0.0 megaauto-24.pl
 0.0.0.0 megafura24-tutaj.pl
 0.0.0.0 mejia.slwiastore.pl
 0.0.0.0 melendez.darekfurtak.pl
@@ -66067,6 +66100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ogloszenia-fabianski.pl
 0.0.0.0 ogloszenia-gajewski.pl
 0.0.0.0 ogloszenia-handlowe.pl
+0.0.0.0 ogloszenia-huzarski.pl
 0.0.0.0 ogloszenia-jankowski.pl
 0.0.0.0 ogloszenia-jezierska.pl
 0.0.0.0 ogloszenia-kaminski.pl
@@ -66365,7 +66399,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-oferta58286.pl
 0.0.0.0 pl-oferta58287.pl
 0.0.0.0 pl-oferta58288.pl
+0.0.0.0 pl-oferta64351.pl
+0.0.0.0 pl-oferta64354.pl
+0.0.0.0 pl-oferta64356.pl
+0.0.0.0 pl-oferta64357.pl
 0.0.0.0 pl-oferta73471.pl
+0.0.0.0 pl-oferta88358.pl
 0.0.0.0 pl-oferta97238.pl
 0.0.0.0 pl-oferta97247.pl
 0.0.0.0 pl-oferta97248.pl
@@ -67014,6 +67053,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 toyacom.pl
 0.0.0.0 toystar.pl
 0.0.0.0 tppay.pl
+0.0.0.0 tracking-pol.pl
 0.0.0.0 tracking-poland.pl
 0.0.0.0 trackingforinternet.katowice.pl
 0.0.0.0 trackmypackage.com.pl
@@ -67028,6 +67068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tropis.pl
 0.0.0.0 trystula.melciapawlina.pl
 0.0.0.0 ttpay-info.pl
+0.0.0.0 tu-auto24.pl
 0.0.0.0 turystykagov.pl
 0.0.0.0 tutajdodaj.pl
 0.0.0.0 tv-maniak.pl
@@ -67681,6 +67722,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lickitoff.pro
 0.0.0.0 list2list.pro
 0.0.0.0 locikaie8.pro
+0.0.0.0 loteria-7aut.pro
 0.0.0.0 luxuriouses.pro
 0.0.0.0 lykycae3.pro
 0.0.0.0 maalaga.pro
@@ -70258,6 +70300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0lixshopplatnyprodukt.shop
 0.0.0.0 0llxkupit24online.shop
 0.0.0.0 4fstore.shop
+0.0.0.0 7aut.shop
 0.0.0.0 7juzsrvtjg.shop
 0.0.0.0 24daydenegpls.shop
 0.0.0.0 24to7bankdostava.shop
@@ -73884,6 +73927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qinadierisv.site
 0.0.0.0 qlkdsjakeoijq.site
 0.0.0.0 qnabdfgshjka.site
+0.0.0.0 qner.site
 0.0.0.0 qoceywh.site
 0.0.0.0 qoeudbvcnxgcuehu.site
 0.0.0.0 qolkpzizig.site
@@ -76896,6 +76940,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cop.peoplexftrade.top
 0.0.0.0 correos-sa.top
 0.0.0.0 correos-suz.top
+0.0.0.0 correosgll.top
+0.0.0.0 correosgoog.top
 0.0.0.0 correosohte.top
 0.0.0.0 correosoree.top
 0.0.0.0 correospl.top
@@ -77598,6 +77644,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpostespol.top
 0.0.0.0 inpostgc.top
 0.0.0.0 inpostia-pl.top
+0.0.0.0 inpostia.top
 0.0.0.0 inpostias-pl.top
 0.0.0.0 inpostil.top
 0.0.0.0 inpostill.top
@@ -78307,6 +78354,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polpostsc.top
 0.0.0.0 polpostsup.top
 0.0.0.0 polpostsuppot.top
+0.0.0.0 polpsins.top
 0.0.0.0 pols-inpost.top
 0.0.0.0 pols-inpot.top
 0.0.0.0 polsees.top
@@ -80539,6 +80587,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1qfc13.vip
 0.0.0.0 2gg2w.vip
 0.0.0.0 2jdshdu.vip
+0.0.0.0 7aut.vip
 0.0.0.0 11fhe.vip
 0.0.0.0 allegroo.vip
 0.0.0.0 amazonnow.vip
@@ -81724,6 +81773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gum.maxlinpl.xyz
 0.0.0.0 ha.zlpolska.xyz
 0.0.0.0 happy25x8z.xyz
+0.0.0.0 harborrrrr.xyz
 0.0.0.0 hardish.xyz
 0.0.0.0 harrying.xyz
 0.0.0.0 harvestinght.xyz
@@ -82088,9 +82138,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ollx.6578451.xyz
 0.0.0.0 ollx.7024727.xyz
 0.0.0.0 ollx.09577236.xyz
+0.0.0.0 ollx.27854151.xyz
 0.0.0.0 ollx.49987541.xyz
 0.0.0.0 ollx.58745121.xyz
 0.0.0.0 ollx.59987541.xyz
+0.0.0.0 ollx.97854151.xyz
 0.0.0.0 ollx.348854541.xyz
 0.0.0.0 olnxopplro.xyz
 0.0.0.0 olx-kjjwq.divides.xyz
@@ -82237,6 +82289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polandpoczta.xyz
 0.0.0.0 polandpolska.xyz
 0.0.0.0 polandpost.xyz
+0.0.0.0 polishpost.xyz
 0.0.0.0 poll.newpol.xyz
 0.0.0.0 polonisations.xyz
 0.0.0.0 polska-aktualnosci.xyz
@@ -82363,6 +82416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 selt.fostt.xyz
 0.0.0.0 semiworks.xyz
 0.0.0.0 sen-ding56.xyz
+0.0.0.0 seswiftly.xyz
 0.0.0.0 sethelp.xyz
 0.0.0.0 sgo.objectop.xyz
 0.0.0.0 shiftnova.xyz
@@ -82411,6 +82465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 standpointsh.xyz
 0.0.0.0 starnucleosynthesis.xyz
 0.0.0.0 stawlibras.xyz
+0.0.0.0 steelsummit.xyz
 0.0.0.0 stellaramadara.xyz
 0.0.0.0 stellarclassification.xyz
 0.0.0.0 stellarcreations.xyz

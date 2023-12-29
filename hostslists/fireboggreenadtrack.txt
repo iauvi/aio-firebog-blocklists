@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2023-12-29T01:10:25.002Z
+# Last modified: 2023-12-29T13:09:42.275Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -45642,7 +45642,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleanalytics.com
 0.0.0.0 gothamads.com
 0.0.0.0 groundtruth.com
-0.0.0.0 gstaticx.com
 0.0.0.0 gunggo.com
 0.0.0.0 handyincrease.com
 0.0.0.0 hdscout.com
@@ -45722,6 +45721,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mylink-today.com
 0.0.0.0 naj22.proasdf.com
 0.0.0.0 netmera.com
+0.0.0.0 newsletter-link.com
 0.0.0.0 nr.mmcdn.com
 0.0.0.0 nzaza.com
 0.0.0.0 offaces-butional.com
@@ -45821,7 +45821,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.spe.schoolmessenger.com
 0.0.0.0 track.ultravpn.com
 0.0.0.0 tracker-pm2.spilleren.com
-0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.exipure.com
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.jiffyworld.com
@@ -66186,7 +66185,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 window.nixnet.cz
 0.0.0.0 ads.formit.cz
 0.0.0.0 ads.oxyshop.cz
-0.0.0.0 ads.praguetv.cz
 0.0.0.0 adserver.anawe.cz
 0.0.0.0 matomo.activate.cz
 0.0.0.0 openx.skinet.cz
