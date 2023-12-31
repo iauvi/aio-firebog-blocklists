@@ -78,7 +78,6 @@
 | Suspicious | 🟠 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
 | Suspicious | 🟠 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | Advertising | 🟢 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
-| Advertising | 🟢 | <a href="https://v.firebog.net/hosts/Easylist.txt" title="">EasyList</a> |
 | Advertising | 🟢 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
 | Advertising | 🟢 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blacklist</a> |
 | Advertising | 🟢 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" title="">Disconnect Ads</a> |
@@ -86,8 +85,7 @@
 | Advertising | 🟢 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts" title="">Fademind's Unchecky Ads</a> |
 | Advertising | 🟢 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
 | Advertising | 🔵 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
-| Advertising / Tracking | 🟢 | <a href="https://v.firebog.net/hosts/AdguardDNS.txt" title="">AdGuard DNS Filter</a> |
-| Tracking | 🟢 | <a href="https://v.firebog.net/hosts/Easyprivacy.txt" title="">EasyPrivacy</a> |
+| Advertising / Tracking | 🟢 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
 | Tracking | 🟢 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
 | Tracking | 🟢 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts" title="">Fademind's 2o7 Network Trackers</a> |
 | Tracking | 🟢 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
