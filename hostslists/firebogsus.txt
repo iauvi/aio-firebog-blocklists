@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-01T01:41:38.847Z
+# Last modified: 2024-01-01T13:41:01.555Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -12697,6 +12697,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deliveryinfos.com
 0.0.0.0 deliverypackpolska.com
 0.0.0.0 deliveryparcelpost.com
+0.0.0.0 deliverytracking-klient.com
 0.0.0.0 deliverytrackpl-up.com
 0.0.0.0 delivfastdhifaill.com
 0.0.0.0 delivioo.com
@@ -16220,6 +16221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hsdecks.com
 0.0.0.0 hsiamensilper.com
 0.0.0.0 hslfgh.s3.us-west-004.backblazeb2.com
+0.0.0.0 hsxxjc.com
 0.0.0.0 httbelize.com
 0.0.0.0 https-interactivebrokers.com
 0.0.0.0 httpush.com
@@ -25250,6 +25252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 voags.com
 0.0.0.0 vobyzey2.com
 0.0.0.0 vod-base.com
+0.0.0.0 vod-pasta.com
 0.0.0.0 vod-wo.com
 0.0.0.0 vodfilmy.tumblr.com
 0.0.0.0 vogue-offers.com
@@ -57230,6 +57233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hansfare.link
 0.0.0.0 ihsnfkow.link
 0.0.0.0 iksforee.link
+0.0.0.0 inpost-support.link
 0.0.0.0 inpost.paczkomaty.link
 0.0.0.0 inpost.pl-safecash.link
 0.0.0.0 inshiho.link
@@ -57319,6 +57323,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2u.ra-rdiant.live
 0.0.0.0 4u.bliss-tful.live
 0.0.0.0 5am33r5entra1.live
+0.0.0.0 7-aut.live
 0.0.0.0 7aut-loteria.live
 0.0.0.0 7aut.live
 0.0.0.0 48xtrater8tures.live
@@ -59831,6 +59836,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nowe-wiesci.eu5.net
 0.0.0.0 nowyportal.eu5.net
 0.0.0.0 nsp.thisissecure.net
+0.0.0.0 nsp.thisissecuree.net
 0.0.0.0 nutrativity.net
 0.0.0.0 objectivelysubjective.net
 0.0.0.0 ochkozavr.ru.net
@@ -68439,6 +68445,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.i-aukcje.pl
 0.0.0.0 allegro.i-payu-24.pl
 0.0.0.0 allegro.iaukcje24.pl
+0.0.0.0 allegro.kupteraz24.pl
 0.0.0.0 allegro.kupuj-payu24.pl
 0.0.0.0 allegro.kupzpayu24.pl
 0.0.0.0 allegro.lokalniee.pl
@@ -70559,6 +70566,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sims.balton.sklep.pl
 0.0.0.0 sjs.com.pl
 0.0.0.0 skarzyn.ladislavaholubova.pl
+0.0.0.0 sklep-nowak.pl
 0.0.0.0 sklep-pgg24.pl
 0.0.0.0 sklep.komis-samochody.pl
 0.0.0.0 skleplokalnie.ct8.pl
@@ -82213,6 +82221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 postplapp.top
 0.0.0.0 postplcloud.top
 0.0.0.0 postpnvi.top
+0.0.0.0 postpsin.top
 0.0.0.0 postspecialists.top
 0.0.0.0 posttex.sever-check.top
 0.0.0.0 posttex.sever-info.top
