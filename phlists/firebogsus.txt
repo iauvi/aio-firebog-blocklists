@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-02T13:19:52.825Z
+# Last modified: 2024-01-03T01:22:53.204Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -1894,7 +1894,9 @@ cyberfolks-pl-01a51c904db.mentum.eng.br
 cyberfolks-pl-1e307c55024.mentum.eng.br
 cyberfolks-pl-006e9b7191c.mentum.eng.br
 cyberfolks-pl-9e2be23b100.mentum.eng.br
+cyberfolks-pl-35b2ac8fbd8.mentum.eng.br
 cyberfolks-pl-145d8b61832.mentum.eng.br
+cyberfolks-pl-588ef1e2352.mentum.eng.br
 cyberfolks-pl-603dd926bfe.mentum.eng.br
 cyberfolks-pl-2482a2959c5.mentum.eng.br
 cyberfolks-pl-6800ff172dd.mentum.eng.br
@@ -3720,6 +3722,8 @@ allegro-shipment.std16867.click
 allegro-shipment.ukjki.click
 analizawypadku.click
 anon.maskproj.click
+anonimowydonos.click
+anonimowyswiadek.click
 aolsk.interfoxprog.click
 aooop.inventnamb.click
 apelinternetowy.click
@@ -3844,6 +3848,7 @@ dostarczmywiedze.click
 dowiadujemyprawdy.click
 dowiedzsie.click
 dowodzimyinfo.click
+dowozimydowody.click
 dozdrowiegdzie.click
 dozorinformacji.click
 dpd-formshop.num28965.click
@@ -3862,6 +3867,8 @@ drogowewiesci.click
 drogowezdarzenia.click
 drogowipiraci24.click
 drogowkalamruje.click
+drogowymonitoring.click
+drogowyportal.click
 dshe.balzz.click
 dsnsdnsd.inventnamb.click
 dts.jerat.click
@@ -3873,6 +3880,7 @@ dyrektoralarmuje.click
 dyskusjainternetowa.click
 dyskusjapowaitowa.click
 dzieckoumarlo.click
+dziennikinfo24h.click
 dziennikmiasta.click
 dziennikporanny.click
 dzisiajszasprawa.click
@@ -3884,6 +3892,7 @@ e-wiadomosci.click
 easyway2.click
 ebanking.ch1-uqs.click
 echomiejskie.click
+echopowiatowe.click
 efektywnosciowe.click
 ekspansywnosci.click
 ekspertlifestyleu.click
@@ -3956,6 +3965,7 @@ gminnykurier.click
 goheretttt.click
 gokal.everadpro.click
 goniecgminny.click
+goniecosiedla.click
 goniecwojewodzki.click
 gonimysprawce.click
 goofpa.inventnamb.click
@@ -4077,6 +4087,7 @@ kolizjanadrodze.click
 kolizjaprzedszkola.click
 kolizjasamochodowa.click
 kolizyjnedrogi.click
+kolizyjnefakty24h.click
 kolizyjnefakty.click
 kolizyjneinfo.click
 kolizyjnewiesci.click
@@ -4158,6 +4169,7 @@ miastoinformuje.click
 miastowezguby.click
 miastowyportal.click
 miejskiedoniesienia.click
+miejskigoniec24h.click
 miejskigoniec.click
 miejskiinformator.click
 miejskislad.click
@@ -4178,6 +4190,7 @@ monitoringdrogowy.click
 monitoringuliczny.click
 monitorujemydrogi.click
 monitorujemypojazdy.click
+monitorujemysytuacje.click
 moveyam.click
 mozemyrazemtu.click
 mpi.ofishlprog1.click
@@ -4354,6 +4367,7 @@ pomyslowosci24.click
 porannakolizja.click
 porannatragedia.click
 porbaniepowodzenie.click
+portalfaktow.click
 portalgminny.click
 portalinformacja.click
 portalwiedzy.click
@@ -4381,7 +4395,9 @@ potraceniesmiertelne.click
 potracildziewczynke.click
 potrafibyc.click
 potralmiejski.click
+potralwojewodzki.click
 potsluhajmstywer.click
+potyczkaslowna.click
 poufnedane.click
 powiadomienia24h.click
 powiatalarmuje.click
@@ -4500,6 +4516,7 @@ sprawymiastowe.click
 sprawypolskie.click
 staranysie.click
 stolidov.tentaklsistem.click
+stopwypadki.click
 stosowneinfo.click
 stosownerzeczy.click
 straszneinfo283.click
@@ -4585,6 +4602,7 @@ trudnehistorie.click
 trudnosciludzi.click
 tsva2.inventnamb.click
 tsvs.inventnamb.click
+turboinfo.click
 tvreklamowe.click
 twazzle.click
 tx.xtnew.click
@@ -4633,10 +4651,13 @@ wiescinternetowa.click
 wiesciobywateli.click
 wiesciosiedla.click
 wiesciswieze.click
+wiescizpolski.click
 wiescizpowiatu.click
 wiezidomaslonce.click
 winsecretary.click
+wirtualneinfo24h.click
 wirtualneinfo.click
+wirtualnyportal.click
 wirtualnyswiat.click
 wizjalokalna.click
 wizjemiejscowe.click
@@ -4691,6 +4712,7 @@ zatnijprawwe.click
 zauroczonyprzezyciami.click
 zauroczonyzyciem.click
 zawiadomienia.click
+zbieramyslady.click
 zbiordowodow.click
 zdalne-informacje.click
 zdarzeniadrogowe.click
@@ -11407,6 +11429,7 @@ ceylonbag.com
 cezaevinegonder.com
 cezka-televise.com
 cezkatelevize.com
+cfd.rodostrade.com
 cfitradenetwork.com
 cfuapicarone.com
 cfunkytown-lefilm.com
@@ -11824,6 +11847,7 @@ collegequickie.com
 collegesheet.com
 collinsink.cabanova.com
 colloidalforum.com
+colloquy.ebutudan.com
 colnack.com
 colnmapketcaq.com
 coloradodiscountgolf.com
@@ -16568,6 +16592,7 @@ info.97-107-132-206.cprapid.com
 info.fashionrisers.com
 info.lakeviewcondostaug.com
 info.neu.planen.lieferung.20-215-200-192.cprapid.com
+info.neu.planen.lieferung.98-67-174-79.cprapid.com
 infoalquiler.com
 infobezpieczenstwo.weebly.com
 infocoastalstates.com
@@ -20715,6 +20740,7 @@ pantherqin.com
 paogwor.com
 papabilly.com
 paperstamp-dev.com
+papillonandco.com
 pappy-offers.com
 parabolike.com
 paragonresourcemanagernent.com
@@ -24675,6 +24701,7 @@ tujestwildcard.videosclue.com
 tujestwildcard.weddingspruce.com
 tukukeykoy.com
 tumikas.com
+tundrarins.com
 tunehub247shop.com
 tunel-getz.com
 tunes--tunes.com
@@ -24857,6 +24884,7 @@ unosapp.com
 unpargmxkdyfv.com
 unpoliced-exhibit.000webhostapp.com
 unrogse-com.preview-domain.com
+uns-hvs.com
 untangledigital.com
 unvey.brujosdelamor2019.com
 uoutn.hellbentforchoppers.com
@@ -47941,6 +47969,7 @@ goat.cx
 9fb.musicliqww.cyou
 asseco.cyou
 astrostorexyzbd.cyou
+autumnleavesretreat.cyou
 avetrade-ai.cyou
 bielvinfiencobs.cyou
 bielvinfiencoct.cyou
@@ -55374,6 +55403,7 @@ rivobyozyy.live
 roadzipper.live
 rofoqeasee.live
 rolyfaobii.live
+roofff4.live
 ropucoocoe.live
 rozoqeabuy.live
 rubytaohiu.live
@@ -61952,6 +61982,7 @@ mimar-q.online
 mind-bendinggames.online
 mindbendingmysteries.online
 mirror-australiannews.online
+mo.rorywavesr.online
 mobilerot.online
 mogrout.online
 mojeingslaski.online
@@ -62210,6 +62241,7 @@ rghtnow.online
 richard2expert.online
 richard2portal.online
 richardexpert.online
+riseuppweb.online
 risingvalues.online
 rizz19-ads.online
 robotrevolution.online
@@ -64867,6 +64899,7 @@ a89fcaa8dc828285bd4c0fe17999d83c.astrisla.pl
 a1617ea9b14d9.allbiuro.pl
 a26342c322280107dfc6e88e655265bd.vistvx.pl
 aaf29b6cbaac1c41d7eefe9ec89b770f.kontlso.pl
+abc-dziecko.pl
 abc.amaretto.xja.pl
 abcc8d24d00e261ec569d68a6fa003cb.kontlso.pl
 ac3a8e2b79802185.plwwwnet.pl
@@ -64964,6 +64997,7 @@ allegrolokalnie.24platnosc.pl
 allegrolokalnie.aukcja-allegro.pl
 allegrolokalnie.aukcja-id849214.pl
 allegrolokalnie.aukcja-id8971241.pl
+allegrolokalnie.aukcja-uf897i12fas3.pl
 allegrolokalnie.aukcjawsieci.pl
 allegrolokalnie.aukcjepayu24.pl
 allegrolokalnie.bezpieczny-ezakup.pl
@@ -64978,6 +65012,7 @@ allegrolokalnie.epay-u24.pl
 allegrolokalnie.etransakcje-24.pl
 allegrolokalnie.expresspayu-24.pl
 allegrolokalnie.ezakupy24-7.pl
+allegrolokalnie.ezakupy24h-7.pl
 allegrolokalnie.i-payu24.pl
 allegrolokalnie.i-platnosci-24.pl
 allegrolokalnie.kup-sprzedaj.pl
@@ -64988,6 +65023,7 @@ allegrolokalnie.ochronazakupu.pl
 allegrolokalnie.oferta247.pl
 allegrolokalnie.oferta01837.pl
 allegrolokalnie.oferta11564.pl
+allegrolokalnie.oferta-8a9na4h142fa6.pl
 allegrolokalnie.oferta-96d57c91j8b124c6a13.pl
 allegrolokalnie.oferty-prywatne.pl
 allegrolokalnie.pay247.pl
@@ -65132,6 +65168,7 @@ autogielda-majorczyk.pl
 autogielda-markowski.pl
 autogielda-markowskionline.pl
 autogielda-matczak.pl
+autogielda-nowacki.pl
 autogielda-skowyrski.pl
 autogielda-slawski.pl
 autogielda-stefaniuk.pl
@@ -65346,6 +65383,7 @@ cinemak.pl
 ciurko.jonnaninajozefina.pl
 clark.tataras.com.pl
 clinton.proart.warszawa.pl
+clo-dostarczamydhl.pl
 cloudserver001858.home.pl
 cloudserver088601.home.pl
 cloudserver184883.home.pl
@@ -65678,6 +65716,7 @@ ggbet-polska.pl
 ggbets.pl
 gibilisco.mbabik.info.pl
 gielda-mazowsze.pl
+gielda-nowak.pl
 gielda-samochod.pl
 gielda-wwa.pl
 gilbert.liswea.opole.pl
@@ -65707,6 +65746,7 @@ grzepustek.waldemarnikodem.pl
 gs24zabrze.pl
 gx.moristre.pl
 gymsharkspl.pl
+gymsharkwarszawa.pl
 h4080016.hostingrd.pl
 hall.kasprzyk.info.pl
 handel-lokalniie.net.pl
@@ -66250,6 +66290,7 @@ ogloszenia-kopec.pl
 ogloszenia-kosowski.pl
 ogloszenia-krajewski.pl
 ogloszenia-krystychowicz.pl
+ogloszenia-kubacki.pl
 ogloszenia-kupinski.pl
 ogloszenia-lewicki.pl
 ogloszenia-maciejak.pl
@@ -66261,6 +66302,7 @@ ogloszenia-mauzer.pl
 ogloszenia-mazur.pl
 ogloszenia-mazurski.pl
 ogloszenia-milczarski.pl
+ogloszenia-morawski.pl
 ogloszenia-muranscy.pl
 ogloszenia-mytyk.pl
 ogloszenia-noch.pl
@@ -66282,6 +66324,7 @@ ogloszenia-twardowski.pl
 ogloszenia-tyburski.pl
 ogloszenia-udostepniam.pl
 ogloszenia-walczak.pl
+ogloszenia-wojcik.pl
 ogloszenia-wroblewski.pl
 ogloszenia-wszolek.pl
 ogloszenia-wyprzedaz.pl
@@ -66548,6 +66591,7 @@ pl-oferta18438.pl
 pl-oferta18931.pl
 pl-oferta18932.pl
 pl-oferta18933.pl
+pl-oferta18934.pl
 pl-oferta18935.pl
 pl-oferta18936.pl
 pl-oferta18937.pl
@@ -66592,6 +66636,8 @@ pl-oferta568413.pl
 pl-oferta568516.pl
 pl-oferta568539.pl
 pl-oferta-prywatna24.pl
+pl-oferta-prywatna2137.pl
+pl-oferta-prywatna2138.pl
 pl-oferta-prywatna3245.pl
 pl-oferta-prywatna3457.pl
 pl-oferta-prywatna6735.pl
@@ -66640,6 +66686,8 @@ pl-prywatna-aukcja1294.pl
 pl-prywatna-aukcja1296.pl
 pl-prywatna-aukcja12291.pl
 pl-prywatna-aukcja12292.pl
+pl-prywatna-aukcja12293.pl
+pl-prywatna-aukcja12294.pl
 pl-prywatna-aukcja-sprzedazy193468.pl
 pl-prywatna-aukcja-sprzedazy198228.pl
 pl-prywatna-aukcja-sprzedazy198234.pl
@@ -67072,7 +67120,9 @@ simmons.basiaksek.warszawa.pl
 sims.balton.sklep.pl
 sjs.com.pl
 skandal-gwiazd.pl
+skandale-gwiazd.pl
 skarzyn.ladislavaholubova.pl
+sklep-czarnecki.pl
 sklep-kowalski.pl
 sklep-nowak.pl
 sklep-pgg24.pl
@@ -67259,6 +67309,8 @@ tracking-poland.pl
 trackingforinternet.katowice.pl
 trackmypackage.com.pl
 trackmypackage.pl
+trackyourdhl.com.pl
+trackyourdhl.pl
 trade-invest.pl
 tran.grzegorzkulik.com.pl
 transakcja-alleplatnosci.prv.pl
@@ -72451,6 +72503,7 @@ foodiefusionnetwork.site
 fooligmfhts.site
 foomkeant.site
 foragamedep.site
+foraywmrq.site
 foreing.site
 forgeedamitpl.site
 forgottiless.site
@@ -74026,6 +74079,7 @@ porterfun.site
 portfelinwesnow.site
 positiiveenergy.site
 possiblledepp.site
+post24.site
 post-helps.site
 post.kzbakkumz.site
 postran.site
@@ -75563,6 +75617,7 @@ cleverncfk.space
 cloudlinkcenter.space
 cloudsystemscorp.space
 cluedo.space
+cocaboka.space
 colorfulboxnow.space
 combatzzhb.space
 commonrrjd.space
@@ -76780,6 +76835,7 @@ dateperfectly.top
 1.marcukesh.top
 1.mllight.top
 1.newlvlpro.top
+1inposts.top
 1mas1.activeprog3.top
 1mstr.activeprog3.top
 1prog.activeprog1.top
@@ -77813,6 +77869,7 @@ inposst.top
 inpost-aa.top
 inpost-ab.top
 inpost-ac.top
+inpost-ai.top
 inpost-bvt.top
 inpost-es.top
 inpost-help.top
@@ -77869,6 +77926,7 @@ inpost-support.top
 inpost-svc.top
 inpost-uei.top
 inpost-xcn.top
+inpost-ynz.top
 inpost.deliverychoose.top
 inpost.ius-help.top
 inpostb.top
@@ -78097,6 +78155,7 @@ lntl-lnc.top
 lo.marcukesh.top
 login-nestbenk.top
 lop.programtts.top
+lopo.peoplexftrade.top
 loz.olsap.top
 lslslxa.byseniscon.top
 lu4f.top
@@ -78181,6 +78240,7 @@ mil15.eutradepeopl.top
 mil77.eutradepeopl.top
 mill.activeprog2.top
 mill.newprogram.top
+mining-getpro-only.top
 miningcentr.top
 mininglife.top
 mirmining.top
@@ -78429,6 +78489,7 @@ performingbizz.top
 performings.top
 pero.papiashvili.top
 pfb2.metregplt.top
+pflbr.top
 pfs2.plsttrade.top
 pi.marcukesh.top
 pi.maxpeoplepl.top
@@ -81813,6 +81874,7 @@ dffd8.xyz
 dfghks.maswwo.xyz
 dfghzm.pasvar.xyz
 dichvummo.xyz
+dig1ttalchanc.xyz
 digital-games.xyz
 disconnections.xyz
 distemperoid.xyz
@@ -81882,6 +81944,7 @@ eweq.maswwo.xyz
 ewqw.pasvar.xyz
 excelently.xyz
 exemplificator.xyz
+expenditiontravel.xyz
 explor3lif3.xyz
 exploreflow09.xyz
 ezytorrents.xyz
