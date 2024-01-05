@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-05T04:58:44.051Z
+# Last modified: 2024-01-05T13:06:51.857Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -865,7 +865,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.todoti.com.br
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.pampa.com.br
-0.0.0.0 adwordsecommerce.com.br
 0.0.0.0 anuncios.edicaoms.com.br
 0.0.0.0 ad.pop.com.br
 0.0.0.0 adclient-af.shopping.uol.com.br
@@ -2012,6 +2011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zyzo.cn
 0.0.0.0 baxbyfn.cn
 0.0.0.0 szmkr.cn
+0.0.0.0 szbpf.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -43374,7 +43374,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 attractionbanana.com
 0.0.0.0 audienceinsights.com
 0.0.0.0 avalonalbum.com
-0.0.0.0 awesomeagreement.com
 0.0.0.0 baremetrics.com
 0.0.0.0 basebanner.com
 0.0.0.0 beachfront.com
@@ -43652,6 +43651,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oppuz.com
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
+0.0.0.0 orientedargument.com
 0.0.0.0 orionember.com
 0.0.0.0 owebanalytics.com
 0.0.0.0 p2r14.com
@@ -58494,6 +58494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yutiqf.icu
 0.0.0.0 zigyspv.icu
 0.0.0.0 sakguz.icu
+0.0.0.0 sd2ua.icu
 0.0.0.0 2tyne.icu
 0.0.0.0 6ha03.icu
 0.0.0.0 7nekc.icu
@@ -62280,6 +62281,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log-mekongasean.epicdn.me
 0.0.0.0 log-nhandan.epicdn.me
 0.0.0.0 log-thanhnien.epicdn.me
+0.0.0.0 log-thuonggiaonline.epicdn.me
 0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
 0.0.0.0 log.mediation.onebooster.me
 0.0.0.0 ablink.marketing.li.me
@@ -78102,6 +78104,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adtima.net.vn
 0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.autosurf.vn
+0.0.0.0 adv.baoangiang.com.vn
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adv.baovemoitruong.org.vn
 0.0.0.0 adv.thuvienphapluat.vn
@@ -78211,6 +78214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.tapchimattran.vn
 0.0.0.0 log.tapchitaichinh.vn
 0.0.0.0 log.theleader.vn
+0.0.0.0 log.thuonggiaonline.vn
 0.0.0.0 log.tienphong.vn
 0.0.0.0 log.tieudungthoinay.vn
 0.0.0.0 log.tinnhanhchungkhoan.vn
@@ -81296,6 +81300,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 kpyerxzn.xyz
 0.0.0.0 wvyqks.xyz
 0.0.0.0 avvfjhg.xyz
+0.0.0.0 upyerxzn.xyz
+0.0.0.0 bpyerxzn.xyz
+0.0.0.0 xpyerxzn.xyz
+0.0.0.0 tpyerxzn.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
