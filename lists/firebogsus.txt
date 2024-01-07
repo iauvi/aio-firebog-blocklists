@@ -3,7 +3,7 @@
 ! Description: All the blue and green suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT License
-! Last modified: 2024-01-07T09:13:16.382Z
+! Last modified: 2024-01-07T13:53:57.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -24904,6 +24904,7 @@
 ||tracking-parcel-help.com^
 ||tracking-poczta-polska.com^
 ||tracking-ups-express.com^
+||trackingdelivery-help.com^
 ||trackingdelivery-pl.com^
 ||trackingmydhl-package.com^
 ||trackingpackagedhl.com^
@@ -78651,6 +78652,7 @@
 ||inpost-support.top^
 ||inpost-svc.top^
 ||inpost-uei.top^
+||inpost-usl.top^
 ||inpost-verify.top^
 ||inpost-xcn.top^
 ||inpost-ynz.top^

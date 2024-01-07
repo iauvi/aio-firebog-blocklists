@@ -3,7 +3,7 @@
 # Description: All the advertising sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-07T09:06:40.689Z
+# Last modified: 2024-01-07T13:47:26.648Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -35867,6 +35867,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 combo-omni.haravan.com
 0.0.0.0 customers.fptad.com
 0.0.0.0 daleriki.com
+0.0.0.0 distinctrobin.com
 0.0.0.0 donglogs.com
 0.0.0.0 eva-ad.24hstatic.com
 0.0.0.0 facebookinbox-omni-onapp.haravan.com
@@ -44129,7 +44130,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adcs-ue.myappsget.com
 0.0.0.0 llxads.com
 0.0.0.0 ads.appota.com
-0.0.0.0 distinctrobin.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 1frozenthrone1.com
 0.0.0.0 1lyhjhn5p.com
@@ -51515,6 +51515,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sba.about.co.kr
 0.0.0.0 sndkorea.co.kr
 0.0.0.0 ad.about.co.kr
+0.0.0.0 ad.tpmn.co.kr
 0.0.0.0 ad.mediamixer.co.kr
 0.0.0.0 adfork.co.kr
 0.0.0.0 mtag.mman.kr
@@ -54483,6 +54484,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1ac2du043ydir.cloudfront.net
 0.0.0.0 d1aezk8tun0dhm.cloudfront.net
 0.0.0.0 d1aiciyg0qwvvr.cloudfront.net
+0.0.0.0 d1ap9gbbf77h85.cloudfront.net
 0.0.0.0 d1appgm50chwbg.cloudfront.net
 0.0.0.0 d1aqvw7cn4ydzo.cloudfront.net
 0.0.0.0 d1aukpqf83rqhe.cloudfront.net
@@ -56408,7 +56410,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 counter.ntdvn.net
 0.0.0.0 crmx.eqvn.net
 0.0.0.0 ema.hostvn.net
-0.0.0.0 gamma.cachefly.net
 0.0.0.0 iads.staticscdn.net
 0.0.0.0 la.vietid.net
 0.0.0.0 lamthong.net
@@ -57660,6 +57661,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adpicmedia.net
 0.0.0.0 adservercheck.net
 0.0.0.0 ambientdsp.cachefly.net
+0.0.0.0 gamma.cachefly.net
 0.0.0.0 ak-is2.net
 0.0.0.0 perimeterx.net
 0.0.0.0 aarth.net
@@ -64515,6 +64517,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
 0.0.0.0 lkrv.top
+0.0.0.0 dnn1300.top
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 08088.top
@@ -65768,6 +65771,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jslog.zapps.vn
 0.0.0.0 klick.vn
 0.0.0.0 lavamedia.vn
+0.0.0.0 lio.aiservice.vn
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.mp3.zing.vn
 0.0.0.0 log.news.zing.vn
@@ -65915,6 +65919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.vlr.vn
 0.0.0.0 ads.vovlive.vn
 0.0.0.0 ads.xedoisong.vn
+0.0.0.0 ads.zunia.vn
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 ads8.fpt.vn
 0.0.0.0 adserver.lag.vn
@@ -66207,8 +66212,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
-0.0.0.0 lio.aiservice.vn
-0.0.0.0 ads.zunia.vn
 0.0.0.0 46186911.vtt
 0.0.0.0 80055404.vtt
 0.0.0.0 adservice.google.vu
@@ -69143,6 +69146,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fjhrq.xyz
 0.0.0.0 uuoizbtl.xyz
 0.0.0.0 buoizbtl.xyz
+0.0.0.0 xuoizbtl.xyz
+0.0.0.0 tuoizbtl.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
