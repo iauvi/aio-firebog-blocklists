@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-06T23:06:48.641Z
+# Last modified: 2024-01-07T09:06:50.303Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -1045,6 +1045,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickoutnetwork.care
 0.0.0.0 codegown.care
 0.0.0.0 cryptoecom.care
+0.0.0.0 cryptotrials.care
+0.0.0.0 kurzycz.care
 0.0.0.0 cryptosmoke.care
 0.0.0.0 finvest.care
 0.0.0.0 cryptosplash.care
@@ -2015,6 +2017,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpvuugw.cn
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
+0.0.0.0 bhktalt.cn
+0.0.0.0 szmty.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -24020,6 +24024,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smartapplifly.com
 0.0.0.0 smartappsfly.com
 0.0.0.0 smartlnk.com
+0.0.0.0 smartpicrotation.com
 0.0.0.0 smashnewtab.com
 0.0.0.0 smathe.com
 0.0.0.0 smearedbin.com
@@ -44171,7 +44176,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aws-api.sail-track.com
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 cdn.crowdtwist.com
-0.0.0.0 web1s.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 eventreg.sphdigital.com
 0.0.0.0 ads.hulu.com
@@ -44203,6 +44207,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adcs-ue.myappsget.com
 0.0.0.0 llxads.com
 0.0.0.0 ads.appota.com
+0.0.0.0 distinctrobin.com
 0.0.0.0 0xon2uo9s.com
 0.0.0.0 1frozenthrone1.com
 0.0.0.0 1lyhjhn5p.com
@@ -44407,6 +44412,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 atvqcediho.com
 0.0.0.0 audiblysunny.com
 0.0.0.0 aulseewhie.com
+0.0.0.0 autjaetpxhj.com
 0.0.0.0 avehistoric.com
 0.0.0.0 avgkuvrtuz.com
 0.0.0.0 avjofgasqcu.com
@@ -44623,6 +44629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cumhiwdfoagk.com
 0.0.0.0 curioushingefast.com
 0.0.0.0 cuxdiqagcl.com
+0.0.0.0 cyjprljyvgqeg.com
 0.0.0.0 cynes-gwf.com
 0.0.0.0 czyazwvifoxc.com
 0.0.0.0 daeda-iyk.com
@@ -58543,6 +58550,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yshlor.icu
 0.0.0.0 yutiqf.icu
 0.0.0.0 zigyspv.icu
+0.0.0.0 aojeet.icu
 0.0.0.0 2tyne.icu
 0.0.0.0 6ha03.icu
 0.0.0.0 7nekc.icu
@@ -74697,6 +74705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.helsingborg.se
 0.0.0.0 stats.poddtoppen.se
 0.0.0.0 stats.proff.se
+0.0.0.0 stats2.ehandel.se
 0.0.0.0 statsapi.tiendeo.se
 0.0.0.0 storymedia.se
 0.0.0.0 tagging-service.fotbollskanalen.se
@@ -76623,6 +76632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zys16.top
 0.0.0.0 zzyy17.top
 0.0.0.0 zzyy18.top
+0.0.0.0 lkrv.top
 0.0.0.0 zzyy19.top
 0.0.0.0 zzyy20.top
 0.0.0.0 08088.top
@@ -77917,6 +77927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tc911.vip
 0.0.0.0 yywh.vip
 0.0.0.0 unc0ver.vip
+0.0.0.0 iads.vision
 0.0.0.0 static.accesstrade.vn
 0.0.0.0 ad.org.vn
 0.0.0.0 adnetwork.vn
@@ -78444,6 +78455,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
+0.0.0.0 lio.aiservice.vn
+0.0.0.0 ads.zunia.vn
 0.0.0.0 pg.pampers.com.vn
 0.0.0.0 46186911.vtt
 0.0.0.0 80055404.vtt
@@ -81375,6 +81388,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpzlbv.xyz
 0.0.0.0 zxpvalr.xyz
 0.0.0.0 zzbmxl.xyz
+0.0.0.0 lhzxbp.xyz
+0.0.0.0 kuoizbtl.xyz
+0.0.0.0 ugkpsi.xyz
+0.0.0.0 yfzpxnb.xyz
+0.0.0.0 fjhrq.xyz
+0.0.0.0 uuoizbtl.xyz
+0.0.0.0 buoizbtl.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
