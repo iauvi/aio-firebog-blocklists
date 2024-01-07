@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-07T13:53:57.125Z
+# Last modified: 2024-01-07T23:53:55.859Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -8534,6 +8534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 139271.000webhostapp.com
 0.0.0.0 218321home.com
 0.0.0.0 380040fa679.johncornell.com
+0.0.0.0 497397.com
 0.0.0.0 508000a.com
 0.0.0.0 654375.com
 0.0.0.0 663234.web19.swisscenter.com
@@ -15155,6 +15156,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gabriellecarson.com
 0.0.0.0 gad-lx.com
 0.0.0.0 gadgeteq.com
+0.0.0.0 gadgetgg.com
 0.0.0.0 gadgetsecurity.com
 0.0.0.0 gadgetsonliness.com
 0.0.0.0 gafop.com
@@ -16832,6 +16834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 infonews-au.com
 0.0.0.0 informa-communications.com
 0.0.0.0 informacje-24-waw-pl.000webhostapp.com
+0.0.0.0 informacje-newsy-wp.com
 0.0.0.0 informationscloud.com
 0.0.0.0 infosandiego.wixsite.com
 0.0.0.0 infosectalk.com
@@ -21169,6 +21172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paylibre.com
 0.0.0.0 payment-olx.000webhostapp.com
 0.0.0.0 payment.weshopgadgetson.com
+0.0.0.0 paymutt.com
 0.0.0.0 paypaiza.com
 0.0.0.0 payperdoll.com
 0.0.0.0 payplpm.com
@@ -21481,6 +21485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl.centrumoferty.com
 0.0.0.0 pl.chstp.zzux.com
 0.0.0.0 pl.cube-cologne.com
+0.0.0.0 pl.esrlive.com
 0.0.0.0 pl.freesoftdrink.com
 0.0.0.0 pl.gogle.ygto.com
 0.0.0.0 pl.limitnes.com
@@ -52703,6 +52708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlnted-gb.aoeri.info
 0.0.0.0 vlnted-gb.aoilk.info
 0.0.0.0 vlnted-gb.aoiok.info
+0.0.0.0 vlnted-gb.aoiuf.info
 0.0.0.0 vlnted-gb.asaop.info
 0.0.0.0 vlnted-gb.auiok.info
 0.0.0.0 vlnted-gb.auion.info
@@ -53914,8 +53920,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 stickies.proper.io
 0.0.0.0 www.monitoring.proper.io
 0.0.0.0 adpainter.proper.io
+0.0.0.0 ehash.proper.io
+0.0.0.0 s2s.proper.io
 0.0.0.0 grayscalebtc.io
 0.0.0.0 tracker.cloud.tyk.io
+0.0.0.0 analytics.smile.io
 0.0.0.0 0tomoto-pl.unlockfactory.ir
 0.0.0.0 avaparse.ir
 0.0.0.0 cdn.divantheme.ir
@@ -62446,6 +62455,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 liyakat.online
 0.0.0.0 lng-polska.online
 0.0.0.0 lnpost.ferosh.online
+0.0.0.0 lnpost.fmikab.online
 0.0.0.0 lokposa.online
 0.0.0.0 lomd.laqwer.online
 0.0.0.0 losselver.online
@@ -65550,6 +65560,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.e-zakupy24-7.pl
 0.0.0.0 allegrolokalnie.ekupno24h-7.pl
 0.0.0.0 allegrolokalnie.epay-u24.pl
+0.0.0.0 allegrolokalnie.eplatnosc24h.pl
 0.0.0.0 allegrolokalnie.etransakcje-24.pl
 0.0.0.0 allegrolokalnie.expresspayu-24.pl
 0.0.0.0 allegrolokalnie.ezakupy24-7.pl
@@ -65572,7 +65583,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl21387413.pl
 0.0.0.0 allegrolokalnie.pl-16748oferta.pl
 0.0.0.0 allegrolokalnie.pl-oferta7566.pl
-0.0.0.0 allegrolokalnie.pl-platnosci4216.pl
 0.0.0.0 allegrolokalnie.pl-prywatne-oferty4567.pl
 0.0.0.0 allegrolokalnie.platnosc-oferta.pl
 0.0.0.0 allegrolokalnie.platnosc-payu247.pl
@@ -65710,11 +65720,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 autogielda-ciszak.pl
 0.0.0.0 autogielda-drewniak.pl
 0.0.0.0 autogielda-glownski.pl
+0.0.0.0 autogielda-janczar.pl
+0.0.0.0 autogielda-jastrzebska.pl
+0.0.0.0 autogielda-jenczewski.pl
 0.0.0.0 autogielda-kacperski.pl
 0.0.0.0 autogielda-kalinski.pl
 0.0.0.0 autogielda-karpinski.pl
 0.0.0.0 autogielda-kawicka.pl
 0.0.0.0 autogielda-kedziorek.pl
+0.0.0.0 autogielda-kolodzejczyk.pl
+0.0.0.0 autogielda-koscielny.pl
 0.0.0.0 autogielda-kostka.pl
 0.0.0.0 autogielda-kotulski.pl
 0.0.0.0 autogielda-krukowski.pl
@@ -65731,6 +65746,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 autogielda-pekinski.pl
 0.0.0.0 autogielda-skowyrski.pl
 0.0.0.0 autogielda-slawski.pl
+0.0.0.0 autogielda-staszewska.pl
 0.0.0.0 autogielda-stefaniuk.pl
 0.0.0.0 autogielda-tomanski.pl
 0.0.0.0 autogielda-wojtaszek.pl
@@ -67312,6 +67328,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-oferta-uzytkownika1255374.pl
 0.0.0.0 pl-pay.pl
 0.0.0.0 pl-platnosc-payu.pl
+0.0.0.0 pl-platnosci4215.pl
+0.0.0.0 pl-platnosci4216.pl
+0.0.0.0 pl-platnosci4217.pl
+0.0.0.0 pl-platnosci4218.pl
+0.0.0.0 pl-platnosci4219.pl
+0.0.0.0 pl-platnosci4220.pl
+0.0.0.0 pl-platnosci4666.pl
+0.0.0.0 pl-platnosci407472.pl
 0.0.0.0 pl-prywanta-sprzedaz2137.pl
 0.0.0.0 pl-prywanta-sprzedaz2138.pl
 0.0.0.0 pl-prywanta-sprzedaz2139.pl
@@ -67770,9 +67794,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 skandale-gwiazd.pl
 0.0.0.0 skarzyn.ladislavaholubova.pl
 0.0.0.0 sklep-czarnecki.pl
+0.0.0.0 sklep-jankowski.pl
+0.0.0.0 sklep-kaczmarek.pl
 0.0.0.0 sklep-kowalski.pl
+0.0.0.0 sklep-mazur.pl
+0.0.0.0 sklep-nowacki.pl
 0.0.0.0 sklep-nowak.pl
 0.0.0.0 sklep-pgg24.pl
+0.0.0.0 sklep-wisniewski.pl
 0.0.0.0 sklep-wojcik.pl
 0.0.0.0 sklep-zielinski.pl
 0.0.0.0 sklep.komis-samochody.pl
@@ -68083,6 +68112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 waluteo.pl
 0.0.0.0 wapster.malutki.pl
 0.0.0.0 wapster.pl
+0.0.0.0 wariaci-drogowi.pl
 0.0.0.0 warkonasklep.pl
 0.0.0.0 warshaw.pl
 0.0.0.0 wartoba.pl
@@ -70542,6 +70572,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 furtherl.sbs
 0.0.0.0 gamines.sbs
 0.0.0.0 gck734852.sbs
+0.0.0.0 gdtui.sbs
 0.0.0.0 gelatine.sbs
 0.0.0.0 geldn.sbs
 0.0.0.0 genitl.sbs
@@ -70625,6 +70656,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 issuable.sbs
 0.0.0.0 itaconic.sbs
 0.0.0.0 itonidid.sbs
+0.0.0.0 iuwfoe.sbs
 0.0.0.0 ivemsy.sbs
 0.0.0.0 iwforw.sbs
 0.0.0.0 j-v2.sbs
@@ -70750,6 +70782,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 netew.sbs
 0.0.0.0 netiov9-7i.sbs
 0.0.0.0 netks.sbs
+0.0.0.0 netysv.sbs
 0.0.0.0 neul.sbs
 0.0.0.0 neurt.sbs
 0.0.0.0 newig-38u.sbs
@@ -70770,6 +70803,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nouveaux.sbs
 0.0.0.0 nplew.sbs
 0.0.0.0 nryxm.sbs
+0.0.0.0 ns5-37.sbs
 0.0.0.0 ns-7b-62.sbs
 0.0.0.0 numerous.sbs
 0.0.0.0 nw-urb.sbs
@@ -70966,6 +71000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ugeowk.sbs
 0.0.0.0 ugeps.sbs
 0.0.0.0 ugly-visaged.sbs
+0.0.0.0 uletiwe.sbs
 0.0.0.0 undonated.sbs
 0.0.0.0 unec27-wm.sbs
 0.0.0.0 unfreely.sbs

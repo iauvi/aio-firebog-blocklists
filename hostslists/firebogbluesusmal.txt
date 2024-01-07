@@ -3,7 +3,7 @@
 # Description: All the blue suspicious and malicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-07T13:48:58.370Z
+# Last modified: 2024-01-07T23:48:56.038Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -73626,8 +73626,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 stickies.proper.io
 0.0.0.0 www.monitoring.proper.io
 0.0.0.0 adpainter.proper.io
+0.0.0.0 ehash.proper.io
+0.0.0.0 s2s.proper.io
 0.0.0.0 grayscalebtc.io
 0.0.0.0 tracker.cloud.tyk.io
+0.0.0.0 analytics.smile.io
 0.0.0.0 190854.8b.io
 0.0.0.0 217651.8b.io
 0.0.0.0 48g24p.codesandbox.io

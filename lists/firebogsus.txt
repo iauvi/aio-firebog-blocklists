@@ -3,7 +3,7 @@
 ! Description: All the blue and green suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT License
-! Last modified: 2024-01-07T13:53:57.125Z
+! Last modified: 2024-01-07T23:53:55.859Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -8519,6 +8519,7 @@
 ||139271.000webhostapp.com^
 ||218321home.com^
 ||380040fa679.johncornell.com^
+||497397.com^
 ||508000a.com^
 ||654375.com^
 ||663234.web19.swisscenter.com^
@@ -15140,6 +15141,7 @@
 ||gabriellecarson.com^
 ||gad-lx.com^
 ||gadgeteq.com^
+||gadgetgg.com^
 ||gadgetsecurity.com^
 ||gadgetsonliness.com^
 ||gafop.com^
@@ -16817,6 +16819,7 @@
 ||infonews-au.com^
 ||informa-communications.com^
 ||informacje-24-waw-pl.000webhostapp.com^
+||informacje-newsy-wp.com^
 ||informationscloud.com^
 ||infosandiego.wixsite.com^
 ||infosectalk.com^
@@ -21154,6 +21157,7 @@
 ||paylibre.com^
 ||payment-olx.000webhostapp.com^
 ||payment.weshopgadgetson.com^
+||paymutt.com^
 ||paypaiza.com^
 ||payperdoll.com^
 ||payplpm.com^
@@ -21466,6 +21470,7 @@
 ||pl.centrumoferty.com^
 ||pl.chstp.zzux.com^
 ||pl.cube-cologne.com^
+||pl.esrlive.com^
 ||pl.freesoftdrink.com^
 ||pl.gogle.ygto.com^
 ||pl.limitnes.com^
@@ -52689,6 +52694,7 @@
 ||vlnted-gb.aoeri.info^
 ||vlnted-gb.aoilk.info^
 ||vlnted-gb.aoiok.info^
+||vlnted-gb.aoiuf.info^
 ||vlnted-gb.asaop.info^
 ||vlnted-gb.auiok.info^
 ||vlnted-gb.auion.info^
@@ -53900,8 +53906,11 @@
 ||stickies.proper.io^
 ||www.monitoring.proper.io^
 ||adpainter.proper.io^
+||ehash.proper.io^
+||s2s.proper.io^
 ||grayscalebtc.io^
 ||tracker.cloud.tyk.io^
+||analytics.smile.io^
 ||0tomoto-pl.unlockfactory.ir^
 ||avaparse.ir^
 ||cdn.divantheme.ir^
@@ -62432,6 +62441,7 @@
 ||liyakat.online^
 ||lng-polska.online^
 ||lnpost.ferosh.online^
+||lnpost.fmikab.online^
 ||lokposa.online^
 ||lomd.laqwer.online^
 ||losselver.online^
@@ -65536,6 +65546,7 @@
 ||allegrolokalnie.e-zakupy24-7.pl^
 ||allegrolokalnie.ekupno24h-7.pl^
 ||allegrolokalnie.epay-u24.pl^
+||allegrolokalnie.eplatnosc24h.pl^
 ||allegrolokalnie.etransakcje-24.pl^
 ||allegrolokalnie.expresspayu-24.pl^
 ||allegrolokalnie.ezakupy24-7.pl^
@@ -65558,7 +65569,6 @@
 ||allegrolokalnie.pl21387413.pl^
 ||allegrolokalnie.pl-16748oferta.pl^
 ||allegrolokalnie.pl-oferta7566.pl^
-||allegrolokalnie.pl-platnosci4216.pl^
 ||allegrolokalnie.pl-prywatne-oferty4567.pl^
 ||allegrolokalnie.platnosc-oferta.pl^
 ||allegrolokalnie.platnosc-payu247.pl^
@@ -65696,11 +65706,16 @@
 ||autogielda-ciszak.pl^
 ||autogielda-drewniak.pl^
 ||autogielda-glownski.pl^
+||autogielda-janczar.pl^
+||autogielda-jastrzebska.pl^
+||autogielda-jenczewski.pl^
 ||autogielda-kacperski.pl^
 ||autogielda-kalinski.pl^
 ||autogielda-karpinski.pl^
 ||autogielda-kawicka.pl^
 ||autogielda-kedziorek.pl^
+||autogielda-kolodzejczyk.pl^
+||autogielda-koscielny.pl^
 ||autogielda-kostka.pl^
 ||autogielda-kotulski.pl^
 ||autogielda-krukowski.pl^
@@ -65717,6 +65732,7 @@
 ||autogielda-pekinski.pl^
 ||autogielda-skowyrski.pl^
 ||autogielda-slawski.pl^
+||autogielda-staszewska.pl^
 ||autogielda-stefaniuk.pl^
 ||autogielda-tomanski.pl^
 ||autogielda-wojtaszek.pl^
@@ -67298,6 +67314,14 @@
 ||pl-oferta-uzytkownika1255374.pl^
 ||pl-pay.pl^
 ||pl-platnosc-payu.pl^
+||pl-platnosci4215.pl^
+||pl-platnosci4216.pl^
+||pl-platnosci4217.pl^
+||pl-platnosci4218.pl^
+||pl-platnosci4219.pl^
+||pl-platnosci4220.pl^
+||pl-platnosci4666.pl^
+||pl-platnosci407472.pl^
 ||pl-prywanta-sprzedaz2137.pl^
 ||pl-prywanta-sprzedaz2138.pl^
 ||pl-prywanta-sprzedaz2139.pl^
@@ -67756,9 +67780,14 @@
 ||skandale-gwiazd.pl^
 ||skarzyn.ladislavaholubova.pl^
 ||sklep-czarnecki.pl^
+||sklep-jankowski.pl^
+||sklep-kaczmarek.pl^
 ||sklep-kowalski.pl^
+||sklep-mazur.pl^
+||sklep-nowacki.pl^
 ||sklep-nowak.pl^
 ||sklep-pgg24.pl^
+||sklep-wisniewski.pl^
 ||sklep-wojcik.pl^
 ||sklep-zielinski.pl^
 ||sklep.komis-samochody.pl^
@@ -68069,6 +68098,7 @@
 ||waluteo.pl^
 ||wapster.malutki.pl^
 ||wapster.pl^
+||wariaci-drogowi.pl^
 ||warkonasklep.pl^
 ||warshaw.pl^
 ||wartoba.pl^
@@ -70528,6 +70558,7 @@
 ||furtherl.sbs^
 ||gamines.sbs^
 ||gck734852.sbs^
+||gdtui.sbs^
 ||gelatine.sbs^
 ||geldn.sbs^
 ||genitl.sbs^
@@ -70611,6 +70642,7 @@
 ||issuable.sbs^
 ||itaconic.sbs^
 ||itonidid.sbs^
+||iuwfoe.sbs^
 ||ivemsy.sbs^
 ||iwforw.sbs^
 ||j-v2.sbs^
@@ -70736,6 +70768,7 @@
 ||netew.sbs^
 ||netiov9-7i.sbs^
 ||netks.sbs^
+||netysv.sbs^
 ||neul.sbs^
 ||neurt.sbs^
 ||newig-38u.sbs^
@@ -70756,6 +70789,7 @@
 ||nouveaux.sbs^
 ||nplew.sbs^
 ||nryxm.sbs^
+||ns5-37.sbs^
 ||ns-7b-62.sbs^
 ||numerous.sbs^
 ||nw-urb.sbs^
@@ -70952,6 +70986,7 @@
 ||ugeowk.sbs^
 ||ugeps.sbs^
 ||ugly-visaged.sbs^
+||uletiwe.sbs^
 ||undonated.sbs^
 ||unec27-wm.sbs^
 ||unfreely.sbs^
