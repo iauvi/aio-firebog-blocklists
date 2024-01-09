@@ -3,7 +3,7 @@
 # Description: All the blue/green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-09T10:08:40.475Z
+# Last modified: 2024-01-09T16:15:28.175Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -2212,6 +2212,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
 0.0.0.0 judthih.cn
+0.0.0.0 szmdp.cn
+0.0.0.0 ljhbhy.cn
+0.0.0.0 adtx2.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -3349,7 +3352,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adgrx.com
 0.0.0.0 adhitzads.com
 0.0.0.0 adhood.com
-0.0.0.0 adjust.com
 0.0.0.0 admarvel.com
 0.0.0.0 admedo.com
 0.0.0.0 admost.com
@@ -4664,6 +4666,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.zmags.com
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 log-collector.svctr.zynga.com
+0.0.0.0 dwvbfnqrbif.com
+0.0.0.0 despectclogwyn.com
 0.0.0.0 justey.com
 0.0.0.0 hrkplkgjs.com
 0.0.0.0 glowedhyalins.com
@@ -17409,6 +17413,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 liquidatelusciousharriet.com
 0.0.0.0 liquorsref.com
 0.0.0.0 lirateblister.com
+0.0.0.0 list-ads.com
 0.0.0.0 listguineaelementary.com
 0.0.0.0 listlessoftenkernel.com
 0.0.0.0 liteappmagazin.com
@@ -29941,6 +29946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sync.programmatica.com
 0.0.0.0 tracker.smart-bdash.com
 0.0.0.0 trk.a-dsp.com
 0.0.0.0 metrics.plaid.com
@@ -33156,6 +33162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 api-analytics-prd.pelcro.com
 0.0.0.0 api.wipmania.com
+0.0.0.0 app.adjust.com
 0.0.0.0 apple.www.letv.com
 0.0.0.0 applets.ebxcdn.com
 0.0.0.0 attributiontrackingga.googlecode.com
@@ -41089,6 +41096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.goanimate.com
 0.0.0.0 adtrack.c-sharpcorner.com
 0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 s2s.adjust.com
 0.0.0.0 stats.newsweek.com
 0.0.0.0 track.shiksha.com
 0.0.0.0 trace.svc.ui.com
@@ -47581,6 +47589,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.acvauctions.com
 0.0.0.0 go.adeccousa.com
 0.0.0.0 go.adinstruments.com
+0.0.0.0 go.adjust.com
 0.0.0.0 go.advancedexercise.com
 0.0.0.0 go.advancedrecoverysystems.com
 0.0.0.0 go.adventure-life.com
@@ -86132,6 +86141,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 probabilidades.net
 0.0.0.0 spublicidad.net
 0.0.0.0 ver-pelis.net
+0.0.0.0 cchbdata.net
+0.0.0.0 s.ccsyncuuid.net
 0.0.0.0 m-setup.net
 0.0.0.0 bc-click.net
 0.0.0.0 bc-news.net
@@ -94998,6 +95009,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobiads.ru
 0.0.0.0 tapstat.ru
 0.0.0.0 wapstart.ru
+0.0.0.0 sync.opendsp.ru
 0.0.0.0 1cpbac.ru
 0.0.0.0 code.r5hsid.ru
 0.0.0.0 widget.sparrow.ru
@@ -95119,6 +95131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 warlog.ru
 0.0.0.0 webvisor.ru
 0.0.0.0 yadro.ru
+0.0.0.0 analytics.msk1.ru
 0.0.0.0 stat.ntv.ru
 0.0.0.0 a.mts.ru
 0.0.0.0 stracker.rmg.ru
@@ -96835,6 +96848,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 vt4dlx.ru
 0.0.0.0 xifg6h.ru
 0.0.0.0 zfvklk.ru
+0.0.0.0 exad.smi2.ru
+0.0.0.0 tgb.hsmedia.ru
 0.0.0.0 market-backend.api.2gis.ru
 0.0.0.0 sharemefiles.ru
 0.0.0.0 oba.rus-km.ru
@@ -98434,6 +98449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 admax.space
 0.0.0.0 cryptoad.space
 0.0.0.0 cryptoads.space
+0.0.0.0 sync.adspend.space
 0.0.0.0 stat.uitools.space
 0.0.0.0 fortnight.space
 0.0.0.0 idat.production.ippen.space
@@ -104561,6 +104577,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ui8l2.xyz
 0.0.0.0 uzelzfnj.xyz
 0.0.0.0 bzelzfnj.xyz
+0.0.0.0 xzelzfnj.xyz
+0.0.0.0 tzelzfnj.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
