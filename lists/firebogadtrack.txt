@@ -3,7 +3,7 @@
 ! Description: All the blue/green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT License
-! Last modified: 2024-01-10T04:08:30.465Z
+! Last modified: 2024-01-10T07:08:25.924Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2240,6 +2240,7 @@
 ||zuugfj.cn^
 ||zyzo.cn^
 ||jwfesuk.cn^
+||szmmb.cn^
 ||173e.cn^
 ||2pwja.cn^
 ||331qka.cn^
@@ -82631,6 +82632,7 @@ analytics-*.aasaam.com
 ||adtima-common.zascdn.me^
 ||adtima-static.zascdn.me^
 ||adtima-video.zascdn.me^
+||analytics.zapps.me^
 ||api.widget.zalo.me^
 ||button-call.zalo.me^
 ||button-follow.zalo.me^
@@ -82645,6 +82647,7 @@ analytics-*.aasaam.com
 ||page.widget.zalo.me^
 ||quangcao-*.epicdn.me^
 ||stats.hc.score.dmp.zalo.me^
+||tech.zapps.me^
 ||widget.chat.zalo.me^
 ||analytic.thuanbui.me^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
@@ -82657,7 +82660,6 @@ analytics-*.aasaam.com
 ||s.zzcdn.me^
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me^
-||tech.zapps.me^
 ||ttus.tructiepbongda.me^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
@@ -82736,7 +82738,6 @@ analytics-*.aasaam.com
 ||ads.livetv705.me^
 ||ads.livetv708.me^
 ||ads.livetv723.me^
-||analytics.zapps.me^
 ||quangcao-thanhnien.epicdn.me^
 ||log-baodauthau.epicdn.me^
 ||log-baogialai.epicdn.me^
@@ -86816,6 +86817,7 @@ analytics-*.aasaam.com
 ||17123.net^
 ||smbx8.net^
 ||xn--1qwynp09f.net^
+||2023sb.net^
 ||2aqr.net^
 ||abcxs.net^
 ||cdn-go.net^
@@ -91968,6 +91970,7 @@ analytics-*.aasaam.com
 ||v9banners-com.cdn.ampproject.org^
 ||adtima.org^
 ||ketquaxosotoancau.org^
+||log.lichviet.org^
 ||tracking.tvet-vietnam.org^
 ||fastjs.org^
 ||3400.org^
@@ -92081,7 +92084,6 @@ analytics-*.aasaam.com
 ||track.nationalgunrights.org^
 ||webvisor.org^
 ||sharedid.org^
-||log.lichviet.org^
 ||adpost.org^
 ||ads.x-cdn.org^
 ||ads1.opensubtitles.org^
@@ -101840,6 +101842,7 @@ analytics-*.aasaam.com
 ||matomo.vietlottsms.vn^
 ||mautic-learn.teky.edu.vn^
 ||mautic.teky.edu.vn^
+||measure.vndirect.com.vn^
 ||menu.metu.vn^
 ||microad.vn^
 ||monitor.teko.vn^
@@ -101874,6 +101877,7 @@ analytics-*.aasaam.com
 ||s.soha.vn^
 ||s1.zzz.vn^
 ||s6.textlink.vn^
+||sentry.mediacdn.vn^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
@@ -101981,7 +101985,6 @@ analytics-*.aasaam.com
 ||mautic.vmax.vn^
 ||piwik.rta.vn^
 ||piwik.tienhiep.com.vn^
-||sentry.mediacdn.vn^
 ||pg.pampers.com.vn^
 ||smetrics.citibank.com.vn^
 ||vcmedia.vn^
@@ -104961,6 +104964,9 @@ analytics-*.aasaam.com
 ||kymahuxv.xyz^
 ||nzlrfdv.xyz^
 ||mdezco.xyz^
+||1fzjy.xyz^
+||uymahuxv.xyz^
+||bymahuxv.xyz^
 ||01v62.xyz^
 ||1205qitiao2022.xyz^
 ||1267a.xyz^

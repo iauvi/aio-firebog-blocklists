@@ -3,7 +3,7 @@
 # Description: All the blue/green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-10T04:08:30.465Z
+# Last modified: 2024-01-10T07:08:25.924Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -2218,6 +2218,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
 0.0.0.0 jwfesuk.cn
+0.0.0.0 szmmb.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -82401,6 +82402,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 adtima-video.zascdn.me
+0.0.0.0 analytics.zapps.me
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 button-call.zalo.me
 0.0.0.0 button-follow.zalo.me
@@ -82413,6 +82415,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mplaylist-ads.zascdn.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 stats.hc.score.dmp.zalo.me
+0.0.0.0 tech.zapps.me
 0.0.0.0 widget.chat.zalo.me
 0.0.0.0 analytic.thuanbui.me
 0.0.0.0 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -82425,7 +82428,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.zzcdn.me
 0.0.0.0 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 0.0.0.0 t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
-0.0.0.0 tech.zapps.me
 0.0.0.0 ttus.tructiepbongda.me
 0.0.0.0 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
@@ -82504,7 +82506,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.livetv705.me
 0.0.0.0 ads.livetv708.me
 0.0.0.0 ads.livetv723.me
-0.0.0.0 analytics.zapps.me
 0.0.0.0 quangcao-thanhnien.epicdn.me
 0.0.0.0 log-baodauthau.epicdn.me
 0.0.0.0 log-baogialai.epicdn.me
@@ -86558,6 +86559,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 17123.net
 0.0.0.0 smbx8.net
 0.0.0.0 xn--1qwynp09f.net
+0.0.0.0 2023sb.net
 0.0.0.0 2aqr.net
 0.0.0.0 abcxs.net
 0.0.0.0 cdn-go.net
@@ -91705,6 +91707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v9banners-com.cdn.ampproject.org
 0.0.0.0 adtima.org
 0.0.0.0 ketquaxosotoancau.org
+0.0.0.0 log.lichviet.org
 0.0.0.0 tracking.tvet-vietnam.org
 0.0.0.0 fastjs.org
 0.0.0.0 3400.org
@@ -91818,7 +91821,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.nationalgunrights.org
 0.0.0.0 webvisor.org
 0.0.0.0 sharedid.org
-0.0.0.0 log.lichviet.org
 0.0.0.0 adpost.org
 0.0.0.0 ads.x-cdn.org
 0.0.0.0 ads1.opensubtitles.org
@@ -101510,6 +101512,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 matomo.vietlottsms.vn
 0.0.0.0 mautic-learn.teky.edu.vn
 0.0.0.0 mautic.teky.edu.vn
+0.0.0.0 measure.vndirect.com.vn
 0.0.0.0 menu.metu.vn
 0.0.0.0 microad.vn
 0.0.0.0 monitor.teko.vn
@@ -101544,6 +101547,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.soha.vn
 0.0.0.0 s1.zzz.vn
 0.0.0.0 s6.textlink.vn
+0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 server.zmedia.vn
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 sharks.vn
@@ -101651,7 +101655,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
-0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 pg.pampers.com.vn
 0.0.0.0 smetrics.citibank.com.vn
 0.0.0.0 vcmedia.vn
@@ -104623,6 +104626,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 kymahuxv.xyz
 0.0.0.0 nzlrfdv.xyz
 0.0.0.0 mdezco.xyz
+0.0.0.0 1fzjy.xyz
+0.0.0.0 uymahuxv.xyz
+0.0.0.0 bymahuxv.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
