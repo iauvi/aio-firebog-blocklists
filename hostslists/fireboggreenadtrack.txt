@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-10T01:06:40.493Z
+# Last modified: 2024-01-10T04:06:47.896Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -60787,6 +60787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cryptox-ads.io
 0.0.0.0 t13.io
 0.0.0.0 pocpoc.io
+0.0.0.0 event.dfinery.io
 0.0.0.0 adstage.io
 0.0.0.0 an.cliphub.io
 0.0.0.0 at.adtech.redventures.io
@@ -62418,6 +62419,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.livetv705.me
 0.0.0.0 ads.livetv708.me
 0.0.0.0 ads.livetv723.me
+0.0.0.0 analytics.zapps.me
 0.0.0.0 quangcao-thanhnien.epicdn.me
 0.0.0.0 log-baodauthau.epicdn.me
 0.0.0.0 log-baogialai.epicdn.me
@@ -70774,6 +70776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.nationalgunrights.org
 0.0.0.0 webvisor.org
 0.0.0.0 sharedid.org
+0.0.0.0 log.lichviet.org
 0.0.0.0 adpost.org
 0.0.0.0 ads.x-cdn.org
 0.0.0.0 ads1.opensubtitles.org
@@ -78577,6 +78580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
+0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 pg.pampers.com.vn
 0.0.0.0 46186911.vtt
 0.0.0.0 80055404.vtt
