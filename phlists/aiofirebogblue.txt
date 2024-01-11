@@ -3,7 +3,7 @@
 # Description: All the blue sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-11T13:33:18.798Z
+# Last modified: 2024-01-11T16:33:20.636Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -20109,6 +20109,8 @@ NetmonCanaryRdfe.footprintdns.com
 netmonCanaryRdfe.footprintdns.com
 pulseinsights.com
 pixel.getchute.com
+jssdkcdns.mparticle.com
+identity.mparticle.com
 aaaecommerce.com
 trustpulse.com
 yeay.com
@@ -20626,6 +20628,53 @@ braze.com
 appboycdn.com
 brcdn.com
 actioniq.com
+www.mparticle.com
+acceleration.mparticle.com
+identity.ae1.mparticle.com
+nativesdks.ae1.mparticle.com
+s2s.ae1.mparticle.com
+api.mparticle.com
+app.mparticle.com
+rta.auth.mparticle.com
+webtask.auth.mparticle.com
+identity.aw2.mparticle.com
+config2.mparticle.com
+config2-origin.mparticle.com
+consul-us-west-1.mparticle.com
+cookiesync.mparticle.com
+dm257.mparticle.com
+nativesdks.eu1.mparticle.com
+s2s.eu1.mparticle.com
+events.mparticle.com
+api.gk.mparticle.com
+api-internal.gk.mparticle.com
+go.mparticle.com
+hello.mparticle.com
+home.mparticle.com
+idsync.mparticle.com
+jssdk.mparticle.com
+jssdkcdn.mparticle.com
+jssdks.mparticle.com
+jssdks-edge.mparticle.com
+jssdks-global.mparticle.com
+kafka-integration.mparticle.com
+looker.mparticle.com
+email.mg.mparticle.com
+mp-ops-test.mparticle.com
+nativesdks.mparticle.com
+opengdpr.mparticle.com
+opstest.mparticle.com
+pixels.mparticle.com
+looker.prod.mparticle.com
+rdp.prod.mparticle.com
+s2s.mparticle.com
+s2s-diag.mparticle.com
+sales.mparticle.com
+sonarqube.mparticle.com
+static.mparticle.com
+test.mparticle.com
+dkaufman.testing.mparticle.com
+zookeeper-integration.mparticle.com
 quantifind.com
 os.fandango.com
 tritondigital.com
@@ -27283,7 +27332,6 @@ moviesmo.com
 movilanka.com
 movistarnicaragua.com
 mp3youg.com
-mparticle.com
 mpeasylink.com
 mplxtms.com
 mpnrs.com

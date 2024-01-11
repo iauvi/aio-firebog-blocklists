@@ -3,7 +3,7 @@
 # Description: All the blue sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-11T13:33:18.798Z
+# Last modified: 2024-01-11T16:33:20.636Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -20123,6 +20123,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 netmonCanaryRdfe.footprintdns.com
 0.0.0.0 pulseinsights.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 jssdkcdns.mparticle.com
+0.0.0.0 identity.mparticle.com
 0.0.0.0 aaaecommerce.com
 0.0.0.0 trustpulse.com
 0.0.0.0 yeay.com
@@ -20640,6 +20642,53 @@ ff02::3 ip6-allhosts
 0.0.0.0 appboycdn.com
 0.0.0.0 brcdn.com
 0.0.0.0 actioniq.com
+0.0.0.0 www.mparticle.com
+0.0.0.0 acceleration.mparticle.com
+0.0.0.0 identity.ae1.mparticle.com
+0.0.0.0 nativesdks.ae1.mparticle.com
+0.0.0.0 s2s.ae1.mparticle.com
+0.0.0.0 api.mparticle.com
+0.0.0.0 app.mparticle.com
+0.0.0.0 rta.auth.mparticle.com
+0.0.0.0 webtask.auth.mparticle.com
+0.0.0.0 identity.aw2.mparticle.com
+0.0.0.0 config2.mparticle.com
+0.0.0.0 config2-origin.mparticle.com
+0.0.0.0 consul-us-west-1.mparticle.com
+0.0.0.0 cookiesync.mparticle.com
+0.0.0.0 dm257.mparticle.com
+0.0.0.0 nativesdks.eu1.mparticle.com
+0.0.0.0 s2s.eu1.mparticle.com
+0.0.0.0 events.mparticle.com
+0.0.0.0 api.gk.mparticle.com
+0.0.0.0 api-internal.gk.mparticle.com
+0.0.0.0 go.mparticle.com
+0.0.0.0 hello.mparticle.com
+0.0.0.0 home.mparticle.com
+0.0.0.0 idsync.mparticle.com
+0.0.0.0 jssdk.mparticle.com
+0.0.0.0 jssdkcdn.mparticle.com
+0.0.0.0 jssdks.mparticle.com
+0.0.0.0 jssdks-edge.mparticle.com
+0.0.0.0 jssdks-global.mparticle.com
+0.0.0.0 kafka-integration.mparticle.com
+0.0.0.0 looker.mparticle.com
+0.0.0.0 email.mg.mparticle.com
+0.0.0.0 mp-ops-test.mparticle.com
+0.0.0.0 nativesdks.mparticle.com
+0.0.0.0 opengdpr.mparticle.com
+0.0.0.0 opstest.mparticle.com
+0.0.0.0 pixels.mparticle.com
+0.0.0.0 looker.prod.mparticle.com
+0.0.0.0 rdp.prod.mparticle.com
+0.0.0.0 s2s.mparticle.com
+0.0.0.0 s2s-diag.mparticle.com
+0.0.0.0 sales.mparticle.com
+0.0.0.0 sonarqube.mparticle.com
+0.0.0.0 static.mparticle.com
+0.0.0.0 test.mparticle.com
+0.0.0.0 dkaufman.testing.mparticle.com
+0.0.0.0 zookeeper-integration.mparticle.com
 0.0.0.0 quantifind.com
 0.0.0.0 os.fandango.com
 0.0.0.0 tritondigital.com
@@ -27297,7 +27346,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 movilanka.com
 0.0.0.0 movistarnicaragua.com
 0.0.0.0 mp3youg.com
-0.0.0.0 mparticle.com
 0.0.0.0 mpeasylink.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mpnrs.com
