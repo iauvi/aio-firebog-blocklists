@@ -3,7 +3,7 @@
 ! Description: All the green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT License
-! Last modified: 2024-01-12T16:15:27.256Z
+! Last modified: 2024-01-12T22:15:23.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2165,6 +2165,7 @@
 ||abe1.cn^
 ||actrqdr.cn^
 ||adtx2.cn^
+||aknusp.cn^
 ||albsgdq.cn^
 ||anhlnnm.cn^
 ||aokkwzg.cn^
@@ -2210,6 +2211,7 @@
 ||fmvbyji.cn^
 ||foizico.cn^
 ||fortxfq.cn^
+||fwffa.cn^
 ||fzgetdy.cn^
 ||gaopinoa.cn^
 ||gejhhh.cn^
@@ -2274,6 +2276,7 @@
 ||nhcdn.cn^
 ||njppuaj.cn^
 ||njrnwan.cn^
+||ogouawc.cn^
 ||otbeksf.cn^
 ||pdweoyw.cn^
 ||pqjeoqa.cn^
@@ -2350,9 +2353,6 @@
 ||zpvuugw.cn^
 ||zuugfj.cn^
 ||zyzo.cn^
-||fwffa.cn^
-||ogouawc.cn^
-||aknusp.cn^
 ||173e.cn^
 ||2pwja.cn^
 ||331qka.cn^
@@ -34027,7 +34027,15 @@ inapps.appsflyersdk.com^
 ||eventgw.twilio.com^
 ||event-search.jorte.com^
 ||ad-log-upload-os.hoyoverse.com^
+||apm-log-upload-os.hoyoverse.com^
+||devlog-upload-os.hoyoverse.com^
+||hkrpg-log-upload-os.hoyoverse.com^
 ||log-upload-os.hoyoverse.com^
+||minor-api-os.hoyoverse.com^
+||overseauspider.yuanshen.com^
+||sentry.eks.hoyoverse.com^
+||sg-public-data-api.hoyoverse.com^
+||ys-log-upload-os.hoyoverse.com^
 ||analytics.studiodesignapp.com^
 ||trusted-collector-bk.tmocce.com^
 ||collect.babybus.com^
@@ -39590,6 +39598,7 @@ inapps.appsflyersdk.com^
 ||jingxuanjingyan.com^
 ||jmhngn.com^
 ||jnkmhn.com^
+||jnwpzq.com^
 ||kaezakkjt.com^
 ||kbzs88.com^
 ||kdgjsf.com^
@@ -39645,6 +39654,7 @@ inapps.appsflyersdk.com^
 ||uuishsa.com^
 ||v34s6r.com^
 ||v44e.com^
+||vainanalyst.com^
 ||valerieavisnba.com^
 ||valerieurania.com^
 ||vdggsd001.com^
@@ -39682,8 +39692,6 @@ inapps.appsflyersdk.com^
 ||ysxt9.com^
 ||z0a1b2c3d4.com^
 ||zhongfumzzew.com^
-||jnwpzq.com^
-||vainanalyst.com^
 ||027dir.com^
 ||053h94.com^
 ||085cczz.com^
@@ -62007,6 +62015,7 @@ analytics-*.aasaam.com
 ||kqbrgl.icu^
 ||kqvvqv.icu^
 ||kshrsf.icu^
+||leizylb.icu^
 ||mads7.icu^
 ||mcds7.icu^
 ||mcds9.icu^
@@ -62047,6 +62056,7 @@ analytics-*.aasaam.com
 ||twj6s.icu^
 ||uakxkb.icu^
 ||udb3n.icu^
+||ugbler.icu^
 ||uidwyx.icu^
 ||uiszwh.icu^
 ||ukjwyv.icu^
@@ -62068,8 +62078,6 @@ analytics-*.aasaam.com
 ||yshlor.icu^
 ||yutiqf.icu^
 ||zigyspv.icu^
-||ugbler.icu^
-||leizylb.icu^
 ||2tyne.icu^
 ||6ha03.icu^
 ||7nekc.icu^
@@ -85883,6 +85891,7 @@ analytics-*.aasaam.com
 ||bbfnrn.xyz^
 ||bbrnpj.xyz^
 ||bctxtl.xyz^
+||bdjdpyrt.xyz^
 ||bdlexn.xyz^
 ||bdsahkln.xyz^
 ||bebohjhh.xyz^
@@ -85955,6 +85964,7 @@ analytics-*.aasaam.com
 ||dcdglb.xyz^
 ||ddvoht.xyz^
 ||deanth.xyz^
+||df63x.xyz^
 ||dfninp.xyz^
 ||dfxvkgz.xyz^
 ||dhgfhedxx.xyz^
@@ -86067,6 +86077,7 @@ analytics-*.aasaam.com
 ||jppxnhe.xyz^
 ||jqtkzuco.xyz^
 ||jqvajfvs.xyz^
+||jsjtjj.xyz^
 ||jspqhh.xyz^
 ||julefhgu.xyz^
 ||juljrd.xyz^
@@ -86075,7 +86086,9 @@ analytics-*.aasaam.com
 ||jxpjlb.xyz^
 ||jzlso.xyz^
 ||kafuzcxr.xyz^
+||kbayke.xyz^
 ||kbbrptv.xyz^
+||kdjdpyrt.xyz^
 ||kdsahkln.xyz^
 ||kebohjhh.xyz^
 ||kekmhvbb.xyz^
@@ -86128,6 +86141,7 @@ analytics-*.aasaam.com
 ||lfhnzbj.xyz^
 ||lhtnuop.xyz^
 ||lhzxbp.xyz^
+||ljpbtjq.xyz^
 ||lkdybkwi.xyz^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
@@ -86150,6 +86164,7 @@ analytics-*.aasaam.com
 ||mafuzcxr.xyz^
 ||mbfhwag.xyz^
 ||mdezco.xyz^
+||mdjdpyrt.xyz^
 ||mdsahkln.xyz^
 ||mebohjhh.xyz^
 ||mekmhvbb.xyz^
@@ -86317,6 +86332,7 @@ analytics-*.aasaam.com
 ||tafuzcxr.xyz^
 ||tbdwtn.xyz^
 ||tcvmtp.xyz^
+||tdjdpyrt.xyz^
 ||tdsahkln.xyz^
 ||tebohjhh.xyz^
 ||tekmhvbb.xyz^
@@ -86368,6 +86384,7 @@ analytics-*.aasaam.com
 ||uavejnys.xyz^
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
+||udjdpyrt.xyz^
 ||udsahkln.xyz^
 ||uebipacy.xyz^
 ||uebohjhh.xyz^
@@ -86445,6 +86462,7 @@ analytics-*.aasaam.com
 ||xcholvbc.xyz^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
+||xdjdpyrt.xyz^
 ||xdsahkln.xyz^
 ||xebohjhh.xyz^
 ||xekmhvbb.xyz^
@@ -86517,16 +86535,6 @@ analytics-*.aasaam.com
 ||zrljzgs.xyz^
 ||zxpvalr.xyz^
 ||zzbmxl.xyz^
-||kdjdpyrt.xyz^
-||jsjtjj.xyz^
-||ljpbtjq.xyz^
-||kbayke.xyz^
-||df63x.xyz^
-||udjdpyrt.xyz^
-||bdjdpyrt.xyz^
-||xdjdpyrt.xyz^
-||tdjdpyrt.xyz^
-||mdjdpyrt.xyz^
 ||01v62.xyz^
 ||1205qitiao2022.xyz^
 ||1267a.xyz^

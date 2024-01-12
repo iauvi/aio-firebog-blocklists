@@ -3,7 +3,7 @@
 # Description: All the advertising sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-12T16:15:17.367Z
+# Last modified: 2024-01-12T22:15:13.278Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -1931,6 +1931,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abe1.cn
 0.0.0.0 actrqdr.cn
 0.0.0.0 adtx2.cn
+0.0.0.0 aknusp.cn
 0.0.0.0 albsgdq.cn
 0.0.0.0 anhlnnm.cn
 0.0.0.0 aokkwzg.cn
@@ -1976,6 +1977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fmvbyji.cn
 0.0.0.0 foizico.cn
 0.0.0.0 fortxfq.cn
+0.0.0.0 fwffa.cn
 0.0.0.0 fzgetdy.cn
 0.0.0.0 gaopinoa.cn
 0.0.0.0 gejhhh.cn
@@ -2040,6 +2042,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nhcdn.cn
 0.0.0.0 njppuaj.cn
 0.0.0.0 njrnwan.cn
+0.0.0.0 ogouawc.cn
 0.0.0.0 otbeksf.cn
 0.0.0.0 pdweoyw.cn
 0.0.0.0 pqjeoqa.cn
@@ -2116,9 +2119,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpvuugw.cn
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
-0.0.0.0 fwffa.cn
-0.0.0.0 ogouawc.cn
-0.0.0.0 aknusp.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -33818,7 +33818,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
+0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 devlog-upload-os.hoyoverse.com
+0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.hoyoverse.com
+0.0.0.0 minor-api-os.hoyoverse.com
+0.0.0.0 overseauspider.yuanshen.com
+0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sg-public-data-api.hoyoverse.com
+0.0.0.0 ys-log-upload-os.hoyoverse.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 collect.babybus.com
@@ -39354,6 +39362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jingxuanjingyan.com
 0.0.0.0 jmhngn.com
 0.0.0.0 jnkmhn.com
+0.0.0.0 jnwpzq.com
 0.0.0.0 kaezakkjt.com
 0.0.0.0 kbzs88.com
 0.0.0.0 kdgjsf.com
@@ -39409,6 +39418,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uuishsa.com
 0.0.0.0 v34s6r.com
 0.0.0.0 v44e.com
+0.0.0.0 vainanalyst.com
 0.0.0.0 valerieavisnba.com
 0.0.0.0 valerieurania.com
 0.0.0.0 vdggsd001.com
@@ -39446,8 +39456,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ysxt9.com
 0.0.0.0 z0a1b2c3d4.com
 0.0.0.0 zhongfumzzew.com
-0.0.0.0 jnwpzq.com
-0.0.0.0 vainanalyst.com
 0.0.0.0 027dir.com
 0.0.0.0 053h94.com
 0.0.0.0 085cczz.com
@@ -52051,6 +52059,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kqbrgl.icu
 0.0.0.0 kqvvqv.icu
 0.0.0.0 kshrsf.icu
+0.0.0.0 leizylb.icu
 0.0.0.0 mads7.icu
 0.0.0.0 mcds7.icu
 0.0.0.0 mcds9.icu
@@ -52091,6 +52100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 twj6s.icu
 0.0.0.0 uakxkb.icu
 0.0.0.0 udb3n.icu
+0.0.0.0 ugbler.icu
 0.0.0.0 uidwyx.icu
 0.0.0.0 uiszwh.icu
 0.0.0.0 ukjwyv.icu
@@ -52112,8 +52122,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yshlor.icu
 0.0.0.0 yutiqf.icu
 0.0.0.0 zigyspv.icu
-0.0.0.0 ugbler.icu
-0.0.0.0 leizylb.icu
 0.0.0.0 2tyne.icu
 0.0.0.0 6ha03.icu
 0.0.0.0 7nekc.icu
@@ -73293,6 +73301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bbfnrn.xyz
 0.0.0.0 bbrnpj.xyz
 0.0.0.0 bctxtl.xyz
+0.0.0.0 bdjdpyrt.xyz
 0.0.0.0 bdlexn.xyz
 0.0.0.0 bdsahkln.xyz
 0.0.0.0 bebohjhh.xyz
@@ -73365,6 +73374,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcdglb.xyz
 0.0.0.0 ddvoht.xyz
 0.0.0.0 deanth.xyz
+0.0.0.0 df63x.xyz
 0.0.0.0 dfninp.xyz
 0.0.0.0 dfxvkgz.xyz
 0.0.0.0 dhgfhedxx.xyz
@@ -73477,6 +73487,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jppxnhe.xyz
 0.0.0.0 jqtkzuco.xyz
 0.0.0.0 jqvajfvs.xyz
+0.0.0.0 jsjtjj.xyz
 0.0.0.0 jspqhh.xyz
 0.0.0.0 julefhgu.xyz
 0.0.0.0 juljrd.xyz
@@ -73485,7 +73496,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 jxpjlb.xyz
 0.0.0.0 jzlso.xyz
 0.0.0.0 kafuzcxr.xyz
+0.0.0.0 kbayke.xyz
 0.0.0.0 kbbrptv.xyz
+0.0.0.0 kdjdpyrt.xyz
 0.0.0.0 kdsahkln.xyz
 0.0.0.0 kebohjhh.xyz
 0.0.0.0 kekmhvbb.xyz
@@ -73538,6 +73551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lfhnzbj.xyz
 0.0.0.0 lhtnuop.xyz
 0.0.0.0 lhzxbp.xyz
+0.0.0.0 ljpbtjq.xyz
 0.0.0.0 lkdybkwi.xyz
 0.0.0.0 lkoqtvvajktpjsk.xyz
 0.0.0.0 llblwzg.xyz
@@ -73560,6 +73574,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mafuzcxr.xyz
 0.0.0.0 mbfhwag.xyz
 0.0.0.0 mdezco.xyz
+0.0.0.0 mdjdpyrt.xyz
 0.0.0.0 mdsahkln.xyz
 0.0.0.0 mebohjhh.xyz
 0.0.0.0 mekmhvbb.xyz
@@ -73727,6 +73742,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tafuzcxr.xyz
 0.0.0.0 tbdwtn.xyz
 0.0.0.0 tcvmtp.xyz
+0.0.0.0 tdjdpyrt.xyz
 0.0.0.0 tdsahkln.xyz
 0.0.0.0 tebohjhh.xyz
 0.0.0.0 tekmhvbb.xyz
@@ -73778,6 +73794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uavejnys.xyz
 0.0.0.0 ucjevgue.xyz
 0.0.0.0 uckgqa.xyz
+0.0.0.0 udjdpyrt.xyz
 0.0.0.0 udsahkln.xyz
 0.0.0.0 uebipacy.xyz
 0.0.0.0 uebohjhh.xyz
@@ -73855,6 +73872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xcholvbc.xyz
 0.0.0.0 xcqbbcqpl.xyz
 0.0.0.0 xdfdqce.xyz
+0.0.0.0 xdjdpyrt.xyz
 0.0.0.0 xdsahkln.xyz
 0.0.0.0 xebohjhh.xyz
 0.0.0.0 xekmhvbb.xyz
@@ -73927,16 +73945,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrljzgs.xyz
 0.0.0.0 zxpvalr.xyz
 0.0.0.0 zzbmxl.xyz
-0.0.0.0 kdjdpyrt.xyz
-0.0.0.0 jsjtjj.xyz
-0.0.0.0 ljpbtjq.xyz
-0.0.0.0 kbayke.xyz
-0.0.0.0 df63x.xyz
-0.0.0.0 udjdpyrt.xyz
-0.0.0.0 bdjdpyrt.xyz
-0.0.0.0 xdjdpyrt.xyz
-0.0.0.0 tdjdpyrt.xyz
-0.0.0.0 mdjdpyrt.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
