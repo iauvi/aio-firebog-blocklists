@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT License
-# Last modified: 2024-01-13T04:22:06.729Z
+# Last modified: 2024-01-13T10:14:34.998Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -11187,14 +11187,35 @@ ff02::3 ip6-allhosts
 0.0.0.0 booking-provision-card.com
 0.0.0.0 booking.account-extranet-verification.com
 0.0.0.0 booking.aseget91486.com
+0.0.0.0 booking.center-policy32.com
 0.0.0.0 booking.cfm-id0203.com
 0.0.0.0 booking.com-extranet-en.com
 0.0.0.0 booking.com-pend.com
 0.0.0.0 booking.com-sign-in-extranet.com
 0.0.0.0 booking.confirmation-id42564.com
+0.0.0.0 booking.gues-reserv-info.com
 0.0.0.0 booking.guest9933-reserhot.com
 0.0.0.0 booking.guest-visit.com
+0.0.0.0 booking.hotel-adminid1.com
+0.0.0.0 booking.hotel-complete32.com
+0.0.0.0 booking.hotel-id2019.com
+0.0.0.0 booking.hotel-id2025.com
+0.0.0.0 booking.hotel-id2026.com
+0.0.0.0 booking.hotel-id2028.com
+0.0.0.0 booking.hotel-id2029.com
+0.0.0.0 booking.hotel-id2030.com
+0.0.0.0 booking.hotel-id2031.com
+0.0.0.0 booking.hotel-id2032.com
+0.0.0.0 booking.hotel-id2033.com
+0.0.0.0 booking.hotel-id2034.com
+0.0.0.0 booking.hotel-id2045.com
+0.0.0.0 booking.hotel-id2046.com
+0.0.0.0 booking.hotel-id2056.com
+0.0.0.0 booking.hotel-id9184.com
+0.0.0.0 booking.hotel-login33.com
 0.0.0.0 booking.hotel-login34.com
+0.0.0.0 booking.hotel-policy.com
+0.0.0.0 booking.hotel-security332.com
 0.0.0.0 booking.id13741.com
 0.0.0.0 booking.id28352.com
 0.0.0.0 booking.logins-booking.com
@@ -20785,6 +20806,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mybest-way.com
 0.0.0.0 mybestpur365.com
 0.0.0.0 mybitardo-space.preview-domain.com
+0.0.0.0 myblog-v9o0evapvc.live-website.com
 0.0.0.0 mybootcorner.com
 0.0.0.0 myboxtr.com
 0.0.0.0 mybrainn.com
@@ -20881,6 +20903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 myservice01.com
 0.0.0.0 mysiddipet.com
 0.0.0.0 mysiestabeachfront.com
+0.0.0.0 mysitelisting.com
 0.0.0.0 myskedu.com
 0.0.0.0 mysoik.welerpro.com
 0.0.0.0 myspacedex.com
@@ -21877,6 +21900,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 osteoarthritispedia.com
 0.0.0.0 ostweincompsh.com
 0.0.0.0 osvaldoraimondo.com
+0.0.0.0 otcsharks.com
 0.0.0.0 otelmurahbali.com
 0.0.0.0 otomoto3452.com
 0.0.0.0 ottawaforward.com
@@ -25584,6 +25608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 the-cryptotrader.com
 0.0.0.0 the-ft.com
 0.0.0.0 the-immediateconnect.com
+0.0.0.0 the-moreish.com
 0.0.0.0 the-official-invitation.com
 0.0.0.0 the-outlet-24.com
 0.0.0.0 the-prime-advantages.com
@@ -26722,6 +26747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted-hu.pewerok.com
 0.0.0.0 vinted-hu.powerlof.com
 0.0.0.0 vinted-hu.powerwlof.com
+0.0.0.0 vinted-hu.siqwepro.com
 0.0.0.0 vinted-it.id5752.com
 0.0.0.0 vinted-it.id13741.com
 0.0.0.0 vinted-it.id42518.com
@@ -52119,7 +52145,29 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnparilbbas.fun
 0.0.0.0 bnppaibas.fun
 0.0.0.0 bnpraaibbas.fun
+0.0.0.0 booking.hotel-id1201.fun
+0.0.0.0 booking.hotel-id1202.fun
+0.0.0.0 booking.hotel-id1204.fun
+0.0.0.0 booking.hotel-id1205.fun
 0.0.0.0 booking.hotel-id1208.fun
+0.0.0.0 booking.hotel-id2011.fun
+0.0.0.0 booking.hotel-id2012.fun
+0.0.0.0 booking.hotel-id2015.fun
+0.0.0.0 booking.hotel-id2016.fun
+0.0.0.0 booking.hotel-id2017.fun
+0.0.0.0 booking.hotel-id2018.fun
+0.0.0.0 booking.hotel-id2019.fun
+0.0.0.0 booking.hotel-id2020.fun
+0.0.0.0 booking.hotel-id2022.fun
+0.0.0.0 booking.hotel-id2035.fun
+0.0.0.0 booking.hotel-id2037.fun
+0.0.0.0 booking.hotel-id2038.fun
+0.0.0.0 booking.hotel-id2039.fun
+0.0.0.0 booking.hotel-id2043.fun
+0.0.0.0 booking.hotel-id2048.fun
+0.0.0.0 booking.hotel-id2050.fun
+0.0.0.0 booking.hotel-id2315.fun
+0.0.0.0 booking.hotel-id2316.fun
 0.0.0.0 bp-pl.fun
 0.0.0.0 changeurlife-withus.fun
 0.0.0.0 coloureds.fun
@@ -53031,6 +53079,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 batussisylwer.info
 0.0.0.0 beatbaby.info
 0.0.0.0 bedip.info
+0.0.0.0 bellyachesabber.info
 0.0.0.0 beswarm.info
 0.0.0.0 betelgeuxs.info
 0.0.0.0 bigstartnew.info
@@ -53698,6 +53747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rofuwyedeu.info
 0.0.0.0 romanticised.info
 0.0.0.0 rondolettos.info
+0.0.0.0 rotatinglid.info
 0.0.0.0 rotatuatai.info
 0.0.0.0 rty56.info
 0.0.0.0 rur.worldkolf.info
@@ -53842,6 +53892,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unquietedjazer.info
 0.0.0.0 unsensitizeldeer.info
 0.0.0.0 unstern.info
+0.0.0.0 untenaciousnesseyker.info
 0.0.0.0 untreasonable.info
 0.0.0.0 uoiu.maxtradefx.info
 0.0.0.0 uop.tradefxok.info
@@ -55474,6 +55525,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 achievablegoalsbiz.life
 0.0.0.0 acquisition.life
 0.0.0.0 ad0vent0rew0rld0.life
+0.0.0.0 adeptestjoage.life
 0.0.0.0 adoptionss.life
 0.0.0.0 adores.life
 0.0.0.0 adventurous4litt.life
@@ -62725,6 +62777,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp-home-pl-7b26d194e95.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-7d7b2dbdcab.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-8f9ca86f1ef.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-8fa3a0eff16.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-9b9da2b4fe3.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-9dd478926a8.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-9e9bdfb521e.solidinterimmanagement.nl
@@ -62746,12 +62799,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp-home-pl-75b175eaa43.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-75c3382a6ea.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-89fef16f3c5.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-91fdce43aa5.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-96a7196cc4d.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-97c95c82786.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-107ebdf4b55.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-154ac15b90c.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-217e67356bf.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-259d836a7c7.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-325ee3eb588.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-392ffbc2542.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-447b4cd1b48.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-506da91301b.solidinterimmanagement.nl
@@ -62760,12 +62815,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp-home-pl-690ef629778.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-691aad34cfe.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-743e123d916.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-761cbb16b27.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-764ca0fd2bb.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-855ac6b4cee.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-878d63597be.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-891ccb57485.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-0941dea7657.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-943e3147936.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-2101ceda402.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-2580cd19ea0.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-3283e18204f.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-3329f3f8b41.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-3865d1e21ed.installprofi.nl
@@ -62778,11 +62836,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp-home-pl-87641a7b604.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-98714b56355.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-279482c9e16.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-371275fb604.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-1340205ea54.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-7755530c246.installprofi.nl
 0.0.0.0 cp-home-pl-10957789feb.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-546764847e9.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-2314482242f.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-83077606473.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-a4ea0248f5a.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-a7cfd2e666d.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-a19b7393bfc.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-a22a05f840f.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-a44b98bf61d.solidinterimmanagement.nl
@@ -62807,6 +62869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp-home-pl-d4a7ac57dd8.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-d8bcf79decd.installprofi.nl
 0.0.0.0 cp-home-pl-d58f37efe0b.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-d84cb36e75d.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-d8903cc8ffa.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-decc2402272.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-df1b6e9df3a.solidinterimmanagement.nl
@@ -62818,6 +62881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cp-home-pl-e9280f727d8.installprofi.nl
 0.0.0.0 cp-home-pl-ea7c2c30b24.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-ea72f8d4937.solidinterimmanagement.nl
+0.0.0.0 cp-home-pl-ea4021e2642.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-ee6f347e5a9.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-f1aa794ef16.solidinterimmanagement.nl
 0.0.0.0 cp-home-pl-f1d8ed0fa8f.solidinterimmanagement.nl
@@ -63407,6 +63471,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 bolivabaltic.online
 0.0.0.0 bombachiko.online
 0.0.0.0 booking.admin-accounts.online
+0.0.0.0 booking.booking-confirmation-secure.online
+0.0.0.0 booking.hotel-id8912.online
 0.0.0.0 bosbahk-24.online
 0.0.0.0 bosbahk-new.online
 0.0.0.0 bosbahk-pl.online
@@ -67541,6 +67607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 dhiexpress24.pl
 0.0.0.0 dhiexpress.pl
+0.0.0.0 dhiparcel.pl
 0.0.0.0 dhl-checkout.pl
 0.0.0.0 dhl.lotnicze.squaredesign.pl
 0.0.0.0 dhlogistic24.pl
@@ -68173,6 +68240,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 losp.pl
 0.0.0.0 loticfrate.pl
 0.0.0.0 lpuj.jkhrs.pl
+0.0.0.0 lsbnwcjvhj.cfolks.pl
 0.0.0.0 lsokmf.pl
 0.0.0.0 lubomir.artcd.net.pl
 0.0.0.0 lubomir.lesniczowka.info.pl
@@ -68925,9 +68993,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-prywatna-aukcja-sprzedazy245513.pl
 0.0.0.0 pl-prywatna-aukcja-sprzedazy245514.pl
 0.0.0.0 pl-prywatna-oferta1122.pl
+0.0.0.0 pl-prywatna-oferta1459.pl
 0.0.0.0 pl-prywatna-oferta2140.pl
 0.0.0.0 pl-prywatna-oferta2142.pl
 0.0.0.0 pl-prywatna-oferta3344.pl
+0.0.0.0 pl-prywatna-oferta8204.pl
 0.0.0.0 pl-prywatna-sprzedaz11293.pl
 0.0.0.0 pl-prywatna-sprzedaz11763.pl
 0.0.0.0 pl-prywatna-sprzedaz11793.pl
@@ -70513,6 +70583,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitbuilder.pw
 0.0.0.0 bits.videodaewoo.pw
 0.0.0.0 booking-pl.com-id24310.pw
+0.0.0.0 booking.hotel-id8091.pw
+0.0.0.0 booking.hotel-id8092.pw
+0.0.0.0 booking.hotel-id8215.pw
+0.0.0.0 booking.hotel-id8912.pw
+0.0.0.0 booking.hotel-id9481.pw
 0.0.0.0 bqsbahk-pl.pw
 0.0.0.0 by-sms.pw
 0.0.0.0 bytevoyager.pw
@@ -72840,6 +72915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 romantic-drug.surge.sh
 0.0.0.0 support-page-d5yzp.surge.sh
 0.0.0.0 tauron.surge.sh
+0.0.0.0 test-fix-dazo.surge.sh
 0.0.0.0 uni-invest.surge.sh
 0.0.0.0 waverealmsblog.surge.sh
 0.0.0.0 minero-proxy-01.now.sh
@@ -74170,6 +74246,41 @@ ff02::3 ip6-allhosts
 0.0.0.0 bonusdeneg.site
 0.0.0.0 bonusvlozheniya.site
 0.0.0.0 bonuszarabotok.site
+0.0.0.0 booking.booking-id6690.site
+0.0.0.0 booking.hotel-id1201.site
+0.0.0.0 booking.hotel-id1202.site
+0.0.0.0 booking.hotel-id1204.site
+0.0.0.0 booking.hotel-id1205.site
+0.0.0.0 booking.hotel-id1208.site
+0.0.0.0 booking.hotel-id1209.site
+0.0.0.0 booking.hotel-id2010.site
+0.0.0.0 booking.hotel-id2011.site
+0.0.0.0 booking.hotel-id2014.site
+0.0.0.0 booking.hotel-id2015.site
+0.0.0.0 booking.hotel-id2016.site
+0.0.0.0 booking.hotel-id2017.site
+0.0.0.0 booking.hotel-id2018.site
+0.0.0.0 booking.hotel-id2019.site
+0.0.0.0 booking.hotel-id2020.site
+0.0.0.0 booking.hotel-id2021.site
+0.0.0.0 booking.hotel-id2022.site
+0.0.0.0 booking.hotel-id2023.site
+0.0.0.0 booking.hotel-id2024.site
+0.0.0.0 booking.hotel-id2037.site
+0.0.0.0 booking.hotel-id2038.site
+0.0.0.0 booking.hotel-id2040.site
+0.0.0.0 booking.hotel-id2043.site
+0.0.0.0 booking.hotel-id2044.site
+0.0.0.0 booking.hotel-id2047.site
+0.0.0.0 booking.hotel-id2048.site
+0.0.0.0 booking.hotel-id2049.site
+0.0.0.0 booking.hotel-id2054.site
+0.0.0.0 booking.hotel-id2314.site
+0.0.0.0 booking.hotel-id2315.site
+0.0.0.0 booking.hotel-id2317.site
+0.0.0.0 booking.hotel-id5672.site
+0.0.0.0 booking.hotel-id8941.site
+0.0.0.0 booking.hotel-id9202.site
 0.0.0.0 bookingepl.site
 0.0.0.0 booleton.site
 0.0.0.0 bordmifr.site
@@ -78085,6 +78196,29 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmz3.activeprog1.space
 0.0.0.0 boatter.space
 0.0.0.0 bologrvnvv.space
+0.0.0.0 booking.hotel-id1201.space
+0.0.0.0 booking.hotel-id1204.space
+0.0.0.0 booking.hotel-id1209.space
+0.0.0.0 booking.hotel-id2011.space
+0.0.0.0 booking.hotel-id2013.space
+0.0.0.0 booking.hotel-id2015.space
+0.0.0.0 booking.hotel-id2016.space
+0.0.0.0 booking.hotel-id2017.space
+0.0.0.0 booking.hotel-id2018.space
+0.0.0.0 booking.hotel-id2019.space
+0.0.0.0 booking.hotel-id2020.space
+0.0.0.0 booking.hotel-id2022.space
+0.0.0.0 booking.hotel-id2035.space
+0.0.0.0 booking.hotel-id2036.space
+0.0.0.0 booking.hotel-id2037.space
+0.0.0.0 booking.hotel-id2038.space
+0.0.0.0 booking.hotel-id2039.space
+0.0.0.0 booking.hotel-id2043.space
+0.0.0.0 booking.hotel-id2050.space
+0.0.0.0 booking.hotel-id2315.space
+0.0.0.0 booking.hotel-id8491.space
+0.0.0.0 booking.hotel-id8941.space
+0.0.0.0 booking.hotel-id9184.space
 0.0.0.0 borneasgue.space
 0.0.0.0 bosanv.space
 0.0.0.0 boweffort.space
@@ -78796,6 +78930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qixuty.store
 0.0.0.0 1kwt.store
 0.0.0.0 2fhhhy778899.store
+0.0.0.0 3dtvs.store
 0.0.0.0 6fb.multiance.store
 0.0.0.0 12.thebestway1.store
 0.0.0.0 24eu.store
@@ -80563,6 +80698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpost-yna.top
 0.0.0.0 inpost-ynz.top
 0.0.0.0 inpost.deliverychoose.top
+0.0.0.0 inpost.eudelivery.top
 0.0.0.0 inpost.eurodelivery.top
 0.0.0.0 inpost.helpip.top
 0.0.0.0 inpost.helppl.top
@@ -84969,6 +85105,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imp0tant.xyz
 0.0.0.0 imperialstroy.xyz
 0.0.0.0 implementationbis.xyz
+0.0.0.0 impost.42212415.xyz
 0.0.0.0 in2sp1ring.xyz
 0.0.0.0 in-posst.xyz
 0.0.0.0 in-post-jo.xyz
@@ -84999,6 +85136,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inmindthat.xyz
 0.0.0.0 innovaris.xyz
 0.0.0.0 innovativeforce.xyz
+0.0.0.0 inp0st.00282765.xyz
 0.0.0.0 inp0st.2342235.xyz
 0.0.0.0 inp0st.3423568.xyz
 0.0.0.0 inp0st.32442732.xyz
