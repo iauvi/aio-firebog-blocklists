@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-14T14:04:59.230Z
+# Last modified: 2024-01-14T16:33:08.262Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -2300,6 +2300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beta.glenbowcollege.ca
 0.0.0.0 cleusbmontreal.ca
 0.0.0.0 closetalk.ca
+0.0.0.0 dinesenfinancial.ca
 0.0.0.0 karma.ashleyshaw.ca
 0.0.0.0 myembroidery.ca
 0.0.0.0 onilladesign.ca
@@ -3677,6 +3678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vs-59ks.cfd
 0.0.0.0 vyf-46.cfd
 0.0.0.0 vzi-er4.cfd
+0.0.0.0 w76-ney.cfd
 0.0.0.0 w-34lg.cfd
 0.0.0.0 w-e.cfd
 0.0.0.0 wbes.xlei-836.cfd
@@ -3702,6 +3704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xret.vakiv.cfd
 0.0.0.0 xt3z.yrel1-3.cfd
 0.0.0.0 y52-4.cfd
+0.0.0.0 y-04kw.cfd
 0.0.0.0 yd71.cfd
 0.0.0.0 ye45-iy.cfd
 0.0.0.0 yej3.cfd
@@ -11060,6 +11063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bloomsbasket.com
 0.0.0.0 bloomsnbeyond.com
 0.0.0.0 blootility.com
+0.0.0.0 blordzelo.com
 0.0.0.0 blossomjar.com
 0.0.0.0 blow.klewmedia.com
 0.0.0.0 blowcrop.com
@@ -14155,6 +14159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dysmenorrheapedia.com
 0.0.0.0 dyspareuniapedia.com
 0.0.0.0 dzdhxz.s3.us-east-005.backblazeb2.com
+0.0.0.0 dziecko-fundacje24.com
 0.0.0.0 dziendobry-informacje.com
 0.0.0.0 dziennik-zachodni.com
 0.0.0.0 dzpim.infolocity.com
@@ -56085,6 +56090,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 servicebiz.life
 0.0.0.0 seyen.life
 0.0.0.0 sh.act1v3life.life
+0.0.0.0 sheeneudner.life
 0.0.0.0 shelled.life
 0.0.0.0 shipcompass.life
 0.0.0.0 sifoleukyy.life
@@ -63186,6 +63192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 velo-cool.one
 0.0.0.0 waveapp.one
 0.0.0.0 weog.one
+0.0.0.0 yeartolf.one
 0.0.0.0 gidonline.one
 0.0.0.0 vseigru.one
 0.0.0.0 disturbes.online
@@ -67062,6 +67069,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.aukcja-id78542714.pl
 0.0.0.0 allegro.aukcje24h.pl
 0.0.0.0 allegro.aukcjepayu24.pl
+0.0.0.0 allegro.dostawy24-7.pl
 0.0.0.0 allegro.e-aukcje24h.pl
 0.0.0.0 allegro.e-oplata247.pl
 0.0.0.0 allegro.e-payu-24.pl
@@ -67146,6 +67154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-8a9na4h142fa6.pl
 0.0.0.0 allegrolokalnie.oferta-96d57c91j8b124c6a13.pl
 0.0.0.0 allegrolokalnie.oferty-prywatne.pl
+0.0.0.0 allegrolokalnie.oferty-zakup24.pl
 0.0.0.0 allegrolokalnie.pay247.pl
 0.0.0.0 allegrolokalnie.pl21387413.pl
 0.0.0.0 allegrolokalnie.pl-16748oferta.pl
@@ -67252,11 +67261,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 aukcja-olx.pl
 0.0.0.0 aurismedic.josefkopecka.pl
 0.0.0.0 auta-bakowska.pl
+0.0.0.0 auta-duda.pl
 0.0.0.0 auta-filipski.pl
 0.0.0.0 auta-grzesik.pl
 0.0.0.0 auta-janek.pl
 0.0.0.0 auta-janowski.pl
 0.0.0.0 auta-jarek.pl
+0.0.0.0 auta-karolewski.pl
 0.0.0.0 auta-karwacki.pl
 0.0.0.0 auta-kosowski.pl
 0.0.0.0 auta-kowalik.pl
@@ -67266,7 +67277,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-marcinkowski.pl
 0.0.0.0 auta-pawlikowski.pl
 0.0.0.0 auta-piotrowski.pl
+0.0.0.0 auta-potocki.pl
 0.0.0.0 auta-sobieski.pl
+0.0.0.0 auta-wolski.pl
 0.0.0.0 auta-wyprzedaz.pl
 0.0.0.0 autagielda.pl
 0.0.0.0 auto24-moks.pl
@@ -67912,6 +67925,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ftpz.zzbnd.pl
 0.0.0.0 fulldownload.pl
 0.0.0.0 fullplayer.pl
+0.0.0.0 fundaciadziecieca.com.pl
+0.0.0.0 fundaciadziecieca.pl
 0.0.0.0 fvvpinfo.pl
 0.0.0.0 fye.jjydd.pl
 0.0.0.0 galaxystore.pl
@@ -68499,6 +68514,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nutops.pl
 0.0.0.0 nvod.pl
 0.0.0.0 nwozniak.rajmundsewek.warszawa.pl
+0.0.0.0 nwse.pl
 0.0.0.0 nykiel-auto.pl
 0.0.0.0 nzop.pl
 0.0.0.0 nzozesculap.eliaszzych.pl
@@ -68637,6 +68653,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.e-platnosc-24.pl
 0.0.0.0 olx.e-przesylka24.pl
 0.0.0.0 olx.e-przesylki24.pl
+0.0.0.0 olx.eogloszenia24-7.pl
 0.0.0.0 olx.eplatnosci24.pl
 0.0.0.0 olx.kupuje-teraz.pl
 0.0.0.0 olx.ochrona-ogloszenia.pl
@@ -68994,6 +69011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-platnosc-payu.pl
 0.0.0.0 pl-platnosci24.pl
 0.0.0.0 pl-platnosci247.pl
+0.0.0.0 pl-platnosci2475.pl
 0.0.0.0 pl-platnosci3465.pl
 0.0.0.0 pl-platnosci3491.pl
 0.0.0.0 pl-platnosci4072.pl
@@ -70811,6 +70829,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 point-sms.pw
 0.0.0.0 polska-user.pw
 0.0.0.0 polska-users.pw
+0.0.0.0 postescanada.pw
 0.0.0.0 pp-90214950.hostfree.pw
 0.0.0.0 pudelek.pw
 0.0.0.0 quantum-in.pw
@@ -74816,6 +74835,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eavjvhold.site
 0.0.0.0 ebas.utulo.site
 0.0.0.0 ebwiqowoiwqpoikdjdn.site
+0.0.0.0 eclagorn.site
 0.0.0.0 eclectiicshoppingscene.site
 0.0.0.0 ecom11rce1010.site
 0.0.0.0 eddymezdat.site
@@ -79589,8 +79609,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 4fshopping.top
 0.0.0.0 4fstash.top
 0.0.0.0 4fstore.top
+0.0.0.0 8-73hs.top
 0.0.0.0 11.newlvlpro.top
 0.0.0.0 12w.maxuikl.top
+0.0.0.0 69-5tew.top
 0.0.0.0 78da.byseniscon.top
 0.0.0.0 111.womenforum.top
 0.0.0.0 132ms.vertysbos.top
@@ -80402,6 +80424,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fulfilmentbizz.top
 0.0.0.0 fvxsn.dddplat.top
 0.0.0.0 fxpeoplepro.top
+0.0.0.0 fyneti.top
 0.0.0.0 gaa.programtts.top
 0.0.0.0 gainingbiz.top
 0.0.0.0 gam.waonlineprogram.top
@@ -80487,6 +80510,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gsdljpost.top
 0.0.0.0 gtq.newaistar.top
 0.0.0.0 gu4f.top
+0.0.0.0 gutycu.top
 0.0.0.0 gvfyy.mmtsa.top
 0.0.0.0 gy.marcukesh.top
 0.0.0.0 gz.eutrty.top
@@ -80558,6 +80582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iinpostl.top
 0.0.0.0 iinpostt.top
 0.0.0.0 iipostpl.top
+0.0.0.0 ijetac.top
 0.0.0.0 ijnpost-pl.top
 0.0.0.0 iknpost-pl.top
 0.0.0.0 ikw.formpr.top
@@ -80625,6 +80650,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inerpat.top
 0.0.0.0 inerplu.top
 0.0.0.0 ineshoppost.top
+0.0.0.0 inetsa.top
 0.0.0.0 ineupostlaw.top
 0.0.0.0 ineuposts.top
 0.0.0.0 inezpostlaw.top
@@ -80770,6 +80796,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpost-xcn.top
 0.0.0.0 inpost-yna.top
 0.0.0.0 inpost-ynz.top
+0.0.0.0 inpost-you.top
 0.0.0.0 inpost.deliverychoose.top
 0.0.0.0 inpost.eudelivery.top
 0.0.0.0 inpost.eurodelivery.top
@@ -84367,6 +84394,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allgo.xyz
 0.0.0.0 zcontentlocker7gpa8a.xyz
 0.0.0.0 0driveon0life.xyz
+0.0.0.0 0lx.00282760.xyz
 0.0.0.0 0lx.00282764.xyz
 0.0.0.0 0lx.00282769.xyz
 0.0.0.0 00lx.04564561.xyz
