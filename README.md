@@ -21,7 +21,7 @@
 |Green| 🟢 |Incorporates green sources, included in The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
 |Blue| 🔵 |Incorporates blue sources, included in The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 
-| Blue & Green Lists | ⚪ | AdBlock | PiHole | Hosts | Domain | Description |
+| Blue/Green AIO Lists | ⚪ | AdBlock | PiHole | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
 | Bog All-In-One | 🟠 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt" title="">Link</a> | Contains all of the sources |
 | All-In-One | 🟣 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogbluegreen.txt" title="">Link</a> | Contains all of the blue and green sources |
