@@ -17,9 +17,9 @@
 | Type | ⚪ | Description |
 |---:|:---:|:---|
 |Bog| 🟠 |The Bog All-In-One (AIO) list encompasses all sources, consider implementing an allowlist for better control|
-|Blue & Green| 🟣 |Incorporates both green and blue sources, included in The Bog AIO list and the green/blue AIO lists|
-|Green| 🟢 |Incorporates green sources, included in The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
 |Blue| 🔵 |Incorporates blue sources, included in The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
+|Green| 🟢 |Incorporates green sources, included in The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
+|Blue & Green| 🟣 |Incorporates blue sources and green sources, included in The Bog AIO list and the green/blue AIO lists|
 
 | Blue/Green AIO Lists | ⚪ | AdBlock | PiHole | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
