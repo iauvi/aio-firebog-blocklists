@@ -3,7 +3,7 @@
 # Description: All the blue/green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-15T04:28:06.139Z
+# Last modified: 2024-01-15T10:12:42.032Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -587,6 +587,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rbtwo.bid
 0.0.0.0 reichelcormier.bid
 0.0.0.0 rotarb.bid
+0.0.0.0 servw.bid
 0.0.0.0 smenqskfmpfxnb.bid
 0.0.0.0 somecdn.bid
 0.0.0.0 tychon.bid
@@ -599,7 +600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 newrotatormarch23.bid
 0.0.0.0 rbfour.bid
 0.0.0.0 aj2517.bid
-0.0.0.0 servw.bid
 0.0.0.0 oldrrb.bid
 0.0.0.0 truenat.bid
 0.0.0.0 wheretogo.bid
@@ -2530,6 +2530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
 0.0.0.0 dafdfd.cn
+0.0.0.0 rvbiocn.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -80162,6 +80163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yutiqf.icu
 0.0.0.0 zigyspv.icu
 0.0.0.0 gepvgv.icu
+0.0.0.0 u2tu4.icu
 0.0.0.0 2tyne.icu
 0.0.0.0 6ha03.icu
 0.0.0.0 7nekc.icu
@@ -85655,6 +85657,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 upz1.destinia.lt
 0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 analytics.fabricators.ltd
+0.0.0.0 0fb.ltd
 0.0.0.0 24h.c0m.ltd
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 jaemoney.ltd
@@ -105904,6 +105907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 matomo.vietlottsms.vn
 0.0.0.0 mautic-learn.teky.edu.vn
 0.0.0.0 mautic.teky.edu.vn
+0.0.0.0 measure.pti.com.vn
 0.0.0.0 measure.vndirect.com.vn
 0.0.0.0 menu.metu.vn
 0.0.0.0 microad.vn
@@ -106219,7 +106223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mautic.vmax.vn
 0.0.0.0 piwik.rta.vn
 0.0.0.0 piwik.tienhiep.com.vn
-0.0.0.0 measure.pti.com.vn
 0.0.0.0 pg.pampers.com.vn
 0.0.0.0 smetrics.citibank.com.vn
 0.0.0.0 vcmedia.vn
