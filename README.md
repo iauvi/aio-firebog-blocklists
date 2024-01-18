@@ -1,4 +1,4 @@
-<h1 align="center"> ⭕ Firebog Blocklists ⭕ </h1>
+<h1 align="center"> ⭕ The Firebog DNS Blocklists ⭕ </h1>
 
 <div align="center">
 
