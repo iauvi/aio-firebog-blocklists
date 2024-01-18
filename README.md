@@ -1,4 +1,4 @@
-<h1 align="center"> ⭕ The All-In-One DNS Blocklists ⭕ </h1>
+<h1 align="center"> ⭕ The AIO DNS Blocklists ⭕ </h1>
 
 <div align="center">
 
