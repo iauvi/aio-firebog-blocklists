@@ -2,7 +2,7 @@
 
 <div align="center">
 
-***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog,<br>designed to douse the flames by<br><br>⚪ preventing advertisements<br>⚪ halting trackers<br>⚪ blocking malicious content***
+***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog,<br>designed to douse the flames by<br><br>• preventing advertisements •<br>• halting trackers •<br>• blocking malicious content •***
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   
-***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>to be used with<br><br>⚪ ad blockers<br>⚪ DNS applications<br>⚪ Windows' hosts file*** 
+***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>to be used with<br><br>• ad blockers •<br>• DNS applications •<br>• Windows' hosts file •*** 
 
 | Type | ⚪ | Description |
 |---:|:---:|:---|
