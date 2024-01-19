@@ -2,7 +2,7 @@
 
 <div align="center">
 
-***Diverse DNS blocklists crafted from an amalgamation of sources, designed to douse the flames by<br>preventing advertisements, halting trackers, and safeguarding against malicious content***
+***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog, designed to douse the flames by<br>preventing advertisements, halting trackers, and safeguarding against malicious content***
 
 </div>
 
@@ -12,14 +12,14 @@
 
 <div align="center">
   
-***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with<br>ad blockers, DNS applications, and hosts files*** 
+***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and  <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> for use with<br>ad blockers, DNS applications, and Windows' hosts file*** 
 
 | Type | ⚪ | Description |
 |---:|:---:|:---|
 |Bog| 🔥 |The Bog All-In-One (AIO) list encompasses all sources and will disrupt your browsing experience, consider implementing an allowlist for better control|
 |Blue| 🔵 |Incorporates blue sources, included in The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 |Green| 🟢 |Incorporates green sources, included in The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience|
-|Blue & Green| 🟡 |Incorporates blue sources and green sources, included in The Bog AIO list and  blue/green AIO list|
+|Blue & Green| 🟡 |Incorporates blue sources and green sources, included in The Bog AIO list and blue/green AIO list|
 
 | Blue/Green AIO Lists | ⚪ | AdBlock | PiHole | Hosts | Domain | Description |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -116,7 +116,6 @@
 | ⚪ | 🔵 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
 
 </div>
-
 --- 
 
 <h1 align="center"> 🚫 The Tests 🚫 </h1>
