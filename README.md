@@ -65,7 +65,9 @@
 
 | Class | ⚪ | Source |
 |---:|:---:|:---|
-| Suspicious | 🟢 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
+| Suspicious | 🔥 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
+| ⚪ | 🔥 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
+| ⚪ | 🟢 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
 | ⚪ | 🔵 | <a href="https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt" title="">Matomo Referrer Spam</a> |
@@ -75,8 +77,6 @@
 | ⚪ | 🔵 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt" title="">neoFelhz's neoHosts</a> |
 | ⚪ | 🔵 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | ⚪ | 🔵 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
-| ⚪ | 🔥 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
-| ⚪ | 🔥 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | Advertising | 🟢 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blacklist</a> |
@@ -86,7 +86,9 @@
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
 | ⚪ | 🔵 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
 | Advertising / Tracking | 🟢 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
-| Tracking | 🟢 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
+| Tracking | 🔥 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
+| ⚪ | 🔥 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads and Trackers</a> |
+| ⚪ | 🟢 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts" title="">Fademind's 2o7 Network Trackers</a> |
 | ⚪ | 🟢 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
 | ⚪ | 🟢 | <a href="https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt" title="">Geoffrey Frogeye's First-Party Trackers</a> |
@@ -95,8 +97,6 @@
 | ⚪ | 🔵 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" title="">Perflyst's SmartTV Domains</a> |
 | ⚪ | 🔵 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | ⚪ | 🔵 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
-| ⚪ | 🔥 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
-| ⚪ | 🔥 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads and Trackers</a> |
 | Malicious | 🟢 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | ⚪ | 🟢 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | ⚪ | 🟢 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt" title="">Disconnect Malvertising</a> |
