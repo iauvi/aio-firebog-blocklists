@@ -2,7 +2,7 @@
 
 <div align="center">
 
-***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog, designed to douse the flames by<br>preventing advertisements, halting trackers, and safeguarding against malicious content***
+***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog, designed to douse the flames by<br>⚪ preventing advertisements<br>⚪ halting trackers<br>⚪ blocking malicious content***
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-***All sources can be found on <a href="https://firebog.net/" title="">The Firebog</a><br>brought to you by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
+***All sources can be found on <a href="https://firebog.net/" title="">The Firebog</a><br>hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
 | Type | ⚪ | Description |
 |---:|:---:|:---|
