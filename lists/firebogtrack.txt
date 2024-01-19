@@ -3,7 +3,7 @@
 ! Description: All the blue and green tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-19T04:37:28.814Z
+! Last modified: 2024-01-19T07:34:26.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -323,7 +323,6 @@
 ||logger.tv.telstra.com.au^
 ||metrics.news.com.au^
 ||pixel.newsdiscover.com.au^
-||smetrics.sbs.com.au^
 ||tracking.carsales.com.au^
 ||analytics.avanser.com.au^
 ||t.auditedmedia.org.au^
@@ -2190,6 +2189,7 @@
 ||zuugfj.cn^
 ||zyzo.cn^
 ||urueuah.cn^
+||stbwhln.cn^
 ||173e.cn^
 ||2pwja.cn^
 ||331qka.cn^
@@ -3082,6 +3082,15 @@
 ||wunderkind.co^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
+||auhpaewvbgwjr.com^
+||wokaptoa.com^
+||jghjhtz.com^
+||ctrtrk.com^
+||mztqgmr.com^
+||uqpvrqplyqm.com^
+||wnwkzzzheca.com^
+||aysdsvtd.com^
+||sjmbwxnqz.com^
 ||xhfvljklvq.com^
 ||detergentkindlyrandom.com^
 ||mgdtnwnjwewlph.com^
@@ -27253,7 +27262,6 @@
 ||exelbid.com^
 ||adpies.com^
 ||cs02-pps-drcn.dbankcdn.com^
-||an.facebook.com^
 ||marketplace-*.hyprmx.com^
 ||events-*.op.hicloud.com^
 ||ads.feelingtouch.com^
@@ -27592,7 +27600,6 @@
 ||predatasrv.com^
 ||log.trackingio.com^
 ||region1.analytics.google.com^
-||google-analytics.com^
 ||cdn.pranmcpkx.com^
 ||firstblackphase.com^
 ||tag.imagino.com^
@@ -28928,7 +28935,6 @@
 ||redstatcounter.com^
 ||reedge.com^
 ||referforex.com^
-||refersion.com^
 ||refinedads.com^
 ||relead.com^
 ||reliablecounter.com^
@@ -29895,7 +29901,6 @@
 ||pix.boursorama.com^
 ||pix.eads.com^
 ||pix.nbcuni.com^
-||pixel.facebook.com^
 ||pixel.inforsea.com^
 ||pixel.pcworld.com^
 ||pixel.roymorgan.com^
@@ -30085,7 +30090,6 @@
 ||stats.piaggio.com^
 ||stats.popupmaker.com^
 ||stats.pusher.com^
-||stats.shopify.com^
 ||stats.someecards.com^
 ||stats.suite101.com^
 ||stats.tipser.com^
@@ -30661,7 +30665,6 @@ inapps.appsflyersdk.com^
 ||analytics.disneyinternational.com^
 ||analytics.eggoffer.com^
 ||analytics.erepublic.com^
-||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
 ||analytics.groupe-seb.com^
@@ -33841,7 +33844,6 @@ inapps.appsflyersdk.com^
 ||h51.carpcredits.com^
 ||hackgamemienphi.com^
 ||hacktaikhoan.com^
-||hacktaikhoanfacebook.com^
 ||haitacshopgame.com^
 ||halovay.com^
 ||handico.vaytienmat-nhanh24h.com^
@@ -34960,7 +34962,6 @@ inapps.appsflyersdk.com^
 ||tangcuongbanlinh.com^
 ||tangnickmienphi.com^
 ||tangqua01vn.com^
-||taokhienfacebook.com^
 ||taoshop1s.com^
 ||taoshopgame.com^
 ||tb55788.com^
@@ -35382,7 +35383,6 @@ inapps.appsflyersdk.com^
 ||vietvcbdigibank.com^
 ||vietviv.com^
 ||view-apple.com^
-||vifacebook.com^
 ||viieetcombank.com^
 ||viietccombank.com^
 ||viietcombank.com^
@@ -35839,6 +35839,7 @@ inapps.appsflyersdk.com^
 ||z0a1b2c3d4.com^
 ||zhongfumzzew.com^
 ||sukneyu.com^
+||xwlnhw.com^
 ||027dir.com^
 ||053h94.com^
 ||085cczz.com^
@@ -46010,11 +46011,8 @@ analytics-*.aasaam.com
 ||aax-us-iad.amazon.com^
 ||amazon-adsystem.amazon.com^
 ||target.aws.amazon.com^
-||device-metrics-us.amazon.com^
-||device-metrics-us-2.amazon.com^
 ||mads.amazon.com^
 ||unagi.amazon.com^
-||unagi-na.amazon.com^
 ||amazonadda.com^
 ||amazonprincess.com^
 ||ambacam-madrid.com^
@@ -47007,6 +47005,8 @@ analytics-*.aasaam.com
 ||deutztractor.com^
 ||dev-nano.com^
 ||developerapple.com^
+||block-test.developerdan.com^
+||block-test-ads-tracking.developerdan.com^
 ||deviceatlas.com^
 ||analytics.devicebits.com^
 ||devitube.com^
@@ -49736,7 +49736,6 @@ analytics-*.aasaam.com
 ||sguareup.com^
 ||shady45.com^
 ||shakeelabiz.com^
-||shareaholic.com^
 ||shareminder.com^
 ||sharepointapplied.com^
 ||sharethis.com^
@@ -51088,9 +51087,6 @@ analytics-*.aasaam.com
 ||zwppos.com^
 ||zylily.com^
 ||zypmedia.com^
-||a-graph.facebook.com^
-||graph.instagram.com^
-||mqtt-mini.facebook.com^
 ||e.crashlytics.com^
 ||reports.crashlytics.com^
 ||settings.crashlytics.com^
@@ -51148,7 +51144,6 @@ analytics-*.aasaam.com
 ||api.euro.hismarttv.com^
 ||api.eu.hismarttv.com^
 ||7345023508.fxm9485766783.com^
-||device-messaging-na.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
 ||fls-eu.amazon.com^
 ||mads-eu.amazon.com^
@@ -51583,7 +51578,6 @@ analytics-*.aasaam.com
 ||errorception.com^
 ||esputnik.com^
 ||esvdigital.com^
-||events.gfe.nvidia.com^
 ||ever-track-51.com^
 ||exerciseundergone.com^
 ||exploredefinitely.com^
@@ -62961,7 +62955,6 @@ analytics-*.aasaam.com
 ||piwikpro.com^
 ||pixel.cfspx.digitalriver.com^
 ||pixel.getshogun.com^
-||pixel.nymag.com^
 ||pixel.patch.com^
 ||pixel.web.roku.com^
 ||pixel.wenxuecity.com^
@@ -62981,7 +62974,6 @@ analytics-*.aasaam.com
 ||privacy.aol.com^
 ||privacytrck.com^
 ||prod-telemetry.paradox-interactive.com^
-||prod.telemetry.ros.rockstargames.com^
 ||productserve.com^
 ||proformics.com^
 ||profoundrollcompatibility.com^
@@ -67382,6 +67374,7 @@ analytics-*.aasaam.com
 ||smetrics.myvi.in^
 ||smetrics.vodafone.in^
 ||tilanalytics.timesinternet.in^
+||ntlysearchingf.info^
 ||ntmastsault.info^
 ||omouswoma.info^
 ||ionismscoldn.info^
@@ -70333,7 +70326,6 @@ analytics-*.aasaam.com
 ||snapsmedia.io^
 ||sophi.io^
 ||spgo.io^
-||split.io^
 ||events.stackshare.io^
 ||metrics.sudol.io^
 ||superbuzz.io^
@@ -71715,7 +71707,6 @@ analytics-*.aasaam.com
 ||ad.mds.lv^
 ||et.lv^
 ||adip.ly^
-||count.ly^
 ||measure.ly^
 ||api.iterative.ly^
 ||apv-launcher.minute.ly^
@@ -71724,11 +71715,8 @@ analytics-*.aasaam.com
 ||log2.musical.ly^
 ||xlog-va.musical.ly^
 ||data.minute.ly^
-||adf.ly^
 ||enterprise-go.generalassemb.ly^
 ||rjg2.destinia.ly^
-||assets.context.ly^
-||live.direct.ly^
 ||events*.cre.ma^
 ||mre6.destinia.ma^
 ||plugin.management^
@@ -72272,6 +72260,7 @@ analytics-*.aasaam.com
 ||dasistnews.net^
 ||lookfornews.net^
 ||magicplayer-s.acestream.net^
+||dic9vgwbkxd8r.cloudfront.net^
 ||d2s31asn9gp5vl.cloudfront.net^
 ||d3qvcyf9oa6vhw.cloudfront.net^
 ||d264dxqvolp03e.cloudfront.net^
@@ -76155,7 +76144,6 @@ analytics-*.aasaam.com
 ||ads-fr.spray.net^
 ||ads.aceweb.net^
 ||ads.adshareware.net^
-||ads.ak.facebook.com.edgesuite.net^
 ||ads.as4x.tmcs.net^
 ||ads.chilecomparte.net^
 ||ads.cliclic.net^
@@ -78369,7 +78357,6 @@ analytics-*.aasaam.com
 ||djjcyqvteia9v.cloudfront.net^
 ||djnf6e5yyirys.cloudfront.net^
 ||dk98ddgl0znzm.cloudfront.net^
-||dsms0mj1bbhn4.cloudfront.net^
 ||dstik9906m659.cloudfront.net^
 ||dvqigh9b7wa32.cloudfront.net^
 ||dxlnevqyeaz3a.cloudfront.net^
@@ -79750,6 +79737,7 @@ aio*1firebog.net
 ||dazeads1.online^
 ||telemetry.api.2kcoretech.online^
 ||o-oo.ooo^
+||etingplansfor.org^
 ||worldwhoisq.org^
 ||nandasmile.org^
 ||mileesidesu.org^
@@ -89813,6 +89801,7 @@ aio*1firebog.net
 ||hostingcloud.*.wasm^
 ||pixel.watch^
 ||web-visor.
+||lambedbarbal.website^
 ||clopembira.website^
 ||keapgypsite.website^
 ||referrer.website^
@@ -90205,6 +90194,8 @@ aio*1firebog.net
 ||xn--xhq9mt12cf5v.xn--io0a7i^
 ||dl.crazyporn.xxx^
 ||mo.vlpyj.xy^
+||kxkqqycs.xyz^
+||psumainy.xyz^
 ||zaudouwa.xyz^
 ||xyooepktyy.xyz^
 ||guvsxiex.xyz^
@@ -92974,6 +92965,7 @@ aio*1firebog.net
 ||zzbmxl.xyz^
 ||pknrnj.xyz^
 ||bxnxdlb.xyz^
+||l7ghj.xyz^
 ||01v62.xyz^
 ||1205qitiao2022.xyz^
 ||1267a.xyz^

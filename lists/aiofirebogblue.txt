@@ -3,7 +3,7 @@
 ! Description: All the blue sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-19T04:35:09.818Z
+! Last modified: 2024-01-19T07:32:03.915Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3062,7 +3062,6 @@
 ||smetrics.realcommercial.com.au^
 ||smetrics.realestate.com.au^
 ||smetrics.repco.com.au^
-||smetrics.sbs.com.au^
 ||smetrics.shannons.com.au^
 ||smetrics.stgeorge.com.au^
 ||smetrics.suncorp.com.au^
@@ -11729,7 +11728,6 @@
 ||share-clouds.com^
 ||share-server.com^
 ||share-stores.com^
-||shareaholic.com^
 ||shared-download.com^
 ||sharefile-us.com^
 ||sharefiles-eu.com^
@@ -11803,7 +11801,6 @@
 ||static.vpptechnologies.com^
 ||staticads.btopenworld.com^
 ||stats.askmoses.com^
-||stats.shopify.com^
 ||statsie.com^
 ||stephanie.tnctrx.com^
 ||storage.softure.com^
@@ -16091,7 +16088,6 @@
 ||statdb.pressflex.com^
 ||js4.ringrevenue.com^
 ||json4.ringrevenue.com^
-||s.shopify.com^
 ||ads.skinected.com^
 ||ads.supplyframe.com^
 ||ads.tracking202.com^
@@ -16529,7 +16525,6 @@
 ||www.brainfox.com^
 ||www.exactadvertising.com^
 ||gamevance.com^
-||pixel.facebook.com^
 ||geoip.businessinsider.com^
 ||beacon.wikia-services.com^
 ||banners.virtuagirlhd.com^
@@ -16613,7 +16608,6 @@
 ||app.reflectivedata.com^
 ||stats.tiebreaker.com^
 ||click.udimg.com^
-||google-analytics.com^
 ||www.linksalpha.com^
 ||web.acumenpi.com^
 ||ads.bloodhorse.com^
@@ -17974,7 +17968,6 @@
 ||acjs.aliyun.com^
 ||acs4baichuan.m.taobao.com^
 ||action.logger.baofeng.com^
-||activate.adobe.com^
 ||activate-sea.adobe.com^
 ||activate-sjc0.adobe.com^
 ||active.baofeng.com^
@@ -18375,7 +18368,6 @@
 ||laserveradedomaina.com^
 ||ledhenone.com^
 ||ledinund.com^
-||lm.licenses.adobe.com^
 ||load.jsecoin.com^
 ||log.collect.yinyuetai.com^
 ||logger.treexml.baofeng.com^
@@ -18519,7 +18511,6 @@
 ||pon.ewtuyytdf45.com^
 ||pop.sjk.ijinshan.com^
 ||ppurifier.game.xiaomi.com^
-||practivate.adobe.com^
 ||prc.rjje4.com^
 ||proxy.sec.miui.com^
 ||ps.haohaowan8.com^
@@ -18965,7 +18956,6 @@
 ||clevertap.com^
 ||forwrdnow.com^
 ||en-us.appex-rf.msn.com^
-||analytics.shopify.com^
 ||api.maxmind.com^
 ||api-us-east.maxmind.com^
 ||api-us-west.maxmind.com^
@@ -18974,7 +18964,6 @@
 ||geoip.maxmind.com^
 ||geoip-as-southeast.maxmind.com^
 ||geoip-ipv4.maxmind.com^
-||geoip-js.maxmind.com^
 ||geoip-us-east.maxmind.com^
 ||geoip1.maxmind.com^
 ||geoip2.maxmind.com^
@@ -18983,7 +18972,6 @@
 ||geolite.maxmind.com^
 ||grafana.maxmind.com^
 ||j.maxmind.com^
-||js.maxmind.com^
 ||o2.mktemail.maxmind.com^
 ||pgbadger.maxmind.com^
 ||prometheus.maxmind.com^
@@ -22617,11 +22605,8 @@
 ||aax-us-iad.amazon.com^
 ||amazon-adsystem.amazon.com^
 ||target.aws.amazon.com^
-||device-metrics-us.amazon.com^
-||device-metrics-us-2.amazon.com^
 ||mads.amazon.com^
 ||unagi.amazon.com^
-||unagi-na.amazon.com^
 ||amazonadda.com^
 ||amazonprincess.com^
 ||ambacam-madrid.com^
@@ -23802,6 +23787,8 @@
 ||deutztractor.com^
 ||dev-nano.com^
 ||developerapple.com^
+||block-test.developerdan.com^
+||block-test-ads-tracking.developerdan.com^
 ||deviceatlas.com^
 ||analytics.devicebits.com^
 ||devitube.com^
@@ -26514,7 +26501,6 @@
 ||redtubr.com^
 ||redtybe.com^
 ||reedemer.com^
-||refersion.com^
 ||refinedads.com^
 ||reftagger.com^
 ||regioncolonel.com^
@@ -28388,9 +28374,6 @@
 ||zybrdr.com^
 ||zylily.com^
 ||zypmedia.com^
-||a-graph.facebook.com^
-||graph.instagram.com^
-||mqtt-mini.facebook.com^
 ||reports.crashlytics.com^
 ||device.zhiliaoapp.com^
 ||api.uca.cloud.unity3d.com^
@@ -28452,7 +28435,6 @@
 ||api.eu.hismarttv.com^
 ||7345023508.fxm9485766783.com^
 ||data.mistat.intl.xiaomi.com^
-||device-messaging-na.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
 ||fls-eu.amazon.com^
 ||mads-eu.amazon.com^
@@ -28680,7 +28662,6 @@
 ||analytics.dominos.com^
 ||analytics.enjoymobiserver.com^
 ||analytics.evehome.com^
-||analytics.facebook.com^
 ||analytics.faw.sky.com^
 ||analytics.flipperdevices.com^
 ||analytics.freemake.com^
@@ -29291,7 +29272,6 @@
 ||esvdigital.com^
 ||ev.api.bdg.com^
 ||evasiondemandedlearning.com^
-||events.gfe.nvidia.com^
 ||eventstream.dodopizza.com^
 ||ever-track-51.com^
 ||evergage.com^
@@ -41045,7 +41025,6 @@
 ||pixel.inforsea.com^
 ||pixel.ionos.com^
 ||pixel.locker2.com^
-||pixel.nymag.com^
 ||pixel.patch.com^
 ||pixel.web.roku.com^
 ||pixel.wenxuecity.com^
@@ -41090,7 +41069,6 @@
 ||privacytrck.com^
 ||prmtracking3.com^
 ||prod-telemetry.paradox-interactive.com^
-||prod.telemetry.ros.rockstargames.com^
 ||productserve.com^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
@@ -67731,7 +67709,6 @@
 ||xsiv7v4qzjq6rdmpp.com^
 ||x.spacetreeabc.com^
 ||xtabr.com^
-||xt.lykj988.com^
 ||xub368notable.com^
 ||xumti39cg1kuf9t2y.com^
 ||xuongren.com^
@@ -90743,7 +90720,6 @@
 ||snapsmedia.io^
 ||sophi.io^
 ||spgo.io^
-||split.io^
 ||cdn.splitbee.io^
 ||events.stackshare.io^
 ||metrics.sudol.io^
@@ -93096,17 +93072,13 @@
 ||baumart.lv^
 ||gaismustudija.lv^
 ||naprazdnik.lv^
-||adf.ly^
 ||counter.minute.ly^
 ||vdata.minute.ly^
 ||applog.musical.ly^
 ||rtlog.musical.ly^
 ||ichannel.musical.ly^
 ||status.asknice.ly^
-||assets.context.ly^
-||count.ly^
 ||log.musical.ly^
-||live.direct.ly^
 ||gorgeous.ly^
 ||owsm.ly^
 ||teamgoogle125590.psee.ly^
@@ -96629,7 +96601,6 @@
 ||dojx47ab4dyxi.cloudfront.net^
 ||doug1izaerwt3.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
-||dsms0mj1bbhn4.cloudfront.net^
 ||dstik9906m659.cloudfront.net^
 ||dvqigh9b7wa32.cloudfront.net^
 ||dxlnevqyeaz3a.cloudfront.net^

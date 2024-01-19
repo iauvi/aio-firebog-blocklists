@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-19T04:37:48.123Z
+# Last modified: 2024-01-19T07:34:46.551Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -340,7 +340,6 @@ deliver.oztam.com.au
 logger.tv.telstra.com.au
 metrics.news.com.au
 pixel.newsdiscover.com.au
-smetrics.sbs.com.au
 tracking.carsales.com.au
 analytics.avanser.com.au
 t.auditedmedia.org.au
@@ -2355,6 +2354,7 @@ zpvuugw.cn
 zuugfj.cn
 zyzo.cn
 urueuah.cn
+stbwhln.cn
 173e.cn
 2pwja.cn
 331qka.cn
@@ -3817,8 +3817,6 @@ etahub.com
 evidon.com
 exacttargetapis.com
 smetrics1.experian.com
-an.facebook.com
-pixel.facebook.com
 fam-ad.com
 metrics.fedex.com
 fidelity-media.com
@@ -3899,7 +3897,6 @@ geoip.goforandroid.com
 navigation.api.hk.goforandroid.com
 goldspotmedia.com
 secure.gooddata.com
-google-analytics.com
 ads.google.com
 adservice.google.com
 googleadservices.com
@@ -4750,6 +4747,15 @@ stats.zmags.com
 stats.zotabox.com
 beacon.ztgame.com
 log-collector.svctr.zynga.com
+auhpaewvbgwjr.com
+wokaptoa.com
+jghjhtz.com
+ctrtrk.com
+mztqgmr.com
+uqpvrqplyqm.com
+wnwkzzzheca.com
+aysdsvtd.com
+sjmbwxnqz.com
 xhfvljklvq.com
 detergentkindlyrandom.com
 mgdtnwnjwewlph.com
@@ -30361,7 +30367,6 @@ redistats.com
 redstatcounter.com
 reedge.com
 referforex.com
-refersion.com
 refinedads.com
 relead.com
 reliablecounter.com
@@ -31489,7 +31494,6 @@ stats.pandora.com
 stats.paypal.com
 stats.piaggio.com
 stats.pusher.com
-stats.shopify.com
 stats.someecards.com
 stats.suite101.com
 stats.tipser.com
@@ -32008,7 +32012,6 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.eggoffer.com
 analytics.erepublic.com
-analytics.facebook.com
 analytics.favcy.com
 analytics.firespring.com
 analytics.groupe-seb.com
@@ -35185,7 +35188,6 @@ h5.tocdovnm.com
 h51.carpcredits.com
 hackgamemienphi.com
 hacktaikhoan.com
-hacktaikhoanfacebook.com
 haitacshopgame.com
 halovay.com
 handico.vaytienmat-nhanh24h.com
@@ -36304,7 +36306,6 @@ tammenaa.com
 tangcuongbanlinh.com
 tangnickmienphi.com
 tangqua01vn.com
-taokhienfacebook.com
 taoshop1s.com
 taoshopgame.com
 tb55788.com
@@ -36726,7 +36727,6 @@ viettinvay.com
 vietvcbdigibank.com
 vietviv.com
 view-apple.com
-vifacebook.com
 viieetcombank.com
 viietccombank.com
 viietcombank.com
@@ -37183,6 +37183,7 @@ ysxt9.com
 z0a1b2c3d4.com
 zhongfumzzew.com
 sukneyu.com
+xwlnhw.com
 027dir.com
 053h94.com
 085cczz.com
@@ -40426,8 +40427,6 @@ delta.inq.com
 deshmedia.com
 de.unbounce.com
 de.usefomo.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
 dfdevpixel2.df.jabodo.com
 direct.errorception.com
 directline.inq.com
@@ -40739,7 +40738,6 @@ magnetic.com
 main.dynsrvaba.com
 malealous.com
 m.amtmobi.com
-manifest.auditude.com
 manifest.da2.auditude.com
 manifest.or1.auditude.com
 manifest.pcw1.auditude.com
@@ -42145,7 +42143,6 @@ api-analytics-sg.huami.com
 astat.bugly.qcloud.com
 tracking.mobileadstrk.com
 dmxleo.dailymotion.com
-s.cdn.turner.com
 cmp.sirdata.com
 stats.ssdnodes.com
 www.yusp.com
@@ -43024,7 +43021,6 @@ crawlability.com
 crazypopups.com
 creafi-online-media.com
 creafi.com
-creative.ak.facebook.com
 crispmedia.com
 crispwireless.com
 crtv.mate1.com
@@ -44120,7 +44116,6 @@ c2shb.ssp.yahoo.com
 ads-verify.yap.yahoo.com
 adtech.yahooinc.com
 jac.yahoosandbox.com
-ads.facebook.com
 o.update.fbsbx.com
 p.update.fbsbx.com
 post.update.fbsbx.com
@@ -44158,7 +44153,6 @@ analytics.uca.cloud.unity3d.com
 2mdnsys.com
 ucads.ucweb.com
 union.ucweb.com
-shareaholic.com
 superfastmediation.com
 clevertap.com
 nixozz.com
@@ -55572,7 +55566,6 @@ adservice.google.com.gh
 adservice.google.com.gi
 121.204.246.*.gif
 wl.gl
-play.app.goo.gl
 adservice.google.gl
 bid.glass
 go2.global
@@ -56586,6 +56579,7 @@ co.akisinn.info
 int.akisinn.info
 pubnative.info
 spotscenered.info
+ntlysearchingf.info
 ntmastsault.info
 omouswoma.info
 ionismscoldn.info
@@ -57570,10 +57564,6 @@ aprod.scopely.io
 collector.scopely.io
 sdk.scopely.io
 o861134.ingest.sentry.io
-auth.split.io
-cdn.split.io
-events.split.io
-sdk.split.io
 alkutbay.starbolt.io
 sdk.starbolt.io
 events.tabmo.io
@@ -59754,7 +59744,6 @@ cur.lv
 adservice.google.lv
 ads.radio1.lv
 gnh2.destinia.lv
-count.ly
 apv-launcher.minute.ly
 snippet.minute.ly
 adip.ly
@@ -59766,10 +59755,8 @@ log2.musical.ly
 xlog-va.musical.ly
 data.minute.ly
 applog.musical.ly
-log-live.direct.ly
 log2-useast2a.musical.ly
 adservice.google.com.ly
-adf.ly
 warp.ly
 persona.ly
 enterprise-go.generalassemb.ly
@@ -60008,7 +59995,10 @@ track.nextsmart.me
 adservice.google.me
 stickaloger.tango.me
 free-apps.me
+malware-check.disconnect.me
+ad-check.disconnect.me
 theads.me
+basic-check.disconnect.me
 adbilty.me
 cashstaging.me
 rtbid.me
@@ -60358,7 +60348,6 @@ liuyun.name
 newspress.name
 vrr.name
 xiaoy.name
-www.google-analytics.com.domain.name
 adservice.google.ne
 api.247-inc.net
 tie.247-inc.net
@@ -60483,7 +60472,6 @@ everesttech.net
 fastapi.net
 mparticle.map.fastly.net
 confiant-integrations.global.ssl.fastly.net
-sonar-iad.xx.fbcdn.net
 ads3.fingersoft.net
 fmpub.net
 king-contenido-prod.secure2.footprint.net
@@ -60577,7 +60565,6 @@ yandexadexchange.net
 analytics.yolacdn.net
 youmi.net
 global.yyapi.net
-s.zkcdn.net
 zucks.net
 moxuthoo.net
 adxfire.net
@@ -60637,6 +60624,7 @@ az708531.vo.msecnd.net
 dasistnews.net
 lookfornews.net
 magicplayer-s.acestream.net
+dic9vgwbkxd8r.cloudfront.net
 d2s31asn9gp5vl.cloudfront.net
 d3qvcyf9oa6vhw.cloudfront.net
 d264dxqvolp03e.cloudfront.net
@@ -65358,7 +65346,6 @@ adprofile.net
 ads.aceweb.net
 ads.adshareware.net
 ads.advance.net
-ads.ak.facebook.com.edgesuite.net
 ads.as4x.tmcs.net
 ads.beenetworks.net
 ads.footymad.net
@@ -68240,6 +68227,7 @@ log.outbrain.org
 nychi2.outbrain.org
 sadc1.outbrain.org
 rbnt.org
+etingplansfor.org
 worldwhoisq.org
 nandasmile.org
 mileesidesu.org
@@ -75901,12 +75889,10 @@ cf-particle-html.eip.telegraph.co.uk
 counter.yadro.ru.prx.proxywebsite.co.uk
 e2.extreme-dm.com.prx.proxywebsite.co.uk
 s7.addthis.com.prx.proxywebsite.co.uk
-s-s.goo.gl.prx.proxywebsite.co.uk
 s-s.www.spyoff.com.prx.proxywebsite.co.uk
 syndication.standard.co.uk
 t1.extreme-dm.com.prx.proxywebsite.co.uk
 www.friendlyduck.com.prx.proxywebsite.co.uk
-www.google-analytics.com.prx.proxywebsite.co.uk
 adservice.google.co.uk
 piwik.companieshouse.gov.uk
 smetrics.telegraph.co.uk
@@ -77309,6 +77295,7 @@ hostingcloud.*.wasm
 pixel.watch
 hqq.watch
 web-visor.
+lambedbarbal.website
 clopembira.website
 keapgypsite.website
 referrer.website
@@ -77751,6 +77738,8 @@ analytics.gismart.xyz
 prod-defaulting-subscriptiontool.gismart.xyz
 api.mobitech-content.xyz
 vaicore.xyz
+kxkqqycs.xyz
+psumainy.xyz
 zaudouwa.xyz
 xyooepktyy.xyz
 guvsxiex.xyz
@@ -80522,6 +80511,7 @@ zxpvalr.xyz
 zzbmxl.xyz
 pknrnj.xyz
 bxnxdlb.xyz
+l7ghj.xyz
 01v62.xyz
 1205qitiao2022.xyz
 1267a.xyz

@@ -3,7 +3,7 @@
 ! Description: All the blue advertising-tracking-malicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-19T04:43:06.329Z
+! Last modified: 2024-01-19T07:40:21.475Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2979,7 +2979,6 @@
 ||smetrics.realcommercial.com.au^
 ||smetrics.realestate.com.au^
 ||smetrics.repco.com.au^
-||smetrics.sbs.com.au^
 ||smetrics.shannons.com.au^
 ||smetrics.stgeorge.com.au^
 ||smetrics.suncorp.com.au^
@@ -6533,7 +6532,6 @@
 ||cdp.cloud.unity3d.com^
 ||beacons.gcp.gvt2.com^
 ||ads.google.com^
-||google-analytics.com^
 ||googlesyndication.com^
 ||adservice.google.com^
 ||tracking.klickthru.com^
@@ -7304,11 +7302,8 @@
 ||aax-us-iad.amazon.com^
 ||amazon-adsystem.amazon.com^
 ||target.aws.amazon.com^
-||device-metrics-us.amazon.com^
-||device-metrics-us-2.amazon.com^
 ||mads.amazon.com^
 ||unagi.amazon.com^
-||unagi-na.amazon.com^
 ||amazon-adsystem.com^
 ||amazonadda.com^
 ||amazonprincess.com^
@@ -8549,6 +8544,8 @@
 ||deutztractor.com^
 ||dev-nano.com^
 ||developerapple.com^
+||block-test.developerdan.com^
+||block-test-ads-tracking.developerdan.com^
 ||deviceatlas.com^
 ||analytics.devicebits.com^
 ||devitube.com^
@@ -11396,7 +11393,6 @@
 ||redtubr.com^
 ||redtybe.com^
 ||reedemer.com^
-||refersion.com^
 ||refinedads.com^
 ||reftagger.com^
 ||regioncolonel.com^
@@ -11777,7 +11773,6 @@
 ||sguareup.com^
 ||shady45.com^
 ||shakeelabiz.com^
-||shareaholic.com^
 ||shareminder.com^
 ||sharepointapplied.com^
 ||sharethis.com^
@@ -13365,9 +13360,6 @@
 ||zybrdr.com^
 ||zylily.com^
 ||zypmedia.com^
-||a-graph.facebook.com^
-||graph.instagram.com^
-||mqtt-mini.facebook.com^
 ||e.crashlytics.com^
 ||reports.crashlytics.com^
 ||settings.crashlytics.com^
@@ -13438,7 +13430,6 @@
 ||7345023508.fxm9485766783.com^
 ||data.mistat.intl.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
-||device-messaging-na.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
 ||fls-eu.amazon.com^
 ||mads-eu.amazon.com^
@@ -13692,7 +13683,6 @@
 ||analytics.dominos.com^
 ||analytics.enjoymobiserver.com^
 ||analytics.evehome.com^
-||analytics.facebook.com^
 ||analytics.faw.sky.com^
 ||analytics.flipperdevices.com^
 ||analytics.freemake.com^
@@ -14335,7 +14325,6 @@
 ||etahub.com^
 ||ev.api.bdg.com^
 ||evasiondemandedlearning.com^
-||events.gfe.nvidia.com^
 ||eventstream.dodopizza.com^
 ||ever-track-51.com^
 ||evergage.com^
@@ -26121,12 +26110,10 @@
 ||piwik.com-online.com^
 ||piwikpro.com^
 ||pixel.cfspx.digitalriver.com^
-||pixel.facebook.com^
 ||pixel.getshogun.com^
 ||pixel.inforsea.com^
 ||pixel.ionos.com^
 ||pixel.locker2.com^
-||pixel.nymag.com^
 ||pixel.patch.com^
 ||pixel.web.roku.com^
 ||pixel.wenxuecity.com^
@@ -26175,7 +26162,6 @@
 ||privacytrck.com^
 ||prmtracking3.com^
 ||prod-telemetry.paradox-interactive.com^
-||prod.telemetry.ros.rockstargames.com^
 ||productserve.com^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
@@ -52881,7 +52867,6 @@
 ||xsiv7v4qzjq6rdmpp.com^
 ||x.spacetreeabc.com^
 ||xtabr.com^
-||xt.lykj988.com^
 ||xub368notable.com^
 ||xumti39cg1kuf9t2y.com^
 ||xuongren.com^
@@ -70248,7 +70233,6 @@
 ||snapsmedia.io^
 ||sophi.io^
 ||spgo.io^
-||split.io^
 ||cdn.splitbee.io^
 ||events.stackshare.io^
 ||metrics.sudol.io^
@@ -72345,11 +72329,7 @@
 ||baumart.lv^
 ||gaismustudija.lv^
 ||naprazdnik.lv^
-||adf.ly^
-||assets.context.ly^
-||count.ly^
 ||log.musical.ly^
-||live.direct.ly^
 ||gorgeous.ly^
 ||owsm.ly^
 ||teamgoogle125590.psee.ly^
@@ -73615,7 +73595,6 @@
 ||dojx47ab4dyxi.cloudfront.net^
 ||doug1izaerwt3.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
-||dsms0mj1bbhn4.cloudfront.net^
 ||dstik9906m659.cloudfront.net^
 ||dvqigh9b7wa32.cloudfront.net^
 ||dxlnevqyeaz3a.cloudfront.net^

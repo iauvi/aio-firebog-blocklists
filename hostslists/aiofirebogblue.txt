@@ -3,7 +3,7 @@
 # Description: All the blue sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-19T04:35:09.818Z
+# Last modified: 2024-01-19T07:32:03.915Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -3077,7 +3077,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.realcommercial.com.au
 0.0.0.0 smetrics.realestate.com.au
 0.0.0.0 smetrics.repco.com.au
-0.0.0.0 smetrics.sbs.com.au
 0.0.0.0 smetrics.shannons.com.au
 0.0.0.0 smetrics.stgeorge.com.au
 0.0.0.0 smetrics.suncorp.com.au
@@ -11743,7 +11742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 share-clouds.com
 0.0.0.0 share-server.com
 0.0.0.0 share-stores.com
-0.0.0.0 shareaholic.com
 0.0.0.0 shared-download.com
 0.0.0.0 sharefile-us.com
 0.0.0.0 sharefiles-eu.com
@@ -11817,7 +11815,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 stats.askmoses.com
-0.0.0.0 stats.shopify.com
 0.0.0.0 statsie.com
 0.0.0.0 stephanie.tnctrx.com
 0.0.0.0 storage.softure.com
@@ -16105,7 +16102,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 statdb.pressflex.com
 0.0.0.0 js4.ringrevenue.com
 0.0.0.0 json4.ringrevenue.com
-0.0.0.0 s.shopify.com
 0.0.0.0 ads.skinected.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.tracking202.com
@@ -16543,7 +16539,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.brainfox.com
 0.0.0.0 www.exactadvertising.com
 0.0.0.0 gamevance.com
-0.0.0.0 pixel.facebook.com
 0.0.0.0 geoip.businessinsider.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 banners.virtuagirlhd.com
@@ -16627,7 +16622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.reflectivedata.com
 0.0.0.0 stats.tiebreaker.com
 0.0.0.0 click.udimg.com
-0.0.0.0 google-analytics.com
 0.0.0.0 www.linksalpha.com
 0.0.0.0 web.acumenpi.com
 0.0.0.0 ads.bloodhorse.com
@@ -17988,7 +17982,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acs4baichuan.m.taobao.com
 0.0.0.0 action.logger.baofeng.com
-0.0.0.0 activate.adobe.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 active.baofeng.com
@@ -18389,7 +18382,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
-0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 load.jsecoin.com
 0.0.0.0 log.collect.yinyuetai.com
 0.0.0.0 logger.treexml.baofeng.com
@@ -18533,7 +18525,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pop.sjk.ijinshan.com
 0.0.0.0 ppurifier.game.xiaomi.com
-0.0.0.0 practivate.adobe.com
 0.0.0.0 prc.rjje4.com
 0.0.0.0 proxy.sec.miui.com
 0.0.0.0 ps.haohaowan8.com
@@ -18979,7 +18970,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clevertap.com
 0.0.0.0 forwrdnow.com
 0.0.0.0 en-us.appex-rf.msn.com
-0.0.0.0 analytics.shopify.com
 0.0.0.0 api.maxmind.com
 0.0.0.0 api-us-east.maxmind.com
 0.0.0.0 api-us-west.maxmind.com
@@ -18988,7 +18978,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geoip.maxmind.com
 0.0.0.0 geoip-as-southeast.maxmind.com
 0.0.0.0 geoip-ipv4.maxmind.com
-0.0.0.0 geoip-js.maxmind.com
 0.0.0.0 geoip-us-east.maxmind.com
 0.0.0.0 geoip1.maxmind.com
 0.0.0.0 geoip2.maxmind.com
@@ -18997,7 +18986,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geolite.maxmind.com
 0.0.0.0 grafana.maxmind.com
 0.0.0.0 j.maxmind.com
-0.0.0.0 js.maxmind.com
 0.0.0.0 o2.mktemail.maxmind.com
 0.0.0.0 pgbadger.maxmind.com
 0.0.0.0 prometheus.maxmind.com
@@ -22631,11 +22619,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 target.aws.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 unagi.amazon.com
-0.0.0.0 unagi-na.amazon.com
 0.0.0.0 amazonadda.com
 0.0.0.0 amazonprincess.com
 0.0.0.0 ambacam-madrid.com
@@ -23816,6 +23801,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 deutztractor.com
 0.0.0.0 dev-nano.com
 0.0.0.0 developerapple.com
+0.0.0.0 block-test.developerdan.com
+0.0.0.0 block-test-ads-tracking.developerdan.com
 0.0.0.0 deviceatlas.com
 0.0.0.0 analytics.devicebits.com
 0.0.0.0 devitube.com
@@ -26528,7 +26515,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 redtubr.com
 0.0.0.0 redtybe.com
 0.0.0.0 reedemer.com
-0.0.0.0 refersion.com
 0.0.0.0 refinedads.com
 0.0.0.0 reftagger.com
 0.0.0.0 regioncolonel.com
@@ -28402,9 +28388,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zybrdr.com
 0.0.0.0 zylily.com
 0.0.0.0 zypmedia.com
-0.0.0.0 a-graph.facebook.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 device.zhiliaoapp.com
 0.0.0.0 api.uca.cloud.unity3d.com
@@ -28466,7 +28449,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.eu.hismarttv.com
 0.0.0.0 7345023508.fxm9485766783.com
 0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 device-messaging-na.amazon.com
 0.0.0.0 devicemessaging.us-east-1.amazon.com
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 mads-eu.amazon.com
@@ -28694,7 +28676,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.dominos.com
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.evehome.com
-0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.flipperdevices.com
 0.0.0.0 analytics.freemake.com
@@ -29305,7 +29286,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 esvdigital.com
 0.0.0.0 ev.api.bdg.com
 0.0.0.0 evasiondemandedlearning.com
-0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 eventstream.dodopizza.com
 0.0.0.0 ever-track-51.com
 0.0.0.0 evergage.com
@@ -41059,7 +41039,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.locker2.com
-0.0.0.0 pixel.nymag.com
 0.0.0.0 pixel.patch.com
 0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel.wenxuecity.com
@@ -41104,7 +41083,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 privacytrck.com
 0.0.0.0 prmtracking3.com
 0.0.0.0 prod-telemetry.paradox-interactive.com
-0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 productserve.com
 0.0.0.0 profitablecpmgate.com
 0.0.0.0 profitablecpmnetwork.com
@@ -67745,7 +67723,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xsiv7v4qzjq6rdmpp.com
 0.0.0.0 x.spacetreeabc.com
 0.0.0.0 xtabr.com
-0.0.0.0 xt.lykj988.com
 0.0.0.0 xub368notable.com
 0.0.0.0 xumti39cg1kuf9t2y.com
 0.0.0.0 xuongren.com
@@ -90756,7 +90733,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 snapsmedia.io
 0.0.0.0 sophi.io
 0.0.0.0 spgo.io
-0.0.0.0 split.io
 0.0.0.0 cdn.splitbee.io
 0.0.0.0 events.stackshare.io
 0.0.0.0 metrics.sudol.io
@@ -93109,17 +93085,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 baumart.lv
 0.0.0.0 gaismustudija.lv
 0.0.0.0 naprazdnik.lv
-0.0.0.0 adf.ly
 0.0.0.0 counter.minute.ly
 0.0.0.0 vdata.minute.ly
 0.0.0.0 applog.musical.ly
 0.0.0.0 rtlog.musical.ly
 0.0.0.0 ichannel.musical.ly
 0.0.0.0 status.asknice.ly
-0.0.0.0 assets.context.ly
-0.0.0.0 count.ly
 0.0.0.0 log.musical.ly
-0.0.0.0 live.direct.ly
 0.0.0.0 gorgeous.ly
 0.0.0.0 owsm.ly
 0.0.0.0 teamgoogle125590.psee.ly
@@ -96642,7 +96614,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
-0.0.0.0 dsms0mj1bbhn4.cloudfront.net
 0.0.0.0 dstik9906m659.cloudfront.net
 0.0.0.0 dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dxlnevqyeaz3a.cloudfront.net

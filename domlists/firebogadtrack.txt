@@ -3,7 +3,7 @@
 # Description: All the blue/green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-19T04:39:39.383Z
+# Last modified: 2024-01-19T07:36:43.960Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -347,7 +347,6 @@ deliver.oztam.com.au
 logger.tv.telstra.com.au
 metrics.news.com.au
 pixel.newsdiscover.com.au
-smetrics.sbs.com.au
 tracking.carsales.com.au
 analytics.avanser.com.au
 t.auditedmedia.org.au
@@ -2507,6 +2506,7 @@ zpvuugw.cn
 zuugfj.cn
 zyzo.cn
 urueuah.cn
+stbwhln.cn
 173e.cn
 2pwja.cn
 331qka.cn
@@ -3960,8 +3960,6 @@ etahub.com
 evidon.com
 exacttargetapis.com
 smetrics1.experian.com
-an.facebook.com
-pixel.facebook.com
 fam-ad.com
 metrics.fedex.com
 fidelity-media.com
@@ -4034,7 +4032,6 @@ geoip.goforandroid.com
 navigation.api.hk.goforandroid.com
 goldspotmedia.com
 secure.gooddata.com
-google-analytics.com
 ads.google.com
 adservice.google.com
 googleadservices.com
@@ -4767,6 +4764,15 @@ static.ziftsolutions.com
 stats.zmags.com
 beacon.ztgame.com
 log-collector.svctr.zynga.com
+auhpaewvbgwjr.com
+wokaptoa.com
+jghjhtz.com
+ctrtrk.com
+mztqgmr.com
+uqpvrqplyqm.com
+wnwkzzzheca.com
+aysdsvtd.com
+sjmbwxnqz.com
 xhfvljklvq.com
 detergentkindlyrandom.com
 mgdtnwnjwewlph.com
@@ -30298,7 +30304,6 @@ redistats.com
 redstatcounter.com
 reedge.com
 referforex.com
-refersion.com
 refinedads.com
 relead.com
 reliablecounter.com
@@ -31361,7 +31366,6 @@ stats.pandora.com
 stats.paypal.com
 stats.piaggio.com
 stats.pusher.com
-stats.shopify.com
 stats.someecards.com
 stats.suite101.com
 stats.tipser.com
@@ -31830,7 +31834,6 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.eggoffer.com
 analytics.erepublic.com
-analytics.facebook.com
 analytics.favcy.com
 analytics.firespring.com
 analytics.groupe-seb.com
@@ -34951,7 +34954,6 @@ h5.tocdovnm.com
 h51.carpcredits.com
 hackgamemienphi.com
 hacktaikhoan.com
-hacktaikhoanfacebook.com
 haitacshopgame.com
 halovay.com
 handico.vaytienmat-nhanh24h.com
@@ -36070,7 +36072,6 @@ tammenaa.com
 tangcuongbanlinh.com
 tangnickmienphi.com
 tangqua01vn.com
-taokhienfacebook.com
 taoshop1s.com
 taoshopgame.com
 tb55788.com
@@ -36492,7 +36493,6 @@ viettinvay.com
 vietvcbdigibank.com
 vietviv.com
 view-apple.com
-vifacebook.com
 viieetcombank.com
 viietccombank.com
 viietcombank.com
@@ -36944,6 +36944,7 @@ ysxt9.com
 z0a1b2c3d4.com
 zhongfumzzew.com
 sukneyu.com
+xwlnhw.com
 027dir.com
 053h94.com
 085cczz.com
@@ -40039,8 +40040,6 @@ d.c-launcher.com
 deshmedia.com
 de.unbounce.com
 de.usefomo.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
 dfdevpixel2.df.jabodo.com
 dispatcher-bsy.c360dn.com
 dispatcher.c360dn.com
@@ -40263,7 +40262,6 @@ magnetic.com
 main.dynsrvaba.com
 malealous.com
 m.amtmobi.com
-manifest.auditude.com
 manifest.da2.auditude.com
 manifest.or1.auditude.com
 manifest.pcw1.auditude.com
@@ -41417,7 +41415,6 @@ main.dynsrvcab.com
 api-analytics-sg.huami.com
 astat.bugly.qcloud.com
 dmxleo.dailymotion.com
-s.cdn.turner.com
 stats.ssdnodes.com
 stats.searchanise.com
 banner.pubnxserv.com
@@ -42253,7 +42250,6 @@ crawlability.com
 crazypopups.com
 creafi-online-media.com
 creafi.com
-creative.ak.facebook.com
 crispmedia.com
 crispwireless.com
 crtv.mate1.com
@@ -43335,7 +43331,6 @@ platform.tumblr.com
 ads-verify.yap.yahoo.com
 adtech.yahooinc.com
 jac.yahoosandbox.com
-ads.facebook.com
 analytics.spotify.com
 log.spotify.com
 ads.viber.com
@@ -43366,7 +43361,6 @@ analytics.uca.cloud.unity3d.com
 2mdnsys.com
 ucads.ucweb.com
 union.ucweb.com
-shareaholic.com
 superfastmediation.com
 clevertap.com
 nixozz.com
@@ -52806,7 +52800,6 @@ amateurgallore.com
 amazingassistedliving.com
 target.aws.amazon.com
 unagi.amazon.com
-unagi-na.amazon.com
 amazonadda.com
 amazonprincess.com
 ambacam-madrid.com
@@ -53754,6 +53747,8 @@ deutschecd.com
 deutztractor.com
 dev-nano.com
 developerapple.com
+block-test.developerdan.com
+block-test-ads-tracking.developerdan.com
 deviceatlas.com
 analytics.devicebits.com
 devitube.com
@@ -57646,9 +57641,6 @@ zwappos.com
 zwppos.com
 zylily.com
 zypmedia.com
-a-graph.facebook.com
-graph.instagram.com
-mqtt-mini.facebook.com
 e.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
@@ -57706,7 +57698,6 @@ api.us.hismarttv.com
 api.euro.hismarttv.com
 api.eu.hismarttv.com
 7345023508.fxm9485766783.com
-device-messaging-na.amazon.com
 devicemessaging.us-east-1.amazon.com
 fls-eu.amazon.com
 mas-sdk.amazon.com
@@ -58072,7 +58063,6 @@ err-up.vivoglobal.com
 errorception.com
 esputnik.com
 esvdigital.com
-events.gfe.nvidia.com
 ever-track-51.com
 exerciseundergone.com
 exploredefinitely.com
@@ -69404,7 +69394,6 @@ piwik.com-online.com
 piwikpro.com
 pixel.cfspx.digitalriver.com
 pixel.getshogun.com
-pixel.nymag.com
 pixel.patch.com
 pixel.web.roku.com
 pixel.wenxuecity.com
@@ -69423,7 +69412,6 @@ pricespider.com
 privacy.aol.com
 privacytrck.com
 prod-telemetry.paradox-interactive.com
-prod.telemetry.ros.rockstargames.com
 productserve.com
 proformics.com
 profoundrollcompatibility.com
@@ -72949,7 +72937,6 @@ adservice.google.com.gh
 smetrics.vodafone.com.gh
 adservice.google.com.gi
 wl.gl
-play.app.goo.gl
 adservice.google.gl
 bid.glass
 go2.global
@@ -74179,6 +74166,7 @@ livelogs.slike.in
 smetrics.myvi.in
 pubnative.info
 spotscenered.info
+ntlysearchingf.info
 ntmastsault.info
 omouswoma.info
 ionismscoldn.info
@@ -77511,7 +77499,6 @@ s4m.io
 sheilds.io
 snapsmedia.io
 spgo.io
-split.io
 events.stackshare.io
 metrics.sudol.io
 superbuzz.io
@@ -78991,7 +78978,6 @@ ads.radio1.lv
 gnh2.destinia.lv
 ad.mds.lv
 et.lv
-count.ly
 apv-launcher.minute.ly
 snippet.minute.ly
 adip.ly
@@ -79003,16 +78989,12 @@ log2.musical.ly
 xlog-va.musical.ly
 data.minute.ly
 applog.musical.ly
-log-live.direct.ly
 log2-useast2a.musical.ly
 adservice.google.com.ly
-adf.ly
 warp.ly
 persona.ly
 enterprise-go.generalassemb.ly
 rjg2.destinia.ly
-assets.context.ly
-live.direct.ly
 adservice.google.co.ma
 mre6.destinia.ma
 plugin.management
@@ -79245,7 +79227,10 @@ track.nextsmart.me
 adservice.google.me
 stickaloger.tango.me
 free-apps.me
+malware-check.disconnect.me
+ad-check.disconnect.me
 theads.me
+basic-check.disconnect.me
 adbilty.me
 cashstaging.me
 rtbid.me
@@ -79758,7 +79743,6 @@ everesttech.net
 fastapi.net
 mparticle.map.fastly.net
 confiant-integrations.global.ssl.fastly.net
-sonar-iad.xx.fbcdn.net
 ads3.fingersoft.net
 fmpub.net
 king-contenido-prod.secure2.footprint.net
@@ -79902,6 +79886,7 @@ az708531.vo.msecnd.net
 dasistnews.net
 lookfornews.net
 magicplayer-s.acestream.net
+dic9vgwbkxd8r.cloudfront.net
 d2s31asn9gp5vl.cloudfront.net
 d3qvcyf9oa6vhw.cloudfront.net
 d264dxqvolp03e.cloudfront.net
@@ -84483,7 +84468,6 @@ adnetwork.net
 adprofile.net
 ads.aceweb.net
 ads.adshareware.net
-ads.ak.facebook.com.edgesuite.net
 ads.as4x.tmcs.net
 ads.beenetworks.net
 ads.footymad.net
@@ -86914,7 +86898,6 @@ divp3w86nodu0.cloudfront.net
 djjcyqvteia9v.cloudfront.net
 djnf6e5yyirys.cloudfront.net
 dk98ddgl0znzm.cloudfront.net
-dsms0mj1bbhn4.cloudfront.net
 dstik9906m659.cloudfront.net
 dvqigh9b7wa32.cloudfront.net
 dxlnevqyeaz3a.cloudfront.net
@@ -88361,6 +88344,7 @@ adsmogo.org
 adsrvr.org
 anquan.org
 rbnt.org
+etingplansfor.org
 worldwhoisq.org
 nandasmile.org
 mileesidesu.org
@@ -97903,12 +97887,10 @@ cf-particle-html.eip.telegraph.co.uk
 counter.yadro.ru.prx.proxywebsite.co.uk
 e2.extreme-dm.com.prx.proxywebsite.co.uk
 s7.addthis.com.prx.proxywebsite.co.uk
-s-s.goo.gl.prx.proxywebsite.co.uk
 s-s.www.spyoff.com.prx.proxywebsite.co.uk
 syndication.standard.co.uk
 t1.extreme-dm.com.prx.proxywebsite.co.uk
 www.friendlyduck.com.prx.proxywebsite.co.uk
-www.google-analytics.com.prx.proxywebsite.co.uk
 adservice.google.co.uk
 piwik.companieshouse.gov.uk
 smetrics.telegraph.co.uk
@@ -99382,6 +99364,7 @@ lianyi.wang
 wap1.laogu.wang
 pixel.watch
 hqq.watch
+lambedbarbal.website
 clopembira.website
 keapgypsite.website
 referrer.website
@@ -99828,6 +99811,8 @@ analytics.gismart.xyz
 prod-defaulting-subscriptiontool.gismart.xyz
 api.mobitech-content.xyz
 vaicore.xyz
+kxkqqycs.xyz
+psumainy.xyz
 zaudouwa.xyz
 xyooepktyy.xyz
 guvsxiex.xyz
@@ -102592,6 +102577,7 @@ zxpvalr.xyz
 zzbmxl.xyz
 pknrnj.xyz
 bxnxdlb.xyz
+l7ghj.xyz
 01v62.xyz
 1205qitiao2022.xyz
 1267a.xyz
