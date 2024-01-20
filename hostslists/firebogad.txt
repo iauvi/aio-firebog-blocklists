@@ -3,7 +3,7 @@
 # Description: All the advertising sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-20T00:21:36.055Z
+# Last modified: 2024-01-20T04:10:22.398Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -47419,10 +47419,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 removeads.workers.dev
-0.0.0.0 adtest.pages.dev
-0.0.0.0 new-adtest.pages.dev
 0.0.0.0 app.sbz.workers.dev
-0.0.0.0 vebo-vast.pages.dev
 0.0.0.0 mystnock.digital
 0.0.0.0 korununkept.digital
 0.0.0.0 viavideo.digital
@@ -52482,10 +52479,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.me
 0.0.0.0 stickaloger.tango.me
 0.0.0.0 free-apps.me
-0.0.0.0 malware-check.disconnect.me
-0.0.0.0 ad-check.disconnect.me
 0.0.0.0 theads.me
-0.0.0.0 basic-check.disconnect.me
 0.0.0.0 adbilty.me
 0.0.0.0 cashstaging.me
 0.0.0.0 rtbid.me

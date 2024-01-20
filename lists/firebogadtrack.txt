@@ -3,7 +3,7 @@
 ! Description: All the blue/green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-20T00:23:46.304Z
+! Last modified: 2024-01-20T04:12:34.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -53922,8 +53922,6 @@ analytics-*.aasaam.com
 ||deutztractor.com^
 ||dev-nano.com^
 ||developerapple.com^
-||block-test.developerdan.com^
-||block-test-ads-tracking.developerdan.com^
 ||deviceatlas.com^
 ||analytics.devicebits.com^
 ||devitube.com^
@@ -71708,10 +71706,7 @@ analytics-*.aasaam.com
 ||analytics.cookiefirst.dev^
 ||plausibleio.workers.dev^
 ||removeads.workers.dev^
-||adtest.pages.dev^
-||new-adtest.pages.dev^
 ||app.sbz.workers.dev^
-||vebo-vast.pages.dev^
 ||formalytics.dev^
 ||trace.onb.workers.dev^
 ||mystnock.digital^
@@ -79459,10 +79454,7 @@ analytics-*.aasaam.com
 ||adservice.google.me^
 ||stickaloger.tango.me^
 ||free-apps.me^
-||malware-check.disconnect.me^
-||ad-check.disconnect.me^
 ||theads.me^
-||basic-check.disconnect.me^
 ||adbilty.me^
 ||cashstaging.me^
 ||rtbid.me^
