@@ -3,7 +3,7 @@
 ! Description: All the blue and green suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-20T04:18:10.248Z
+! Last modified: 2024-01-20T10:18:11.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -49455,6 +49455,7 @@
 ||cloudcdn.gdn^
 ||roblox.ge^
 ||revive.agenda.ge^
+||allegro.info.gf^
 ||jgloballogisticsservices.mfs.gg^
 ||outl00k.mfs.gg^
 ||zemanife.mfs.gg^
@@ -51024,6 +51025,7 @@
 ||vlnted-gb.auion.info^
 ||vlnted-gb.auioy.info^
 ||vlnted-gb.auoif.info^
+||vlnted-gb.auoix.info^
 ||vlnted-gb.auyiok.info^
 ||vlnted-gb.auyoy.info^
 ||vlnted-gb.axyuo.info^
@@ -64346,6 +64348,7 @@ aio*1firebog.net
 ||auta-sobieski.pl^
 ||auta-sochacki.pl^
 ||auta-winiarski.pl^
+||auta-wojtas.pl^
 ||auta-wolski.pl^
 ||auta-wyprzedaz.pl^
 ||auta-zalewski.pl^
@@ -65645,6 +65648,10 @@ aio*1firebog.net
 ||oferta12555.pl^
 ||oferta12556.pl^
 ||oferta-6534.pl^
+||oferta-sprzedazy2137.pl^
+||oferta-sprzedazy2138.pl^
+||oferta-sprzedazy2139.pl^
+||oferta-sprzedazy2140.pl^
 ||oferta-sprzedazy5566.pl^
 ||oferta-sprzedazy8254.pl^
 ||oferta-sprzedazy25485.pl^
@@ -81603,6 +81610,7 @@ aio*1firebog.net
 ||avizgroup.world^
 ||bingplnew.world^
 ||botvvap.world^
+||bufferpaint.world^
 ||capartners.world^
 ||clydetrade.world^
 ||dingyblip.world^

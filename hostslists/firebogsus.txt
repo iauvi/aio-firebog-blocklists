@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-20T04:18:10.248Z
+# Last modified: 2024-01-20T10:18:11.065Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -49469,6 +49469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 roblox.ge
 0.0.0.0 revive.agenda.ge
+0.0.0.0 allegro.info.gf
 0.0.0.0 jgloballogisticsservices.mfs.gg
 0.0.0.0 outl00k.mfs.gg
 0.0.0.0 zemanife.mfs.gg
@@ -51038,6 +51039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlnted-gb.auion.info
 0.0.0.0 vlnted-gb.auioy.info
 0.0.0.0 vlnted-gb.auoif.info
+0.0.0.0 vlnted-gb.auoix.info
 0.0.0.0 vlnted-gb.auyiok.info
 0.0.0.0 vlnted-gb.auyoy.info
 0.0.0.0 vlnted-gb.axyuo.info
@@ -64357,6 +64359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-sobieski.pl
 0.0.0.0 auta-sochacki.pl
 0.0.0.0 auta-winiarski.pl
+0.0.0.0 auta-wojtas.pl
 0.0.0.0 auta-wolski.pl
 0.0.0.0 auta-wyprzedaz.pl
 0.0.0.0 auta-zalewski.pl
@@ -65656,6 +65659,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 oferta12555.pl
 0.0.0.0 oferta12556.pl
 0.0.0.0 oferta-6534.pl
+0.0.0.0 oferta-sprzedazy2137.pl
+0.0.0.0 oferta-sprzedazy2138.pl
+0.0.0.0 oferta-sprzedazy2139.pl
+0.0.0.0 oferta-sprzedazy2140.pl
 0.0.0.0 oferta-sprzedazy5566.pl
 0.0.0.0 oferta-sprzedazy8254.pl
 0.0.0.0 oferta-sprzedazy25485.pl
@@ -81614,6 +81621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 avizgroup.world
 0.0.0.0 bingplnew.world
 0.0.0.0 botvvap.world
+0.0.0.0 bufferpaint.world
 0.0.0.0 capartners.world
 0.0.0.0 clydetrade.world
 0.0.0.0 dingyblip.world
