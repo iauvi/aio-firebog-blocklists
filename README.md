@@ -14,7 +14,7 @@
   
 ***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>to be used with<br><br>• ad blockers •<br>• DNS applications •<br>• Windows' hosts file •*** 
 
-| Type | ⚪ | Description |
+| ⚪⚪⚪ | ⚪ | Description |
 |---:|:---:|:---|
 |Bog| 🔥 |The Bog All-In-One (AIO) list encompasses all sources and will disrupt your browsing experience, consider implementing an allowlist for better control|
 |Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
@@ -57,13 +57,13 @@
 
 ***All sources can be found on <a href="https://firebog.net/" title="">The Firebog</a><br>hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
-| Type | ⚪ | Description |
+| ⚪⚪⚪ | ⚪ | Description |
 |---:|:---:|:---|
 |Bog| 🔥 |Exclusive to The Bog All-In-One (AIO) list only|
 |Blue| 🟦 |Featured in both The Bog AIO list and blue lists|
 |Green| ✅ |Featured in both The Bog AIO list and green lists|
 
-| Class | ⚪ | Source |
+| ⚪⚪⚪ | ⚪ | Source |
 |---:|:---:|:---|
 | Suspicious | ⚪ | ⚪⚪⚪ |
 | ⚪ | ✅ | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
@@ -120,7 +120,7 @@
 | AIO BONUS | ⚪ | ⚪⚪⚪ |
 | ⚪ | ✅ | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-| ⚪ | 🔥 | ⚪⚪⚪ |
+| ⚪ | 🔥 | [⚪](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-AIO-List/blob/main/adblocker_list_final.txt)[⚪](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-AIO-List/blob/main/tracker_list_adguard_home.txt)[⚪](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/dns_disallowed_domains.txt) |
 
 </div>
 
