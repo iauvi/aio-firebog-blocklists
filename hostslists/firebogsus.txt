@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-20T22:38:44.045Z
+# Last modified: 2024-01-21T04:18:30.252Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -224,6 +224,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 business-25e27.web.app
 0.0.0.0 business-1390f.web.app
 0.0.0.0 business-5173d.web.app
+0.0.0.0 business-accounts-supports-pages-ads-development.vercel.app
 0.0.0.0 business-c85ec.web.app
 0.0.0.0 business-fb-review-12896192526.web.app
 0.0.0.0 business-page-appeal-00-258912.web.app
@@ -14725,6 +14726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 faizuraroslan.com
 0.0.0.0 fakty24info.epizy.com
 0.0.0.0 fakty-info.com
+0.0.0.0 fakty-ludzie-news.com
 0.0.0.0 fakzuk.com
 0.0.0.0 falaflu.com
 0.0.0.0 falcidiyorki.com
@@ -25866,6 +25868,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted-it.request3434.com
 0.0.0.0 vinted-nl.id93821.com
 0.0.0.0 vinted-pro-belgie.com
+0.0.0.0 vinted-se.id1488.com
 0.0.0.0 vinted-sk.id93172.com
 0.0.0.0 vinted-sk.powerlof.com
 0.0.0.0 vinted-sk.woneiro.com
@@ -64119,6 +64122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.ekupno24h-7.pl
 0.0.0.0 allegro.epayu24-7.pl
 0.0.0.0 allegro.eplatnosci24-7.pl
+0.0.0.0 allegro.eplatnosci24h-7.pl
 0.0.0.0 allegro.ezakupy24-7.pl
 0.0.0.0 allegro.ezaplata24-7.pl
 0.0.0.0 allegro.fppt.pl
@@ -64206,6 +64210,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta-96d57c91j8b124c6a13.pl
 0.0.0.0 allegrolokalnie.oferty-prywatne.pl
 0.0.0.0 allegrolokalnie.oferty-zakup24.pl
+0.0.0.0 allegrolokalnie.oferty-zakupy24.pl
 0.0.0.0 allegrolokalnie.ogloszenia24h-7.pl
 0.0.0.0 allegrolokalnie.pay247.pl
 0.0.0.0 allegrolokalnie.pl21387413.pl
@@ -64341,6 +64346,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aurismedic.josefkopecka.pl
 0.0.0.0 auta-adamczyk.pl
 0.0.0.0 auta-bakowska.pl
+0.0.0.0 auta-baran.pl
 0.0.0.0 auta-borowski.pl
 0.0.0.0 auta-cegielski.pl
 0.0.0.0 auta-chojnacki.pl
@@ -65289,6 +65295,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 karolina-mozas.pl
 0.0.0.0 karolina.gniewkorako.pl
 0.0.0.0 karolinablaszczyk.pl
+0.0.0.0 karolinka40.jadwigamarkowski.pl
 0.0.0.0 karolnikola.pl
 0.0.0.0 kartawire.pl
 0.0.0.0 kasa-sms.pl
@@ -65695,6 +65702,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 oferta-sprzedazy2140.pl
 0.0.0.0 oferta-sprzedazy2141.pl
 0.0.0.0 oferta-sprzedazy2142.pl
+0.0.0.0 oferta-sprzedazy2356.pl
+0.0.0.0 oferta-sprzedazy2455.pl
 0.0.0.0 oferta-sprzedazy5566.pl
 0.0.0.0 oferta-sprzedazy6234.pl
 0.0.0.0 oferta-sprzedazy6242.pl
