@@ -3,7 +3,7 @@
 # Description: All the blue advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-21T04:12:26.638Z
+# Last modified: 2024-01-21T10:12:08.315Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -24142,6 +24142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 snapsmedia.io
 0.0.0.0 sophi.io
 0.0.0.0 spgo.io
+0.0.0.0 split.io
 0.0.0.0 cdn.splitbee.io
 0.0.0.0 events.stackshare.io
 0.0.0.0 metrics.sudol.io
