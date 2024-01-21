@@ -1,4 +1,4 @@
-<h1 align="center"> ⭕ The Firebog AIO DNS Blocklists ⭕ </h1>
+<h1 align="center"> ⭕ The Firebog.NET AIO DNS Blocklists ⭕ </h1>
 
 <div align="center">
 
