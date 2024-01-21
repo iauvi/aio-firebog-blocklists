@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-21T10:18:11.058Z
+# Last modified: 2024-01-21T22:17:38.972Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -3434,6 +3434,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kive6.cfd
 0.0.0.0 kl57.cfd
 0.0.0.0 kl-7.cfd
+0.0.0.0 kl-ow83.cfd
 0.0.0.0 kle-49k.cfd
 0.0.0.0 kletu.cfd
 0.0.0.0 klm-7t.cfd
@@ -3621,6 +3622,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sew-34d.cfd
 0.0.0.0 sf4-gk39.cfd
 0.0.0.0 sf-3lr.cfd
+0.0.0.0 sf-39f3.cfd
 0.0.0.0 sfd34.cfd
 0.0.0.0 sfj-3.cfd
 0.0.0.0 sfko39.cfd
@@ -3731,6 +3733,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 utilitypowerplant.cfd
 0.0.0.0 utwv.cfd
 0.0.0.0 uvtn.jfer.cfd
+0.0.0.0 uw-3je.cfd
 0.0.0.0 uw-scm.cfd
 0.0.0.0 ux94-s.cfd
 0.0.0.0 v13u.yrel1-3.cfd
@@ -5656,6 +5659,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 synad2.nuffnang.com.cn
 0.0.0.0 taobaoafp.allyes.cn
 0.0.0.0 union.6.cn
+0.0.0.0 unityads.unity.cn
+0.0.0.0 unityads.unitychina.cn
 0.0.0.0 www.wowjs.1www.cn
 0.0.0.0 scs.openspeech.cn
 0.0.0.0 api.leancloud.cn
@@ -6133,7 +6138,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ce3e75d5.jpush.cn
 0.0.0.0 chaojilamei.cn
 0.0.0.0 cjiv.chengjie168.com.cn
-0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 cp.greenxf.cn
 0.0.0.0 cqa9.cn
 0.0.0.0 d.s11.cn
@@ -22334,6 +22338,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 primofuoco.com
 0.0.0.0 primormayorista.com
 0.0.0.0 princesscristina.com
+0.0.0.0 prinkastors.com
 0.0.0.0 printabledental.com
 0.0.0.0 printabledenture.com
 0.0.0.0 printedandmade.com
@@ -23346,6 +23351,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sakadigital.com
 0.0.0.0 sakanaxrosegold.com
 0.0.0.0 saladbowlcrm.com
+0.0.0.0 salchabadgerplan.com
 0.0.0.0 saleimfive.com
 0.0.0.0 saleonskin.com
 0.0.0.0 salijondor.com
@@ -25994,6 +26000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vz310.com
 0.0.0.0 vz311.com
 0.0.0.0 w0ba9ov38e6u1qatic6b78e2.cluebeautys.com
+0.0.0.0 w0p2hrrpjst0n7kuiqt7udfg.sportburns.com
 0.0.0.0 w2wsxx.s3.us-east-005.backblazeb2.com
 0.0.0.0 w3brasil.com
 0.0.0.0 w3gcdx.s3.us-east-005.backblazeb2.com
@@ -31119,6 +31126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 share-clouds.com
 0.0.0.0 share-server.com
 0.0.0.0 share-stores.com
+0.0.0.0 shareaholic.com
 0.0.0.0 shared-download.com
 0.0.0.0 sharefile-us.com
 0.0.0.0 sharefiles-eu.com
@@ -36973,6 +36981,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamevance.com
 0.0.0.0 ad7.literotica.com
 0.0.0.0 r1.literotica.com
+0.0.0.0 pixel.facebook.com
 0.0.0.0 rtb.metrigo.com
 0.0.0.0 xpl.theadex.com
 0.0.0.0 geoip.businessinsider.com
@@ -37081,6 +37090,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.tiebreaker.com
 0.0.0.0 click.udimg.com
 0.0.0.0 www.doubleclickbygoogle.com
+0.0.0.0 google-analytics.com
 0.0.0.0 www.linksalpha.com
 0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 web.acumenpi.com
@@ -38738,6 +38748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acs4baichuan.m.taobao.com
 0.0.0.0 action.logger.baofeng.com
+0.0.0.0 activate.adobe.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 active.baofeng.com
@@ -39173,6 +39184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
+0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 log.collect.yinyuetai.com
 0.0.0.0 logger.treexml.baofeng.com
 0.0.0.0 log.ltype.baofeng.com
@@ -39330,6 +39342,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pop.sjk.ijinshan.com
 0.0.0.0 ppurifier.game.xiaomi.com
+0.0.0.0 practivate.adobe.com
 0.0.0.0 prc.rjje4.com
 0.0.0.0 preview.sharethrough.com
 0.0.0.0 proxy.sec.miui.com
@@ -39931,6 +39944,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 promo.amplitude.com
 0.0.0.0 madkudu.com
 0.0.0.0 activecampaign.com
+0.0.0.0 blink.refersion.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 sales.eloqua.com
 0.0.0.0 compass.eloqua.com
@@ -40183,6 +40197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geoip.maxmind.com
 0.0.0.0 geoip-as-southeast.maxmind.com
 0.0.0.0 geoip-ipv4.maxmind.com
+0.0.0.0 geoip-js.maxmind.com
 0.0.0.0 geoip-us-east.maxmind.com
 0.0.0.0 geoip1.maxmind.com
 0.0.0.0 geoip2.maxmind.com
@@ -40191,6 +40206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geolite.maxmind.com
 0.0.0.0 grafana.maxmind.com
 0.0.0.0 j.maxmind.com
+0.0.0.0 js.maxmind.com
 0.0.0.0 o2.mktemail.maxmind.com
 0.0.0.0 pgbadger.maxmind.com
 0.0.0.0 prometheus.maxmind.com
@@ -51088,6 +51104,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vlnted-gb.ayoic.info
 0.0.0.0 vlnted-gb.ayoui.info
 0.0.0.0 vlnted-gb.ayouo.info
+0.0.0.0 vlnted-gb.ayouu.info
 0.0.0.0 vlnted-gb.ayuiok.info
 0.0.0.0 vlnted-gb.ayuuu.info
 0.0.0.0 vlnted-gb.completes-order.info
@@ -54760,6 +54777,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 knc.lv
 0.0.0.0 www.bovadapromotions.lv
 0.0.0.0 ewills.access.ly
+0.0.0.0 adf.ly
 0.0.0.0 counter.minute.ly
 0.0.0.0 vdata.minute.ly
 0.0.0.0 applog.musical.ly
@@ -57436,6 +57454,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5.5ppt.net
 0.0.0.0 qd.easylive.net
 0.0.0.0 api.primecaster.net
+0.0.0.0 dpm.demdex.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.owneriq.net
 0.0.0.0 rbp.emea.mxptint.net
@@ -58026,6 +58045,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goldbye.vicp.net
 0.0.0.0 jsg.dt07.net
 0.0.0.0 imgg.dt07.net
+0.0.0.0 s.zkcdn.net
 0.0.0.0 click.bounceads.net
 0.0.0.0 www.fulltraffic.net
 0.0.0.0 lognormal.net
@@ -64221,6 +64241,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.fppt.pl
 0.0.0.0 allegrolokalnie.i-payu24.pl
 0.0.0.0 allegrolokalnie.i-platnosci-24.pl
+0.0.0.0 allegrolokalnie.kategoria-id77.pl
 0.0.0.0 allegrolokalnie.kategorie-id84.pl
 0.0.0.0 allegrolokalnie.kategorie-oferta741268769.pl
 0.0.0.0 allegrolokalnie.kup-sprzedaj.pl
@@ -64391,11 +64412,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-karwacki.pl
 0.0.0.0 auta-kosowski.pl
 0.0.0.0 auta-kowalik.pl
+0.0.0.0 auta-kozak.pl
 0.0.0.0 auta-kozicki.pl
+0.0.0.0 auta-krupa.pl
 0.0.0.0 auta-kubacki.pl
 0.0.0.0 auta-kucharski.pl
 0.0.0.0 auta-lis.pl
 0.0.0.0 auta-mackowiak.pl
+0.0.0.0 auta-makowski.pl
 0.0.0.0 auta-marcinkowski.pl
 0.0.0.0 auta-mazur.pl
 0.0.0.0 auta-michalski.pl
@@ -64410,9 +64434,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-potocki.pl
 0.0.0.0 auta-rakowski.pl
 0.0.0.0 auta-rawicki.pl
+0.0.0.0 auta-sikorski.pl
 0.0.0.0 auta-sobanski.pl
 0.0.0.0 auta-sobieski.pl
 0.0.0.0 auta-sochacki.pl
+0.0.0.0 auta-szulc.pl
+0.0.0.0 auta-szymczak.pl
 0.0.0.0 auta-wilk.pl
 0.0.0.0 auta-winiarski.pl
 0.0.0.0 auta-wojtas.pl
@@ -65730,10 +65757,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 oferta-sprzedazy2142.pl
 0.0.0.0 oferta-sprzedazy2356.pl
 0.0.0.0 oferta-sprzedazy2455.pl
+0.0.0.0 oferta-sprzedazy3644.pl
+0.0.0.0 oferta-sprzedazy3645.pl
+0.0.0.0 oferta-sprzedazy3647.pl
+0.0.0.0 oferta-sprzedazy3648.pl
+0.0.0.0 oferta-sprzedazy5464.pl
 0.0.0.0 oferta-sprzedazy5566.pl
+0.0.0.0 oferta-sprzedazy5644.pl
 0.0.0.0 oferta-sprzedazy6234.pl
 0.0.0.0 oferta-sprzedazy6242.pl
 0.0.0.0 oferta-sprzedazy8254.pl
+0.0.0.0 oferta-sprzedazy9248.pl
 0.0.0.0 oferta-sprzedazy25485.pl
 0.0.0.0 oferta-sprzedazy43536.pl
 0.0.0.0 oferta-sprzedazy55652.pl
@@ -65853,6 +65887,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.e-ogloszenie.pl
 0.0.0.0 olx.e-platnosc24h.pl
 0.0.0.0 olx.e-platnosc-24.pl
+0.0.0.0 olx.e-platnosci247.pl
 0.0.0.0 olx.e-przesylka24.pl
 0.0.0.0 olx.e-przesylki24.pl
 0.0.0.0 olx.eogloszenia24-7.pl
@@ -69892,6 +69927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oiwems.sbs
 0.0.0.0 olenic.sbs
 0.0.0.0 olesan.sbs
+0.0.0.0 olitegs.sbs
 0.0.0.0 olitirnnti.sbs
 0.0.0.0 olive-branch.sbs
 0.0.0.0 olp2.sbs
@@ -69991,9 +70027,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 sarcastic.sbs
 0.0.0.0 satchels.sbs
 0.0.0.0 satiation.sbs
+0.0.0.0 satylve.sbs
 0.0.0.0 sawelt.sbs
 0.0.0.0 seggy.sbs
 0.0.0.0 seston.sbs
+0.0.0.0 setynv.sbs
 0.0.0.0 sgtewac.sbs
 0.0.0.0 shaggy.sbs
 0.0.0.0 shallowc.sbs
@@ -81435,6 +81473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 to-the-account-holder51392.io.vn
 0.0.0.0 url.1.hubs.vn
 0.0.0.0 vn-j.com.vn
+0.0.0.0 www-mfacebook.com.vn
 0.0.0.0 you-are-voted235469.io.vn
 0.0.0.0 you-are-voted235470.io.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
@@ -82434,6 +82473,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dpd.18454221.xyz
 0.0.0.0 dpd.49745544.xyz
 0.0.0.0 dpd.59888454.xyz
+0.0.0.0 dpd.79845412.xyz
 0.0.0.0 dr21-blog.maxiprog.xyz
 0.0.0.0 dreamscout.xyz
 0.0.0.0 dwer.choiseprog.xyz
@@ -82787,6 +82827,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jksdsa.pasvar.xyz
 0.0.0.0 jl.zlpolska.xyz
 0.0.0.0 jnpost.2845412.xyz
+0.0.0.0 jnpost.3845412.xyz
 0.0.0.0 jnpost.4845412.xyz
 0.0.0.0 jnpost.37285454.xyz
 0.0.0.0 jnpost.47285454.xyz
@@ -83048,6 +83089,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ollx.1897445.xyz
 0.0.0.0 ollx.2321435.xyz
 0.0.0.0 ollx.2578451.xyz
+0.0.0.0 ollx.2897445.xyz
 0.0.0.0 ollx.4578451.xyz
 0.0.0.0 ollx.5578451.xyz
 0.0.0.0 ollx.6578451.xyz
@@ -83346,6 +83388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 schemid.xyz
 0.0.0.0 sdfgh.dehhg.xyz
 0.0.0.0 sdy.comproges.xyz
+0.0.0.0 secure.captchabot-verification.xyz
 0.0.0.0 selp.olled.xyz
 0.0.0.0 selt.fostt.xyz
 0.0.0.0 semiworks.xyz

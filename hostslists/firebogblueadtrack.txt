@@ -3,7 +3,7 @@
 # Description: All the blue advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-21T10:12:08.315Z
+# Last modified: 2024-01-21T22:11:42.260Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -143,6 +143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.realcommercial.com.au
 0.0.0.0 smetrics.realestate.com.au
 0.0.0.0 smetrics.repco.com.au
+0.0.0.0 smetrics.sbs.com.au
 0.0.0.0 smetrics.shannons.com.au
 0.0.0.0 smetrics.stgeorge.com.au
 0.0.0.0 smetrics.suncorp.com.au
@@ -1029,6 +1030,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 ads.google.com
+0.0.0.0 google-analytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 tracking.klickthru.com
@@ -1799,8 +1801,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 target.aws.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 unagi.amazon.com
+0.0.0.0 unagi-na.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazonadda.com
 0.0.0.0 amazonprincess.com
@@ -5887,6 +5892,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 redtubr.com
 0.0.0.0 redtybe.com
 0.0.0.0 reedemer.com
+0.0.0.0 refersion.com
 0.0.0.0 refinedads.com
 0.0.0.0 reftagger.com
 0.0.0.0 regioncolonel.com
@@ -6267,6 +6273,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sguareup.com
 0.0.0.0 shady45.com
 0.0.0.0 shakeelabiz.com
+0.0.0.0 shareaholic.com
 0.0.0.0 shareminder.com
 0.0.0.0 sharepointapplied.com
 0.0.0.0 sharethis.com
@@ -7854,6 +7861,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 zybrdr.com
 0.0.0.0 zylily.com
 0.0.0.0 zypmedia.com
+0.0.0.0 a-graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
@@ -7924,6 +7934,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 7345023508.fxm9485766783.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 device-messaging-na.amazon.com
 0.0.0.0 devicemessaging.us-east-1.amazon.com
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 mads-eu.amazon.com
@@ -8179,6 +8190,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.dominos.com
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.evehome.com
+0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.flipperdevices.com
 0.0.0.0 analytics.freemake.com
@@ -8825,6 +8837,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 etahub.com
 0.0.0.0 ev.api.bdg.com
 0.0.0.0 evasiondemandedlearning.com
+0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 eventstream.dodopizza.com
 0.0.0.0 ever-track-51.com
 0.0.0.0 evergage.com
@@ -20622,10 +20635,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 piwik.com-online.com
 0.0.0.0 piwikpro.com
 0.0.0.0 pixel.cfspx.digitalriver.com
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.getshogun.com
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.locker2.com
+0.0.0.0 pixel.nymag.com
 0.0.0.0 pixel.patch.com
 0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel.wenxuecity.com
@@ -20674,6 +20689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 privacytrck.com
 0.0.0.0 prmtracking3.com
 0.0.0.0 prod-telemetry.paradox-interactive.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 productserve.com
 0.0.0.0 profitablecpmgate.com
 0.0.0.0 profitablecpmnetwork.com
@@ -24387,7 +24403,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 mjt.lu
 0.0.0.0 ad.mds.lv
 0.0.0.0 et.lv
+0.0.0.0 adf.ly
+0.0.0.0 assets.context.ly
+0.0.0.0 count.ly
 0.0.0.0 log.musical.ly
+0.0.0.0 live.direct.ly
 0.0.0.0 spotim.market
 0.0.0.0 pixel.marketing
 0.0.0.0 adashx.ut.ele.me
@@ -24884,6 +24904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
+0.0.0.0 dsms0mj1bbhn4.cloudfront.net
 0.0.0.0 dstik9906m659.cloudfront.net
 0.0.0.0 dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dxlnevqyeaz3a.cloudfront.net
