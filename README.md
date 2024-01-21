@@ -66,7 +66,7 @@
 |Blue| 🟦 |Featured in both The Bog AIO list and blue lists|
 |Green| 🌳 |Featured in both The Bog AIO list and green lists|
 
-| 🔥🟦🌳 | ⚪ | Source |
+| ⚪⚪⚪ | ⚪ | Source |
 |---:|:---:|:---|
 | Suspicious | ⚪ | 🔥🟦🌳 |
 | ⚪ | 🌳 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
