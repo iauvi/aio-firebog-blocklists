@@ -123,7 +123,7 @@
 | AIO BONUS | ⚪ | ⚪⚪⚪ |
 | ⚪ | ✅ | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-| ⚪ | 🔥 | [⚪](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-AIO-List/blob/main/adblocker_list_final.txt)[⚪](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-AIO-List/blob/main/tracker_list_adguard_home.txt)[⚪](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/dns_disallowed_domains.txt) |
+| ⚪ | 🔥 | [🔴](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-AIO-List/blob/main/adblocker_list_final.txt)[🔴](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-AIO-List/blob/main/tracker_list_adguard_home.txt)[🔴](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/dns_disallowed_domains.txt) |
 
 </div>
 
