@@ -84,7 +84,7 @@
 | Advertising | ⚪ | 🟦🌳🌳 |
 | ⚪ | 🌳 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
-| ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blacklist</a> |
+| ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blocklist</a> |
 | ⚪ | 🌳 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" title="">Disconnect Ads</a> |
 | ⚪ | 🌳 | <a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml" title="">Peter Lowe's Adservers</a> |
 | ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts" title="">Fademind's Unchecky Ads</a> |
