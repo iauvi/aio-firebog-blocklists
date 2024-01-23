@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-23T16:26:08.846Z
+# Last modified: 2024-01-23T22:26:14.653Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -958,6 +958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smarttvnew.vercel.app
 0.0.0.0 snappynewsblog.netlify.app
 0.0.0.0 snowiceblue2023.web.app
+0.0.0.0 social-network-account-retrieval.vercel.app
 0.0.0.0 sol-poi.web.app
 0.0.0.0 sola-q.web.app
 0.0.0.0 source-4ef1f.web.app
@@ -1069,6 +1070,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 voartperkssteper.web.app
 0.0.0.0 vocal-gelato-c26a5fsequence-compartme.netlify.app
 0.0.0.0 vocal-lamington-0a78e7.netlify.app
+0.0.0.0 votinly-fb.netlify.app
 0.0.0.0 vottio-fb.netlify.app
 0.0.0.0 vr-prod.web.app
 0.0.0.0 vtevrox.web.app
@@ -1595,6 +1597,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted.offer1020.bid
 0.0.0.0 vinted.offer1392.bid
 0.0.0.0 vinted.offer2591.bid
+0.0.0.0 vinted.offer5812.bid
 0.0.0.0 vinted.offer7359.bid
 0.0.0.0 vinted.offer9595.bid
 0.0.0.0 vinted.view687.bid
@@ -1933,32 +1936,96 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkpoint-625416862.pages.net.br
 0.0.0.0 cidadecrista.com.br
 0.0.0.0 criptoeconomia.com.br
+0.0.0.0 cyberfolks-pl-0bfabd02e77.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-0e3c4a27ada.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-0edc474226b.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-01a51c904db.mentum.eng.br
+0.0.0.0 cyberfolks-pl-1ab203d6fa2.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-1e307c55024.mentum.eng.br
+0.0.0.0 cyberfolks-pl-2a9f05b40f5.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-2ef60731090.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-3a72a3957f9.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-5a8edf657b3.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-05eb6b44dcb.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-006e9b7191c.mentum.eng.br
+0.0.0.0 cyberfolks-pl-6ff1ea972e0.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-7b1ed41081b.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-7ddf9ed7f56.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-8e057bde723.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-8fc0eedab86.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-9e2be23b100.mentum.eng.br
 0.0.0.0 cyberfolks-pl-27bb1618c35.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-31ff89c858c.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-35b2ac8fbd8.mentum.eng.br
+0.0.0.0 cyberfolks-pl-58bcfe4fb90.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-74c0100f79f.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-076eb3a3ec8.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-79f5bb37c60.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-136eb97472d.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-145d8b61832.mentum.eng.br
+0.0.0.0 cyberfolks-pl-254d7b45a04.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-388b9f8d572.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-554d2ef05ae.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-558fdaf2f1f.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-588ef1e2352.mentum.eng.br
 0.0.0.0 cyberfolks-pl-603dd926bfe.mentum.eng.br
+0.0.0.0 cyberfolks-pl-661f38f011b.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-715fc64f609.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-799f28904fb.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-805b22b8b25.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-834e7500ac0.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-941fe1f866f.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-2152de1ef27.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-2482a2959c5.mentum.eng.br
 0.0.0.0 cyberfolks-pl-3250caf0a9b.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-3742c09d9f5.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-6800ff172dd.mentum.eng.br
 0.0.0.0 cyberfolks-pl-7694dc18153.mentum.eng.br
 0.0.0.0 cyberfolks-pl-8271dc88af7.mentum.eng.br
 0.0.0.0 cyberfolks-pl-14012d0ac8a.mentum.eng.br
 0.0.0.0 cyberfolks-pl-35236ee01b5.mentum.eng.br
+0.0.0.0 cyberfolks-pl-61259b4e7f1.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-930002ce559.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-988357a66a8.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-13769042fdb.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-25130446f40.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-889729671e3.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-a3e77035d08.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-a5bcdbdc3c2.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-a350ff730e2.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-a06172e20ae.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-aa6d02baeca.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-aa5612f6635.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-aa65357d798.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-abb42fe9681.mentum.eng.br
+0.0.0.0 cyberfolks-pl-b7f9110433a.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-b80d87e79ef.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-b3981eb0ecc.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-b965583264d.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-bce9a5e40fa.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-bd3aaa84ed2.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-c98a184faa6.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-c178d4d2087.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-c83340da623.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-c92358ec5d5.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-c353516857f.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-ca046805151.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-d3bd32c7b01.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-d17c90eeab0.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-d18f49f0393.mentum.eng.br
+0.0.0.0 cyberfolks-pl-d554c3ba0d5.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-d022915be13.mwpavimentos.com.br
 0.0.0.0 cyberfolks-pl-dc75e0f5324.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-de106700761.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-e0ff156c3b0.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-ebc162f0042.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-ec1004706ac.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-ef0e3974ea0.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-f1db77ac15a.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-f30e597fc4d.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-f61e1c2a4c5.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-fbe221c16dc.mwpavimentos.com.br
+0.0.0.0 cyberfolks-pl-fdd53f8106b.mwpavimentos.com.br
 0.0.0.0 datalp.com.br
 0.0.0.0 digiuaisolutions.com.br
 0.0.0.0 drsilva.com.br
@@ -3062,6 +3129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1s56.mek7-6.cfd
 0.0.0.0 1wp7.xlei-836.cfd
 0.0.0.0 2-n.cfd
+0.0.0.0 2-pk83.cfd
 0.0.0.0 2jlb.nrewu.cfd
 0.0.0.0 2ss3.xlei-836.cfd
 0.0.0.0 03-gd.cfd
@@ -3117,6 +3185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 24-lf3.cfd
 0.0.0.0 24jgd.cfd
 0.0.0.0 25-sgp5.cfd
+0.0.0.0 27s-unwq.cfd
 0.0.0.0 30-fju9.cfd
 0.0.0.0 32-8rw.cfd
 0.0.0.0 32-sfu.cfd
@@ -3154,6 +3223,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 69-hky.cfd
 0.0.0.0 70d-j.cfd
 0.0.0.0 72-7nl.cfd
+0.0.0.0 73-wu8d.cfd
 0.0.0.0 74fi.nrewu.cfd
 0.0.0.0 74rh.cfd
 0.0.0.0 76-syf.cfd
@@ -3971,6 +4041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adnotacje24.click
 0.0.0.0 ads.everadpro.click
 0.0.0.0 afcasd.tentaklsistem.click
+0.0.0.0 agentwypadkowy.click
 0.0.0.0 akcjaresponsywna.click
 0.0.0.0 akredytacyjnosc.click
 0.0.0.0 aktprawny.click
@@ -4167,6 +4238,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 dziennikinfo24h.click
 0.0.0.0 dziennikmiasta.click
 0.0.0.0 dziennikporanny.click
+0.0.0.0 dziennikportal.click
+0.0.0.0 dziewczynkakolizja.click
 0.0.0.0 dziewczynkapotracenie.click
 0.0.0.0 dzisiajszasprawa.click
 0.0.0.0 dzisiejszakatastrofa.click
@@ -4267,6 +4340,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gonimysprawce.click
 0.0.0.0 goofpa.inventnamb.click
 0.0.0.0 gpt-sc.ofishlprog1.click
+0.0.0.0 granicarozsadku.click
 0.0.0.0 green-lake.click
 0.0.0.0 gremped.click
 0.0.0.0 grez.fallz.click
@@ -4316,6 +4390,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 informatorlokalny.click
 0.0.0.0 informatormiejski24h.click
 0.0.0.0 informatormiejski.click
+0.0.0.0 informatorpotral.click
 0.0.0.0 informujemywas.click
 0.0.0.0 infoszpital.click
 0.0.0.0 infowypadki24h.click
@@ -4351,6 +4426,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jakspontanicznoscmoze.click
 0.0.0.0 jawjechacmal.click
 0.0.0.0 jazataowaauk.click
+0.0.0.0 jedziemyrazem.click
 0.0.0.0 jfhd.inventnamb.click
 0.0.0.0 jimi.tentaklsistem.click
 0.0.0.0 jjiiim.tentaklsistem.click
@@ -4406,6 +4482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 konkretywazne.click
 0.0.0.0 kontaktowe24h.click
 0.0.0.0 kontrolapasow.click
+0.0.0.0 korzystnywynik.click
 0.0.0.0 kra1.neutop.click
 0.0.0.0 kronikadowodowa.click
 0.0.0.0 kskal.interfoxprog.click
@@ -4484,6 +4561,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 miejskigoniec24h.click
 0.0.0.0 miejskigoniec.click
 0.0.0.0 miejskiinformator.click
+0.0.0.0 miejskimonitor.click
 0.0.0.0 miejskislad.click
 0.0.0.0 mieszkancewiedza.click
 0.0.0.0 mieszkancyosiedla.click
@@ -4536,6 +4614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 napomknienie.click
 0.0.0.0 nasiczytelnicy.click
 0.0.0.0 naszainicjatywa.click
+0.0.0.0 naszaprzyszlosc.click
 0.0.0.0 naszasprawa.click
 0.0.0.0 naszebezpieczenstwo.click
 0.0.0.0 naszefakty.click
@@ -4607,6 +4686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 obiektywnefakty.click
 0.0.0.0 objasniamyzdarzenia.click
 0.0.0.0 objasnienialudzi.click
+0.0.0.0 obserwujemyzdarzenie.click
 0.0.0.0 obwieszczenie.click
 0.0.0.0 obywateleszukaja.click
 0.0.0.0 obywatelskiedoniesienia.click
@@ -4664,6 +4744,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pasygrozy24.click
 0.0.0.0 pasyprzejazd.click
 0.0.0.0 pasysmierci.click
+0.0.0.0 patrolujemysiec.click
 0.0.0.0 pelenuroku.click
 0.0.0.0 pelnaradosc.click
 0.0.0.0 perieratklx.click
@@ -4690,6 +4771,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 podtkoeiec.click
 0.0.0.0 podzatkaer.click
 0.0.0.0 pogloskamiastowa.click
+0.0.0.0 pogotowiemiejskie.click
 0.0.0.0 pohoronuvlada.lixprog.click
 0.0.0.0 poinformowanie.click
 0.0.0.0 pojazdkolizja.click
@@ -4716,9 +4798,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 poscigzadanymi.click
 0.0.0.0 postanowienia24.click
 0.0.0.0 postmodernism.click
+0.0.0.0 postronniswiadkowie.click
 0.0.0.0 poszkodowanedzieci.click
 0.0.0.0 poszukiwacz24h.click
 0.0.0.0 poszukiwaczkierowcy.click
+0.0.0.0 poszukiwacznadzieja.click
 0.0.0.0 poszukiwaczuciekiniera.click
 0.0.0.0 poszukiwani24h.click
 0.0.0.0 poszukiwania24.click
@@ -4745,6 +4829,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 potyczkaslowna.click
 0.0.0.0 poufnedane.click
 0.0.0.0 powiadomienia24h.click
+0.0.0.0 powiadomieniaportal.click
 0.0.0.0 powiatalarm.click
 0.0.0.0 powiatalarmuje.click
 0.0.0.0 powiatinformuje.click
@@ -4780,6 +4865,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 promileukierowcy.click
 0.0.0.0 promocyjnezakupy.click
 0.0.0.0 proporcjonalny.click
+0.0.0.0 prowincjawypadek.click
 0.0.0.0 przegladfaktow.click
 0.0.0.0 przegladsieci24h.click
 0.0.0.0 przegladzbrodni.click
@@ -4867,6 +4953,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smierprzedszkola.click
 0.0.0.0 smiertelnezderzenie.click
 0.0.0.0 smiertelnywypadek.click
+0.0.0.0 smutnewiesci.click
 0.0.0.0 snoar.trapetka.click
 0.0.0.0 solidnewykonanie.click
 0.0.0.0 sondauliczna24h.click
@@ -4887,6 +4974,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stopwypadki.click
 0.0.0.0 stosowneinfo.click
 0.0.0.0 stosownerzeczy.click
+0.0.0.0 stosunkimiejskie.click
 0.0.0.0 straszneinfo283.click
 0.0.0.0 straszyopetani.click
 0.0.0.0 stwierdzenia.click
@@ -4952,6 +5040,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tragediadrogowa.click
 0.0.0.0 tragediadziecka.click
 0.0.0.0 tragediadziecko.click
+0.0.0.0 tragediagminna.click
 0.0.0.0 tragediamiejska24h.click
 0.0.0.0 tragediamiejska.click
 0.0.0.0 tragedianadrodze.click
@@ -5071,6 +5160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 worldpositivitypath.click
 0.0.0.0 wskazowkaludzi.click
 0.0.0.0 wsparciarodzinne.click
+0.0.0.0 wspolneproblemy.click
 0.0.0.0 wspolnewiesci.click
 0.0.0.0 wszystkoomodzie.click
 0.0.0.0 wszystkoozdrowiu.click
@@ -5151,8 +5241,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhen.inventnamb.click
 0.0.0.0 zlewiesci.click
 0.0.0.0 zmobilizowani24h.click
+0.0.0.0 zmowamilczenia.click
 0.0.0.0 znajdujemy24h.click
 0.0.0.0 znajdujemyposzlaki.click
+0.0.0.0 znajdzdowod.click
 0.0.0.0 znalezcinformacje.click
 0.0.0.0 znikomoscstraszliwych.click
 0.0.0.0 zniszczonypojazd.click
@@ -8779,6 +8871,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 24faktywmiescie.epizy.com
 0.0.0.0 24hoursydney.com
 0.0.0.0 24joyme.com
+0.0.0.0 24pl.taxility.com
 0.0.0.0 24shion.com
 0.0.0.0 24wazne.epizy.com
 0.0.0.0 24x7wecare.com
@@ -11224,6 +11317,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bilim-artsport.com
 0.0.0.0 bilisimpazarim.com
 0.0.0.0 biliste.com
+0.0.0.0 bill-o-naire.com
 0.0.0.0 billclo.com
 0.0.0.0 billiardblitz.com
 0.0.0.0 billiondollababes.com
@@ -11536,6 +11630,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 booking-mrandmrssmith.com
 0.0.0.0 booking-provision-card.com
 0.0.0.0 booking.77643-confirm.com
+0.0.0.0 booking.91413-confirm.com
 0.0.0.0 booking.account-extranet-verification.com
 0.0.0.0 booking.aseget91486.com
 0.0.0.0 booking.center-policy32.com
@@ -11878,6 +11973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bushfireshield.com
 0.0.0.0 business2partners.com
 0.0.0.0 business144.web-hosting.com
+0.0.0.0 business-24.aesthetise.com
 0.0.0.0 business-1390f.firebaseapp.com
 0.0.0.0 business-bbc.aesthetise.com
 0.0.0.0 business-c85ec.firebaseapp.com
@@ -12309,6 +12405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cellulartechguy.com
 0.0.0.0 celtmik.com
 0.0.0.0 celuzero.com
+0.0.0.0 cemylcintp123.com
 0.0.0.0 cenesmar-online.preview-domain.com
 0.0.0.0 ceneuat.com
 0.0.0.0 cenralacademy.com
@@ -15775,6 +15872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 financetrader24.com
 0.0.0.0 financial-news.shjfx.com
 0.0.0.0 financial-times.aesthetise.com
+0.0.0.0 financial.asmucol.com
 0.0.0.0 financialmarketsworld.com
 0.0.0.0 financialtry.com
 0.0.0.0 financielecursus.com
@@ -20051,6 +20149,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 live-tech92.com
 0.0.0.0 live-ups.com
 0.0.0.0 live.eccentricequinoxexpedition.com
+0.0.0.0 live.kaleidoscopenebulanexus.com
 0.0.0.0 live.pavel-gluschuk.com
 0.0.0.0 live.quixoticquantumvoyage.com
 0.0.0.0 livecointrades.com
@@ -20852,6 +20951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mfacebook-help-100029455684702.firebaseapp.com
 0.0.0.0 mfdneg.com
 0.0.0.0 mfnuo.lacasadelasrosas.com
+0.0.0.0 mgdistributors.com
 0.0.0.0 mgparikh.com
 0.0.0.0 mgrgew.com
 0.0.0.0 mhccompetitions.com
@@ -20919,6 +21019,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 milecaral.com
 0.0.0.0 milematrix.com
 0.0.0.0 milenniumpl.com
+0.0.0.0 miles.supplypoland.com
 0.0.0.0 milestonebathexperts.com
 0.0.0.0 milestonecallcentersolutions.com
 0.0.0.0 miletyxz02.com
@@ -22058,6 +22159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nuradvei.com
 0.0.0.0 nurbusiness.com
 0.0.0.0 nurshq.com
+0.0.0.0 nurulla.com
 0.0.0.0 nusaplaynfl.com
 0.0.0.0 nutedrok-com.preview-domain.com
 0.0.0.0 nutouchqr.com
@@ -22171,6 +22273,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 offerrz.com
 0.0.0.0 offersinvitation.com
 0.0.0.0 office.invs01.com
+0.0.0.0 office.lks01s.com
 0.0.0.0 officeadmin365.weebly.com
 0.0.0.0 officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
 0.0.0.0 officenodu.com
@@ -22890,6 +22993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pgskmcvlfb.sa.com
 0.0.0.0 pgslot57.com
 0.0.0.0 pgttopone.com
+0.0.0.0 ph.ebutudan.com
 0.0.0.0 ph.expobarrio.com
 0.0.0.0 ph.recrutinf.com
 0.0.0.0 pheccjlcrn.sa.com
@@ -23011,6 +23115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-04.profinance-23.com
 0.0.0.0 pl-about.com
 0.0.0.0 pl-allegro.com
+0.0.0.0 pl-binance.com
 0.0.0.0 pl-cdproject.firebaseapp.com
 0.0.0.0 pl-cleaner.blaze-mobiles.com
 0.0.0.0 pl-currency.za.com
@@ -23193,6 +23298,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plutostreams.com
 0.0.0.0 plvnigmapl.gloryft.com
 0.0.0.0 plvz.com
+0.0.0.0 plwiadom.unixofficeequipment.com
 0.0.0.0 plwiadomosci.unixofficeequipment.com
 0.0.0.0 plwlpwp0.000webhostapp.com
 0.0.0.0 plwlpwp.000webhostapp.com
@@ -23865,6 +23971,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qasrecruitment.com
 0.0.0.0 qatar.eshop36.com
 0.0.0.0 qatarfoundprom.wixsite.com
+0.0.0.0 qawcklos.com
 0.0.0.0 qazprominvest-quiz.com
 0.0.0.0 qbhsiu522.cocinasyequipos.com
 0.0.0.0 qbitween.com
@@ -24481,6 +24588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rodptawa.com
 0.0.0.0 rofocatering.com
 0.0.0.0 rohlfingtech.com
+0.0.0.0 role.klewmedia.com
 0.0.0.0 rolihost.com
 0.0.0.0 rolldomains.com
 0.0.0.0 rollercoasterfarm.com
@@ -25103,6 +25211,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sharklymarketing.com
 0.0.0.0 sharonandjoseph.com
 0.0.0.0 sharp-gossip.com
+0.0.0.0 sharynsart.com
 0.0.0.0 shaverbasics.com
 0.0.0.0 shavw.com
 0.0.0.0 shcomputersolutions.com
@@ -25146,6 +25255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shiplapping.com
 0.0.0.0 shipment-dhl-track.com
 0.0.0.0 shippingsupport-pl.com
+0.0.0.0 shippment-costs.com
 0.0.0.0 shiptrack-pl.com
 0.0.0.0 shitakesc.com
 0.0.0.0 shiweipu.com
@@ -26535,6 +26645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tobydevblog.com
 0.0.0.0 toctobepola.sa.com
 0.0.0.0 today-financialnews.com
+0.0.0.0 today-insight.aesthetise.com
 0.0.0.0 today-topnews.com
 0.0.0.0 todaybestinvest.com
 0.0.0.0 todayquantumopenai.com
@@ -27569,6 +27680,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 w2wsxx.s3.us-east-005.backblazeb2.com
 0.0.0.0 w3brasil.com
 0.0.0.0 w3gcdx.s3.us-east-005.backblazeb2.com
+0.0.0.0 w5hnl53nf1uhjllu26qljmj8.foodscut.com
 0.0.0.0 w6nblhf7874mmpku2tt8tu76.plantants.com
 0.0.0.0 w6tqnmq8bos9hj5titjva9eq.musicpivots.com
 0.0.0.0 w6u8vsbmm5ag5pdti3c3flai.moviespott.com
@@ -30355,6 +30467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 delivery-change-reschedule6128.com
 0.0.0.0 deloitteca.com
 0.0.0.0 deposit-cra2023.com
+0.0.0.0 details-update.com
 0.0.0.0 digiclk.com
 0.0.0.0 dnythgt.com
 0.0.0.0 e-trn-incm.com
@@ -30444,6 +30557,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nactx.com
 0.0.0.0 natashyabaydesign.com
 0.0.0.0 netflix-updateinfo.com
+0.0.0.0 netflixca-updateprofilehelp.com
 0.0.0.0 notepad2.com
 0.0.0.0 novemberrainx.com
 0.0.0.0 oix.com
@@ -51021,6 +51135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pub-ef0f2a36b9d5403e86850c4cbb42f4ca.r2.dev
 0.0.0.0 pub-f1faa50f71fb4832b9623930aad7e7aa.r2.dev
 0.0.0.0 pub-f9c256ae09374af7aea1e69a3ba45cc8.r2.dev
+0.0.0.0 pub-f44da09859c5472394ee670e100a6daa.r2.dev
 0.0.0.0 pub-f78cef456d7747e4ae9ccee36ca02aed.r2.dev
 0.0.0.0 pub-f00268fcafa843deab9e855cddbf892f.r2.dev
 0.0.0.0 pub-f86556344f8c4364a6d0a62d9e0aa9f3.r2.dev
@@ -53350,6 +53465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-proj.help
 0.0.0.0 ploffelon.help
 0.0.0.0 project-elon.help
+0.0.0.0 quotesnaper.help
 0.0.0.0 tensecables.help
 0.0.0.0 boardsinetwork.hk
 0.0.0.0 c2bit.hk
@@ -58191,6 +58307,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 towy.live
 0.0.0.0 toyohiko.live
 0.0.0.0 traderprof.live
+0.0.0.0 tremortrust.live
 0.0.0.0 troi.woltar.live
 0.0.0.0 tslprojects.live
 0.0.0.0 tucaqyivyy.live
@@ -59501,6 +59618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitcoinsprofit.net
 0.0.0.0 bitqtpl.net
 0.0.0.0 biz-consult.net
+0.0.0.0 blackboardmasters.net
 0.0.0.0 blockedinparking.net
 0.0.0.0 boketren.in.net
 0.0.0.0 bolaodavarzeaoficial.net
@@ -68220,6 +68338,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.zakup-oferta24.pl
 0.0.0.0 allegrolokalnie.zakup-platnosc24.pl
 0.0.0.0 allegrolokalnie.zakup-produkt.pl
+0.0.0.0 allegrolokalnie.zakup-produkty.pl
 0.0.0.0 allegrolokalnie.zakup-zweryfikowany.pl
 0.0.0.0 allegrolokalnie.zakupujonline.pl
 0.0.0.0 allegrolokalnie.zakupw-sieci.pl
@@ -68324,6 +68443,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-adamczyk.pl
 0.0.0.0 auta-bakowska.pl
 0.0.0.0 auta-baran.pl
+0.0.0.0 auta-bielski.pl
 0.0.0.0 auta-borowski.pl
 0.0.0.0 auta-cegielski.pl
 0.0.0.0 auta-chojnacki.pl
@@ -68338,6 +68458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-jarek.pl
 0.0.0.0 auta-jaworski.pl
 0.0.0.0 auta-kaczmarek.pl
+0.0.0.0 auta-kardaszewski.pl
 0.0.0.0 auta-karolewski.pl
 0.0.0.0 auta-karpinski.pl
 0.0.0.0 auta-karwacki.pl
@@ -68348,6 +68469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-krupa.pl
 0.0.0.0 auta-kubacki.pl
 0.0.0.0 auta-kucharski.pl
+0.0.0.0 auta-kuczynski.pl
 0.0.0.0 auta-laskowski.pl
 0.0.0.0 auta-lis.pl
 0.0.0.0 auta-mackowiak.pl
@@ -68363,6 +68485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-piotrowski.pl
 0.0.0.0 auta-pisarski.pl
 0.0.0.0 auta-podolski.pl
+0.0.0.0 auta-polanowski.pl
 0.0.0.0 auta-potocki.pl
 0.0.0.0 auta-rakowski.pl
 0.0.0.0 auta-rawicki.pl
@@ -68376,6 +68499,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-walczak.pl
 0.0.0.0 auta-wilk.pl
 0.0.0.0 auta-winiarski.pl
+0.0.0.0 auta-witowski.pl
 0.0.0.0 auta-wojtas.pl
 0.0.0.0 auta-wolski.pl
 0.0.0.0 auta-wyprzedaz.pl
@@ -68455,6 +68579,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 autogielda-pekinski.pl
 0.0.0.0 autogielda-piaseczny.pl
 0.0.0.0 autogielda-pilos.pl
+0.0.0.0 autogielda-pods.pl
 0.0.0.0 autogielda-poniatowski.pl
 0.0.0.0 autogielda-skowyrski.pl
 0.0.0.0 autogielda-slawski.pl
@@ -69702,6 +69827,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 oferta-prywatna1531.pl
 0.0.0.0 oferta-prywatna1532.pl
 0.0.0.0 oferta-prywatna1533.pl
+0.0.0.0 oferta-prywatna1551.pl
+0.0.0.0 oferta-prywatna1643.pl
+0.0.0.0 oferta-prywatna2133.pl
+0.0.0.0 oferta-prywatna2563.pl
+0.0.0.0 oferta-prywatna4571.pl
+0.0.0.0 oferta-prywatna4572.pl
+0.0.0.0 oferta-prywatna7935.pl
 0.0.0.0 oferta-sprzedazy2137.pl
 0.0.0.0 oferta-sprzedazy2138.pl
 0.0.0.0 oferta-sprzedazy2139.pl
@@ -72247,6 +72379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 free12lo4.quest
 0.0.0.0 fresh6xy7.quest
 0.0.0.0 freshquest.quest
+0.0.0.0 frostyquest.quest
 0.0.0.0 gazetowo.quest
 0.0.0.0 h1r.quest
 0.0.0.0 hd1.quest
@@ -72511,6 +72644,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 srv205115.hoster-test.ru
 0.0.0.0 srv205377.hoster-test.ru
 0.0.0.0 srv205559.hoster-test.ru
+0.0.0.0 srv207386.hoster-test.ru
+0.0.0.0 srv207431.hoster-test.ru
 0.0.0.0 st-nitro.ru
 0.0.0.0 steamcommeunuity.ru
 0.0.0.0 steamcomminunity.ru
@@ -73427,6 +73562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 agenes.sbs
 0.0.0.0 aheads.sbs
 0.0.0.0 ahetlyv.sbs
+0.0.0.0 ajemuts.sbs
 0.0.0.0 akilewn.sbs
 0.0.0.0 akitens.sbs
 0.0.0.0 aklitew.sbs
@@ -73444,6 +73580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arcuation.sbs
 0.0.0.0 ardors.sbs
 0.0.0.0 artier.sbs
+0.0.0.0 asetlikw.sbs
 0.0.0.0 ashiness.sbs
 0.0.0.0 astheny.sbs
 0.0.0.0 atopl.sbs
@@ -73475,6 +73612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitys.sbs
 0.0.0.0 bivouac.sbs
 0.0.0.0 blighters.sbs
+0.0.0.0 blnewt.sbs
 0.0.0.0 blueline.sbs
 0.0.0.0 bmn-tw.sbs
 0.0.0.0 bowtiksbs.sbs
@@ -73568,6 +73706,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 enclisis.sbs
 0.0.0.0 endleaf.sbs
 0.0.0.0 enframed.sbs
+0.0.0.0 enjisk.sbs
 0.0.0.0 epsilon-delta.sbs
 0.0.0.0 erntirdoli.sbs
 0.0.0.0 essayish.sbs
@@ -73610,6 +73749,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 friedv.sbs
 0.0.0.0 frohsty.sbs
 0.0.0.0 fs485.sbs
+0.0.0.0 ftarins.sbs
 0.0.0.0 fulewin.sbs
 0.0.0.0 funfair.sbs
 0.0.0.0 funnyv.sbs
@@ -73624,6 +73764,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 genitl.sbs
 0.0.0.0 genotl.sbs
 0.0.0.0 genres.sbs
+0.0.0.0 ginewcs.sbs
 0.0.0.0 glacialv.sbs
 0.0.0.0 glaives.sbs
 0.0.0.0 gluh521.sbs
@@ -74135,6 +74276,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uret-iens.sbs
 0.0.0.0 urwnes.sbs
 0.0.0.0 useless.sbs
+0.0.0.0 usiwent.sbs
 0.0.0.0 uvenlyq.sbs
 0.0.0.0 uw-yrw.sbs
 0.0.0.0 uwe-62g.sbs
@@ -74212,6 +74354,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ytenik.sbs
 0.0.0.0 ytewbv.sbs
 0.0.0.0 ytnus.sbs
+0.0.0.0 ywekls.sbs
+0.0.0.0 ywenlip.sbs
 0.0.0.0 ywrb-08nev.sbs
 0.0.0.0 zywnoscjawartosc.sbs
 0.0.0.0 sms.52465463.sbs
@@ -75151,6 +75295,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4fb.homogejpaa.site
 0.0.0.0 4happylaughter0.site
 0.0.0.0 5fb.conforfcze.site
+0.0.0.0 6ropel88raft.site
 0.0.0.0 7bloomingflowers9.site
 0.0.0.0 8fb.scrapjrgc.site
 0.0.0.0 8indful8ath.site
@@ -76391,6 +76536,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f-chat1.cas-program.site
 0.0.0.0 faagilyur.site
 0.0.0.0 fabelats.site
+0.0.0.0 facepix.site
 0.0.0.0 faceppies.site
 0.0.0.0 facihad.site
 0.0.0.0 facrimpptab.site
@@ -77313,6 +77459,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lnpost.klirop.site
 0.0.0.0 lnpost.teracure.site
 0.0.0.0 lnpost.typon.site
+0.0.0.0 lo6sigh1on22r.site
 0.0.0.0 loaasov.site
 0.0.0.0 loazzly.site
 0.0.0.0 lockliaall.site
@@ -77848,6 +77995,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 openploneprodforyou.site
 0.0.0.0 opineshvd.site
 0.0.0.0 opottionas.site
+0.0.0.0 opt1m1sm11ss.site
 0.0.0.0 opteiulris.site
 0.0.0.0 optymiistycznamuzyka.site
 0.0.0.0 oqiuqywhbdbdjjjfhhfhjsii.site
@@ -78613,6 +78761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sprfoullif.site
 0.0.0.0 spywernamer.site
 0.0.0.0 sqtyauit.site
+0.0.0.0 ss0art00ch.site
 0.0.0.0 ssccchjfpoeoeirkkkkc.site
 0.0.0.0 ssnothent.site
 0.0.0.0 ssstylestream.site
@@ -81568,6 +81717,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deg.comfirty.top
 0.0.0.0 deinpostpl.top
 0.0.0.0 dellforum.top
+0.0.0.0 dem.newlvlpro.top
 0.0.0.0 dep4ik.papiashvili.top
 0.0.0.0 dep.comfirty.top
 0.0.0.0 depyli4ka.papiashvili.top
@@ -82346,6 +82496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpostipli.top
 0.0.0.0 inpostiplonline.top
 0.0.0.0 inpostit.top
+0.0.0.0 inpostj.top
 0.0.0.0 inpostk.top
 0.0.0.0 inpostl.top
 0.0.0.0 inpostlc.top
@@ -82463,7 +82614,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 inxpost-pl.top
 0.0.0.0 inzpost-pl.top
 0.0.0.0 ioijoh.opensrc-ai.top
+0.0.0.0 iposoai-yqn.top
 0.0.0.0 ipost-nat.top
+0.0.0.0 ipost-rma.top
 0.0.0.0 ipostsp.top
 0.0.0.0 iposytc-df.top
 0.0.0.0 iqiebgne.top
@@ -82913,6 +83066,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx-pol-kxlsw2.aiing.top
 0.0.0.0 olx-pol-kxlsw2.njmax.top
 0.0.0.0 olx.costdelivery.top
+0.0.0.0 olx.fasterdelivery.top
 0.0.0.0 olx.req-67205.top
 0.0.0.0 olx.torina.top
 0.0.0.0 om6.maxpeoplepl.top
@@ -85990,6 +86144,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0lx.00282760.xyz
 0.0.0.0 0lx.00282764.xyz
 0.0.0.0 0lx.00282769.xyz
+0.0.0.0 0lx.2414313.xyz
 0.0.0.0 00lx.04564561.xyz
 0.0.0.0 0lx.9423537.xyz
 0.0.0.0 0lx.41322235.xyz
