@@ -2,7 +2,7 @@
 
 <div align="center">
 
-***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog, designed to douse the flames by<br><br>• preventing advertisements •<br>• halting trackers •<br>• blocking malicious content •***
+***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog,<br>designed to douse the flames by<br><br>• preventing advertisements •<br>• halting trackers •<br>• blocking malicious content •***
 
 </div>
 
@@ -135,7 +135,7 @@
 
 ***Utilities designed to identify what is being blocked by the selected list of your choice***
   
-| ⭕ | 🔥 🔸 🌳 🔸 🟦 🔸 🔥 | ⭕ |
+| ⭕ |🔥🔸🟦🔸🌳🔸⚪| ⭕ |
 |:---:|:---:|:---:|
 | [🔺](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | [🔻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) |
 | [🔺](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | [🔻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) |
