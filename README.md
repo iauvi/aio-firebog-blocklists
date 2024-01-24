@@ -81,7 +81,7 @@
 | ⚪ | 🟦 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt" title="">neoFelhz's neoHosts</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | ⚪ | 🟦 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
-| Advertising | ⚪ | 🟦🌳🌳 |
+| Advertising | ⚪ | 🌳🟦🌳 |
 | ⚪ | 🌳 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
 | ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blocklist</a> |
@@ -104,7 +104,7 @@
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" title="">Perflyst's SmartTV Domains</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | ⚪ | 🟦 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
-| Malicious | ⚪ | 🟦🌳🌳 |
+| Malicious | ⚪ | 🌳🟦🌳 |
 | ⚪ | 🌳 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | ⚪ | 🌳 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | ⚪ | 🌳 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt" title="">Disconnect Malvertising</a> |
