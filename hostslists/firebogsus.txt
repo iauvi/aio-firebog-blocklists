@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-24T22:19:43.693Z
+# Last modified: 2024-01-25T04:31:54.992Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -29122,6 +29122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 summerhamster.com
 0.0.0.0 roosterfirework.com
+0.0.0.0 cws.conviva.com
 0.0.0.0 invisioncloudstats.com
 0.0.0.0 www.usekahuna.com
 0.0.0.0 msmetrics.ws.sonos.com
@@ -30204,6 +30205,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.bl-1.com
 0.0.0.0 s.clickability.com
 0.0.0.0 s.update.fbsbx.com
+0.0.0.0 s.youtube.com
 0.0.0.0 s1-tracking.adalyser.com
 0.0.0.0 s4.shinystat.com
 0.0.0.0 sc-analytics.appspot.com
@@ -30700,6 +30702,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rbc-anth-ogrn.com
 0.0.0.0 reacherinst.com
 0.0.0.0 redeastbay.com
+0.0.0.0 refund-int3rac.com
 0.0.0.0 regclassboard.com
 0.0.0.0 resetcibc-logincibc.com
 0.0.0.0 rev-cvnada-dep.com
@@ -38375,6 +38378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 ads.consumeraffairs.com
 0.0.0.0 www.conversionruler.com
+0.0.0.0 pings.conviva.com
 0.0.0.0 banners.copyscape.com
 0.0.0.0 data.de.coremetrics.com
 0.0.0.0 www.counter-gratis.com
@@ -40743,6 +40747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.cars.com
 0.0.0.0 metrics.carbonite.com
 0.0.0.0 metrics.carphonewarehouse.com
+0.0.0.0 om.cbsi.com
 0.0.0.0 metrics.centex.com
 0.0.0.0 metrics.chacha.com
 0.0.0.0 webstat.channel4.com
@@ -42746,6 +42751,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vi1.mzy2014.com
 0.0.0.0 video.cooguo.com
 0.0.0.0 video.ymapp.com
+0.0.0.0 vidtech.cbsinteractive.com
 0.0.0.0 vip.jisucn.com
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vortex.data.microsoft.com
@@ -62092,6 +62098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmg.demdex.net
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
+0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
@@ -81359,6 +81366,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.estream.to
 0.0.0.0 play.estream.to
 0.0.0.0 video.streaming.estream.to
+0.0.0.0 tawk.to
 0.0.0.0 clip.today
 0.0.0.0 aiprofits.today
 0.0.0.0 featured4.today
