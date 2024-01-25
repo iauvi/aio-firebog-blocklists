@@ -3,7 +3,7 @@
 # Description: All the blue and green tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-25T10:20:37.824Z
+# Last modified: 2024-01-25T16:20:39.721Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -2188,6 +2188,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
 0.0.0.0 tajdad.cn
+0.0.0.0 ogmjhve.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -30311,6 +30312,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reqde.afreecatv.com
 0.0.0.0 adballoon.afreecatv.com
 0.0.0.0 deapi.afreecatv.com
+0.0.0.0 mads.amazon.com
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 mtgglobals.com
 0.0.0.0 projecta-common-1258344701.file.myqcloud.com
@@ -32645,6 +32647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dataunlocker.com
 0.0.0.0 wizaly.com
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 clicks.hurriyet.com
 0.0.0.0 log.kinolights.com
 0.0.0.0 ping.hashnode.com
@@ -52524,7 +52527,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 target.aws.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 mads.amazon.com
 0.0.0.0 unagi.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 amazonadda.com
@@ -100506,6 +100508,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abqdgu.xyz
 0.0.0.0 nszort.xyz
 0.0.0.0 chnvgdkw.xyz
+0.0.0.0 xhnvgdkw.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz

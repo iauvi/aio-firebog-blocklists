@@ -3,7 +3,7 @@
 ! Description: All the blue and green tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-25T10:20:37.824Z
+! Last modified: 2024-01-25T16:20:39.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -12,6 +12,7 @@
 ||23.109.87.
 ||158.247.208.
 ||1024wanzhai.
+||aan.amazon.*^
 10.10.34.*
 /(https?:\/\/)51\.195\.31\..{100,}/
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -2210,6 +2211,7 @@
 ||zuugfj.cn^
 ||zyzo.cn^
 ||tajdad.cn^
+||ogmjhve.cn^
 ||173e.cn^
 ||2pwja.cn^
 ||331qka.cn^
@@ -30348,6 +30350,7 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||mads.amazon.com^
 ||p16-ad.byteoversea.com^
 ||mtgglobals.com^
 ||projecta-common-1258344701.file.myqcloud.com^
@@ -32714,6 +32717,7 @@ vkcdnservice.appspot.com^
 ||dataunlocker.com^
 ||wizaly.com^
 ||tagman.britishairways.com^
+||analytics.pangle-ads.com^
 ||clicks.hurriyet.com^
 ||log.kinolights.com^
 ||hn-ping*.hashnode.com^
@@ -52700,7 +52704,6 @@ analytics-*.aasaam.com
 ||target.aws.amazon.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
-||mads.amazon.com^
 ||unagi.amazon.com^
 ||unagi-na.amazon.com^
 ||amazonadda.com^
@@ -100850,6 +100853,7 @@ aio*1firebog.net
 ||abqdgu.xyz^
 ||nszort.xyz^
 ||chnvgdkw.xyz^
+||xhnvgdkw.xyz^
 ||01v62.xyz^
 ||1205qitiao2022.xyz^
 ||1267a.xyz^
