@@ -18,7 +18,13 @@
 
 <div align="center">
   
-***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>to be used with<br><br>• ad blockers •<br>• DNS applications •<br>• Windows' hosts file •*** 
+***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>to be used with***
+
+| ⚪ | ⚪ ⚪ ⚪ |
+|:---:|:---|
+| ⚪ |AdBlockers|
+| ⚪ |DNS Applications|
+| ⚪ |Windows' Hosts File| 
 
 | List | ⚪ | Description |
 |---:|:---:|:---|
