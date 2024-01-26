@@ -3,7 +3,7 @@
 ! Description: All the advertising sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-26T10:16:49.038Z
+! Last modified: 2024-01-26T16:17:22.723Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -97,6 +97,7 @@
 ||captivate.ai^
 ||native.ai^
 ||analytics.karakuri.ai^
+||events.character.ai^
 ||events.swishapps.ai^
 ||analytics.prod.mybuddy.ai^
 ||analytics.humanautomation.ai^
@@ -4839,6 +4840,7 @@
 ||stats.zotabox.com^
 ||beacon.ztgame.com^
 ||log-collector.svctr.zynga.com^
+||riweeboo.com^
 ||publisher1st.com^
 ||avglfookdjuj.com^
 ||auhpaewvbgwjr.com^
@@ -48135,6 +48137,7 @@ analytics-*.aasaam.com
 ||a8a8altrk.com^
 ||aax-eu-dub.amazon.com^
 ||abackafterthought.com^
+||abackframe.com^
 ||ablink.comms.trainline.com^
 ||ablink.news.emails-puregym.com^
 ||abtasty.com^
@@ -48213,6 +48216,7 @@ analytics-*.aasaam.com
 ||adsfeed.brabys.com^
 ||adsmartracker.com^
 ||adsroller.com^
+||adstanding.com^
 ||adtrack.voicestar.com^
 ||adv.nexthardware.com^
 ||adventurousamount.com^
@@ -48333,6 +48337,7 @@ analytics-*.aasaam.com
 ||dacdn.vwo.com^
 ||dangerouswinter.com^
 ||data8a8altrk.com^
+||deadpanmarble.com^
 ||decenterads.com^
 ||delicatecascade.com^
 ||dewdroplagoon.com^
@@ -48399,6 +48404,7 @@ analytics-*.aasaam.com
 ||grandfatherguitar.com^
 ||grouchybrothers.com^
 ||groundtruth.com^
+||gstaticx.com^
 ||guardeddirection.com^
 ||gunggo.com^
 ||halcyoncanyon.com^
@@ -48597,6 +48603,7 @@ analytics-*.aasaam.com
 ||scaredswing.com^
 ||scatteredquiver.com^
 ||scissorsstatement.com^
+||seashoreturn.com^
 ||securedopen-bp.com^
 ||securely-protectsoft.com^
 ||sendmepixel.com^
@@ -55633,6 +55640,7 @@ analytics-*.aasaam.com
 ||cdn1.profitmetrics.io^
 ||cl.k5a.io^
 ||cl-eu2.k5a.io^
+||cl-eu4.k5a.io^
 ||core.centotag.io^
 ||core.manatee.io^
 ||eum.instana.io^
@@ -56670,6 +56678,9 @@ analytics-*.aasaam.com
 ||loginside.co.kr^
 ||log002.commutil.kr^
 ||adinsight.co.kr^
+||pdsssl.gmarket.co.kr^
+||pds.gmarket.co.kr^
+||uts.gmarket.co.kr^
 ||log.bunjang.co.kr^
 ||trace.rememberapp.co.kr^
 ||weblog.kma.go.kr^
@@ -75984,6 +75995,7 @@ aio*1firebog.net
 ||vcbppb.xyz^
 ||mnorkc.xyz^
 ||cpkxahje.xyz^
+||xpkxahje.xyz^
 ||01v62.xyz^
 ||1205qitiao2022.xyz^
 ||1267a.xyz^

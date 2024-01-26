@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-26T10:21:26.059Z
+# Last modified: 2024-01-26T16:22:02.426Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -94,6 +94,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 captivate.ai
 0.0.0.0 native.ai
 0.0.0.0 analytics.karakuri.ai
+0.0.0.0 events.character.ai
 0.0.0.0 events.swishapps.ai
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.humanautomation.ai
@@ -4722,6 +4723,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.zotabox.com
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 log-collector.svctr.zynga.com
+0.0.0.0 riweeboo.com
 0.0.0.0 avglfookdjuj.com
 0.0.0.0 auhpaewvbgwjr.com
 0.0.0.0 wokaptoa.com
@@ -44757,6 +44759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a135.wftv.com
 0.0.0.0 a8a8altrk.com
 0.0.0.0 aax-eu-dub.amazon.com
+0.0.0.0 abackframe.com
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 abtasty.com
@@ -44826,6 +44829,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adsmartracker.com
 0.0.0.0 adsroller.com
+0.0.0.0 adstanding.com
 0.0.0.0 adtrack.voicestar.com
 0.0.0.0 adv.nexthardware.com
 0.0.0.0 adview.com
@@ -44936,6 +44940,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dacdn.vwo.com
 0.0.0.0 dangerouswinter.com
 0.0.0.0 data8a8altrk.com
+0.0.0.0 deadpanmarble.com
 0.0.0.0 decenterads.com
 0.0.0.0 delicatecascade.com
 0.0.0.0 dewdroplagoon.com
@@ -44997,6 +45002,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 grandfatherguitar.com
 0.0.0.0 grouchybrothers.com
 0.0.0.0 groundtruth.com
+0.0.0.0 gstaticx.com
 0.0.0.0 guardeddirection.com
 0.0.0.0 gunggo.com
 0.0.0.0 halcyoncanyon.com
@@ -45168,6 +45174,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 scaredsong.com
 0.0.0.0 scaredswing.com
 0.0.0.0 scatteredquiver.com
+0.0.0.0 seashoreturn.com
 0.0.0.0 securedopen-bp.com
 0.0.0.0 sendmepixel.com
 0.0.0.0 seraphichorizon.com
@@ -59090,6 +59097,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn1.profitmetrics.io
 0.0.0.0 cl.k5a.io
 0.0.0.0 cl-eu2.k5a.io
+0.0.0.0 cl-eu4.k5a.io
 0.0.0.0 core.centotag.io
 0.0.0.0 core.manatee.io
 0.0.0.0 eum.instana.io
@@ -81714,6 +81722,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vcbppb.xyz
 0.0.0.0 mnorkc.xyz
 0.0.0.0 cpkxahje.xyz
+0.0.0.0 xpkxahje.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1205qitiao2022.xyz
 0.0.0.0 1267a.xyz
