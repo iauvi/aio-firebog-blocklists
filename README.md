@@ -147,7 +147,7 @@
 
 ***Utilities designed to identify what is being blocked by the selected list of your choice***
 
-| ⚫ |🔸🔥🔸🟦🔸🌲🔸| ⚫ |
+| ⚪ |🔸🔥🔸🟦🔸🌲🔸| ⚪ |
 |:---:|:---:|:---:|
 |🔴| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟠|
 |🟢| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟡|
