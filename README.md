@@ -147,10 +147,10 @@
 
 ***Utilities designed to identify what is being blocked by the selected list of your choice***
   
-| 🔴 |🌐🔸🧯🔸🧊🔸🎄| 🔴 |
+| ⚫ |🌐🔸🧯🔸🧊🔸🎄| ⚫ |
 |:---:|:---:|:---:|
-| [🔺](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) | <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> | [🔻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) |
-| [🔺](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) | <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> | [🔻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) |
-| [🔺](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) | <a href="https://canyoublockit.com/" title="">Can You Block It</a> | [🔻](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists?tab=readme-ov-file#--the-lists--) |
+|🔴| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟡|
+|🟢| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟠|
+|🔵| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟣|
 
 </div>
