@@ -35,7 +35,7 @@
 
 | 🔥 🔥 🔥 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🔥 🔥 🔥 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
-| The Bog AIO | 🔥 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt" title="">Link</a> | Contains all of the sources |
+| The Bog AIO List | 🔥 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt" title="">Link</a> | Contains all of the sources |
 
 | 🔶 🔶 🔶 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
