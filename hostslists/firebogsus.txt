@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-27T22:11:28.774Z
+# Last modified: 2024-01-28T04:11:39.027Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -23839,6 +23839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polczkapostdel.com
 0.0.0.0 polenya.com
 0.0.0.0 polgueem.com
+0.0.0.0 poliarkies.com
 0.0.0.0 policeglossary.com
 0.0.0.0 policy.lakeviewcondostaug.com
 0.0.0.0 polignakop.com
@@ -64273,13 +64274,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 silveregg.net
 0.0.0.0 system-security-scan.net
 0.0.0.0 karisimbi.net
-0.0.0.0 aiofirebog.net
-0.0.0.0 aio-firebog.net
-0.0.0.0 1aiofirebog.net
-0.0.0.0 1aio-firebog.net
-0.0.0.0 aio.1firebog.net
-0.0.0.0 aio-1firebog.net
-0.0.0.0 aio-1.firebog.net
+0.0.0.0 aio.xam1-thefirebog.net
+0.0.0.0 aio.xam2.thefirebog.net
+0.0.0.0 aio.xam-3.thefirebog.net
+0.0.0.0 aio-xam4.thefirebog.net
 0.0.0.0 lead.network
 0.0.0.0 centralmovies.network
 0.0.0.0 adbigline.network
@@ -68852,6 +68850,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferty-zakup24.pl
 0.0.0.0 allegrolokalnie.oferty-zakupy24.pl
 0.0.0.0 allegrolokalnie.ogloszenia24h-7.pl
+0.0.0.0 allegrolokalnie.ogloszenie-24h.pl
 0.0.0.0 allegrolokalnie.pay247.pl
 0.0.0.0 allegrolokalnie.pl21387413.pl
 0.0.0.0 allegrolokalnie.pl-16748oferta.pl
@@ -70296,6 +70295,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 motokomis-olszewski.pl
 0.0.0.0 motorynek-polska24.pl
 0.0.0.0 motoryzacja-marketplce.pl
+0.0.0.0 motoryzacja-oglaszajmy.pl
 0.0.0.0 motoryzacja-online24.pl
 0.0.0.0 motoryzacjanr1.pl
 0.0.0.0 movienet.pl
@@ -70899,6 +70899,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-oferta-prywatna2140.pl
 0.0.0.0 pl-oferta-prywatna2141.pl
 0.0.0.0 pl-oferta-prywatna2142.pl
+0.0.0.0 pl-oferta-prywatna3112.pl
+0.0.0.0 pl-oferta-prywatna3141.pl
 0.0.0.0 pl-oferta-prywatna3211.pl
 0.0.0.0 pl-oferta-prywatna3212.pl
 0.0.0.0 pl-oferta-prywatna3213.pl
@@ -72352,6 +72354,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 raysoil.pro
 0.0.0.0 rayssafe.pro
 0.0.0.0 realityconvertguitares.pro
+0.0.0.0 realitydrumdailyflightar.pro
 0.0.0.0 realityfeaturethunderis.pro
 0.0.0.0 relativeinfo.pro
 0.0.0.0 reprint.pro
