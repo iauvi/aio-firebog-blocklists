@@ -2,13 +2,13 @@
 
 <div align="center">
 
-***Diverse DNS blocklists crafted from<br>an amalgamation of sources from The Firebog,<br>designed to douse the flames by***
+***Diverse DNS blocklists crafted from<br>an amalgamation of sources and designed to***
 
 | ⚪ | ⚪ ⚪ ⚪ |
 |:---:|:---|
-| ⚪ |Preventing Advertisements|
-| ⚪ |Halting Trackers|
-| ⚪ |Blocking Malicious Content|
+| ⚪ |Prevent Advertisements|
+| ⚪ |Halt Trackers|
+| ⚪ |Block Malicious Content|
 
 </div>
 
