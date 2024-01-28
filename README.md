@@ -2,7 +2,7 @@
 
 <div align="center">
 
-***Diverse DNS blocklists crafted from an amalgamation of sources from The Firebog,<br>designed to douse the flames by***
+***Diverse DNS blocklists crafted from<br>an amalgamation of sources from The Firebog,<br>designed to douse the flames by***
 
 | ⚪ | ⚪ ⚪ ⚪ |
 |:---:|:---|
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-***Blocklists designed in the style of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>to be used with***
+***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> to be used with***
 
 | ⚪ | ⚪ ⚪ ⚪ |
 |:---:|:---|
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-***Utilities designed to identify what is being blocked by the selected list of your choice***
+***Utilities designed to identify what is being blocked<br>by the selected list of your choice***
 
 | ⚪ |🔸🔥🔸🟦🔸🌲🔸| ⚪ |
 |:---:|:---:|:---:|
