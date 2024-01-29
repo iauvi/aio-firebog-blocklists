@@ -3,7 +3,7 @@
 # Description: All the blue and green tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: MIT
-# Last modified: 2024-01-29T16:38:35.017Z
+# Last modified: 2024-01-29T22:38:31.839Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -1989,6 +1989,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cxpjrqa.cn
 0.0.0.0 dafdfd.cn
 0.0.0.0 danun.cn
+0.0.0.0 ddaixdz.cn
 0.0.0.0 df-long.cn
 0.0.0.0 dfejqmh.cn
 0.0.0.0 diaocaixiaq.cn
@@ -2089,6 +2090,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nhcdn.cn
 0.0.0.0 njppuaj.cn
 0.0.0.0 njrnwan.cn
+0.0.0.0 nykvdwi.cn
 0.0.0.0 ogmjhve.cn
 0.0.0.0 ogouawc.cn
 0.0.0.0 opwofty.cn
@@ -2128,6 +2130,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 syjkscy.cn
 0.0.0.0 szbpf.cn
 0.0.0.0 szbxm.cn
+0.0.0.0 szbxw.cn
 0.0.0.0 szmdp.cn
 0.0.0.0 szmkr.cn
 0.0.0.0 szmmb.cn
@@ -2187,9 +2190,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpvuugw.cn
 0.0.0.0 zuugfj.cn
 0.0.0.0 zyzo.cn
-0.0.0.0 nykvdwi.cn
-0.0.0.0 ddaixdz.cn
-0.0.0.0 szbxw.cn
 0.0.0.0 173e.cn
 0.0.0.0 2pwja.cn
 0.0.0.0 331qka.cn
@@ -2983,6 +2983,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 wunderkind.co
 0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0.0.0.0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
+0.0.0.0 mads-fe.amazon.com
+0.0.0.0 venturepeasant.com
 0.0.0.0 riweeboo.com
 0.0.0.0 publisher1st.com
 0.0.0.0 avglfookdjuj.com
@@ -30881,6 +30883,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 trackerscript.sqreemtech.com
+0.0.0.0 infinity-tracking.com
 0.0.0.0 lab.analyticspodium.com
 0.0.0.0 driveniq.com
 0.0.0.0 sync.programmatica.com
@@ -32870,6 +32874,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 dataunlocker.com
 0.0.0.0 wizaly.com
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analyticswritenew.xerevo.com
+0.0.0.0 tracking.staff-start.com
 0.0.0.0 p-aw2-adapt-beacon.awsprodops.movetv.com
 0.0.0.0 p-cg64-slinganalytics.movetv.com
 0.0.0.0 analytics.nova.foxsports.com
@@ -39710,6 +39716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tobyxev.com
 0.0.0.0 tongjiniao.com
 0.0.0.0 trrmkzesvyqrary.com
+0.0.0.0 tsaristcanapes.com
 0.0.0.0 tweezesmalanga.com
 0.0.0.0 tyuetxt.com
 0.0.0.0 u21033.com
@@ -39757,7 +39764,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ysxt9.com
 0.0.0.0 z0a1b2c3d4.com
 0.0.0.0 zhongfumzzew.com
-0.0.0.0 tsaristcanapes.com
 0.0.0.0 027dir.com
 0.0.0.0 053h94.com
 0.0.0.0 08u6q.com
@@ -59147,7 +59153,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 inediblebedside.com
 0.0.0.0 inediblepollingbuzz.com
 0.0.0.0 infernotions.com
-0.0.0.0 infinity-tracking.com
 0.0.0.0 inmobiapis.com
 0.0.0.0 inq.com
 0.0.0.0 ins.shalltry.com
@@ -70473,7 +70478,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 profoundrollcompatibility.com
 0.0.0.0 promo.tutotoons.com
 0.0.0.0 promotebred.com
-0.0.0.0 protectionabate.com
 0.0.0.0 proxyclick.com
 0.0.0.0 psplugin.com
 0.0.0.0 pss.alicdn.com
@@ -70510,7 +70514,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rees46.com
 0.0.0.0 reevoo.com
 0.0.0.0 refinery89.com
-0.0.0.0 regionseffective.com
 0.0.0.0 rekmob.com
 0.0.0.0 relateddigital.com
 0.0.0.0 relentlo.com
@@ -70976,7 +70979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.yaencontre.com
 0.0.0.0 smetrics.zales.com
 0.0.0.0 smetrics.zalesoutlet.com
-0.0.0.0 smotherlameoven.com
 0.0.0.0 smpush.com
 0.0.0.0 snailthreatenedinvited.com
 0.0.0.0 snap.licdn.com
@@ -73687,6 +73689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1sk27.fun
 0.0.0.0 2hpg0.fun
 0.0.0.0 94n33.fun
+0.0.0.0 bgeg1.fun
 0.0.0.0 cy5kr.fun
 0.0.0.0 hltkl.fun
 0.0.0.0 hsi2i.fun
@@ -73695,7 +73698,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 r9ffi.fun
 0.0.0.0 vpqko.fun
 0.0.0.0 x2y22.fun
-0.0.0.0 bgeg1.fun
 0.0.0.0 07xm.fun
 0.0.0.0 37tek.fun
 0.0.0.0 98dvu.fun
@@ -74232,6 +74234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 usxuyr.icu
 0.0.0.0 vmr6t.icu
 0.0.0.0 vrwdsvr.icu
+0.0.0.0 vwsgmf.icu
 0.0.0.0 wkzsmj.icu
 0.0.0.0 wmnraj.icu
 0.0.0.0 wqvbuj.icu
@@ -74251,7 +74254,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yshlor.icu
 0.0.0.0 yutiqf.icu
 0.0.0.0 zigyspv.icu
-0.0.0.0 vwsgmf.icu
 0.0.0.0 2tyne.icu
 0.0.0.0 7nekc.icu
 0.0.0.0 a44u.icu
@@ -93406,10 +93408,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnwish.shop
 0.0.0.0 2024114t.shop
 0.0.0.0 acsegt86.shop
+0.0.0.0 bcthd12.shop
 0.0.0.0 hscnpk86.shop
 0.0.0.0 kfctds59.shop
 0.0.0.0 wcbghap63.shop
-0.0.0.0 bcthd12.shop
 0.0.0.0 aishan.shop
 0.0.0.0 bendan.shop
 0.0.0.0 jiudashi.shop
@@ -100136,6 +100138,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chnvgdkw.xyz
 0.0.0.0 chrtds.xyz
 0.0.0.0 chubsxmg.xyz
+0.0.0.0 chzjidgc.xyz
 0.0.0.0 cjndvoglik.xyz
 0.0.0.0 cjzrfxs.xyz
 0.0.0.0 cklithuw.xyz
@@ -100229,6 +100232,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gcssem.xyz
 0.0.0.0 ged46.xyz
 0.0.0.0 geicmu.xyz
+0.0.0.0 gfpvvwf.xyz
 0.0.0.0 ggsnyc.xyz
 0.0.0.0 gkswas.xyz
 0.0.0.0 gmgbmzz.xyz
@@ -100369,6 +100373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lppgjf.xyz
 0.0.0.0 lrbvxx.xyz
 0.0.0.0 lryqef.xyz
+0.0.0.0 lthmfx.xyz
 0.0.0.0 lutrbr.xyz
 0.0.0.0 lvnlrmn.xyz
 0.0.0.0 lwdcnz.xyz
@@ -100686,6 +100691,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 waymom.xyz
 0.0.0.0 whqgyo.xyz
 0.0.0.0 wkrcbszi.xyz
+0.0.0.0 wkybwa.xyz
 0.0.0.0 wlzlrlp.xyz
 0.0.0.0 wnllmyw.xyz
 0.0.0.0 woxwhfdo.xyz
@@ -100713,6 +100719,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xhgpuxim.xyz
 0.0.0.0 xhnvgdkw.xyz
 0.0.0.0 xhubsxmg.xyz
+0.0.0.0 xhzjidgc.xyz
 0.0.0.0 xiiepofl.xyz
 0.0.0.0 xjappzvz.xyz
 0.0.0.0 xjxbdh.xyz
@@ -100763,6 +100770,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yhlzadr.xyz
 0.0.0.0 yhnvgdkw.xyz
 0.0.0.0 yhubsxmg.xyz
+0.0.0.0 yhzjidgc.xyz
 0.0.0.0 yivkzvog.xyz
 0.0.0.0 yjxzvqy.xyz
 0.0.0.0 ykxafzdu.xyz
@@ -100798,12 +100806,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrljzgs.xyz
 0.0.0.0 zxpvalr.xyz
 0.0.0.0 zzbmxl.xyz
-0.0.0.0 yhzjidgc.xyz
-0.0.0.0 wkybwa.xyz
-0.0.0.0 lthmfx.xyz
-0.0.0.0 gfpvvwf.xyz
-0.0.0.0 chzjidgc.xyz
-0.0.0.0 xhzjidgc.xyz
 0.0.0.0 01v62.xyz
 0.0.0.0 1267a.xyz
 0.0.0.0 126ccb.xyz

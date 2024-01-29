@@ -3,7 +3,7 @@
 ! Description: All the blue and green tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-29T16:38:35.017Z
+! Last modified: 2024-01-29T22:38:31.839Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2012,6 +2012,7 @@
 ||cxpjrqa.cn^
 ||dafdfd.cn^
 ||danun.cn^
+||ddaixdz.cn^
 ||df-long.cn^
 ||dfejqmh.cn^
 ||diaocaixiaq.cn^
@@ -2112,6 +2113,7 @@
 ||nhcdn.cn^
 ||njppuaj.cn^
 ||njrnwan.cn^
+||nykvdwi.cn^
 ||ogmjhve.cn^
 ||ogouawc.cn^
 ||opwofty.cn^
@@ -2151,6 +2153,7 @@
 ||syjkscy.cn^
 ||szbpf.cn^
 ||szbxm.cn^
+||szbxw.cn^
 ||szmdp.cn^
 ||szmkr.cn^
 ||szmmb.cn^
@@ -2210,9 +2213,6 @@
 ||zpvuugw.cn^
 ||zuugfj.cn^
 ||zyzo.cn^
-||nykvdwi.cn^
-||ddaixdz.cn^
-||szbxw.cn^
 ||173e.cn^
 ||2pwja.cn^
 ||331qka.cn^
@@ -3011,6 +3011,8 @@
 ||wunderkind.co^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
+||mads-fe.amazon.com^
+||venturepeasant.com^
 ||riweeboo.com^
 ||publisher1st.com^
 ||avglfookdjuj.com^
@@ -30938,6 +30940,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||trackerscript.sqreemtech.com^
+||infinity-tracking.com^
 ||lab.analyticspodium.com^
 ||driveniq.com^
 ||sync.programmatica.com^
@@ -32941,6 +32945,8 @@ vkcdnservice.appspot.com^
 ||dataunlocker.com^
 ||wizaly.com^
 ||tagman.britishairways.com^
+||analyticswritenew.xerevo.com^
+||tracking.staff-start.com^
 ||p-aw2-adapt-beacon.awsprodops.movetv.com^
 ||p-cg64-slinganalytics.movetv.com^
 ||analytics.nova.foxsports.com^
@@ -39856,6 +39862,7 @@ inapps.appsflyersdk.com^
 ||tobyxev.com^
 ||tongjiniao.com^
 ||trrmkzesvyqrary.com^
+||tsaristcanapes.com^
 ||tweezesmalanga.com^
 ||tyuetxt.com^
 ||u21033.com^
@@ -39903,7 +39910,6 @@ inapps.appsflyersdk.com^
 ||ysxt9.com^
 ||z0a1b2c3d4.com^
 ||zhongfumzzew.com^
-||tsaristcanapes.com^
 ||027dir.com^
 ||053h94.com^
 ||08u6q.com^
@@ -59325,7 +59331,6 @@ analytics-*.aasaam.com
 ||inediblebedside.com^
 ||inediblepollingbuzz.com^
 ||infernotions.com^
-||infinity-tracking.com^
 ||inmobiapis.com^
 ||inq.com^
 ||ins.shalltry.com^
@@ -70651,7 +70656,6 @@ analytics-*.aasaam.com
 ||profoundrollcompatibility.com^
 ||promo.tutotoons.com^
 ||promotebred.com^
-||protectionabate.com^
 ||proxyclick.com^
 ||psplugin.com^
 ||pss.alicdn.com^
@@ -70688,7 +70692,6 @@ analytics-*.aasaam.com
 ||rees46.com^
 ||reevoo.com^
 ||refinery89.com^
-||regionseffective.com^
 ||rekmob.com^
 ||relateddigital.com^
 ||relentlo.com^
@@ -71154,7 +71157,6 @@ analytics-*.aasaam.com
 ||smetrics.yaencontre.com^
 ||smetrics.zales.com^
 ||smetrics.zalesoutlet.com^
-||smotherlameoven.com^
 ||smpush.com^
 ||snailthreatenedinvited.com^
 ||snap.licdn.com^
@@ -73877,6 +73879,7 @@ analytics-*.aasaam.com
 ||1sk27.fun^
 ||2hpg0.fun^
 ||94n33.fun^
+||bgeg1.fun^
 ||cy5kr.fun^
 ||hltkl.fun^
 ||hsi2i.fun^
@@ -73885,7 +73888,6 @@ analytics-*.aasaam.com
 ||r9ffi.fun^
 ||vpqko.fun^
 ||x2y22.fun^
-||bgeg1.fun^
 ||07xm.fun^
 ||37tek.fun^
 ||98dvu.fun^
@@ -74436,6 +74438,7 @@ analytics-*.aasaam.com
 ||usxuyr.icu^
 ||vmr6t.icu^
 ||vrwdsvr.icu^
+||vwsgmf.icu^
 ||wkzsmj.icu^
 ||wmnraj.icu^
 ||wqvbuj.icu^
@@ -74455,7 +74458,6 @@ analytics-*.aasaam.com
 ||yshlor.icu^
 ||yutiqf.icu^
 ||zigyspv.icu^
-||vwsgmf.icu^
 ||2tyne.icu^
 ||7nekc.icu^
 ||a44u.icu^
@@ -82421,7 +82423,6 @@ analytics-*.aasaam.com
 ||pxl.retaku.net^
 ||smatr.net^
 ||kiwi.mdldb.net^
-||collector-*.px-cloud.net^
 ||adrange.net^
 ||dna8twue3dlxq.cloudfront.net^
 ||analytics.elegela.net^
@@ -82465,8 +82466,6 @@ analytics-*.aasaam.com
 ||inistrack.net^
 ||calameo-beacon.global.ssl.fastly.net^
 ||socketviking.net^
-||collector-*.pxchk.net^
-||collector-*.px-cdn.net^
 ||solutionshindsight.net^
 ||durationmedia.net^
 ||sp.dpgmedia.net^
@@ -93712,10 +93711,10 @@ aio*xam5*thefirebog.net
 ||vnwish.shop^
 ||2024114t.shop^
 ||acsegt86.shop^
+||bcthd12.shop^
 ||hscnpk86.shop^
 ||kfctds59.shop^
 ||wcbghap63.shop^
-||bcthd12.shop^
 ||aishan.shop^
 ||bendan.shop^
 ||jiudashi.shop^
@@ -100480,6 +100479,7 @@ aio*xam5*thefirebog.net
 ||chnvgdkw.xyz^
 ||chrtds.xyz^
 ||chubsxmg.xyz^
+||chzjidgc.xyz^
 ||cjndvoglik.xyz^
 ||cjzrfxs.xyz^
 ||cklithuw.xyz^
@@ -100573,6 +100573,7 @@ aio*xam5*thefirebog.net
 ||gcssem.xyz^
 ||ged46.xyz^
 ||geicmu.xyz^
+||gfpvvwf.xyz^
 ||ggsnyc.xyz^
 ||gkswas.xyz^
 ||gmgbmzz.xyz^
@@ -100713,6 +100714,7 @@ aio*xam5*thefirebog.net
 ||lppgjf.xyz^
 ||lrbvxx.xyz^
 ||lryqef.xyz^
+||lthmfx.xyz^
 ||lutrbr.xyz^
 ||lvnlrmn.xyz^
 ||lwdcnz.xyz^
@@ -101030,6 +101032,7 @@ aio*xam5*thefirebog.net
 ||waymom.xyz^
 ||whqgyo.xyz^
 ||wkrcbszi.xyz^
+||wkybwa.xyz^
 ||wlzlrlp.xyz^
 ||wnllmyw.xyz^
 ||woxwhfdo.xyz^
@@ -101057,6 +101060,7 @@ aio*xam5*thefirebog.net
 ||xhgpuxim.xyz^
 ||xhnvgdkw.xyz^
 ||xhubsxmg.xyz^
+||xhzjidgc.xyz^
 ||xiiepofl.xyz^
 ||xjappzvz.xyz^
 ||xjxbdh.xyz^
@@ -101107,6 +101111,7 @@ aio*xam5*thefirebog.net
 ||yhlzadr.xyz^
 ||yhnvgdkw.xyz^
 ||yhubsxmg.xyz^
+||yhzjidgc.xyz^
 ||yivkzvog.xyz^
 ||yjxzvqy.xyz^
 ||ykxafzdu.xyz^
@@ -101142,12 +101147,6 @@ aio*xam5*thefirebog.net
 ||zrljzgs.xyz^
 ||zxpvalr.xyz^
 ||zzbmxl.xyz^
-||yhzjidgc.xyz^
-||wkybwa.xyz^
-||lthmfx.xyz^
-||gfpvvwf.xyz^
-||chzjidgc.xyz^
-||xhzjidgc.xyz^
 ||01v62.xyz^
 ||1267a.xyz^
 ||126ccb.xyz^
