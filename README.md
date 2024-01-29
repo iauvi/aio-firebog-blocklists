@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![](https://raw.githubusercontent.com/KnightmareVIIVIIXC/allowlist/master/images/fblogo.png)
+
 ***Diverse DNS blocklists crafted from<br>an amalgamation of sources and designed to***
 
 | ⚪ | ⚪ ⚪ ⚪ |
