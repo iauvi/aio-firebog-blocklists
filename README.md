@@ -156,4 +156,6 @@
 |🔵| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟣|
 | ⚫ |🔹🧯🔹🧊🔹🎄🔹| ⚫ |
 
+[Back to top](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/tree/main?tab=readme-ov-file#--the-firebog--dns-blocklists--)
+
 </div>
