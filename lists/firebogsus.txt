@@ -3,7 +3,7 @@
 ! Description: All the blue and green suspicious sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-28T22:13:35.105Z
+! Last modified: 2024-01-29T04:13:45.165Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1551,6 +1551,7 @@
 ||private-service.best^
 ||poundporter.best^
 ||sofaglobal.best^
+||twitchindoor.best^
 ||stub.mainspotvideosfree.best^
 ||xmr.mining.best^
 ||vulkan7.bet^
