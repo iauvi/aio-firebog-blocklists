@@ -1,6 +1,6 @@
-<h1 align="center"> ⭕ The Firebog • DNS Blocklists ⭕ </h1>
-
 <div align="center">
+
+# ⭕ The Firebog • DNS Blocklists ⭕
 
 ![](https://raw.githubusercontent.com/KnightmareVIIVIIXC/allowlist/master/images/fblogo.png)
 
@@ -12,14 +12,10 @@
 | ⚪ |Halt Trackers|
 | ⚪ |Block Malicious Content|
 
-</div>
-
 ---
 
-<h1 align="center"> 🛑 The Lists 🛑 </h1>
+# 🛑 The Lists 🛑
 
-<div align="center">
-  
 ***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> to be used with***
 
 | ⚪ | ⚪ ⚪ ⚪ |
@@ -64,13 +60,9 @@
 | Advertising-Tracking | 🌲 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrack.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrack.txt" title="">Link</a> | Contains the green advertising and tracking sources |
 | Advertising-Tracking-Malicious | 🌲 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrackmal.txt" title="">Link</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt" title="">Link</a> | Contains the green advertising, tracking, and malicious sources |
 
-</div>
-
 ---
 
-<h1 align="center"> 📛 The Sources 📛 </h1>
-
-<div align="center">
+# 📛 The Sources 📛
 
 ***All sources can be found on<br><a href="https://firebog.net/" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
@@ -139,13 +131,9 @@
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
 | ⚪ | 🔥 | [⚪](https://github.com/hl2guide/AdGuard-Home-Whitelist) [⚪](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt) [⚪](https://github.com/anudeepND/whitelist) |
 
-</div>
-
 --- 
 
-<h1 align="center"> 📊 The Tests 📊 </h1>
-
-<div align="center">
+# 📊 The Tests 📊
 
 ***Utilities designed to identify what is being blocked<br>by the selected list of your choice***
 
@@ -155,7 +143,5 @@
 |🟡| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟡|
 |🔵| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🔴|
 | ⚫ |🟣┃🟢┃🟠| ⚪ |
-
-[Back to top](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
 
 </div>
