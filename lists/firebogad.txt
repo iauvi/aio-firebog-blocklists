@@ -3,7 +3,7 @@
 ! Description: All the advertising sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: MIT
-! Last modified: 2024-01-30T10:34:34.201Z
+! Last modified: 2024-01-30T16:14:40.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -96,6 +96,9 @@
 ||nrich.ai^
 ||captivate.ai^
 ||native.ai^
+||assets.datarize.ai^
+||dtr-onsite-feed.datarize.ai^
+||realtime-profiling.datarize.ai^
 ||analytics.karakuri.ai^
 ||events.character.ai^
 ||events.swishapps.ai^
@@ -2162,6 +2165,7 @@
 ||zyzo.cn^
 ||kkkaii.cn^
 ||ovbgeum.cn^
+||czresus.cn^
 ||173e.cn^
 ||2pwja.cn^
 ||331qka.cn^
@@ -2448,10 +2452,8 @@
 ||zzisnvb.cn^
 ||g1.tagtic.cn^
 ||xiaoshuoyun.cn^
-||xingshenfang.cn^
 ||1.i999d.cn^
 ||100.pncdn.cn^
-||8*.tianya.cn^
 ||acodes.b2b.cn^
 ||ad.cdnjm.cn^
 ||ad.gmw.cn^
@@ -2469,7 +2471,6 @@
 ||g.lznews.cn^
 ||g.mnw.cn^
 ||go.hangzhou.com.cn^
-||greenhouseglobal.cn^
 ||guang1.zhakao.cn^
 ||iads.xinmin.cn^
 ||ivy.pconline.com.cn^
@@ -5592,6 +5593,7 @@
 ||adrunnr.com^
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
+||ads.environmentalleader.com^
 ||sponsor.imacdn.com^
 ||buzzer.xhamster.com^
 ||ads.digital.disneyadvertising.com^
@@ -24267,6 +24269,7 @@ vkcdnservice.appspot.com^
 ||reliablemore.com^
 ||reliableorientdelirium.com^
 ||reliantstacklaugh.com^
+||relicsheer.com^
 ||reliefindividual.com^
 ||relievedgeoff.com^
 ||relishcoincidencehandbag.com^
@@ -30697,6 +30700,7 @@ vkcdnservice.appspot.com^
 ||zoagreejouph.com^
 ||zoaheeth.com^
 ||zoaptaup.com^
+||zoawhoal.com^
 ||zobsaims.com^
 ||zodiacranbehalf.com^
 ||zoeaegyral.com^
@@ -32178,6 +32182,8 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||diopousg.com^
+||ruuaqkw.com^
 ||ads-*-nfl.yinzcam.com^
 ||mads.amazon.com^
 ||p16-ad.byteoversea.com^
@@ -42083,20 +42089,15 @@ inapps.appsflyersdk.com^
 ||yellowjm.com^
 ||ys2000.cdn.bcebos.com^
 ||zgm1.com^
-||j8377.com^
 ||5lu8.com^
 ||88p2p.com^
 ||aiwanma99.com^
-||bm999999.com^
 ||csaimall.com^
-||d6262.com^
 ||downmn.com^
 ||downmz.com^
 ||elsbfby.com^
 ||kuheju.com^
 ||mm786.com^
-||p.ynb2dca.com^
-||qx568.com^
 ||u26u.com^
 ||wy213.com^
 ||xiyouence.com^
@@ -42107,7 +42108,6 @@ inapps.appsflyersdk.com^
 ||5y9nfpes.52pk.com^
 ||614514.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
-||801.tianyaui.com^
 ||8jkx.com^
 ||9fum.ifeng.com^
 ||a.baomihua.com^
@@ -42125,7 +42125,6 @@ inapps.appsflyersdk.com^
 ||ad.walkgame.com^
 ||adadmin.house365.com^
 ||adimg.liba.com^
-||adm.265g.com^
 ||adm.52swine.com^
 ||adm.6park.com^
 ||adm.beimg.com^
@@ -42160,7 +42159,6 @@ inapps.appsflyersdk.com^
 ||cmm.xmfish.com^
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
-||css.huvmi.com^
 ||da.mgtv.com^
 ||de.as.pptv.com^
 ||dehua.ixinfan.com^
@@ -42186,7 +42184,6 @@ inapps.appsflyersdk.com^
 ||gg.blueidea.com^
 ||gg.cs090.com^
 ||gg.gsdlcn.com^
-||gg.gw032.com^
 ||gg.kugou.com^
 ||gg.sonhoo.com^
 ||gg.uuu9.com^
@@ -42214,16 +42211,13 @@ inapps.appsflyersdk.com^
 ||inte.sogou.com^
 ||itv.hexun.com
 ||iwanad.baidu.com^
-||j.avz4.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||js.bju888.com^
 ||js.duotegame.com^
-||js.hkslg520.com^
 ||jsyefc.com^
 ||jxad.jx163.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
-||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
 ||lxting.com^
 ||m.aty.sohu.com^
@@ -42233,10 +42227,6 @@ inapps.appsflyersdk.com^
 ||market.21cn.com^
 ||market.duowan.com^
 ||mini.hao123.com^
-||money.qz828.com^
-||nirentang.com^
-||ok.432kkk.com^
-||pekingpk10.com^
 ||pic.0597kk.com^
 ||pic.fengniao.com^
 ||qcvf.ifeng.com^
@@ -42264,7 +42254,6 @@ inapps.appsflyersdk.com^
 ||tp.sgcn.com^
 ||union.yihaodian.com^
 ||untitled.dwstatic.com^
-||up.hiao.com^
 ||vupload.duowan.com^
 ||wowad.wow-classic.com^
 ||xc.mydrivers.com^
@@ -53716,9 +53705,6 @@ analytics-*.aasaam.com
 ||affiliates.vpn.ht^
 ||events.sk.ht^
 ||adservice.google.ht^
-||122.225.103.*.htm
-||120.27.*.html
-||218.26.217.*.html
 ||ad.netmedia.hu^
 ||hirmatrix.hu^
 ||mystat.hu^
@@ -54292,7 +54278,6 @@ analytics-*.aasaam.com
 ||tronapp.in^
 ||viaviet03.mobie.in^
 ||xjpakmdcfuqe.in^
-||cbjs.ciwei.in^
 ||oscaranimation.in^
 ||9dot9.in^
 ||adservice.google.co.in^
@@ -55573,6 +55558,7 @@ analytics-*.aasaam.com
 ||luminati.io^
 ||storetail.io^
 ||dnsdelegation.io^
+||log.pipeline.datarize.io^
 ||analytics-dataplane.invideo.io^
 ||analytics-api.invideo.io^
 ||event.hackle.io^
@@ -56694,7 +56680,6 @@ analytics-*.aasaam.com
 .1.1.1.l80.js^
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
-||113.17.188.*.js
 ||adservice.google.co.ke^
 ||www.net.kg^
 ||counter.top.kg^
@@ -62030,8 +62015,6 @@ analytics-*.aasaam.com
 ||cacafly.net^
 ||d-test.39.net^
 ||dsp.ali213.net^
-||gg.4kdy.net^
-||img.meipic.net^
 ||img1.126.net^
 ||img2.126.net^
 ||img3.126.net^
@@ -72865,7 +72848,6 @@ aio*xam5*thefirebog.net
 ||tranphongnam.tangtuongtac.work^
 ||vongquay2021.work^
 ||synergyat.work^
-||gg.huahaimi.work^
 ||targeting.washpost.nile.works^
 ||cra.hum.works^
 ||loxodo-analytics.ext.nile.works^
@@ -76139,6 +76121,7 @@ aio*xam5*thefirebog.net
 ||sxtnpzd.xyz^
 ||iwwmaq.xyz^
 ||cpwlctfk.xyz^
+||xpwlctfk.xyz^
 ||01v62.xyz^
 ||1267a.xyz^
 ||126ccb.xyz^
