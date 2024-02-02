@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-02-02T05:13:14.033Z
+# Last modified: 2024-02-02T12:10:48.166Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -3948,6 +3948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p-q.cfd
 0.0.0.0 painkillers.cfd
 0.0.0.0 paks.uevxy82-7.cfd
+0.0.0.0 pbi-ioen.cfd
 0.0.0.0 pd-04kf.cfd
 0.0.0.0 peanutv.cfd
 0.0.0.0 pellicle.cfd
@@ -28981,6 +28982,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whydontyoujustbuildsomething.com
 0.0.0.0 whywelivefortodayalways.com
 0.0.0.0 wi7e5784fjika4hu235a0ihs.basicbeautys.com
+0.0.0.0 wia24.taxility.com
 0.0.0.0 wia.cqcsh.com
 0.0.0.0 wia.dnzgj.com
 0.0.0.0 wia.sollefe.com
@@ -55418,6 +55420,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hymnologicjazer.info
 0.0.0.0 hyoids.info
 0.0.0.0 hypha.info
+0.0.0.0 hysteromaniacwrber.info
 0.0.0.0 i1nwestpl2023.info
 0.0.0.0 i133.info
 0.0.0.0 i302.info
@@ -66467,6 +66470,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pol999.online
 0.0.0.0 poland-info.online
 0.0.0.0 poland-oilnews.online
+0.0.0.0 poland-tiket.online
 0.0.0.0 polandbalticpower.online
 0.0.0.0 polandoffical.online
 0.0.0.0 polbittreders.online
@@ -69149,6 +69153,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4kplayer.pl
 0.0.0.0 5ac238e5fbe9a44f45f618faed5551b0.virosp.pl
 0.0.0.0 05b2da0da68cdf14872b508dbf1b6a35.vistvx.pl
+0.0.0.0 5bace951f7a589872a1a5a3f02184fac.amrst.pl
 0.0.0.0 5c0hem7htx.ekomar.com.pl
 0.0.0.0 5dd35899b0b7af190cbfe2dc7f0aec03.dioprl.pl
 0.0.0.0 05f6e9e3a6f4d71363e14fdf6ea2ac14.btntls.pl
@@ -69185,11 +69190,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 9d8e3c35534ec2d5.wwwplms.pl
 0.0.0.0 9db85664b052acfd21f714fa85026699.forgro.pl
 0.0.0.0 9e26d00f7449e079f8b5cf010394c7c7.natoplx.pl
+0.0.0.0 9e9848df9310779b4040d44bc7c70232.amrst.pl
+0.0.0.0 09f9195ac50e547264ebd14b9ecbda34.amrst.pl
 0.0.0.0 9interia.pl
 0.0.0.0 9w2iq3ne40.kontowo.pl
 0.0.0.0 11bb623619dba2f47828f06e009cfaca.boawgr.pl
 0.0.0.0 12e586e81dac73ed.wwwplkt.pl
 0.0.0.0 14e9293657039914b8cd8816f49265c3.btntls.pl
+0.0.0.0 15a94f54281558a88a8395ec2e33e35a.amrst.pl
 0.0.0.0 17a644191547a0fe057b52c53f734eb8.boawgr.pl
 0.0.0.0 17f43088cbbc7e56aae7bccdd6b10e3a.neplisx.pl
 0.0.0.0 18bbf24492bbf34095ae142f71b3e07a.loftx.pl
@@ -69317,6 +69325,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9709c2f03cc8691ff13318bce6be7cc3.nitospax.pl
 0.0.0.0 9745abee9473d9841bc96c1d0c7ba637.visolaw.pl
 0.0.0.0 18348beef08fa88d1f4f2ee04adeec3d.dioprl.pl
+0.0.0.0 24657c7a4eb16490bfdbfa948632c16f.amrst.pl
 0.0.0.0 28685bbf9b46d99c108833128ebaf4e1.visolaw.pl
 0.0.0.0 31984d0f2810be2e3e.allbiuro.pl
 0.0.0.0 33833af41c74711452faa7084a8658b7.dioprl.pl
@@ -69326,6 +69335,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 46239fcbf122a3823a76bfea0036b478.nicfus.pl
 0.0.0.0 57428e25d9e08241f0aaf8a998e1e3c3.dioprl.pl
 0.0.0.0 59790fd67c0fbc714d36baaa114d4d26.vistvx.pl
+0.0.0.0 62052c97f9fc279ab7420489ae23dba8.amrst.pl
 0.0.0.0 63457ddaaccf1668c9c8247d73a1bcc7.dioprl.pl
 0.0.0.0 84417ec8eddc70cce570ae22e94d2fa8.lisagos.pl
 0.0.0.0 88794fcad9aa1a6e20214980a6cc7bfd.dioprl.pl
@@ -69347,9 +69357,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 876847weryfikacja.soulcar.pl
 0.0.0.0 910538logowanie.soulcar.pl
 0.0.0.0 990334konto.soulcar.pl
+0.0.0.0 1736392ad697af05d498040d32de16b4.amrst.pl
 0.0.0.0 8541043afe146.biuroall.pl
 0.0.0.0 20091080ff77db531b3c7c1b7d934b7f.denisniemiec.pl
 0.0.0.0 52385462cd2f2d9c0a7213708fb159de.maxgro.pl
+0.0.0.0 54618885e23967e9ec29d498ef559e48.amrst.pl
 0.0.0.0 89657920f8f70f5ed543a48c3a4cb228.voltss.pl
 0.0.0.0 764594756e82fb73e5374a76c573a20c.maxgro.pl
 0.0.0.0 6647008752a1a11bfd0f9eeb1e43f23c.urszulaprzymuszala.net.pl
@@ -69707,6 +69719,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aukcja-olx.pl
 0.0.0.0 aukcja-prywatna3659.pl
 0.0.0.0 aukcja-prywatna5655.pl
+0.0.0.0 aukcja-prywatna56656.pl
 0.0.0.0 aukcjaoix.pl
 0.0.0.0 aurismedic.josefkopecka.pl
 0.0.0.0 auta-adamczyk.pl
@@ -70167,6 +70180,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d05fd1ecb597edabdb29e55d78e.tlsens.pl
 0.0.0.0 d24c70757f9074b15399be8c166ad87a.dioprl.pl
 0.0.0.0 d38a364ca7ddd5371c15c260047382b6.molekewa.net.pl
+0.0.0.0 d50aba82bc7538585af6153c0ca40e08.amrst.pl
 0.0.0.0 d2620c26f1b3d30bf42f845275.warszua.pl
 0.0.0.0 d6045d3d0818b1aad3d7019a48dbcb10.ntirslo.pl
 0.0.0.0 d9067cdd96edc29c62241d0c494.tlsens.pl
@@ -87871,6 +87885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 flashgift.world
 0.0.0.0 gearingsinth.world
 0.0.0.0 ggbet.world
+0.0.0.0 gistfence.world
 0.0.0.0 inodorsink.world
 0.0.0.0 izleseneindir.world
 0.0.0.0 kephalinfish.world
@@ -88178,6 +88193,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 033322233.xyz
 0.0.0.0 34215455.xyz
 0.0.0.0 34233342.xyz
+0.0.0.0 39454112.xyz
 0.0.0.0 42066623.xyz
 0.0.0.0 42151522.xyz
 0.0.0.0 44215455.xyz
@@ -88627,6 +88643,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ehrmans.xyz
 0.0.0.0 einpost.xyz
 0.0.0.0 eithey.xyz
+0.0.0.0 elderporter.xyz
 0.0.0.0 elevatedgrowth.xyz
 0.0.0.0 em-ofnut.xyz
 0.0.0.0 em-ofvvw.xyz
