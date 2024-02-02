@@ -135,7 +135,7 @@
 
 # 📊 The Tests 📊
 
-***Utilities designed to identify what is being blocked<br>by the selected list of your choice***
+***Utilities designed to identify what is being blocked by<br>the selected list of your choice***
 
 | ⚪ |🟠┃🟣┃🟢| ⚫ |
 |:---:|:---:|:---:|
