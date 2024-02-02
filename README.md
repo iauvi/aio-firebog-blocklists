@@ -97,7 +97,7 @@
 | ⚪ | 🌲 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
 | Advertising / Tracking | ⚪ | ⚪ ⚪ ⚪ |
-| ⚪ | [🌲](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt) | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
+| ⚪ | 🌲 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
 | Tracking | ⚪ | ⚪ ⚪ ⚪ |
 | ⚪ | 🔥 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
 | ⚪ | 🔥 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads and Trackers</a> |
