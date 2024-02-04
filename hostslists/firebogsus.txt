@@ -3,7 +3,7 @@
 # Description: All the blue and green suspicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-02-03T12:11:21.070Z
+# Last modified: 2024-02-04T00:26:20.653Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -73,6 +73,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 exy.ai
 0.0.0.0 bitcoinrevolution.ai
 0.0.0.0 bitiplex.ai
+0.0.0.0 db.cannabud.ai
 0.0.0.0 get.successpath.ai
 0.0.0.0 go.247.ai
 0.0.0.0 m.www.247.ai
@@ -468,6 +469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 in-projj.web.app
 0.0.0.0 incomparable-profiterole-6df495.netlify.app
 0.0.0.0 infopoczta-polska.web.app
+0.0.0.0 informacja-reklamacja.netlify.app
 0.0.0.0 informtize.web.app
 0.0.0.0 infringement-case-7ae7e.web.app
 0.0.0.0 ini-ar.web.app
@@ -974,6 +976,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sparkling-9123881273-paow0asxxa.netlify.app
 0.0.0.0 spectacular-sunburst-e1d8bb.netlify.app
 0.0.0.0 spontaneous-macaron-1110c2.netlify.app
+0.0.0.0 sprawa-konto-powiadomianie.netlify.app
 0.0.0.0 sprightly-swan-c225fd.netlify.app
 0.0.0.0 st4gaz.web.app
 0.0.0.0 staglydraftsky.netlify.app
@@ -1696,6 +1699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apozy.biz
 0.0.0.0 bankmillennium.biz
 0.0.0.0 bdbrtvrvavea.edns.biz
+0.0.0.0 blog.jendela.biz
 0.0.0.0 bnpparlbas.biz
 0.0.0.0 c2f6b8d6d4a237f95c90c14fbd8c32d58c2b9e3c72cf86c3ac6358.clubsales.biz
 0.0.0.0 cassis-inkasso.biz
@@ -2497,6 +2501,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 poczta-polske-pl.buzz
 0.0.0.0 poczta-polsko.buzz
 0.0.0.0 pocztapolska.buzz
+0.0.0.0 polpost.buzz
 0.0.0.0 postemesen.buzz
 0.0.0.0 postvip.buzz
 0.0.0.0 pottes-user.buzz
@@ -2723,6 +2728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d434s.cc
 0.0.0.0 deltastream.cc
 0.0.0.0 demo.dolphinlagoon.cc
+0.0.0.0 df5s.cc
 0.0.0.0 dhl-365.cc
 0.0.0.0 dhl-express.cc
 0.0.0.0 dotnow.cc
@@ -2742,6 +2748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fd4vv.cc
 0.0.0.0 fd22s.cc
 0.0.0.0 fd42aw.cc
+0.0.0.0 fd67d.cc
 0.0.0.0 fd487.cc
 0.0.0.0 femridge.cc
 0.0.0.0 ff3d.cc
@@ -3447,7 +3454,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 airc.cfd
 0.0.0.0 akceptacjaainspiracja.cfd
 0.0.0.0 al38-28.cfd
+0.0.0.0 alewivg.cfd
 0.0.0.0 aliven.cfd
+0.0.0.0 aliwonsy.cfd
 0.0.0.0 allei.cfd
 0.0.0.0 amiss.cfd
 0.0.0.0 ancientl.cfd
@@ -3485,6 +3494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blendofechnology.cfd
 0.0.0.0 br54-47.cfd
 0.0.0.0 br-74.cfd
+0.0.0.0 bsli7350.cfd
 0.0.0.0 buive83-34.cfd
 0.0.0.0 buv-2387j.cfd
 0.0.0.0 bv6-5.cfd
@@ -3506,6 +3516,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 changingb.cfd
 0.0.0.0 chaster.cfd
 0.0.0.0 chela.cfd
+0.0.0.0 chua-nh.cfd
 0.0.0.0 ckgo5.cfd
 0.0.0.0 clangour.cfd
 0.0.0.0 clostermind.cfd
@@ -3574,6 +3585,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ef83j3f.cfd
 0.0.0.0 ef92-d2.cfd
 0.0.0.0 ef-24d.cfd
+0.0.0.0 ef-erlsb.cfd
 0.0.0.0 efi-38dj.cfd
 0.0.0.0 efo-24g.cfd
 0.0.0.0 eg84-531k.cfd
@@ -4175,6 +4187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 w-e.cfd
 0.0.0.0 wbes.xlei-836.cfd
 0.0.0.0 wciazplanowanieo.cfd
+0.0.0.0 we93-48s.cfd
 0.0.0.0 we-32.cfd
 0.0.0.0 wearc.cfd
 0.0.0.0 wf63h.cfd
@@ -4979,6 +4992,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 naszasprawa.click
 0.0.0.0 naszebezpieczenstwo.click
 0.0.0.0 naszefakty.click
+0.0.0.0 naszemiasteczko.click
 0.0.0.0 naszesprawy.click
 0.0.0.0 naturalnewiesci.click
 0.0.0.0 neblio.click
@@ -5236,6 +5250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 potyczkaslowna.click
 0.0.0.0 poufnedane.click
 0.0.0.0 powiadomienia24h.click
+0.0.0.0 powiadomienianasze.click
 0.0.0.0 powiadomieniaportal.click
 0.0.0.0 powiatalarm.click
 0.0.0.0 powiatalarmuje.click
@@ -6180,6 +6195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 performingbiz.club
 0.0.0.0 performingbizz.club
 0.0.0.0 performings.club
+0.0.0.0 pko-bp.club
 0.0.0.0 pl-inpost.club
 0.0.0.0 pl-poczta.club
 0.0.0.0 pl.allsports4free.club
@@ -19413,6 +19429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 isainho.com
 0.0.0.0 isbooked.com
 0.0.0.0 iscma.solar-matrix.com
+0.0.0.0 iseaba.sa.com
 0.0.0.0 isellgood.com
 0.0.0.0 isglobalmx.com
 0.0.0.0 ishinegroup.com
@@ -26138,6 +26155,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 servicebaires.com
 0.0.0.0 servicecheck5.wixsite.com
 0.0.0.0 servicecuza.com
+0.0.0.0 servicedapartmentsgroup.com
 0.0.0.0 services-verrouillage-enligne-zpipa9696734571.codeanyapp.com
 0.0.0.0 serviceschange.com
 0.0.0.0 serviceslistofmob.com
@@ -29101,6 +29119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 winnerbemail.com
 0.0.0.0 winners-payment.com
 0.0.0.0 winscroogegold.com
+0.0.0.0 winthipricenow1.com
 0.0.0.0 winwwopqoeirruiio.com
 0.0.0.0 wireapproval.com
 0.0.0.0 wirefall.dev.duckduckfuck.com
@@ -55447,6 +55466,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goog.worldkolf.info
 0.0.0.0 googlefin.info
 0.0.0.0 goonlinebiznes.info
+0.0.0.0 gou.maxtradefx.info
 0.0.0.0 gouwublog.info
 0.0.0.0 goweralo-on.info
 0.0.0.0 goxofiagau.info
@@ -57421,6 +57441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secure-getway321f0be5-corr.tcontact.it
 0.0.0.0 superset-south-wilson.webnode.it
 0.0.0.0 technow.it
+0.0.0.0 tfbonk.atleticavigevano.it
 0.0.0.0 tradeacademy.it
 0.0.0.0 trycareerforbiden.webnode.it
 0.0.0.0 zalukaj.it
@@ -65568,6 +65589,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lfyu.one
 0.0.0.0 ncp-50.one
 0.0.0.0 nk-8.one
+0.0.0.0 p-ko.portal24klienta.one
 0.0.0.0 perusal.one
 0.0.0.0 poslovne.one
 0.0.0.0 secorinf.one
@@ -66060,12 +66082,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 europeinfotoai.online
 0.0.0.0 europeinfotoaiapp.online
 0.0.0.0 everelfre.online
+0.0.0.0 expofund.online
 0.0.0.0 eztradepl.online
 0.0.0.0 f1ery6t.online
 0.0.0.0 faclly.online
 0.0.0.0 factorypolska.online
 0.0.0.0 fast21onli4e.online
 0.0.0.0 fazts.online
+0.0.0.0 fbtcuorg.online
 0.0.0.0 februnhind.online
 0.0.0.0 femmelikeyoubrand.online
 0.0.0.0 fenieenergia.online
@@ -67454,6 +67478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpost-pl.org
 0.0.0.0 inpost.appsapidev.eu.org
 0.0.0.0 inpost.gyxezos.org
+0.0.0.0 inpost.iregunop.org
 0.0.0.0 inpost.jolasopex.org
 0.0.0.0 inpost.olymohes.org
 0.0.0.0 inpost.qubotys.org
@@ -69622,6 +69647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.e-aukcje24h.pl
 0.0.0.0 allegrolokalnie.e-oferty24.pl
 0.0.0.0 allegrolokalnie.e-ogloszenie24h.pl
+0.0.0.0 allegrolokalnie.e-piatnosci.pl
 0.0.0.0 allegrolokalnie.e-transakcje.pl
 0.0.0.0 allegrolokalnie.e-zakupy24-7.pl
 0.0.0.0 allegrolokalnie.ekupno24h-7.pl
@@ -69654,8 +69680,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.oferta01837.pl
 0.0.0.0 allegrolokalnie.oferta11564.pl
 0.0.0.0 allegrolokalnie.oferta97259.pl
+0.0.0.0 allegrolokalnie.oferta216434.pl
 0.0.0.0 allegrolokalnie.oferta-8a9na4h142fa6.pl
 0.0.0.0 allegrolokalnie.oferta-96d57c91j8b124c6a13.pl
+0.0.0.0 allegrolokalnie.oferta-6309521.pl
 0.0.0.0 allegrolokalnie.oferty-prywatne.pl
 0.0.0.0 allegrolokalnie.oferty-zakup24.pl
 0.0.0.0 allegrolokalnie.oferty-zakupy24.pl
@@ -69802,6 +69830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aukcja-prywatna3659.pl
 0.0.0.0 aukcja-prywatna3911.pl
 0.0.0.0 aukcja-prywatna5525.pl
+0.0.0.0 aukcja-prywatna5545.pl
 0.0.0.0 aukcja-prywatna5655.pl
 0.0.0.0 aukcja-prywatna5883.pl
 0.0.0.0 aukcja-prywatna8754.pl
@@ -69822,6 +69851,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-chojnacki.pl
 0.0.0.0 auta-chylinski.pl
 0.0.0.0 auta-cieslarski.pl
+0.0.0.0 auta-domasnki.pl
 0.0.0.0 auta-duda.pl
 0.0.0.0 auta-dworski.pl
 0.0.0.0 auta-dybus.pl
@@ -69882,6 +69912,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-sobczak.pl
 0.0.0.0 auta-sobieski.pl
 0.0.0.0 auta-sochacki.pl
+0.0.0.0 auta-sowinski.pl
 0.0.0.0 auta-stach.pl
 0.0.0.0 auta-szewczyk.pl
 0.0.0.0 auta-szulc.pl
@@ -69891,6 +69922,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auta-wilk.pl
 0.0.0.0 auta-winiarski.pl
 0.0.0.0 auta-witowski.pl
+0.0.0.0 auta-wloczynski.pl
 0.0.0.0 auta-wojtas.pl
 0.0.0.0 auta-wolski.pl
 0.0.0.0 auta-wyprzedaz.pl
@@ -69904,6 +69936,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auto-czapa.pl
 0.0.0.0 auto-elite24.pl
 0.0.0.0 auto-fast.pl
+0.0.0.0 auto-garczynski.pl
 0.0.0.0 auto-heres.pl
 0.0.0.0 auto-hermeks.pl
 0.0.0.0 auto-jedrzejewski.pl
@@ -69972,6 +70005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 autogielda-miloszki.pl
 0.0.0.0 autogielda-mruczyn.pl
 0.0.0.0 autogielda-nowacki.pl
+0.0.0.0 autogielda-nowakiewicz.pl
 0.0.0.0 autogielda-otto24.pl
 0.0.0.0 autogielda-pakulski.pl
 0.0.0.0 autogielda-pekinski.pl
@@ -69992,6 +70026,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 autogielda-zawadzka.pl
 0.0.0.0 autogielda-ziemianowicz.pl
 0.0.0.0 autogielda-zietek.pl
+0.0.0.0 autogielda-ziezynski.pl
 0.0.0.0 autohandel-boniek.pl
 0.0.0.0 autohoop.pl
 0.0.0.0 autokomis4.kryspinkarz.pl
@@ -70669,6 +70704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 handelmoto-tutaj24.pl
 0.0.0.0 handlarzeonline.pl
 0.0.0.0 handlowastrategiaglobalna.pl
+0.0.0.0 handlujemymotoryzacja-24.pl
 0.0.0.0 hanteljankowski.pl
 0.0.0.0 harrington.krzysio.info.pl
 0.0.0.0 harris.kingamol.pl
@@ -70921,6 +70957,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 krajowy-informator.pl
 0.0.0.0 krajowyfunduszgwarancyjny.pl
 0.0.0.0 krakowska24.e-kei.pl
+0.0.0.0 krakus.erykkraj.nieruchomosci.pl
 0.0.0.0 krazex69.anaazjaiwona.pl
 0.0.0.0 kredytnadowolnycel.pl
 0.0.0.0 kredytybank.pl
@@ -71162,7 +71199,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 moto-benek.pl
 0.0.0.0 moto-deal24.pl
 0.0.0.0 motogielda-polska.pl
+0.0.0.0 motohandel-tu.pl
 0.0.0.0 motohandel-wolski.pl
+0.0.0.0 motokomis-24.pl
 0.0.0.0 motokomis-olszewski.pl
 0.0.0.0 motorserwis.kryspinkarz.pl
 0.0.0.0 motorynek-polska24.pl
@@ -71287,6 +71326,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 odsprzedaz.pl
 0.0.0.0 oferta2324.pl
 0.0.0.0 oferta3656.pl
+0.0.0.0 oferta4585.pl
+0.0.0.0 oferta8545.pl
+0.0.0.0 oferta8548.pl
 0.0.0.0 oferta12553.pl
 0.0.0.0 oferta12554.pl
 0.0.0.0 oferta12555.pl
@@ -71344,6 +71386,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oferta-sprzedazy8254.pl
 0.0.0.0 oferta-sprzedazy9248.pl
 0.0.0.0 oferta-sprzedazy25485.pl
+0.0.0.0 oferta-sprzedazy31534.pl
 0.0.0.0 oferta-sprzedazy43536.pl
 0.0.0.0 oferta-sprzedazy55652.pl
 0.0.0.0 oferta-sprzedazy346547.pl
@@ -76247,6 +76290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dostavaddpd.shop
 0.0.0.0 dostavao124to7.shop
 0.0.0.0 dostavaol24to7.shop
+0.0.0.0 dostavka01x.shop
 0.0.0.0 dostaw24sending.shop
 0.0.0.0 dostawagranica.shop
 0.0.0.0 dostawakurierska7.shop
@@ -76301,6 +76345,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fusevses.shop
 0.0.0.0 g-investing.shop
 0.0.0.0 gabron.shop
+0.0.0.0 galooshes.shop
 0.0.0.0 gearhorn.shop
 0.0.0.0 gearmole.shop
 0.0.0.0 gearupportal.shop
@@ -76496,6 +76541,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 o1lxbank24n7.shop
 0.0.0.0 o1lxdostawashop.shop
 0.0.0.0 o1lxsistembuy.shop
+0.0.0.0 o1lxsupportdostawa.shop
 0.0.0.0 o1xsupdostava.shop
 0.0.0.0 o2177305.shop
 0.0.0.0 odbierzsrodkizatowtar7.shop
@@ -89136,6 +89182,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inpasta.xyz
 0.0.0.0 inpesteo.xyz
 0.0.0.0 inpoe.xyz
+0.0.0.0 inpoost-44.495415.xyz
 0.0.0.0 inposa.xyz
 0.0.0.0 inpost-fq.xyz
 0.0.0.0 inpost-pl-my-id2g3ys.oferta.xyz
@@ -89463,6 +89510,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ohyr6.xyz
 0.0.0.0 oinpoat.xyz
 0.0.0.0 oippxam24.xyz
+0.0.0.0 oix-21.194545.xyz
+0.0.0.0 oix-44.494545.xyz
+0.0.0.0 oix-434.694545.xyz
 0.0.0.0 oix.0954155.xyz
 0.0.0.0 oix.2954155.xyz
 0.0.0.0 oix.49078454.xyz
@@ -89505,6 +89555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ollx.904756473.xyz
 0.0.0.0 ollx.904756475.xyz
 0.0.0.0 olnxopplro.xyz
+0.0.0.0 olx-54.29751454.xyz
 0.0.0.0 olx-434.19751454.xyz
 0.0.0.0 olx-545.69751454.xyz
 0.0.0.0 olx-kjjwq.divides.xyz
