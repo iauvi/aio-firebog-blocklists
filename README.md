@@ -2,7 +2,7 @@
 
 # ⭕ The Firebog • DNS Blocklists ⭕
 
-![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/a47a3871-6d1e-44c8-90a9-0f5434fba9d2)
+![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 
 ***Diverse DNS blocklists crafted from<br>an amalgamation of sources and designed to***
 
