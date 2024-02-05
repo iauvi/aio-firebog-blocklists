@@ -16,7 +16,7 @@
 
 # 🛑 The Lists 🛑
 
-***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> to be used with***
+***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a> <br>to be used with***
 
 | ⚪ | ⚪ ⚪ ⚪ |
 |:---:|:---|
