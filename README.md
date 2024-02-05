@@ -4,7 +4,7 @@
 
 ![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 
-***Diverse DNS blocklists crafted from<br>an amalgamation of sources and designed to***
+***Diverse DNS blocklists crafted from<br>an amalgamation of sources and intended to***
 
 | ⚪ | ⚪ ⚪ ⚪ |
 |:---:|:---|
