@@ -64,7 +64,7 @@
 
 # 📛 The Sources 📛
 
-***All sources can be found on<br><a href="https://firebog.net/" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
+***All sources can be found on<br><a href="https://v.firebog.net" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
 | List | ⚪ | Description |
 |---:|:---:|:---|
