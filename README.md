@@ -12,7 +12,7 @@
 | ⚪ |Halt Trackers|
 | ⚪ |Block Malicious Content|
 | ⚪ |Stop Phishing Attempts|
-| ⚪ |Disable Browser Based Miners|
+| ⚪ |Disable Crypto Miners|
 
 ---
 
