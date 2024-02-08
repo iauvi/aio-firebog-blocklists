@@ -71,8 +71,8 @@
 | List | ⚪ | Description |
 |---:|:---:|:---|
 |Bog| 🔥 |Exclusive to The Bog All-In-One (AIO) list only|
-|Blue| 🟦 |Featured in both The Bog AIO list and blue lists|
-|Green| 🌲 |Featured in both The Bog AIO list and green lists|
+|Blue| 🟦 |Featured in The Bog AIO list and blue lists|
+|Green| 🌲 |Featured in The Bog AIO list and green lists|
 
 | ⚪ ⚪ ⚪ | ⚪ | ⚪ ⚪ ⚪ |
 |---:|:---:|:---|
