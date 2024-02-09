@@ -13,6 +13,7 @@
 | ⚪ |Block Malicious Content|
 | ⚪ |Stop Phishing Attempts|
 | ⚪ |Disable Crypto Miners|
+| ⚪ |Hide Adult Content|
 
 ---
 
