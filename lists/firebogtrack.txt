@@ -3,12 +3,11 @@
 ! Description: All the blue and green tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2024-02-11T00:39:46.586Z
+! Last modified: 2024-02-11T01:25:34.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 *ad.durasite.net^
--launches.appsflyersdk.com^
 -logging.nextmedia.com^
 -s2s.sensic.net^
 -spiky.clevertap-prod.com^
@@ -53,14 +52,8 @@
 ://sportframe*.org^
 ://tru.am^
 analytics-*.aasaam.com
-cdn-settings.appsflyersdk.com^
 charlestownwyllie.oaklawnnonantum.com^
-conversions.appsflyersdk.com^
 dlsdk.appsflyer.com^
-dlsdk.appsflyersdk.com^
-gcdsdk.appsflyersdk.com^
-inapps.appsflyersdk.com^
-register.appsflyersdk.com^
 vkcdnservice.appspot.com^
 |piwik.
 ||0.code.cotsta.ru^

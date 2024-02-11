@@ -3,7 +3,7 @@
 # Description: All the blue and green tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-02-11T00:39:46.586Z
+# Last modified: 2024-02-11T01:25:34.631Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -22,14 +22,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 # Begin List
-0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 charlestownwyllie.oaklawnnonantum.com
-0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyer.com
-0.0.0.0 dlsdk.appsflyersdk.com
-0.0.0.0 gcdsdk.appsflyersdk.com
-0.0.0.0 inapps.appsflyersdk.com
-0.0.0.0 register.appsflyersdk.com
 0.0.0.0 vkcdnservice.appspot.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0008d6ba2e.com
