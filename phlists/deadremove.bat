@@ -1,0 +1,1 @@
+dead-domains-linter -i **/*.txt --import=deadfound.txt --auto
