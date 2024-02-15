@@ -17,7 +17,7 @@
 
 ---
 
-# 🛑 AIO Lists 🛑
+## 🛑 AIO Lists 🛑
 
 ***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
@@ -36,7 +36,7 @@
 
 ---
 
-# 💡 Lite Lists 💡
+## 💡 Lite Lists 💡
 
 | 🔶 🔶 🔶 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -62,7 +62,7 @@
 
 ---
 
-# 📛 The Sources 📛
+## 📛 The Sources 📛
 
 ***All sources can be found on<br><a href="https://v.firebog.net" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
@@ -127,7 +127,7 @@
 
 ---
 
-# 📊 The Tests 📊
+## 📊 The Tests 📊
 
 ***Utilities engineered to identify what is being blocked by<br>the selected list of your choice***
 
