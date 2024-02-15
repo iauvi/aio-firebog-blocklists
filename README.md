@@ -51,12 +51,6 @@
 
 ***All sources can be found on<br><a href="https://v.firebog.net" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
 
-| List | ⚪ | Description |
-|---:|:---:|:---|
-|Bog| 🔥 |Exclusive to The Bog All-In-One (AIO) list|
-|Blue| 🟦 |Featured in The Bog AIO list and blue lists|
-|Green| 🟩 |Featured in The Bog AIO list and green lists|
-
 | ⚪ ⚪ ⚪ | ⚪ | ⚪ ⚪ ⚪ |
 |---:|:---:|:---|
 | Suspicious | ⚪ | Source |
