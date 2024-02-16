@@ -34,8 +34,6 @@
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 |Blue & Green| 🟥 |Incorporates blue sources and green sources, included in The Bog AIO list and blue/green AIO list|
 
----
-
 ### 🛑 AIO Lists 🛑
 
 | 🔥 🟦 🟩 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
@@ -44,8 +42,6 @@
 | Blue/Green AIO List | 🟥 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogbluegreen.txt" title="">RAW</a> | Contains all of the blue and green sources |
 | Blue AIO List| 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogblue.txt" title="">RAW</a> | Contains all of the blue sources |
 | Green AIO List | 🟩 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt" title="">RAW</a> | Contains all of the green sources |
-
----
 
 ### 💡 Lite Lists 💡
 
