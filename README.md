@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴 The Firebog • DNS Blocklists ⭕
+# 🔴 The Firebog • DNS Blocklists 🔴
 
 ![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛑 AIO Lists 🛑
+## ⭕ The Lists ⭕
 
 ***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, and <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
@@ -33,6 +33,10 @@
 |Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list and the blue AIO list, poses a higher risk of disrupting your browsing experience|
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list and the green AIO list, poses a lower risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 |Blue & Green| 🟥 |Incorporates blue sources and green sources, included in The Bog AIO list and blue/green AIO list|
+
+---
+
+## 🛑 AIO Lists 🛑
 
 | 🔥 🟦 🟩 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
