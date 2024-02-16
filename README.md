@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭕ The Firebog • DNS Blocklists ⭕
+# 🔴 The Firebog • DNS Blocklists ⭕
 
 ![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 
@@ -146,8 +146,8 @@
 
 | ⚫ |🟢┃🟠┃🔵| ⚫ |
 |:---:|:---:|:---:|
-|🟡| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🔴|
-|🔴| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟣|
+|🟡| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟤|
+|🟤| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟣|
 |🟣| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟡|
 | ⚫ |🔵┃🟢┃🟠| ⚫ |
 
