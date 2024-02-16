@@ -36,7 +36,7 @@
 
 ---
 
-## 🛑 AIO Lists 🛑
+### 🛑 AIO Lists 🛑
 
 | 🔥 🟦 🟩 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -47,7 +47,7 @@
 
 ---
 
-## 💡 Lite Lists 💡
+### 💡 Lite Lists 💡
 
 | 🟥 🟥 🟥 | 🟥 | AdBlock | PiHole | Hosts | Domain | 🟥 🟥 🟥 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
