@@ -99,7 +99,7 @@
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts" title="">Fademind's Unchecky Ads</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
-| Advertising / Tracking | ⚪ | ⚪ ⚪ ⚪ |
+| Advertising / Tracking | ⚪ | 🟩 🟩 🟩 |
 | ⚪ | 🟩 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
 | Tracking | ⚪ | 🔥 🟦 🟩 |
 | ⚪ | 🔥 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
