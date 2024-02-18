@@ -103,7 +103,7 @@
 | ⚪ | 🟩 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
 | Tracking | ⚪ | 🔥 🟦 🟩 |
 | ⚪ | 🔥 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
-| ⚪ | 🔥 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
+| ⚪ | 🔥 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
 | ⚪ | 🟩 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts" title="">Fademind's 2o7 Network Trackers</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
