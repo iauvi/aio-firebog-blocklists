@@ -17,7 +17,7 @@
 
 ---
 
-## ⭕ The Lists ⭕
+## 📄 The Lists 📄
 
 ***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
@@ -34,7 +34,7 @@
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a lower risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 |Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list|
 
-### 🛑 AIO Lists 🛑
+### ⭕ AIO Lists ⭕
 
 | 🔥 🟦 🟩 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
