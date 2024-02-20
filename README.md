@@ -94,7 +94,6 @@
 | ⚪ | 🟩 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blocklist</a> |
-| ⚪ | 🟩 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt" title="">Disconnect Ads</a> |
 | ⚪ | 🟩 | <a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml" title="">Peter Lowe's Adservers</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts" title="">Fademind's Unchecky Ads</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
@@ -116,7 +115,6 @@
 | Malicious | ⚪ | 🟦 🟩 🟩 |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | ⚪ | 🟩 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
-| ⚪ | 🟩 | <a href="https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt" title="">Disconnect Malvertising</a> |
 | ⚪ | 🟩 | <a href="https://v.firebog.net/hosts/Prigent-Crypto.txt" title="">Fabrice Prigent's Cryptojacking</a> |
 | ⚪ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts" title="">Fademind's Risky Hosts</a> |
 | ⚪ | 🟩 | <a href="https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt" title="">Mandiant APT1 Report</a> |
