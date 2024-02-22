@@ -25,7 +25,7 @@
 |:---:|:---|
 | ⚪ |AdBlockers|
 | ⚪ |DNS Applications|
-| ⚪ |Windows' Hosts File| 
+| ⚪ |Hosts Files| 
 
 | List | ⚪ | Description |
 |---:|:---:|:---|
