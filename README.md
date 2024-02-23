@@ -6,14 +6,14 @@
 
 ***Diverse DNS blocklists crafted from<br>an amalgamation of sources<br>and intended to***
 
-| ⚪ | ⚪ ⚪ ⚪ |
+| ⬛ | ⬛ ⬛ ⬛ |
 |:---:|:---|
-| ⚪ |Prevent Advertisements|
-| ⚪ |Halt Trackers|
-| ⚪ |Block Malicious Content|
-| ⚪ |Stop Phishing Attempts|
-| ⚪ |Disable Crypto Miners|
-| ⚪ |Hide Adult Content|
+| ⬛ |Prevent Advertisements|
+| ⬛ |Halt Trackers|
+| ⬛ |Block Malicious Content|
+| ⬛ |Stop Phishing Attempts|
+| ⬛ |Disable Crypto Miners|
+| ⬛ |Hide Adult Content|
 
 ---
 
@@ -21,13 +21,13 @@
 
 ***Blocklists [designed](https://github.com/KnightmareVIIVIIXC/DeadDomainsLinter) in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
-| ⚪ | ⚪ ⚪ ⚪ |
+| ⬛ | ⬛ ⬛ ⬛ |
 |:---:|:---|
-| ⚪ |AdBlockers|
-| ⚪ |DNS Applications|
-| ⚪ |Hosts Files| 
+| ⬛ |AdBlockers|
+| ⬛ |DNS Applications|
+| ⬛ |Hosts Files| 
 
-| List | ⚪ | Description |
+| List | ⬛ | Description |
 |---:|:---:|:---|
 |Bog| 🔥 |The Bog All-In-One (AIO) list encompasses all sources & will disrupt your browsing experience, consider implementing an allowlist for better control|
 |Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a higher risk of disrupting your browsing experience|
@@ -36,7 +36,7 @@
 
 ### ⭕ AIO Lists ⭕
 
-| 🔥 🟦 🟩 | ⚪ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
+| 🔥 🟦 🟩 | ⬛ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
 | The Bog AIO List | 🔥 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt" title="">RAW</a> | Contains all of the sources |
 | Blue/Green AIO List | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogbluegreen.txt" title="">RAW</a> | Contains all of the blue/green sources |
@@ -45,7 +45,7 @@
 
 ### 💡 Lite Lists 💡
 
-| 🔶 🔶 🔶 | ⚪ | 🔶 | 🔶 | 🔶 | 🔶 | 🔶 🔶 🔶 |
+| 🔶 🔶 🔶 | ⬛ | 🔶 | 🔶 | 🔶 | 🔶 | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
 | Suspicious-Malicious | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogsusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogsusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogsusmal.txt" title="">RAW</a> | Contains the blue/green suspicious & malicious sources |
 | Advertising-Tracking | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogadtrack.txt" title="">RAW</a> | Contains the blue/green advertising & tracking sources |
@@ -55,12 +55,12 @@
 | Advertising | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogad.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogad.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogad.txt" title="">RAW</a> | Contains all of the advertising sources |
 | Tracking | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogtrack.txt" title="">RAW</a> | Contains the blue/green tracking sources |
 | Malicious | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogmal.txt" title="">RAW</a> | Contains all of the malicious sources |
-| 🟦 🟦 🟦 | ⚪ | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 🟦 🟦 |
+| 🟦 🟦 🟦 | ⬛ | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 🟦 🟦 |
 | Suspicious-Malicious | 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogbluesusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogbluesusmal.txt" title="">RAW</a> | Contains the blue suspicious & malicious sources |
 | Advertising-Tracking | 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogblueadtrack.txt" title="">RAW</a> | Contains the blue advertising & tracking sources |
 | Advertising-Tracking-Malicious | 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogblueadtrackmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogblueadtrackmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogblueadtrackmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogblueadtrackmal.txt" title="">RAW</a> | Contains the blue advertising, tracking, & malicious sources |
 | Exclusive-Suspicious | 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogbluesusother.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/firebogbluesusother.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/firebogbluesusother.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/firebogbluesusother.txt" title="">RAW</a> | Contains the blue exclusive source & blue suspicious sources |
-| 🟩 🟩 🟩 | ⚪ | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 🟩 🟩 |
+| 🟩 🟩 🟩 | ⬛ | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 🟩 🟩 |
 | Suspicious-Malicious | 🟩 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreensusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreensusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreensusmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreensusmal.txt" title="">RAW</a> | Contains the green suspicious & malicious sources |
 | Advertising-Tracking | 🟩 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrack.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrack.txt" title="">RAW</a> | Contains the green advertising & tracking sources |
 | Advertising-Tracking-Malicious | 🟩 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/fireboggreenadtrackmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/fireboggreenadtrackmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/fireboggreenadtrackmal.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt" title="">RAW</a> | Contains the green advertising, tracking, & malicious sources |
