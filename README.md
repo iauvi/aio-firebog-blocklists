@@ -129,7 +129,7 @@
 | ⚪ | 🟩 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malware URL blocklist</a> |
 | ⚪ | 🟦 | <a href="https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt" title="">Curbengh's Phishing filter</a> |
 | ⚪ | 🟦 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
-| AIO EXCLUSIVE | ⚪ | 🔥 🟦 🟩 |
+| EXCLUSIVE | ⚪ | 🔥 🟦 🟩 |
 | ⚪ | 🟩 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | ⚪ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
 | ⚪ | 🔥 | [⚪ ⚪ ⚪](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist/blob/main/dns_disallowed_domains.txt) |
