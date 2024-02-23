@@ -8,12 +8,12 @@
 
 | ⬛ | ⬛ ⬛ ⬛ | ⬛ |
 |:---:|:---:|:---:|
-| ⬛ |Prevent Advertisements| ⬛ |
+| ⬛ |Hide Advertisements| ⬛ |
 | ⬛ |Halt Trackers| ⬛ |
 | ⬛ |Block Malicious Content| ⬛ |
 | ⬛ |Stop Phishing Attempts| ⬛ |
 | ⬛ |Disable Crypto Miners| ⬛ |
-| ⬛ |Hide Adult Content| ⬛ |
+| ⬛ |Prevent Adult Content| ⬛ |
 | ⬛ | ⬛ ⬛ ⬛ | ⬛ |
 
 ---
