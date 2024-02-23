@@ -6,14 +6,15 @@
 
 ***Diverse DNS blocklists crafted from<br>an amalgamation of sources<br>and intended to***
 
-| ⬛ | ⬛ ⬛ ⬛ |
-|:---:|:---|
-| ⬛ |Prevent Advertisements|
-| ⬛ |Halt Trackers|
-| ⬛ |Block Malicious Content|
-| ⬛ |Stop Phishing Attempts|
-| ⬛ |Disable Crypto Miners|
-| ⬛ |Hide Adult Content|
+| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
+|:---:|:---:|:---:|
+| ⬛ |Prevent Advertisements| ⬛ |
+| ⬛ |Halt Trackers| ⬛ |
+| ⬛ |Block Malicious Content| ⬛ |
+| ⬛ |Stop Phishing Attempts| ⬛ |
+| ⬛ |Disable Crypto Miners| ⬛ |
+| ⬛ |Hide Adult Content| ⬛ |
+| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
 
 ---
 
@@ -21,11 +22,12 @@
 
 ***Blocklists [designed](https://github.com/KnightmareVIIVIIXC/DeadDomainsLinter) in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
-| ⬛ | ⬛ ⬛ ⬛ |
-|:---:|:---|
-| ⬛ |AdBlockers|
-| ⬛ |DNS Applications|
-| ⬛ |Hosts Files| 
+| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
+|:---:|:---:|:---:|
+| ⬛ |AdBlockers| ⬛ |
+| ⬛ |DNS Applications| ⬛ |
+| ⬛ |Hosts Files| ⬛ |
+| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
