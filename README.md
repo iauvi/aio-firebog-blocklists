@@ -31,16 +31,16 @@
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
-|Bog| 🔥 |The Bog All-In-One (AIO) list encompasses all sources & will disrupt your browsing experience, consider implementing an allowlist for better control|
+|Bog| 🟧 |The Bog All-In-One (AIO) list encompasses all sources & will disrupt your browsing experience, consider implementing an allowlist for better control|
 |Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a higher risk of disrupting your browsing experience|
 |Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a higher risk of disrupting your browsing experience|
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a lower risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
 ### ⭕ AIO Lists ⭕
 
-| 🔥 🟦 🟩 | ⬛ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🔥 |
+| 🟧 🟦 🟩 | ⬛ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🟧 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
-| The Bog AIO List | 🔥 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt" title="">RAW</a> | Contains all of the sources |
+| The Bog AIO List | 🟧 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebog.txt" title="">RAW</a> | Contains all of the sources |
 | Blue/Green AIO List | 🔶 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogbluegreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogbluegreen.txt" title="">RAW</a> | Contains all of the blue/green sources |
 | Blue AIO List| 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogblue.txt" title="">RAW</a> | Contains all of the blue sources |
 | Green AIO List | 🟩 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt" title="">RAW</a> | Contains all of the green sources |
@@ -76,16 +76,16 @@
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
-|Bog| 🔥 |Exclusive to The Bog All-In-One (AIO) list|
+|Bog| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
 |Blue| 🟦 |Featured in The Bog AIO list & blue lists|
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
 | ⬛ ⬛ ⬛ | ⬛ | Source |
 |---:|:---:|:---|
-| Suspicious | ⬛ | 🔥 🟦 🟩 |
+| Suspicious | ⬛ | 🟧 🟦 🟩 |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
-| ⬛ | 🔥 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
-| ⬛ | 🔥 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
+| ⬛ | 🟧 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
+| ⬛ | 🟧 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt" title="">PolishFiltersTeam KADhosts</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts" title="">Fademind's Spammers</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt" title="">Matomo Referrer Spam</a> |
@@ -105,9 +105,9 @@
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
 | Advertising / Tracking | ⬛ | 🟩 🟩 🟩 |
 | ⬛ | 🟩 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
-| Tracking | ⬛ | 🔥 🟦 🟩 |
-| ⬛ | 🔥 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
-| ⬛ | 🔥 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
+| Tracking | ⬛ | 🟧 🟦 🟩 |
+| ⬛ | 🟧 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
+| ⬛ | 🟧 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts" title="">Fademind's 2o7 Network Trackers</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" title="">Crazy Max's Microsoft Telemetry</a> |
@@ -132,10 +132,10 @@
 | ⬛ | 🟩 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malware URL blocklist</a> |
 | ⬛ | 🟦 | <a href="https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt" title="">Curbengh's Phishing filter</a> |
 | ⬛ | 🟦 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
-| EXCLUSIVE | ⬛ | 🔥 🟦 🟩 |
+| EXCLUSIVE | ⬛ | 🟧 🟦 🟩 |
 | ⬛ | 🟩 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-| ⬛ | 🔥 | [⬛ ⬛ ⬛](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
+| ⬛ | 🟧 | [⬛ ⬛ ⬛](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
 
 ---
 
