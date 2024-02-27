@@ -31,10 +31,10 @@
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
-|Bog| 🟧 |The Bog All-In-One (AIO) list encompasses all sources & will disrupt your browsing experience, consider implementing an allowlist for better control|
-|Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a higher risk of disrupting your browsing experience|
-|Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a higher risk of disrupting your browsing experience|
-|Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a lower risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
+|Bog| 🟧 |Incorporates all sources, poses a very high risk of disrupting your browsing experience|
+|Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a high risk of disrupting your browsing experience|
+|Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a high risk of disrupting your browsing experience|
+|Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
 ### ⭕ AIO Lists ⭕
 
