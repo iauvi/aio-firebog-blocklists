@@ -3,8 +3,10 @@
 # Description: The blue exclusive source and blue suspicious sources
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-02-28T14:06:20.138Z
+# Last modified: 2024-02-29T02:15:56.781Z
+# 
 # Compiled by @adguard/hostlist-compiler v1.0.23
+# 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -10718,6 +10720,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clicks.eutopia.traffictrader.net
 0.0.0.0 clicks.going.com
 0.0.0.0 clicks.govini.com
+0.0.0.0 clicks.hmd.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.izea.com
 0.0.0.0 clicks.m4n.nl
