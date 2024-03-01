@@ -20,7 +20,7 @@
 
 ## 📄 The Lists 📄
 
-***Blocklists [designed](https://github.com/KnightmareVIIVIIXC/DeadDomainsLinter) in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
+***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
 | ⬛ | ⬛ ⬛ ⬛ | ⬛ |
 |:---:|:---:|:---:|
