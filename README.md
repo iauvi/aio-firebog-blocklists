@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴 The Firebog ➖ DNS Blocklists 🔴
+# ⭕ The Firebog ➖ DNS Blocklists ⭕
 
 ![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📚 The Lists 📚
+## 📄 The Lists 📄
 
 ***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
@@ -36,7 +36,7 @@
 |Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a high risk of disrupting your browsing experience|
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
-### ⭕ AIO Lists ⭕
+### 🔴 AIO Lists 🔴
 
 | 🟧 🟦 🟩 | ⬛ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🟧 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -45,7 +45,7 @@
 | Blue AIO List| 🟦 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebogblue.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofirebogblue.txt" title="">RAW</a> | Contains all of the blue sources |
 | Green AIO List | 🟩 | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/phlists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofireboggreen.txt" title="">RAW</a> | <a href="https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/aiofireboggreen.txt" title="">RAW</a> | Contains all of the green sources |
 
-### 💡 Lite Lists 💡
+### 🟡 Lite Lists 🟡
 
 | 🔶 🔶 🔶 | ⬛ | 🔶 | 🔶 | 🔶 | 🔶 | 🔶 🔶 🔶 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -143,7 +143,7 @@
 
 ---
 
-## 📖 The Tests 📖
+## 📝 The Tests 📝
 
 ***Utilities engineered to identify what is being blocked by<br>the selected list of your choice***
 
