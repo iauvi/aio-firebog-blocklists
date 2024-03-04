@@ -99,7 +99,7 @@
 | ⬛ | 🟦 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt" title="">neoFelhz's neoHosts</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | ⬛ | 🟦 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
-| Advertising | ⬛ | 🟦 🟩 🟩 |
+| Advertising | ⬛ | ⬛ 🟦 🟩 |
 | ⬛ | 🟩 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blocklist</a> |
@@ -107,7 +107,7 @@
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts" title="">Fademind's Unchecky Ads</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
-| Advertising / Tracking | ⬛ | 🟩 🟩 🟩 |
+| Advertising / Tracking | ⬛ | ⬛ ⬛ 🟩 |
 | ⬛ | 🟩 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
 | Tracking | ⬛ | 🟧 🟦 🟩 |
 | ⬛ | 🟧 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
@@ -121,7 +121,7 @@
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" title="">Perflyst's SmartTV Domains</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | ⬛ | 🟦 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
-| Malicious | ⬛ | 🟦 🟩 🟩 |
+| Malicious | ⬛ | ⬛ 🟦 🟩 |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | ⬛ | 🟩 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/Prigent-Crypto.txt" title="">Fabrice Prigent's Cryptojacking</a> |
@@ -147,10 +147,10 @@
 
 ***Utilities engineered to identify what is being blocked by<br>the selected list of your choice***
 
-| 🟦 |🟢┃🟠┃🔵| 🟧 |
+| ⚫ |🟢┃🟠┃🔵| ⚫ |
 |:---:|:---:|:---:|
-|🟡| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟤|
-|🟤| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟣|
-|🟣| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟡|
-| 🟧 |🔵┃🟢┃🟠| 🟩 |
+|🔵| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟢|
+|🟠| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟠|
+|🟢| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🔵|
+| ⚫ |🔵┃🟠┃🟢| ⚫ |
 </div>
