@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-05T14:08:56.751Z
+# Last modified: 2024-03-06T00:10:48.395Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -7859,6 +7859,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bloomberguk.com
 0.0.0.0 blubberspoiled.com
 0.0.0.0 blue-square.biz
+0.0.0.0 blue.firebog
 0.0.0.0 blueadvertise.com
 0.0.0.0 blueberryinn.com
 0.0.0.0 bluebillywig.com
