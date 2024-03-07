@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-07T03:01:54.894Z
+# Last modified: 2024-03-07T07:13:06.053Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -34780,6 +34780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbrtrack.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 nbsdk-baichuan.taobao.com
+0.0.0.0 nbtp1.sa.com
 0.0.0.0 nc.5.p2l.info
 0.0.0.0 nc.gdt.qq.com
 0.0.0.0 nc004x.corp.youdao.com
@@ -46170,6 +46171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 transaction-id.com
 0.0.0.0 transcend.io
 0.0.0.0 transfer-rate.com
+0.0.0.0 transfer.sh
 0.0.0.0 transferkeep.com
 0.0.0.0 transferlights.com
 0.0.0.0 transferwiser.io

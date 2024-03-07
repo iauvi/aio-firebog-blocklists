@@ -3,7 +3,7 @@
 ! Description: The blue exclusive source and blue suspicious sources
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2024-03-07T03:01:59.995Z
+! Last modified: 2024-03-07T07:13:09.634Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -23486,6 +23486,7 @@
 ||nbrtrack.com^
 ||nbsdk-baichuan.alicdn.com^
 ||nbsdk-baichuan.taobao.com^
+||nbtp1.sa.com^
 ||nc.5.p2l.info^
 ||nc.gdt.qq.com^
 ||nc004x.corp.youdao.com^
@@ -33794,6 +33795,7 @@
 ||trans500.com^
 ||transerotica.com^
 ||transfer-rate.com^
+||transfer.sh^
 ||transferkeep.com^
 ||transferlights.com^
 ||transferwise.evyy.net^
