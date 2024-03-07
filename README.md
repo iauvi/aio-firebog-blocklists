@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭕ The Firebog ➖ DNS Blocklists ⭕
+# ⭕ The Firebog • DNS Blocklists ⭕
 
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
@@ -19,9 +19,9 @@
 
 ---
 
-## 📄 The Lists 📄
+## 🌐 The Lists 🌐
 
-***Blocklists designed in the style of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
+***Blocklists designed in the syntax of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
 | ⬛ | ⬛ ⬛ ⬛ | ⬛ |
 |:---:|:---:|:---:|
@@ -144,7 +144,7 @@
 
 ---
 
-## 📝 The Tests 📝
+## 🔘 The Tests 🔘
 
 ***Utilities engineered to identify what is being blocked by<br>the selected list of your choice***
 
