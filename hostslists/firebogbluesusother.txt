@@ -3,7 +3,7 @@
 # Description: The blue exclusive source and blue suspicious sources
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-06T14:19:55.372Z
+# Last modified: 2024-03-07T03:01:59.995Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -7327,6 +7327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 austria.oewabox.at
 0.0.0.0 auth0.intercom.io
 0.0.0.0 auth0.mktoweb.com
+0.0.0.0 autheasywinformationreq.com
 0.0.0.0 authedmine.com
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
@@ -16047,6 +16048,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 getmyads.com
 0.0.0.0 getmyads24.com
 0.0.0.0 getmyfreegiftcard.com
+0.0.0.0 getnexuscard.com
 0.0.0.0 getoutofyourmind.com
 0.0.0.0 getpaidfromfb.clickfunnels.com
 0.0.0.0 getpin.com
