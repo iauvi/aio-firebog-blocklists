@@ -4,7 +4,8 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-***Diverse DNS blocklists crafted from an amalgamation of sources and intended to***
+> [!NOTE]
+> Diverse DNS blocklists crafted from an amalgamation of sources and intended to
 
 | 🟧 | 🟩 🟦 🟩 | 🟧 |
 |:---:|:---:|:---:|
@@ -20,7 +21,11 @@
 
 ## 🌐 The Lists 🌐
 
-***Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>, meant to be used with***
+> [!CAUTION]  
+> Using more than one list at the same time can cause issues
+
+> [!NOTE]
+> Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>, meant to be used with
 
 | 🟧 | 🟩 🟦 🟩 | 🟧 |
 |:---:|:---:|:---:|
@@ -35,9 +40,6 @@
 |Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a high risk of disrupting your browsing experience|
 |Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a high risk of disrupting your browsing experience|
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
-
-> [!WARNING]  
-> Using more than one list at the same time can cause issues
 
 ### 🔴 AIO Lists 🔴
 
@@ -79,7 +81,8 @@
 
 ## 📛 The Sources 📛
 
-***All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>***
+> [!IMPORTANT]
+> All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
@@ -148,7 +151,8 @@
 
 ## 🔘 The Tests 🔘
 
-***Utilities engineered to identify what is being blocked by the selected list of your choice***
+> [!NOTE]
+> Utilities engineered to identify what is being blocked by the selected list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
