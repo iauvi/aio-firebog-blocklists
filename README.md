@@ -37,7 +37,7 @@
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
 > [!WARNING]  
-> Using more than one list can cause issues
+> Using more than one list at the same time can cause issues
 
 ### 🔴 AIO Lists 🔴
 
