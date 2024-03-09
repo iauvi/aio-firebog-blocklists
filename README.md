@@ -87,7 +87,7 @@
 
 | ⬛ ⬛ ⬛ | ⬛ | Source |
 |---:|:---:|:---|
-| Suspicious | ⬛ | 🟧 🟦 🟩 |
+| Suspicious | ⬛ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
 | ⬛ | 🟧 | <a href="https://hostsfile.mine.nu/hosts0.txt" title="">The Hosts File Project</a> |
 | ⬛ | 🟧 | <a href="https://adblock.mahakala.is/" title="">Mahakala</a> |
@@ -100,7 +100,7 @@
 | ⬛ | 🟦 | <a href="https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt" title="">neoFelhz's neoHosts</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt" title="">RooneyMcNibNug's SNAFU list</a> |
 | ⬛ | 🟦 | <a href="https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt" title="">paulgb's BarbBlock</a> |
-| Advertising | ⬛ | ⬛ 🟦 🟩 |
+| Advertising | ⬛ | 🟩 🟦 ⬛ |
 | ⬛ | 🟩 | <a href="https://adaway.org/hosts.txt" title="">AdAway</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt" title="">LanikSJ's GetAdmiral</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt" title="">Anudeep ND's Blocklist</a> |
@@ -108,9 +108,9 @@
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts" title="">Fademind's Unchecky Ads</a> |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts" title="">hostsVN</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" title="">Jdlingyu's Ad-wars</a> |
-| Advertising / Tracking | ⬛ | ⬛ ⬛ 🟩 |
+| Advertising / Tracking | ⬛ | 🟩 ⬛ ⬛ |
 | ⬛ | 🟩 | <a href="https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" title="">AdGuard DNS Filter</a> |
-| Tracking | ⬛ | 🟧 🟦 🟩 |
+| Tracking | ⬛ | 🟩 🟦 🟧 |
 | ⬛ | 🟧 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
 | ⬛ | 🟧 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/Prigent-Ads.txt" title="">Fabrice Prigent's Ads</a> |
@@ -122,7 +122,7 @@
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt" title="">Perflyst's SmartTV Domains</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | ⬛ | 🟦 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
-| Malicious | ⬛ | ⬛ 🟦 🟩 |
+| Malicious | ⬛ | 🟩 🟦 ⬛ |
 | ⬛ | 🟩 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | ⬛ | 🟩 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/Prigent-Crypto.txt" title="">Fabrice Prigent's Cryptojacking</a> |
@@ -137,10 +137,10 @@
 | ⬛ | 🟩 | <a href="https://urlhaus.abuse.ch/downloads/hostfile/" title="">URLhaus Malware URL blocklist</a> |
 | ⬛ | 🟦 | <a href="https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt" title="">Curbengh's Phishing filter</a> |
 | ⬛ | 🟦 | <a href="https://v.firebog.net/hosts/Prigent-Malware.txt" title="">Fabrice Prigent's Malware</a> |
-| EXCLUSIVE | ⬛ | 🟧 🟦 🟩 |
+| EXCLUSIVE | ⬛ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | ⬛ | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
-| ⬛ | 🟧 | [🟧 ⬛ ⬛](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
+| ⬛ | 🟧 | [⬛ ⬛ 🟧](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
 
 ---
 
