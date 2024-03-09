@@ -6,16 +6,13 @@
 
 > [!NOTE]
 > Diverse DNS blocklists crafted from an amalgamation of sources and intended to
-
-| 🟧 | 🟩 🟦 🟩 | 🟧 |
-|:---:|:---:|:---:|
-| 🟦 |Hide Advertisements| 🟦 |
-| 🟩 |Halt Trackers| 🟩 |
-| 🟦 |Block Malicious Content| 🟦 |
-| 🟩 |Stop Phishing Attempts| 🟩 |
-| 🟦 |Disable Crypto Miners| 🟦 |
-| 🟩 |Prevent Adult Content| 🟩 |
-| 🟧 | 🟦 🟩 🟦 | 🟧 |
+> 
+> - Hide Advertisements
+> - Halt Trackers
+> - Block Malicious Content
+> - Stop Phishing Attempts
+> - Disable Crypto Miners
+> - Prevent Adult Content
 
 ---
 
@@ -26,13 +23,10 @@
 
 > [!NOTE]
 > Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>, meant to be used with
-
-| 🟧 | 🟩 🟦 🟩 | 🟧 |
-|:---:|:---:|:---:|
-| 🟦 |AdBlockers| 🟦 |
-| 🟩 |DNS Applications| 🟩 |
-| 🟦 |Hosts Files| 🟦 |
-| 🟧 | 🟩 🟦 🟩 | 🟧 |
+> 
+> - AdBlockers
+> - DNS Applications
+> - Hosts Files
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
@@ -82,7 +76,9 @@
 ## 📛 The Sources 📛
 
 > [!IMPORTANT]
-> All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
+> All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
+> 
+> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
