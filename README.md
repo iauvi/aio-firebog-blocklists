@@ -7,15 +7,15 @@
 
 ***Diverse DNS blocklists crafted from<br>an amalgamation of sources<br>and intended to***
 
-| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
+| 🟧 | 🟩 🟦 🟩 | 🟧 |
 |:---:|:---:|:---:|
-| ⬛ |Hide Advertisements| ⬛ |
-| ⬛ |Halt Trackers| ⬛ |
-| ⬛ |Block Malicious Content| ⬛ |
-| ⬛ |Stop Phishing Attempts| ⬛ |
-| ⬛ |Disable Crypto Miners| ⬛ |
-| ⬛ |Prevent Adult Content| ⬛ |
-| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
+| 🟦 |Hide Advertisements| 🟦 |
+| 🟩 |Halt Trackers| 🟩 |
+| 🟦 |Block Malicious Content| 🟦 |
+| 🟩 |Stop Phishing Attempts| 🟩 |
+| 🟦 |Disable Crypto Miners| 🟦 |
+| 🟩 |Prevent Adult Content| 🟩 |
+| 🟧 | 🟦 🟩 🟦 | 🟧 |
 
 ---
 
@@ -23,12 +23,12 @@
 
 ***Blocklists designed in the syntax of<br><a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>,<br>meant to be used with***
 
-| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
+| 🟧 | 🟩 🟦 🟩 | 🟧 |
 |:---:|:---:|:---:|
-| ⬛ |AdBlockers| ⬛ |
-| ⬛ |DNS Applications| ⬛ |
-| ⬛ |Hosts Files| ⬛ |
-| ⬛ | ⬛ ⬛ ⬛ | ⬛ |
+| 🟦 |AdBlockers| 🟦 |
+| 🟩 |DNS Applications| 🟩 |
+| 🟦 |Hosts Files| 🟦 |
+| 🟧 | 🟩 🟦 🟩 | 🟧 |
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
@@ -148,12 +148,12 @@
 
 ***Utilities engineered to identify what is being blocked by<br>the selected list of your choice***
 
-|🟠|🟢┃🟠┃🔵|🟠|
+|🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
-|🔵| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟢|
-|🟠| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟠|
-|🟢| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🔵|
-|🟠|🔵┃🟠┃🟢|🟠|
+|🟦| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟦|
+|🟩| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟩|
+|🟦| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟦|
+|🟧|🟩┃🟦┃🟩|🟧|
 
 ---
 
