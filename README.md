@@ -85,7 +85,7 @@
 |Blue| 🟦 |Featured in The Bog AIO list & blue lists|
 |Green| 🟩 |Featured in The Bog AIO list & green lists|
 
-| ⬛ ⬛ ⬛ | ⬛ | Source |
+| 🟧 🟦 🟩 | ⬛ | Source |
 |---:|:---:|:---|
 | Suspicious | ⬛ | 🟩 🟦 🟧 |
 | ⬛ | 🟩 | <a href="https://v.firebog.net/hosts/static/w3kbl.txt" title="">WaLLy3K's Blocklist</a> |
