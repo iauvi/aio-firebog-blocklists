@@ -150,9 +150,5 @@ Utilities engineered to identify what is being<br>blocked by the list of your ch
 
 ---
 
-<div align="center">
-
-[![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/877b66df-4162-4cf9-9209-f0a8d6a2df95)
-](https://github.com/KnightmareVIIVIIXC/bigaioblocklist)
-
-</div>
+[![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/42287304-d56b-4cac-9bfd-bef54a8c1988)
+](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
