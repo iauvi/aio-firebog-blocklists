@@ -4,7 +4,7 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-Diverse DNS blocklists crafted from an amalgamation of sources<br>and are intended to
+Diverse DNS blocklists crafted from an amalgamation of sources<br>that are intended to
 - Hide Advertisements
 - Halt Trackers
 - Block Malicious Content
