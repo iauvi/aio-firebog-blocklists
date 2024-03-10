@@ -4,8 +4,7 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-Diverse DNS blocklists crafted from an amalgamation of sources
-and intended to 
+Diverse DNS blocklists crafted from an amalgamation of sources<br>and are intended to
 - Hide Advertisements
 - Halt Trackers
 - Block Malicious Content
@@ -17,8 +16,7 @@ and intended to
 
 ## 🔴 The Lists 🔴
 
-Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>
-meant to be used with
+Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>meant to be used with
 - AdBlockers
 - DNS Applications
 - Hosts Files
@@ -141,8 +139,7 @@ meant to be used with
 
 ## 🔘 The Tests 🔘
 
-Utilities engineered to identify what is being blocked
-by the selected list of your choice
+Utilities engineered to identify what is being<br>blocked by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
