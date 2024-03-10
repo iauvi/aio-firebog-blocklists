@@ -4,30 +4,24 @@
 [![](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/90b2df95-5a0d-4975-9233-68e4bd21d722)
 ](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE)
 
-> [!NOTE]
-> Diverse DNS blocklists crafted from an amalgamation of sources and intended to
-> 
-> - Hide Advertisements
-> - Halt Trackers
-> - Block Malicious Content
-> - Stop Phishing Attempts
-> - Disable Crypto Miners
-> - Prevent Adult Content
+Diverse DNS blocklists crafted from an amalgamation of sources
+and intended to 
+- Hide Advertisements
+- Halt Trackers
+- Block Malicious Content
+- Stop Phishing Attempts
+- Disable Crypto Miners
+- Prevent Adult Content
 
 ---
 
 ## 🔴 The Lists 🔴
 
-> [!CAUTION]  
-> Using more than one list at the same time can cause issues
-
-> [!NOTE]
-> Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>
->
-> meant to be used with
-> - AdBlockers
-> - DNS Applications
-> - Hosts Files
+Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a>
+meant to be used with
+- AdBlockers
+- DNS Applications
+- Hosts Files
 
 | List | ⬛ | Description |
 |---:|:---:|:---|
@@ -35,6 +29,9 @@
 |Blue/Green| 🔶 |Incorporates blue sources & green sources, included in The Bog AIO list & blue/green AIO list, poses a high risk of disrupting your browsing experience|
 |Blue| 🟦 |Incorporates blue sources, included in The Bog AIO list & the blue AIO list, poses a high risk of disrupting your browsing experience|
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of disrupting your browsing experience, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
+
+> [!CAUTION]  
+> Using more than one list at the same time can cause issues
 
 | AIO Lists | ⬛ | AdBlock | PiHole | Hosts | Domain | 🟩 🟦 🟧 |
 |---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -144,10 +141,8 @@
 
 ## 🔘 The Tests 🔘
 
-> [!NOTE]
-> Utilities engineered to identify what is being blocked
->
-> by the selected list of your choice
+Utilities engineered to identify what is being blocked
+by the selected list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
