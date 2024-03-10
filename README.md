@@ -65,7 +65,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 
 ---
 
-## 📛 The Sources 📛
+## 🔥 The Sources 🔥
 
 > [!IMPORTANT]
 > All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
