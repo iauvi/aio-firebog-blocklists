@@ -109,7 +109,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 | 🟦 | 🟦 | <a href="https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt" title="">Perflyst's Amazon FireTV Domains</a> |
 | 🟦 | 🟦 | <a href="https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" title="">Quidsup NoTrack Tracker Blocklist</a> |
 | 🟧 | 🟧 | <a href="https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt" title="">Geoffrey Frogeye's Multi-Party Trackers</a> |
-| 🟧 | 🟧 | <a href="https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
+| 🟧 | 🟧 | <a href="https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/blob/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt" title="">Kees1958's Top Ads & Trackers</a> |
 | Malicious | ⬜ | 🟩 🟦 ⬛ |
 | 🟩 | 🟩 | <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt" title="">DandelionSprout's Anti-Malware Filter</a> |
 | 🟩 | 🟩 | <a href="https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt" title="">DigitalSide Threat-Intel</a> |
