@@ -67,11 +67,6 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 
 ## 🔥 The Sources 🔥
 
-> [!IMPORTANT]
-> All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
-> 
-> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
-
 | List | ⬜ | Description |
 |---:|:---:|:---|
 |Bog| 🟧 |Exclusive to The Bog All-In-One (AIO) list|
@@ -134,6 +129,11 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 | 🟩 | 🟩 | <a href="https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts" title="">ZeroDot1 CoinBlockerLists</a> |
 | 🟦 | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
 | 🟧 | 🟧 | [⬛ ⬛ 🟧](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
+
+> [!IMPORTANT]
+> All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
+> 
+> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
 
 ---
 
