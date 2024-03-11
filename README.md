@@ -29,7 +29,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 |Green| 🟩 |Incorporates green sources, included in The Bog AIO list & the green AIO list, poses a low risk of containing false positives, excludes [anudeepND's Allowlist](https://github.com/KnightmareVIIVIIXC/allowlist)|
 
 > [!TIP]
-> If an AIO list is too much, try one of the lite lists
+> If an AIO list is too much, try one of the Lite Lists
 
 > [!CAUTION]  
 > Using more than one list at the same time can cause issues
