@@ -133,7 +133,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 | 🟦 | 🟦 | <a href="https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list" title="">Chad Mayfield (Top 1M)</a> |
 | 🟧 | 🟧 | [⬛ ⬛ 🟧](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
 
-> [!TIP]
+> [!NOTE]
 > All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
 > 
 > hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
