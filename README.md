@@ -17,8 +17,8 @@ Diverse DNS blocklists crafted from an amalgamation of sources<br>that are inten
 ## 🔴 The Lists 🔴
 
 Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#adblock-style-syntax" title="">adblock</a>, <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#domains-only-syntax" title="">domain-only</a>, & <a href="https://adguard-dns.io/kb/general/dns-filtering-syntax/#etc-hosts-syntax" title="">hosts</a><br>meant to be used with
-- AdBlockers
-- DNS Applications
+- AdBlockers (uBlock Origin, Adguard, etc.)
+- DNS Applications (Pi-Hole, Adguard Home, etc.)
 - Hosts Files
 
 | List | ⬜ | Description |
