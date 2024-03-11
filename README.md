@@ -150,8 +150,3 @@ Identify what is being blocked by the list of your choice
 |🟩| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟩|
 |🟦| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟦|
 |🟧|🟩┃🟦┃🟩|🟧|
-
----
-
-[![Back_To_Top](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/assets/114373431/42287304-d56b-4cac-9bfd-bef54a8c1988)
-](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists)
