@@ -142,7 +142,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 
 ## 👨‍💻 The Tests 👨‍💻
 
-Utilities engineered to identify what is being<br>blocked by the list of your choice
+Identify what is being blocked by the list of your choice
 
 |🟧|🟩┃🟦┃🟩|🟧|
 |:---:|:---:|:---:|
