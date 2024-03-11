@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-10T14:05:49.746Z
+# Last modified: 2024-03-11T01:36:25.123Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -5228,7 +5228,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.percentmobile.com
 0.0.0.0 analytics.pimproll.com
 0.0.0.0 analytics.pinterest.com
-0.0.0.0 analytics.playinfinity.cn
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluralsight.com
 0.0.0.0 analytics.podtrac.com
@@ -13837,7 +13836,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 estheticmeso.com
 0.0.0.0 estrenodorama.net
 0.0.0.0 estudiaenlinea.net
-0.0.0.0 esvdigital.com
 0.0.0.0 esxi-us-node1.dt00.net
 0.0.0.0 esxi-us-node2.dt00.net
 0.0.0.0 esxi-vcsa.dt00.net
@@ -20201,7 +20199,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lishi.yxbao.com
 0.0.0.0 lishi1.yxbao.com
 0.0.0.0 lisnr.com
-0.0.0.0 lispaircraftcraziness.com
 0.0.0.0 listbuilderads.info
 0.0.0.0 listen.audiohook.com
 0.0.0.0 listenloop.com
