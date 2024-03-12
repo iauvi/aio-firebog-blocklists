@@ -136,7 +136,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 > [!NOTE]
 > All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
 > 
-> hosted by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
+> maintained by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
 
 ---
 
