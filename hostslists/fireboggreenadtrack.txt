@@ -3,7 +3,7 @@
 # Description: All the green advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-12T01:59:49.278Z
+# Last modified: 2024-03-12T13:27:00.396Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -137,6 +137,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0stats.com
 0.0.0.0 0sywjs4r1x.com
 0.0.0.0 0tht.tlnk.io
+0.0.0.0 0tq6ub.cn
 0.0.0.0 0uk6n.lokpresearch.club
 0.0.0.0 0uvt8b.cn
 0.0.0.0 0uyt5b.cn
@@ -7426,6 +7427,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.aklamio.com
 0.0.0.0 analytics.algoepico.net
 0.0.0.0 analytics.algolia.com
+0.0.0.0 analytics.allas.se
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.amazing-media.com
 0.0.0.0 analytics.amedigital.vn
@@ -7562,6 +7564,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.eleague.com
 0.0.0.0 analytics.electro-com.ru
 0.0.0.0 analytics.elegela.us
+0.0.0.0 analytics.elle.se
 0.0.0.0 analytics.engagio.com
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.erepublic.com
@@ -7577,6 +7580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.fcgtalent.fi
 0.0.0.0 analytics.femalefirst.co.uk
+0.0.0.0 analytics.femina.se
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.ff.avast.sec.miui.com
 0.0.0.0 analytics.firespring.com
@@ -7614,6 +7618,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.gtflixtv.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hansel.io
+0.0.0.0 analytics.hant.se
 0.0.0.0 analytics.hapo.vn
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.haworth.com
@@ -7684,6 +7689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.lucid.app
 0.0.0.0 analytics.lunaweb.cloud
 0.0.0.0 analytics.m7g.twitch.tv
+0.0.0.0 analytics.mabra.com
 0.0.0.0 analytics.magicpin.in
 0.0.0.0 analytics.maikel.pro
 0.0.0.0 analytics.maileon.com
@@ -7711,6 +7717,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.molistar.com
 0.0.0.0 analytics.momentum-institut.at
 0.0.0.0 analytics.mondotv.jp
+0.0.0.0 analytics.motherhood.se
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.moz.com
@@ -7790,6 +7797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.proofapi.com
 0.0.0.0 analytics.proxer.me
 0.0.0.0 analytics.publitas.com
+0.0.0.0 analytics.purelovers.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
 0.0.0.0 analytics.qoqa.ninja
@@ -7803,6 +7811,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.redbubble.com
 0.0.0.0 analytics.regex101.com
 0.0.0.0 analytics.reliant.com
+0.0.0.0 analytics.residencemagazine.se
 0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.ripped.guide
@@ -7875,6 +7884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.superstructure.ai
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.surfline.com
+0.0.0.0 analytics.svenskdam.se
 0.0.0.0 analytics.svt.se
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.sydney.edu.au
@@ -13645,6 +13655,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c7ee346412.com
 0.0.0.0 c7n-t.tlnk.io
 0.0.0.0 c8.net.ua
+0.0.0.0 c81.ipanocloud.com
 0.0.0.0 c83cf15c4f.com
 0.0.0.0 c86e7c49a2.com
 0.0.0.0 c8d2c12c98.com
@@ -13703,6 +13714,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cadizer.com
 0.0.0.0 cadke.xyz
 0.0.0.0 cadlsyndicate.com
+0.0.0.0 cadmus.script.ac
 0.0.0.0 cadrctlnk.com
 0.0.0.0 cadreon.com
 0.0.0.0 cads.scalemonk.com
@@ -21051,7 +21063,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dm0ly9ibqkdxn.cloudfront.net
 0.0.0.0 dm0t14ck8pg86.cloudfront.net
 0.0.0.0 dm1.ddwk8.cn
-0.0.0.0 dm1.guanwawa.com
 0.0.0.0 dm1.zjydt.com
 0.0.0.0 dm62uysn32ppt.cloudfront.net
 0.0.0.0 dm7gsepi27zsx.cloudfront.net
@@ -27536,6 +27547,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 globalinteractive.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaloffers.link
+0.0.0.0 globalservices.conde.digital
 0.0.0.0 globalshopping.website
 0.0.0.0 globalstars.ru
 0.0.0.0 globalsuccessclub.com
@@ -44682,6 +44694,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nizarstream.xyz
 0.0.0.0 nization.com
 0.0.0.0 nizvimq.com
+0.0.0.0 njhvalu.cn
 0.0.0.0 njih.net
 0.0.0.0 njkewubccvt.com
 0.0.0.0 njmaq.com
@@ -49392,6 +49405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 osesuntent.top
 0.0.0.0 osiaffiliate.com
 0.0.0.0 osimg.nbcuni.com
+0.0.0.0 osisk.com
 0.0.0.0 ositracker.com
 0.0.0.0 oskiwood.com
 0.0.0.0 oslbahk.top
@@ -64818,6 +64832,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.simply-hentai.com
 0.0.0.0 t.smartverify.pro
 0.0.0.0 t.smile.eu
+0.0.0.0 t.spbx.app
 0.0.0.0 t.sports.ru
 0.0.0.0 t.spot.im
 0.0.0.0 t.streetsblog.org

@@ -3,7 +3,7 @@
 ! Description: All the blue/green advertising and tracking sources from The Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2024-03-12T01:50:38.064Z
+! Last modified: 2024-03-12T13:18:02.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -39,7 +39,6 @@
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
-10.10.34.*
 ://*.a-akamaihd.com^
 ://gj7.ru^
 ://jhf.ru^
@@ -178,6 +177,7 @@ vkcdnservice.appspot.com^
 ||0stats.com^
 ||0sywjs4r1x.com^
 ||0tht.tlnk.io^
+||0tq6ub.cn^
 ||0uk6n.lokpresearch.club^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
@@ -8380,6 +8380,7 @@ vkcdnservice.appspot.com^
 ||analytics.aklamio.com^
 ||analytics.algoepico.net^
 ||analytics.algolia.com^
+||analytics.allas.se^
 ||analytics.amakings.com^
 ||analytics.amazing-media.com^
 ||analytics.amedigital.vn^
@@ -8530,6 +8531,7 @@ vkcdnservice.appspot.com^
 ||analytics.eleague.com^
 ||analytics.electro-com.ru^
 ||analytics.elegela.us^
+||analytics.elle.se^
 ||analytics.enjoymobiserver.com^
 ||analytics.erepublic.com^
 ||analytics.esporteinterativo.com.br^
@@ -8546,6 +8548,7 @@ vkcdnservice.appspot.com^
 ||analytics.fcgtalent.fi^
 ||analytics.feeder.co^
 ||analytics.femalefirst.co.uk^
+||analytics.femina.se^
 ||analytics.ff.avast.com^
 ||analytics.ff.avast.sec.miui.com^
 ||analytics.firespring.com^
@@ -8591,6 +8594,7 @@ vkcdnservice.appspot.com^
 ||analytics.gtflixtv.com^
 ||analytics.gvim.mobi^
 ||analytics.hansel.io^
+||analytics.hant.se^
 ||analytics.hapo.vn^
 ||analytics.hashnode.com^
 ||analytics.haworth.com^
@@ -8674,6 +8678,7 @@ vkcdnservice.appspot.com^
 ||analytics.lucidpress.com^
 ||analytics.lunaweb.cloud^
 ||analytics.m7g.twitch.tv^
+||analytics.mabra.com^
 ||analytics.magicpin.in^
 ||analytics.maikel.pro^
 ||analytics.maileon.com^
@@ -8714,6 +8719,7 @@ vkcdnservice.appspot.com^
 ||analytics.molistar.com^
 ||analytics.momentum-institut.at^
 ||analytics.mondotv.jp^
+||analytics.motherhood.se^
 ||analytics.mouthshut.com^
 ||analytics.move.ru^
 ||analytics.moz.com^
@@ -8794,6 +8800,7 @@ vkcdnservice.appspot.com^
 ||analytics.projectcarmen.com^
 ||analytics.proofapi.com^
 ||analytics.proxer.me^
+||analytics.purelovers.com^
 ||analytics.qiqiuyun.net^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
@@ -8811,6 +8818,7 @@ vkcdnservice.appspot.com^
 ||analytics.redbubble.com^
 ||analytics.regex101.com^
 ||analytics.reliant.com^
+||analytics.residencemagazine.se^
 ||analytics.rever.vn^
 ||analytics.reyrey.net^
 ||analytics.ripped.guide^
@@ -8889,6 +8897,7 @@ vkcdnservice.appspot.com^
 ||analytics.sunet.se^
 ||analytics.superstructure.ai^
 ||analytics.surfline.com^
+||analytics.svenskdam.se^
 ||analytics.svt.se^
 ||analytics.swiggy.com^
 ||analytics.sydney.edu.au^
@@ -15590,6 +15599,7 @@ vkcdnservice.appspot.com^
 ||c7ee346412.com^
 ||c7n-t.tlnk.io^
 ||c8.net.ua^
+||c81.ipanocloud.com^
 ||c83cf15c4f.com^
 ||c86e7c49a2.com^
 ||c8d2c12c98.com^
@@ -15649,6 +15659,7 @@ vkcdnservice.appspot.com^
 ||cadizer.com^
 ||cadke.xyz^
 ||cadlsyndicate.com^
+||cadmus.script.ac^
 ||cadrctlnk.com^
 ||cadreon.com^
 ||cads.scalemonk.com^
@@ -24122,7 +24133,6 @@ vkcdnservice.appspot.com^
 ||dm0ly9ibqkdxn.cloudfront.net^
 ||dm0t14ck8pg86.cloudfront.net^
 ||dm1.ddwk8.cn^
-||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dm62uysn32ppt.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
@@ -31772,6 +31782,7 @@ vkcdnservice.appspot.com^
 ||globalismedia.com^
 ||globalnewsupdates.net^
 ||globaloffers.link^
+||globalservices.conde.digital^
 ||globalshopping.website^
 ||globalsiteanalytics.com^
 ||globalstars.ru^
@@ -62442,6 +62453,7 @@ vkcdnservice.appspot.com^
 ||nization.com^
 ||nizvimq.com^
 ||njcmcdirect.com^
+||njhvalu.cn^
 ||njih.net^
 ||njkewubccvt.com^
 ||njmaq.com^
@@ -67413,6 +67425,7 @@ vkcdnservice.appspot.com^
 ||oshxhofaf.com^
 ||osiaffiliate.com^
 ||osimg.nbcuni.com^
+||osisk.com^
 ||ositracker.com^
 ||oskiwood.com^
 ||oslbahk.top^
@@ -85641,6 +85654,7 @@ vkcdnservice.appspot.com^
 ||t.simply-hentai.com^
 ||t.smartverify.pro^
 ||t.smile.eu^
+||t.spbx.app^
 ||t.sports.ru^
 ||t.streetsblog.org^
 ||t.sur.new.gorodkirov.ru^
