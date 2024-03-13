@@ -134,7 +134,7 @@ Blocklists designed in the syntax of <a href="https://adguard-dns.io/kb/general/
 | ⬜ | 🟧 | [⬛ ⬛ 🟧](https://github.com/KnightmareVIIVIIXC/AdGuard-Home-Allowlist) |
 
 > [!NOTE]
-> All sources can be found on <a href="https://v.firebog.net" title="">The Firebog</a>
+> All sources are from <a href="https://v.firebog.net" title="">The Firebog</a>
 > 
 > maintained by <a href="https://github.com/WaLLy3K" title="">WaLLy3K</a>
 
