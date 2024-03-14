@@ -3,7 +3,7 @@
 # Description: All the blue advertising and tracking sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-13T13:27:22.422Z
+# Last modified: 2024-03-14T01:53:20.681Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -209,8 +209,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 80vn.cn
 0.0.0.0 8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com
 0.0.0.0 8591.info
-0.0.0.0 88-f.net.cdn.cloudflare.net
 0.0.0.0 88-f.net
+0.0.0.0 88-f.net.cdn.cloudflare.net
 0.0.0.0 88000.org
 0.0.0.0 888casino.com
 0.0.0.0 89tube.com
@@ -737,8 +737,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adjoe.zone
 0.0.0.0 adjug.com
 0.0.0.0 adjust.com
-0.0.0.0 adjust.net.in
 0.0.0.0 adjust.net
+0.0.0.0 adjust.net.in
 0.0.0.0 adjust.world
 0.0.0.0 adk2.co
 0.0.0.0 adk2x.com
@@ -887,8 +887,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adriver.ru
 0.0.0.0 adrizer.com
 0.0.0.0 adrolays.de
-0.0.0.0 adroll.com.edgekey.net
 0.0.0.0 adroll.com
+0.0.0.0 adroll.com.edgekey.net
 0.0.0.0 adrsp.net
 0.0.0.0 adrta.com
 0.0.0.0 adrtx.net
@@ -1089,6 +1089,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.co.uk
+0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.au
 0.0.0.0 adservice.google.com.cy
 0.0.0.0 adservice.google.com.eg
@@ -1096,7 +1097,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.com.pe
 0.0.0.0 adservice.google.com.pk
 0.0.0.0 adservice.google.com.sg
-0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.gr
 0.0.0.0 adservice.google.pt
@@ -1504,8 +1504,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 aklamator.com
 0.0.0.0 akro.io
 0.0.0.0 akslar.com
-0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 akstat.io
+0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 al2.convertkit.com
 0.0.0.0 alabamacoastalrentals.com
 0.0.0.0 alabangautoexchange.com
@@ -1523,6 +1523,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alder.info
 0.0.0.0 aldisusa.com
 0.0.0.0 aldomoletta.com
+0.0.0.0 alecclause.com
 0.0.0.0 alephd.com
 0.0.0.0 alertlogsemployer.com
 0.0.0.0 alessandrasmile.com
@@ -1741,8 +1742,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.dealmoon.com
 0.0.0.0 analytics.dev.azure.com
 0.0.0.0 analytics.devicebits.com
-0.0.0.0 analytics.disney.go.com.edgekey.net
 0.0.0.0 analytics.disney.go.com
+0.0.0.0 analytics.disney.go.com.edgekey.net
 0.0.0.0 analytics.dominos.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.edgekey.net
@@ -1794,6 +1795,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.map.qq.com
 0.0.0.0 analytics.mercadolibre.cl
 0.0.0.0 analytics.mercadolibre.co.cr
+0.0.0.0 analytics.mercadolibre.com
 0.0.0.0 analytics.mercadolibre.com.ar
 0.0.0.0 analytics.mercadolibre.com.co
 0.0.0.0 analytics.mercadolibre.com.do
@@ -1802,7 +1804,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.mercadolibre.com.pe
 0.0.0.0 analytics.mercadolibre.com.uy
 0.0.0.0 analytics.mercadolibre.com.ve
-0.0.0.0 analytics.mercadolibre.com
 0.0.0.0 analytics.mercadolivre.com.br
 0.0.0.0 analytics.mercadopago.com
 0.0.0.0 analytics.midwesternmac.com
@@ -2155,8 +2156,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
-0.0.0.0 appsflyer.com.akamaized.net
 0.0.0.0 appsflyer.com
+0.0.0.0 appsflyer.com.akamaized.net
 0.0.0.0 appsflyersdk.com
 0.0.0.0 appspot-preview.l.google.com
 0.0.0.0 appstat.petafuel.net
@@ -2355,8 +2356,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 attachee.com
 0.0.0.0 attemptdruggedcarve.com
 0.0.0.0 attemptinghorace.com
-0.0.0.0 attentivemobile.com.cdn.cloudflare.net
 0.0.0.0 attentivemobile.com
+0.0.0.0 attentivemobile.com.cdn.cloudflare.net
 0.0.0.0 attn.tv
 0.0.0.0 attributedminded.com
 0.0.0.0 attribution.chacos.com
@@ -2597,11 +2598,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 babymassage-apeldoorn.info
 0.0.0.0 backstory.ebay.ca
 0.0.0.0 backstory.ebay.co.uk
+0.0.0.0 backstory.ebay.com
 0.0.0.0 backstory.ebay.com.au
 0.0.0.0 backstory.ebay.com.hk
 0.0.0.0 backstory.ebay.com.my
 0.0.0.0 backstory.ebay.com.sg
-0.0.0.0 backstory.ebay.com
 0.0.0.0 backstory.ebay.de
 0.0.0.0 backstory.ebay.es
 0.0.0.0 backstory.ebay.fr
@@ -2903,8 +2904,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 betanetwork.net
 0.0.0.0 bethmore.org
 0.0.0.0 betingtips.com
-0.0.0.0 betrad.com.edgekey.net
 0.0.0.0 betrad.com
+0.0.0.0 betrad.com.edgekey.net
 0.0.0.0 betteradsystem.com
 0.0.0.0 betterbabycare.net
 0.0.0.0 betterbanners.activehosted.com
@@ -3104,8 +3105,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 blocksmc.net
 0.0.0.0 blogaomobile.org
 0.0.0.0 blogdosigef.org
-0.0.0.0 blogherads.com.cdn.cloudflare.net
 0.0.0.0 blogherads.com
+0.0.0.0 blogherads.com.cdn.cloudflare.net
 0.0.0.0 blogreview.info
 0.0.0.0 blogvlw.info
 0.0.0.0 bloomberguk.com
@@ -3281,8 +3282,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 brightedge.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 brightinfo.com
-0.0.0.0 brightline.tv.edgekey.net
 0.0.0.0 brightline.tv
+0.0.0.0 brightline.tv.edgekey.net
 0.0.0.0 brigitteassistentes.com
 0.0.0.0 brilliantcollector.com
 0.0.0.0 bringclockwise.com
@@ -3301,8 +3302,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 broadstreetads.com
 0.0.0.0 brocktonpublicschools.org
 0.0.0.0 bronchitis-info.com
-0.0.0.0 bronto.com.edgekey.net
 0.0.0.0 bronto.com
+0.0.0.0 bronto.com.edgekey.net
 0.0.0.0 brookwoodloan.com
 0.0.0.0 brothalover.com
 0.0.0.0 broughtenragesince.com
@@ -3597,8 +3598,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 carttonnetwork.com
 0.0.0.0 casablanca.info
 0.0.0.0 casadarkum.com
-0.0.0.0 casalemedia.com.edgekey.net
 0.0.0.0 casalemedia.com
+0.0.0.0 casalemedia.com.edgekey.net
 0.0.0.0 cashbackplugin.com
 0.0.0.0 cashewsforlife208.com
 0.0.0.0 cashninehundred.com
@@ -4110,8 +4111,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cobrowse-externale-8rgcdqborxnm-1333206640.us-east-1.elb.amazonaws.com
 0.0.0.0 cobrowse-prod-1836182388.us-east-1.elb.amazonaws.com
 0.0.0.0 cobrowse.mypurecloud.com
-0.0.0.0 cobrowse.oraclecloud.com.edgekey.net
 0.0.0.0 cobrowse.oraclecloud.com
+0.0.0.0 cobrowse.oraclecloud.com.edgekey.net
 0.0.0.0 cobrowse.pega.com
 0.0.0.0 cobwebcomprehension.com
 0.0.0.0 cobweblockerdiana.com
@@ -4221,8 +4222,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 commander1.com
 0.0.0.0 commandersact.com
 0.0.0.0 commerce.convertkit.com
-0.0.0.0 commercial.daznservices.com.edgesuite.net
 0.0.0.0 commercial.daznservices.com
+0.0.0.0 commercial.daznservices.com.edgesuite.net
 0.0.0.0 commercial.shouji.360.cn
 0.0.0.0 commercialvalue.org
 0.0.0.0 commissionepochknuckle.com
@@ -4361,8 +4362,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 convertable.io
 0.0.0.0 convertbox.com
 0.0.0.0 convertcart.com
-0.0.0.0 convertexperiments.com.edgekey.net
 0.0.0.0 convertexperiments.com
+0.0.0.0 convertexperiments.com.edgekey.net
 0.0.0.0 convertidordeyoutubemp3.net
 0.0.0.0 convertize.com
 0.0.0.0 convertize.io
@@ -4501,8 +4502,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 crazy49.com
 0.0.0.0 crazybeach.info
 0.0.0.0 crazyclickstats.com
-0.0.0.0 crazyegg.com.cdn.cloudflare.net
 0.0.0.0 crazyegg.com
+0.0.0.0 crazyegg.com.cdn.cloudflare.net
 0.0.0.0 crazygallery.info
 0.0.0.0 crazymusic.info
 0.0.0.0 crazytalk5.com
@@ -4573,8 +4574,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 crowdignite.com
 0.0.0.0 crs.baidu.com
 0.0.0.0 crsspxl.com
-0.0.0.0 crta.dailymail.co.uk.edgekey.net
 0.0.0.0 crta.dailymail.co.uk
+0.0.0.0 crta.dailymail.co.uk.edgekey.net
 0.0.0.0 crtaci.info
 0.0.0.0 crtx.info
 0.0.0.0 crueltoys.com
@@ -5041,8 +5042,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 demandbase.com
 0.0.0.0 demandjump.com
 0.0.0.0 demdex.com
-0.0.0.0 demdex.net.edgesuite.net
 0.0.0.0 demdex.net
+0.0.0.0 demdex.net.edgesuite.net
 0.0.0.0 demirorenteknoloji.com
 0.0.0.0 demisroussos.info
 0.0.0.0 democraticforumburma.org
@@ -5384,8 +5385,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 doublepimpssl.com
 0.0.0.0 doubletv.com
 0.0.0.0 doubleup.info
-0.0.0.0 doubleverify.com.cdn.cloudflare.net
 0.0.0.0 doubleverify.com
+0.0.0.0 doubleverify.com.cdn.cloudflare.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dovetale.com
 0.0.0.0 dowjoneson.com
@@ -5465,8 +5466,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 drvehq.com
 0.0.0.0 drxstudio.com
 0.0.0.0 dryone-incess.com
-0.0.0.0 ds-aksb-a.akamaihd.net.edgesuite.net
 0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 ds-aksb-a.akamaihd.net.edgesuite.net
 0.0.0.0 ds.resonifi.com
 0.0.0.0 ds.shalltry.com
 0.0.0.0 dsa-mfp.fengshows.cn
@@ -6031,8 +6032,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 exabyte.info
 0.0.0.0 exacomta.com
 0.0.0.0 exactag.com
-0.0.0.0 exacttarget.com.edgekey.net
 0.0.0.0 exacttarget.com
+0.0.0.0 exacttarget.com.edgekey.net
 0.0.0.0 examinationevolutionmingle.com
 0.0.0.0 exathum.com
 0.0.0.0 excess.duolingo.com
@@ -6336,6 +6337,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fishinginisrael.info
 0.0.0.0 fisse.info
 0.0.0.0 fitanalytics.com
+0.0.0.0 fittingcentermonday.com
 0.0.0.0 fiverthirtyeight.com
 0.0.0.0 fixel.ai
 0.0.0.0 fixwilsonyard.org
@@ -7141,8 +7143,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 greworganizer.com
 0.0.0.0 greyhoundconnection.com
 0.0.0.0 greystripe.com
-0.0.0.0 gridmidia.com.br
 0.0.0.0 gridmidia.com
+0.0.0.0 gridmidia.com.br
 0.0.0.0 griffball.com
 0.0.0.0 grignot-nat.com
 0.0.0.0 gringoadventure.com
@@ -7745,9 +7747,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadmusicmat.music.126.net
 0.0.0.0 iadmusicmatvideo.music.126.net
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadsdk.apple.com.akadns.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
-0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadvize.com
 0.0.0.0 ialotter.com
 0.0.0.0 iamablogger.convertkit.com
@@ -8005,8 +8007,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 innovativeadserver.com
 0.0.0.0 innovativemetrics.com
 0.0.0.0 innovativesys.net
-0.0.0.0 innovid.com.akadns.net
 0.0.0.0 innovid.com
+0.0.0.0 innovid.com.akadns.net
 0.0.0.0 inpage-push.com
 0.0.0.0 inpagepush.com
 0.0.0.0 inq.com
@@ -8688,8 +8690,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 kritika.info
 0.0.0.0 kroatien.info
 0.0.0.0 krushmedia.com
-0.0.0.0 krxd.net.c.global-ssl.fastly.net
 0.0.0.0 krxd.net
+0.0.0.0 krxd.net.c.global-ssl.fastly.net
 0.0.0.0 krzewy.info
 0.0.0.0 ks2bitesize.com
 0.0.0.0 ksehinkitw.hair
@@ -8886,8 +8888,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 lgsmartad.com
 0.0.0.0 lhmbc.org
 0.0.0.0 lhmdaakl.info
-0.0.0.0 liadm.com.edgekey.net
 0.0.0.0 liadm.com
+0.0.0.0 liadm.com.edgekey.net
 0.0.0.0 lianmeng.360.cn
 0.0.0.0 liaz.org
 0.0.0.0 libertymutuale.com
@@ -9059,6 +9061,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lockdowncautionmentally.com
 0.0.0.0 lockerdome.com
 0.0.0.0 locketthose.com
+0.0.0.0 locomotiveconvenientriddle.com
 0.0.0.0 locsensads.com
 0.0.0.0 lodeo.io
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
@@ -9446,8 +9449,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 marketizator.com
 0.0.0.0 marketo.com
-0.0.0.0 marketo.net.edgekey.net
 0.0.0.0 marketo.net
+0.0.0.0 marketo.net.edgekey.net
 0.0.0.0 marketolive.com
 0.0.0.0 markiplier.org
 0.0.0.0 markitcdn.com
@@ -9600,8 +9603,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.complex.com
 0.0.0.0 media.convertkit.com
 0.0.0.0 media.net
-0.0.0.0 media6degrees.com.cdn.cloudflare.net
 0.0.0.0 media6degrees.com
+0.0.0.0 media6degrees.com.cdn.cloudflare.net
 0.0.0.0 mediabong.com
 0.0.0.0 mediabong.net
 0.0.0.0 mediabr.media
@@ -9720,8 +9723,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 metrics.crateandbarrel.com
-0.0.0.0 metrics.cvshealth.com.edgekey.net
 0.0.0.0 metrics.cvshealth.com
+0.0.0.0 metrics.cvshealth.com.edgekey.net
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics.daveandbusters.com
 0.0.0.0 metrics.dc.ad.msft.net
@@ -9836,6 +9839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 midwestsportsevents.com
 0.0.0.0 mig.str.mdt.qq.com
 0.0.0.0 mightylinks.info
+0.0.0.0 mightylottrembling.com
 0.0.0.0 migrantspiteconnecting.com
 0.0.0.0 migrationexaminer.com
 0.0.0.0 migrations.convertkit.com
@@ -11933,6 +11937,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mkt11951.com
 0.0.0.0 mkt11959.com
 0.0.0.0 mkt1196.com
+0.0.0.0 mkt11963.com
 0.0.0.0 mkt1197.com
 0.0.0.0 mkt1198.com
 0.0.0.0 mkt1199.com
@@ -20933,8 +20938,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 mnetads.com
 0.0.0.0 mnogosporta.info
 0.0.0.0 mnshsl.org
-0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moatads.com
+0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moatpixel.com
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 mob.adwhirl.com
@@ -21525,8 +21530,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 newhamwelfaretrust.org
 0.0.0.0 newheights.info
 0.0.0.0 newmetalcraft.com
-0.0.0.0 newrelic.com.cdn.cloudflare.net
 0.0.0.0 newrelic.com
+0.0.0.0 newrelic.com.cdn.cloudflare.net
 0.0.0.0 newrelic.map.fastly.net
 0.0.0.0 newrevive.detik.com
 0.0.0.0 newrrb.bid
@@ -21909,8 +21914,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.norton.com
 0.0.0.0 oms.rogersmedia.com
-0.0.0.0 omtrdc.net.edgekey.net
 0.0.0.0 omtrdc.net
+0.0.0.0 omtrdc.net.edgekey.net
 0.0.0.0 onahepatitis.org
 0.0.0.0 onaudience.com
 0.0.0.0 onautcatholi.xyz
@@ -22023,8 +22028,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 optimalpeople.fr
 0.0.0.0 optimeze.com
 0.0.0.0 optimize-stats.voxmedia.com
-0.0.0.0 optimizely.com.edgekey.net
 0.0.0.0 optimizely.com
+0.0.0.0 optimizely.com.edgekey.net
 0.0.0.0 optimizely.wsj.com
 0.0.0.0 optimizesrv.com
 0.0.0.0 optimonk.com
@@ -22110,8 +22115,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ourladystarofthesears.org
 0.0.0.0 ourownenglishhighschool.com
 0.0.0.0 ourworlddata.org
-0.0.0.0 outbrain.com.edgekey.net
 0.0.0.0 outbrain.com
+0.0.0.0 outbrain.com.edgekey.net
 0.0.0.0 outbrain.org
 0.0.0.0 outbrainimg.com
 0.0.0.0 outdooradventure.info
@@ -22130,8 +22135,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 owlpastajupiter26118.files.wordpress.com
 0.0.0.0 owlpastajupiter26118.wordpress.com
 0.0.0.0 owlunimmvn.com
-0.0.0.0 owneriq.net.edgekey.net
 0.0.0.0 owneriq.net
+0.0.0.0 owneriq.net.edgekey.net
 0.0.0.0 ownlocal.com
 0.0.0.0 ox.autolive.be
 0.0.0.0 oxfarm.org
@@ -22770,8 +22775,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 postgre.org
 0.0.0.0 posthog.com
 0.0.0.0 postonbuick.com
-0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 postrelease.com
+0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 postsupport.net
 0.0.0.0 postup.com
 0.0.0.0 postview.devk.de
@@ -23553,8 +23558,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 rezonence.com
 0.0.0.0 rezutati.com
 0.0.0.0 rezync.com
-0.0.0.0 rfihub.com.akadns.net
 0.0.0.0 rfihub.com
+0.0.0.0 rfihub.com.akadns.net
 0.0.0.0 rfihub.net
 0.0.0.0 rfksrv.com
 0.0.0.0 rfrl.pw
@@ -23723,9 +23728,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ru4.com
 0.0.0.0 rubbersole.co.uk
 0.0.0.0 rubias59.com
+0.0.0.0 rubiconproject.com
 0.0.0.0 rubiconproject.com-v1.edgekey.net
 0.0.0.0 rubiconproject.com.edgekey.net
-0.0.0.0 rubiconproject.com
 0.0.0.0 rubiconproject.net.akadns.net
 0.0.0.0 rubiconproject.us
 0.0.0.0 rubriks.com
@@ -24060,8 +24065,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdouthwest.com
 0.0.0.0 sdu.adwo.com
 0.0.0.0 sdutlinux.org
-0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 sdx.xfinity.com
+0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 se05.biz
 0.0.0.0 se07.biz
 0.0.0.0 sea-patrol.com
@@ -24358,8 +24363,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sfwmd.org
 0.0.0.0 sgjobsdb.com
-0.0.0.0 sgphctileh-a.akamaihd.net.edgesuite.net
 0.0.0.0 sgphctileh-a.akamaihd.net
+0.0.0.0 sgphctileh-a.akamaihd.net.edgesuite.net
 0.0.0.0 sguareup.com
 0.0.0.0 sgwebhook.convertkit.com
 0.0.0.0 shabad.org
@@ -24567,8 +24572,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteimproveanalytics.io
 0.0.0.0 siteintercept.qprod2.net
-0.0.0.0 siteintercept.qualtrics.com.cdn.cloudflare.net
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 siteintercept.qualtrics.com.cdn.cloudflare.net
 0.0.0.0 siteintheworld.com
 0.0.0.0 sitelabweb.com
 0.0.0.0 siteplug.com
@@ -24616,8 +24621,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 slaveryvoyages.org
 0.0.0.0 sleduj.org
 0.0.0.0 sleeklogo.com
-0.0.0.0 slgnt.eu.cdn.cloudflare.net
 0.0.0.0 slgnt.eu
+0.0.0.0 slgnt.eu.cdn.cloudflare.net
 0.0.0.0 sli-spark.com
 0.0.0.0 slick2d.org
 0.0.0.0 slickstream.com
@@ -24683,8 +24688,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.1800contacts.com
 0.0.0.0 smetrics.24hourfitness.com
 0.0.0.0 smetrics.28degreescard.com.au
-0.0.0.0 smetrics.3m.com.cn
 0.0.0.0 smetrics.3m.com
+0.0.0.0 smetrics.3m.com.cn
 0.0.0.0 smetrics.48.ie
 0.0.0.0 smetrics.7eleven.com.au
 0.0.0.0 smetrics.aa.com
@@ -25092,8 +25097,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.laredoute.fr
 0.0.0.0 smetrics.lasexta.com
 0.0.0.0 smetrics.latitudefinancial.co.nz
-0.0.0.0 smetrics.latitudefinancial.com.au
 0.0.0.0 smetrics.latitudefinancial.com
+0.0.0.0 smetrics.latitudefinancial.com.au
 0.0.0.0 smetrics.latrobe.edu.au
 0.0.0.0 smetrics.lcbo.com
 0.0.0.0 smetrics.ldproducts.com
@@ -25112,9 +25117,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.lowes.com
 0.0.0.0 smetrics.lululemon.co.nz
 0.0.0.0 smetrics.lululemon.co.uk
+0.0.0.0 smetrics.lululemon.com
 0.0.0.0 smetrics.lululemon.com.au
 0.0.0.0 smetrics.lululemon.com.hk
-0.0.0.0 smetrics.lululemon.com
 0.0.0.0 smetrics.lululemon.de
 0.0.0.0 smetrics.lululemon.es
 0.0.0.0 smetrics.lww.com
@@ -25268,8 +25273,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.radioacktiva.com
 0.0.0.0 smetrics.ralphlauren.be
 0.0.0.0 smetrics.ralphlauren.co.uk
-0.0.0.0 smetrics.ralphlauren.com.au
 0.0.0.0 smetrics.ralphlauren.com
+0.0.0.0 smetrics.ralphlauren.com.au
 0.0.0.0 smetrics.ralphlauren.de
 0.0.0.0 smetrics.ralphlauren.es
 0.0.0.0 smetrics.ralphlauren.ie
@@ -25315,8 +25320,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.santander.co.uk
 0.0.0.0 smetrics.sap.com
 0.0.0.0 smetrics.sasktel.com
-0.0.0.0 smetrics.savethechildren.org.uk
 0.0.0.0 smetrics.savethechildren.org
+0.0.0.0 smetrics.savethechildren.org.uk
 0.0.0.0 smetrics.sbs.com.au
 0.0.0.0 smetrics.sce.com
 0.0.0.0 smetrics.schwans.com
@@ -25747,8 +25752,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 spotunworthycoercive.com
 0.0.0.0 spotx.tv
 0.0.0.0 spotxcdn.com
-0.0.0.0 spotxchange.com.akadns.net
 0.0.0.0 spotxchange.com
+0.0.0.0 spotxchange.com.akadns.net
 0.0.0.0 spoutable.com
 0.0.0.0 spreekwoorden.info
 0.0.0.0 spriceline.com
@@ -26026,8 +26031,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 stg-data.ads.heytapmobi.com
 0.0.0.0 stickerchapelsailing.com
 0.0.0.0 stickervillain.com
-0.0.0.0 stickyadstv.com.akadns.net
 0.0.0.0 stickyadstv.com
+0.0.0.0 stickyadstv.com.akadns.net
 0.0.0.0 stickywhereaboutsspoons.com
 0.0.0.0 stifflinks.com
 0.0.0.0 stilla.info
@@ -26204,6 +26209,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 surdthechannel.com
 0.0.0.0 surefthechannel.com
 0.0.0.0 surekha.info
+0.0.0.0 surelyconvinced.com
 0.0.0.0 surethechannel.com
 0.0.0.0 surf.nbcuni.com
 0.0.0.0 surfchanel.com
@@ -26354,8 +26360,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tabijirestaurant.com
 0.0.0.0 tabloidquantitycosts.com
 0.0.0.0 tabmo.io
-0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 taboola.com
+0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 taboola.map.fastly.net
 0.0.0.0 taboolasyndication.com
 0.0.0.0 taboomoms.com
@@ -26401,8 +26407,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.mli.me
 0.0.0.0 tags.mobileacademy.com
-0.0.0.0 tags.msnbc.com.edgekey.net
 0.0.0.0 tags.msnbc.com
+0.0.0.0 tags.msnbc.com.edgekey.net
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.toyota.com
 0.0.0.0 tags2.mli.me
@@ -26503,8 +26509,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tdzvm.pw
 0.0.0.0 teachmapnwea.org
 0.0.0.0 teachtolerance.org
-0.0.0.0 teads.tv.edgekey.net
 0.0.0.0 teads.tv
+0.0.0.0 teads.tv.edgekey.net
 0.0.0.0 teahousecomics.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
@@ -26529,8 +26535,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 techrader.com
 0.0.0.0 techstudy.info
 0.0.0.0 techxperts.info
-0.0.0.0 ted.dailymail.co.uk.edgekey.net
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 ted.dailymail.co.uk.edgekey.net
 0.0.0.0 tediouswavingwhiskey.com
 0.0.0.0 tedwilliamshead.com
 0.0.0.0 teekanne.convertkit.com
@@ -26577,8 +26583,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.intel.com
 0.0.0.0 telemetry.malwarebytes.com
-0.0.0.0 telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 telemetry.servers.getgo.com
@@ -26809,8 +26815,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ticketswinning.com
 0.0.0.0 tickmatureparties.com
 0.0.0.0 ticmate.co.il
-0.0.0.0 tidaltv.com.akadns.net
 0.0.0.0 tidaltv.com
+0.0.0.0 tidaltv.com.akadns.net
 0.0.0.0 tiendaoficialhellokitty.com
 0.0.0.0 tiengnoicuadan.org
 0.0.0.0 tifbs.net
@@ -27093,8 +27099,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.atreemo.com
 0.0.0.0 tracking.bloomberg.com
-0.0.0.0 tracking.chess.com.cdn.cloudflare.net
 0.0.0.0 tracking.chess.com
+0.0.0.0 tracking.chess.com.cdn.cloudflare.net
 0.0.0.0 tracking.csgipe.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.epicgames.com
@@ -27219,8 +27225,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tri-comma.com
 0.0.0.0 trianglehighfive.org
 0.0.0.0 tribalfoolball.com
-0.0.0.0 tribalfusion.com.akadns.net
 0.0.0.0 tribalfusion.com
+0.0.0.0 tribalfusion.com.akadns.net
 0.0.0.0 tribberr.com
 0.0.0.0 tribl.io
 0.0.0.0 tribook.org
@@ -27355,8 +27361,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 turkomania.org
 0.0.0.0 turkxtube.net
 0.0.0.0 turmoilragcrutch.com
-0.0.0.0 turn.com.akadns.net
 0.0.0.0 turn.com
+0.0.0.0 turn.com.akadns.net
 0.0.0.0 turncdn.com
 0.0.0.0 turnik.org
 0.0.0.0 turninc.com
@@ -27411,8 +27417,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ty90nwjc8wjt-a.akamaihd.net
 0.0.0.0 tycoadhesives.com
 0.0.0.0 tylerlee.net
-0.0.0.0 tynt.com.cdn.cloudflare.net
 0.0.0.0 tynt.com
+0.0.0.0 tynt.com.cdn.cloudflare.net
 0.0.0.0 typescoordinate.com
 0.0.0.0 typolemag.info
 0.0.0.0 tyroo.com
@@ -27482,8 +27488,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 umbel.com
 0.0.0.0 umdc.aliapp.org
 0.0.0.0 umeng.co
-0.0.0.0 umeng.com.gds.alibabadns.com
 0.0.0.0 umeng.com
+0.0.0.0 umeng.com.gds.alibabadns.com
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengcloud.com
 0.0.0.0 umengjmacs.m.taobao.com
@@ -27600,8 +27606,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 uptracs.com
 0.0.0.0 uptrendsdata.com
 0.0.0.0 uraffinity.net
-0.0.0.0 urbanairship.com-v1.edgekey.net
 0.0.0.0 urbanairship.com
+0.0.0.0 urbanairship.com-v1.edgekey.net
 0.0.0.0 urbaninsight.com
 0.0.0.0 urbanismobr.org
 0.0.0.0 urbanoutfithers.com
@@ -28019,8 +28025,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.data.msn.com
-0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 vortex.hulu.com
+0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 vosteran.com
 0.0.0.0 votecma.com
 0.0.0.0 votepinellas.org
@@ -28302,6 +28308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wgfcu.org
 0.0.0.0 wgplayer.com
 0.0.0.0 whachmovies.net
+0.0.0.0 whackaggressive.com
 0.0.0.0 whairtoa.com
 0.0.0.0 whatisaineio.com
 0.0.0.0 whatismyipaddress.co.il
@@ -28700,8 +28707,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 xad.com
 0.0.0.0 xadchina.cn
 0.0.0.0 xandrssads-sponsored.akamaized.net
-0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com
+0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 xapxmaawcsk.com
 0.0.0.0 xc3.services.livejournal.com
 0.0.0.0 xcdsql.org
@@ -28920,8 +28927,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmgr.com
-0.0.0.0 yieldmo.com.edgekey.net
 0.0.0.0 yieldmo.com
+0.0.0.0 yieldmo.com.edgekey.net
 0.0.0.0 yieldmrm.com
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldrealistic.com
