@@ -149,4 +149,5 @@ Identify what is being blocked by the list of your choice
 |🟦| <a href="https://d3ward.github.io/toolz/" title="">d3ward's Toolz</a> |🟦|
 |🟩| <a href="https://adblock-tester.com/" title="">AdBlock Tester</a> |🟩|
 |🟦| <a href="https://canyoublockit.com/" title="">Can You Block It</a> |🟦|
-|🟧|🟩┃🟦┃🟩|🟧|
+|🟩| <a href="https://coveryourtracks.eff.org/" title="">Cover Your Tracks</a> |🟩|
+|🟧|🟦┃🟩┃🟦|🟧|
