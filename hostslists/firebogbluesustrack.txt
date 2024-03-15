@@ -3,7 +3,7 @@
 # Description: The blue tracking and suspicious sources from the Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-14T14:00:34.945Z
+# Last modified: 2024-03-15T01:25:57.885Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -1431,7 +1431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 abp.smartadcheck.de
 0.0.0.0 abportal.info
 0.0.0.0 abrittel.fr
-0.0.0.0 abruptlyinstitution.com
 0.0.0.0 abruptroad.com
 0.0.0.0 abrutel.fr
 0.0.0.0 abruzzoinitaly.co.uk
@@ -5058,6 +5057,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-iq.com
 0.0.0.0 analytics-latest.pinterest.com
+0.0.0.0 analytics-querybook.fdbe.dev.use1a.on.epicgames.com
 0.0.0.0 analytics-sm.com
 0.0.0.0 analytics-staging.pinterest.com
 0.0.0.0 analytics-staging.radiusnetworks.com
@@ -5180,6 +5180,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.linkre.direct
 0.0.0.0 analytics.linuxbabe.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.live.on.epicgames.com
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.loopassets.net
 0.0.0.0 analytics.lucid.app
@@ -5419,7 +5420,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 annalect.com
 0.0.0.0 annanicole.info
 0.0.0.0 annaunivedu.org
-0.0.0.0 annesuspense.com
 0.0.0.0 anng.net
 0.0.0.0 annieoccasions.com
 0.0.0.0 annoncesintimes.com
@@ -9794,6 +9794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.mail.nbcnews.com
 0.0.0.0 click.mybest.app
 0.0.0.0 click.mz.simba.taobao.com
+0.0.0.0 click.news.epicgames.com
 0.0.0.0 click.newviralmobistore.com
 0.0.0.0 click.org
 0.0.0.0 click.payserve.com
@@ -22138,6 +22139,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.npr.org
 0.0.0.0 metrics.nutrisystem.com
 0.0.0.0 metrics.oclc.org
+0.0.0.0 metrics.ol.epicgames.com
 0.0.0.0 metrics.onewegg.com
 0.0.0.0 metrics.oregonlive.com
 0.0.0.0 metrics.pagerduty.com
@@ -41118,7 +41120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shotinthehead.com
 0.0.0.0 shouji.360.cn
 0.0.0.0 shouji.sougou.com
-0.0.0.0 shovedrailwaynurse.com
 0.0.0.0 show-msgch.qq.com
 0.0.0.0 show.govjiangsu.cn
 0.0.0.0 show.look.360.cn

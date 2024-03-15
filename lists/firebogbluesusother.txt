@@ -3,7 +3,7 @@
 ! Description: The blue exclusive source and blue suspicious sources
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2024-03-14T14:00:39.166Z
+! Last modified: 2024-03-15T01:26:02.281Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -6138,6 +6138,7 @@
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-latest.pinterest.com^
 ||analytics-preprod.api.247-inc.net^
+||analytics-querybook.fdbe.dev.use1a.on.epicgames.com^
 ||analytics-staging.pinterest.com^
 ||analytics-staging.radiusnetworks.com^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -6187,6 +6188,7 @@
 ||analytics.kochava.com^
 ||analytics.kwebsoft.com^
 ||analytics.live.com^
+||analytics.live.on.epicgames.com^
 ||analytics.livefyre.com^
 ||analytics.mail-corp.com^
 ||analytics.msn.com^
@@ -10592,6 +10594,7 @@
 ||click.mediav.com^
 ||click.mybest.app^
 ||click.mz.simba.taobao.com^
+||click.news.epicgames.com^
 ||click.newviralmobistore.com^
 ||click.org^
 ||click.plista.com^
@@ -22044,6 +22047,7 @@
 ||metrics.npr.org^
 ||metrics.nutrisystem.com^
 ||metrics.oclc.org^
+||metrics.ol.epicgames.com^
 ||metrics.oregonlive.com^
 ||metrics.pagoda.com^
 ||metrics.parents.com^

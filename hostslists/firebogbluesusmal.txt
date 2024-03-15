@@ -3,7 +3,7 @@
 # Description: All the blue suspicious and malicious sources from The Firebog
 # Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 # License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-# Last modified: 2024-03-14T14:00:19.492Z
+# Last modified: 2024-03-15T01:25:41.317Z
 # 
 # Compiled by @adguard/hostlist-compiler v1.0.23
 # 
@@ -9518,6 +9518,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-latest.pinterest.com
 0.0.0.0 analytics-preprod.api.247-inc.net
+0.0.0.0 analytics-querybook.fdbe.dev.use1a.on.epicgames.com
 0.0.0.0 analytics-staging.pinterest.com
 0.0.0.0 analytics-staging.radiusnetworks.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -9568,6 +9569,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.kochava.com
 0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.live.on.epicgames.com
 0.0.0.0 analytics.livefyre.com
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.msn.com
@@ -20455,6 +20457,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.mediav.com
 0.0.0.0 click.mybest.app
 0.0.0.0 click.mz.simba.taobao.com
+0.0.0.0 click.news.epicgames.com
 0.0.0.0 click.newviralmobistore.com
 0.0.0.0 click.org
 0.0.0.0 click.payserve.com
@@ -51303,6 +51306,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.npr.org
 0.0.0.0 metrics.nutrisystem.com
 0.0.0.0 metrics.oclc.org
+0.0.0.0 metrics.ol.epicgames.com
 0.0.0.0 metrics.oregonlive.com
 0.0.0.0 metrics.pagoda.com
 0.0.0.0 metrics.parents.com

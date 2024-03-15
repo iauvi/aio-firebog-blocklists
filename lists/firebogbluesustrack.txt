@@ -3,7 +3,7 @@
 ! Description: The blue tracking and suspicious sources from the Firebog
 ! Homepage: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists
 ! License: https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/blob/main/LICENSE
-! Last modified: 2024-03-14T14:00:34.945Z
+! Last modified: 2024-03-15T01:25:57.885Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1416,7 +1416,6 @@
 ||abp.smartadcheck.de^
 ||abportal.info^
 ||abrittel.fr^
-||abruptlyinstitution.com^
 ||abruptroad.com^
 ||abrutel.fr^
 ||abruzzoinitaly.co.uk^
@@ -5043,6 +5042,7 @@
 ||analytics-ingestion.production-public.tubi.io^
 ||analytics-iq.com^
 ||analytics-latest.pinterest.com^
+||analytics-querybook.fdbe.dev.use1a.on.epicgames.com^
 ||analytics-sm.com^
 ||analytics-staging.pinterest.com^
 ||analytics-staging.radiusnetworks.com^
@@ -5165,6 +5165,7 @@
 ||analytics.linkre.direct^
 ||analytics.linuxbabe.com^
 ||analytics.live.com^
+||analytics.live.on.epicgames.com^
 ||analytics.livestream.com^
 ||analytics.loopassets.net^
 ||analytics.lucid.app^
@@ -5404,7 +5405,6 @@
 ||annalect.com^
 ||annanicole.info^
 ||annaunivedu.org^
-||annesuspense.com^
 ||anng.net^
 ||annieoccasions.com^
 ||annoncesintimes.com^
@@ -9779,6 +9779,7 @@
 ||click.mail.nbcnews.com^
 ||click.mybest.app^
 ||click.mz.simba.taobao.com^
+||click.news.epicgames.com^
 ||click.newviralmobistore.com^
 ||click.org^
 ||click.payserve.com^
@@ -22123,6 +22124,7 @@
 ||metrics.npr.org^
 ||metrics.nutrisystem.com^
 ||metrics.oclc.org^
+||metrics.ol.epicgames.com^
 ||metrics.onewegg.com^
 ||metrics.oregonlive.com^
 ||metrics.pagerduty.com^
@@ -41104,7 +41106,6 @@
 ||shotinthehead.com^
 ||shouji.360.cn^
 ||shouji.sougou.com^
-||shovedrailwaynurse.com^
 ||show-msgch.qq.com^
 ||show.govjiangsu.cn^
 ||show.look.360.cn^
