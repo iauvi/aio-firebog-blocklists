@@ -31,41 +31,25 @@ def check_domain_in_blocklist(source_url, target_domain):
     # Return an empty list if there's an error
     return []
 
-def find_blocking_blocklists(target_domain, aio_sources, category_sources):
-    blocking_aio_blocklists = []
+def find_blocking_blocklists(target_domain, category_sources):
     blocking_category_blocklists = []
-
-    for name, source in aio_sources.items():
-        if check_domain_in_blocklist(source, target_domain):
-            blocking_aio_blocklists.append(name)
 
     for name, source in category_sources.items():
         if check_domain_in_blocklist(source, target_domain):
             blocking_category_blocklists.append(name)
 
-    if blocking_aio_blocklists:
-        print(Fore.CYAN + f"Domain '{target_domain}' found in the following blocklists:\n")
-        for blocklist in blocking_aio_blocklists:
+    if blocking_category_blocklists:
+        print(Fore.CYAN + f"Domain '{target_domain}' found in the following categories:\n")
+        for blocklist in blocking_category_blocklists:
             print(Fore.CYAN + f" - {blocklist}\n")
 
-    if blocking_category_blocklists:
-        print(Fore.MAGENTA + f"Domain '{target_domain}' found in the following categories:\n")
-        for blocklist in blocking_category_blocklists:
-            print(Fore.MAGENTA + f" - {blocklist}\n")
-
-    if not blocking_aio_blocklists and not blocking_category_blocklists:
+    if not blocking_category_blocklists:
         print(Fore.RED + f"Domain '{target_domain}' not found in any blocklists.")
 
     # Reset the text color to default
     print(Fore.RESET, end='')
 
 if __name__ == "__main__":
-    aio_blocklist_sources = {
-        'Bog AIO List': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebog.txt',
-        'Blue AIO List': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofirebogblue.txt',
-        'Green AIO List': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/aiofireboggreen.txt',
-    }
-
     category_blocklist_sources = {
         'Suspicious': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogsus.txt',
         'Advertising': 'https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/lists/firebogad.txt',
@@ -85,4 +69,4 @@ if __name__ == "__main__":
             print(Fore.RESET, end='')
             continue
 
-        find_blocking_blocklists(target_domain, aio_blocklist_sources, category_blocklist_sources)
+        find_blocking_blocklists(target_domain, category_blocklist_sources)
